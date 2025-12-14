@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A} The Isle of Iron
+  
+Current objectives:
+{B}Defeat your opponent.
+{C}Your shipyards are unable to build transport vessels. Obtain them by trading iron with the Turks. 
+{D}Wreck the pirate ships.
+{E}~Wreck the pirate ships.~
+
+#PAGE0 Missions\Pictures\austria 3
+You are assigned as governor of a Portuguese colony. Develop and protect it.  
+To develop your colony and carry out combat operations, transport vessels will be needed. 
+Build a ship, load it with iron and send it to the Turkish port, where you can exchange your iron for a transport vessel. 
+Beware of pirates rampaging in the area. 
+Start training your warriors as soon as possible - the pirates will attempt to ruin your colony. 
+
+#PAGE1 Missions\Pictures\poland 3
+What would you like to purchase? 
+
+#PAGE2 Missions\Pictures\England 2
+The ship is expected to arrive shortly. 
+ 
+#PAGE3 Missions\Pictures\England 28
+You don't have enough iron.
+
+#PAGE4 Missions\Pictures\England 28
+Victory! Owing to your tactics and skill at managing combat operations, you have crushed the enemy!

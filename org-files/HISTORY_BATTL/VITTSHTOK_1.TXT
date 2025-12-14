@@ -1,0 +1,5 @@
+In order to win this battle, the advancing Swedish army (blue) must either capture and hold any three of the five specified positions or entirely destroy the joint Saxon and Austrian military forces (red). "Capture" means all enemy military forces must be cleared from the area and your soldiers must take up positions there instead.
+The Saxons and Austrians will win if they destroy the enemy entirely or manage to hold their positions for a certain amount of time.
+If you capture or destroy the enemy convoy, your enemy will run out of ammunition and all enemy musketeers and artillery will cease firing.
+
+Press the CTRL key to see the locations that must be fought for.

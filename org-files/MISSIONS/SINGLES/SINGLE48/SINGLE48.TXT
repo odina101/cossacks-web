@@ -1,0 +1,61 @@
+#BRIEFING faces 0
+{A} Mutiny in the Netherlands
+
+!Destroy the Dutch fortress to win. 
+!You will lose if you lose all your troops. 
+
+#PAGE1 Missions\Pictures\austria 7
+You have arrived in the Netherlands.
+Your objective is to demolish the Dutch fortress controlled by mutineers. 
+The fortress is to the south of your location. 
+
+#PAGE2 Missions\Pictures\austria 4
+Deliver the caravan to the market to gain gold and ammunition for waging war. 
+Also, do your best to conclude a truce with the French to avoid warring on several fronts. 
+
+#PAGE3 Missions\Pictures\austria 8
+You have been defeated.
+
+#PAGE5  Missions\Pictures\england 25
+Mutineer fortress destroyed. 
+Congratulations! It was a tough battle.
+
+#PAGE4  Missions\Pictures\mord2_tut 7
+Excellent! You have delivered the caravan.
+You were granted 10,000 gold and ammunition for army maintenance. 
+
+#PAGE6  Missions\Pictures\england 24
+The French settlers have been defeated.
+
+#PAGE7  Missions\Pictures\england 24
+The Dutch settlement has been destroyed.
+
+#PAGE8  Missions\Pictures\mord2_tut 13
+A messenger from the French settlers living nearby has arrived at your market. 
+
+#PAGE9  Missions\Pictures\Faces 6
+We don't want to war with you, we offer you peace for 3,000 in gold. 
+Will you accept our offer?
+
+#PAGE10  Missions\Pictures\Faces 8
+Our people are grateful for your wise decision. 
+If you need our help to suppress the mutiny, send a courier to our market.  
+
+#PAGE11  Missions\Pictures\Faces 5
+You are short of money. 
+
+#PAGE12  Missions\Pictures\Faces 2
+It's a pity. A war will deplete both our forces.
+
+#PAGE13  Missions\Pictures\mord_tut 0 
+Would you like us to assist you in suppressing the mutiny?
+You will have to pay. It will cost you 20,000 in gold. 
+
+#PAGE14 Missions\Pictures\mord_tut 12
+Very well, we will help you. 
+
+#PAGE15 Missions\Pictures\Faces 5
+You don't have enough money. 
+
+#PAGE16 Missions\Pictures\mord_tut 14
+If you refuse, we hope you have enough forces to handle the enemy on your own. 

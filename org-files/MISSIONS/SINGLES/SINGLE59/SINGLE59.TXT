@@ -1,0 +1,24 @@
+#BRIEFING faces 0
+{A}	Crimea
+
+!You must destroy the cossack outpost.
+!You will lose if your troops are destroyed.
+
+#PAGE1 Missions\Pictures\ukraine 14
+The Turkish troops are numerous. However, they are mainly irregular troops. 
+You should form a squad of regular infantry, janissaries, and use the assistance of the cavalry to destroy the cossacks' outpost. 
+Forming an effective unit is not always as easy as it may seem. Cossacks often raid our territory, thus you must take care of your defences.
+
+#PAGE2 Missions\Pictures\ukraine 27
+Your task is to destroy the cossacks' outpost. Cossacks are raiding our territory from there.
+Mounted archers are excellent warriors. Group them with the janissaries.
+
+#PAGE3  Missions\Pictures\austria 16
+You have been defeated.
+
+#PAGE5  Missions\Pictures\ukraine 20
+You have destroyed the cossacks' outpost.
+Congratulations! You win. 
+
+#PAGE6  Missions\Pictures\austria 16
+The mercenaries have surrendered to the enemy.

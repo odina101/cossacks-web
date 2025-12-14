@@ -1,0 +1,20 @@
+#BRIEFING faces 0
+{A}	By Order of the Tsar
+
+Current objective:
+{B} 	Build a wall whatever it takes!
+
+#PAGE0 Missions\Pictures\poland 7
+Your primary task is to build a stone wall around the fortress. 
+The place where the wall must be built is marked on the land.
+Many masons and their guards are under your command.
+
+#PAGE1 Missions\Pictures\England 9
+Victory! You have managed to build the wall.
+ 
+#PAGE2 Missions\Pictures\England 9
+Defeat! The enemy succeeded in preventing the wall's construction.
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

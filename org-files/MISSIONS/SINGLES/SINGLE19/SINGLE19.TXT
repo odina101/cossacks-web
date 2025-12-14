@@ -1,0 +1,47 @@
+#BRIEFING faces 0
+{A} The Mountain Siege
+
+Objective:
+{B}Defeat your opponents!
+   Only your main character can speak to mission characters. 
+
+#PAGE0 Missions\Pictures\poland 7
+You are in control of Polish town surrounded by mountains. The enemy can attack you only by travelling through mountain passes, so ensure they are safely guarded.  
+
+#PAGE1 Missions\Pictures\poland 8
+The Ukrainian hetman is heading towards us to demand money again. 
+Unless we want war with Ukraine, you had better keep some money aside. 
+ 
+#PAGE2 Missions\Pictures\Ukraine 10
+Greetings, sir! 
+You want peace with us? 
+For 1,000 gold we will agree not to attack for some time. 
+So ... agreed? 
+
+#PAGE3 Missions\Pictures\Ukraine 10
+Good! 
+You are rich, friends, so pay us 1,000 more gold, then we can make a deal with the Muscovites for you. 
+So, are we agreed?  
+
+#PAGE4 Missions\Pictures\Ukraine 10
+Take care!
+See you again soon. 
+Keep a pretty supply of money, and my men will be sure to take a stroll around your territory now and then, just in case ... 
+
+#PAGE5 Missions\Pictures\Ukraine 10
+Well, I see you want trouble. Be ready to die! 
+
+#PAGE6 Missions\Pictures\poland 17
+The Ukrainian hetman demands a meeting with you in the mountain pass. 
+
+#PAGE7 Missions\Pictures\Ukraine 10
+I see you are lacking funds ... 
+I will give you one more chance. Collect the needed sum. If you fail, there will be war! 
+
+#PAGE8 Missions\Pictures\Ukraine 10
+You have no money, so we will beat you. 
+Prepare for war! 
+ 
+#PAGE9 Missions\Pictures\poland 8
+Victory!
+All your opponents have been defeated! You displayed the vigilance and talent of a commander!  	

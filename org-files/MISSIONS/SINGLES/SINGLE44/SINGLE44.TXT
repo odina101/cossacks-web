@@ -1,0 +1,38 @@
+#BRIEFING faces 0
+{A} The Pirate Base
+!Kill the fortress commander and capture the town hall to win. 
+!You will lose if you have no troops left or your main character dies.  
+
+#PAGE1 Missions\Pictures\austria 0
+You have gone ashore with a small squad. Here you will find resources to build up a base. 
+
+#PAGE2 Missions\Pictures\England 25
+You must kill the commander of a fortress to the south-west and capture its town hall. 
+
+#PAGE3  Missions\Pictures\mord_d 1
+Excellent, you have captured the town hall. 
+
+#PAGE4  Missions\Pictures\mord_d 2
+You have killed the fortress commander. Your next objective is to capture the town hall. 
+
+#PAGE5  Missions\Pictures\austria 45
+Congratulations! You have accomplished your task. 
+
+#PAGE6  Missions\Pictures\England 19
+You have died in battle.
+
+#PAGE7  Missions\Pictures\austria 16
+Your troops have been defeated. Mission failed.
+
+#PAGE8  Missions\Pictures\mord_tut 15
+The town hall has been demolished. Mission failed. 
+
+#PAGE9  Missions\Pictures\austria 7
+ 
+#PAGE10  Missions\Pictures\Russia 29
+
+#PAGE11  Missions\Pictures\Russia 29
+
+#PAGE12  Missions\Pictures\Mord_tut 22
+ 
+#PAGE13  Missions\Pictures\Mord_tut 22

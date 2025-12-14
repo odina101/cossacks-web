@@ -1,0 +1,13 @@
+CSNOGL You have no gold. %s cannot shoot.
+CSNORS You have neither coal nor iron. %s cannot shoot.
+READYTX Ready
+LOOKSTX Looking at the menu.
+LOADTX Loading.
+NOANSTX Not responding.
+NOPALTX Has left the game.
+DISCNTX Press F3 to disconnect from the game.
+NOCD Do Not Play Music
+NATMUS Play National Music Only
+RNDMUS Play Random Track
+ENCHAT Message:
+MONTR Resources have been successfully transferred.

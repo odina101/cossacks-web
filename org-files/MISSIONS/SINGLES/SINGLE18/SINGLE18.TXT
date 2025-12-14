@@ -1,0 +1,95 @@
+#BRIEFING faces 0
+Fight for Resources
+{E}You will win if you destroy the army of the Danes. 
+   You lose if you have no army and structures left. 
+
+Current objective:
+{A}Begin trading resources.
+{B}~Begin trading resources.~
+{C}Oxford exchanges food for iron.
+{D}Nottingham exchanges food for coal.
+{F}Orders in the village are given by your hussars. 
+
+#PAGE1 Missions\Pictures\England 30
+Select an action you'd like to carry out in the village. 
+
+#PAGE11 Missions\Pictures\England 30
+%-10s
+Production: %-10s
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s -  %-10d
+%-10s -  %-10d
+Budget income - % - 10d
+Treasury income - % - 10d
+Required for production - % - 10d
+Current budget  -   % - 10d
+(population - %5d citizens)
+
+#PAGE12 Missions\Pictures\England 17
+Impose a tax:
+
+#PAGE13 Missions\Pictures\austria 44
+Trade.
+
+#PAGE131 Missions\Pictures\England 17
+Current prices in the village:
+We exchange 
+%-10s  - %-10d
+for
+%-10s  - %-10d
+
+#PAGE133 Missions\Pictures\poland 20
+Change caravan route:
+
+#PAGE1331 Missions\Pictures\poland 20
+What do you want to do about the caravan?
+
+#PAGE2 Missions\Pictures\poland 1
+Unfortunately, this is not our caravan. 
+
+#PAGE3 Missions\Pictures\poland 1
+Caravan destroyed.
+
+#PAGE4 Missions\Pictures\poland 1
+Who shall we trade with?
+
+#PAGE5 Missions\Pictures\poland 1
+What should be loaded onto packhorses from storehouses for sale?
+
+#PAGE6 Missions\Pictures\poland 1
+What should the cargo be exchanged for in the neighbouring villages?
+
+#PAGE7 Missions\Pictures\poland 20
+Trades with  %-10s
+Sells     %-10s
+Purchases    %-10s
+Loaded 
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE8 Missions\Pictures\poland 1
+You no longer have this caravan. 
+
+#PAGE9 Missions\Pictures\poland 1
+Our village of Oxford is peaceful, and ready to trade with you. 
+We produce iron if we have a secure supply of food. In exchange for the protection of our village against the brigands we are prepared to supply iron, provided you give us the necessary food.  
+
+#PAGE10 Missions\Pictures\poland 1
+Our village of Nottingham is peaceful, and ready to trade with you. We produce coal if we have a secure supply of food. In exchange for the protection of our village against the brigands we are prepared to supply coal, provided you give us the necessary food.  
+
+#PAGE21 Missions\Pictures\austria 8
+You have lost.
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+You have won!
+
+#PAGE23 Missions\Pictures\mord_tut 39
+You are appointed governor of this village. Gather an army and defeat the army of the Danes. 
+You will also be able to trade with friendly neighbouring villages. 
+There your hussars can obtain detailed information on forthcoming deals. 
+
+#PAGE911 Missions\Pictures\mord_tut 39
+This is 911

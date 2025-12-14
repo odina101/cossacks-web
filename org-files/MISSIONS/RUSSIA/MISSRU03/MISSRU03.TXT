@@ -1,0 +1,58 @@
+#BRIEFING faces 0
+{A}Crimean Campaign
+
+Eliminate the garrison of the Turkish city to win.
+You will lose if your hero dies.
+!Some characters will talk to your hero.
+!Burn the Tatar settlement to stop nomadic raids.
+#PAGE1 Missions\Pictures\russia 29
+  You should organize a strong host for the campaign against the Turks. Nomads will plunder and raid your territory, so make sure your city and peasants are well defended.
+#PAGE2 Missions\Pictures\ukraine 7
+  You go too far, Russian dog! You die now!
+#PAGE3 Missions\Pictures\russia 27
+  You have destroyed the Turkish military base. The Princess is satisfied and sends you ten thousand rubles for military necessities.
+#PAGE4 Missions\Pictures\russia 34
+  Your soldiers have eliminated the guards and captured the ferry.
+#PAGE5 Missions\Pictures\russia 34
+  Your men have found an old ferry which is still in a sufficiently good condition to be used.
+#PAGE6 Missions\Pictures\ukraine 27
+  A messenger is waiting at the eastern city gates to have an audience with you.
+#PAGE7 Missions\Pictures\ukraine 5
+  Hail, milord! The Hetman sent me. He awaits ye at the agreed site. I shall lead the way. Come with me, nobleman.
+#PAGE7A Missions\Pictures\ukraine 5
+  We're almost there. 'Tis not far. Hurry, milord!
+#PAGE8 Missions\Pictures\ukraine 2
+  Hail, Prince! I have come to place my host under your command and fight the infidels.
+#PAGE8A Missions\Pictures\russia 7
+  Excellent, Hetman! Your Cossacks will be of good use for Russia.
+#PAGE8B Missions\Pictures\ukraine 2
+  We will need a ferry if we are going to sail to the Turkish city. My men have spotted an abandoned ferry on the shore.
+#PAGE9 Missions\Pictures\ukraine 27
+  A courier with an important message from Princess Sophia waits for you at the eastern gate.
+#PAGE10 Missions\Pictures\russia 22
+  You open the letter: "My faithful Prince! With this message we express our will for you to make haste and accomplish the following order: Destroy the Turkish stronghold to the south of our city across the river."
+#PAGE11 Missions\Pictures\mord3_tut 10
+  Excellent! You have eliminated all the guards of the Turkish settlement and the city is ours! The Princess is very pleased.
+#PAGE12 Missions\Pictures\russia 14
+  You have died in battle. Russia will remember your feat!
+#PAGE12A Missions\Pictures\russia 14
+  You have died of starvation. What a horrible death ... Next time, make sure you have enough food.
+#PAGE13 Missions\Pictures\russia 29
+  You have eliminated the guards of the Tatar village and burned it to the ground. Well done! Now the Tatars will no longer raid your people.
+#PAGE14 Missions\Pictures\russia 29
+  You have destroyed the Turkish fortifications and the Princess sends you a reward of three thousand rubles. She also promises to send reinforcements soon.
+#PAGE14A Missions\Pictures\mord3_tut 2
+  Reinforcements have arrived! Three semi-galleys will help you conquer the Turkish city.
+#PAGE15 Missions\Pictures\ukraine 25
+  You meet a team of serdiuks:
+  "Hey, what's your business? D'you want to hire us? Give us money! 100 rubles and we are yours."
+#PAGE15A Missions\Pictures\ukraine 25
+  Ha! Hail, generous nobleman! We are at your service!
+#PAGE15B Missions\Pictures\ukraine 25
+  No money, eh? All right, let's have a good time anyway! Come on, men, let's step on the Turkish scum!
+#PAGE15C Missions\Pictures\ukraine 25
+  Have it your way, nobleman. If you change your mind, you will find us here.
+#PAGE15D Missions\Pictures\ukraine 25
+  Ah, the nobleman! Hey! Have you decided to hire us?
+#PAGE17 Missions\Pictures\russia 33
+  We cannot shoot, Voevode! Our muskets are out of ammunition!

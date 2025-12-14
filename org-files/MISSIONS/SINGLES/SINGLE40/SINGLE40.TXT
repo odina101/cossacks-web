@@ -1,0 +1,48 @@
+#BRIEFING faces 0
+{A} Two Nations
+
+Current objective:
+{B}Defeat your opponent.
+
+You are in control of a squad of settlers, people of two different nations. Both of the nations are to be developed evenly, otherwise it is likely there will be mutiny. Select the mayor to view the current balance of the nations.
+
+#PAGE0 Missions\Pictures\England 29
+You are in control of a squad of settlers, people of two different nations. Both of the nations are to be developed evenly, otherwise it is likely there will be mutiny. Select the mayor to view the current balance of the nations.
+
+#PAGE1 Missions\Pictures\England 29
+The citizens are displeased with your rule. There is mutiny in the city. 
+
+#PAGE2 Missions\Pictures\England 29
+The citizens are displeased with your rule. 
+The entire Saxon population refuses to submit to your rule and has taken away half of the resources.  
+They wish to build a new city of their own.  
+
+#PAGE3 Missions\Pictures\England 29
+The citizens are displeased with your rule. 
+The entire Prussian population refuses to submit to your rule and has taken away half of the resources.  
+They wish to build a new city of their own.
+
+#PAGE4 Missions\Pictures\England 29
+All your former subjects have declared war on you. Find a way out of this situation, this rebellious mob is dangerous!
+
+#PAGE5 Missions\Pictures\England 29
+Victory!
+All your opponents have been defeated.
+
+#PAGE6 Missions\Pictures\England 29
+Defeat!
+Your opponent proved stronger than you were.
+
+#PAGE7 Missions\Pictures\England 29
+Defeat!
+All the citizens of one nation died under your unskilled rule.
+
+#PAGE8 Missions\Pictures\England 29
+The development level of our city is: 
+Saxon nation - %d
+Prussian nation - %d
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+
+

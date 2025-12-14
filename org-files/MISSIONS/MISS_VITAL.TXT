@@ -1,0 +1,20 @@
+vn_englishman The English 
+vn_relative Relative of the king
+vn_fra_kupec The French merchant
+vn_spa_king King of Spain
+
+V02_MerchMain_0 How do you do?
+V02_MerchMain_1 Stop idling! Get to work.
+V02_MerchMain_2 Relax.
+
+V02_MerchInfo_0 I want to know all about the caravan.
+V02_MerchInfo_1 You don't have enough packhorses. Buy one more.
+V02_MerchInfo_2 I have learnt everything I wanted to know.
+
+V05_MPort0_0 Order Information
+V05_MPort0_1 Buy Yacht
+V05_MPort0_2 Cancel Yacht Purchase
+V05_MPort0_3 Buy Frigate
+V05_MPort0_4 Cancel Frigate Purchase
+V05_MPort0_5 Place Order
+V05_MPort0_6 Cancel Order and Leave Shipyard

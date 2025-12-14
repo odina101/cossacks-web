@@ -1,0 +1,67 @@
+#BRIEFING faces 0
+{Z} Let's continue!
+                          
+!You will lose if you don't have peasants and can't create them, and if the quantity of military units is less than 8 (default defeat conditions).
+             
+  Current objectives:
+{A}Arrange for a constant supply of resources to the estate.
+{B}Build a shipyard.
+{K}~Build a shipyard.~
+{C}Build an artillery depot.
+{L}~Build an artillery depot.~
+{D}Build a diplomatic centre.
+{M}~Build a diplomatic centre.~
+{E}Protect your estate from attack.
+{F}Select the mill.
+{H}Select the blacksmith.
+{I}Select the academy.
+{N}Conduct food upgrades.
+{O}~Conduct food upgrades.~
+{P}Conduct stone and wood upgrades. Conduct the upgrade "Develop geology".
+{Q}~Conduct stone and wood upgrades. Conduct the upgrade "Develop geology".~
+{R}Make all the upgrades in the gold mine and send peasants inside.
+                 
+!Secure your estate!
+#PAGE1 Missions\Pictures\russia 23
+The tsar has called upon some of your troops for military service.
+#PAGE2 Missions\Pictures\russia 8
+Now you have quite a number of various kinds of troops under your control. To select all units of a certain type on the map, press CTRL+A. In the lower left part of the screen you will see the icons of all kinds of units you have. Left-click on the icon of a unit of the type you need to select.
+#PAGE3 Missions\Pictures\russia 8
+Remember your economy. You'll need more and more resources to develop. Send new peasants to gather food, wood, stone, iron, gold and coal. Some of your peasants may be idle. To select them, press CTRL+P or click on "Select all idle peasants" in the town hall.
+#PAGE4 Missions\Pictures\russia 0
+Increase the number of infantry and cavalry to prepare yourself for raids. For example, you can build Strelets or Don Cossacks.
+#PAGE5 Missions\Pictures\russia 8
+Let's build a shipyard now. In the shipyard you can build military vessels and transport ships, as well as fishing boats which will gather food (fish). This spot is quite suitable for setting up a shipyard.
+#PAGE6 Missions\Pictures\mord3_tut 15
+Very well. Let's build an artillery depot now. Here you can build artillery, i.e. cannons, howitzers, mortars and multi-barrelled cannons. Also, as soon as your artillery depot is complete, military vessels can be built in the shipyard and some other upgrades will become available in other buildings. If you don't have enough resources to build an artillery depot, gather them or barter for them in the market.
+#PAGE7 Missions\Pictures\mord2_tut 7
+Good! Build a diplomatic centre now. In the diplomatic centre, you can recruit mercenaries. On the one hand, this allows you to get efficient troops very fast, which is important when you need, for example, to repulse sudden attacks. On the other hand, mercenaries are weaker then regular troops and to recruit them you need a lot of gold. You also need gold to keep them. As soon as you run out of gold, mercenaries will attack you.
+#PAGE8 Missions\Pictures\mord2_tut 14
+You handled that bunch of crooks. That was to be expected.
+#PAGE9 Missions\Pictures\mord_tut 27
+Maintenance of a serious army requires a lot of resources. Therefore, let's talk about upgrades which enable you to gather more resources.
+#PAGE10 Missions\Pictures\mord_n 2
+We shall start with food. Select the mill.
+#PAGE11 Missions\Pictures\russia 19
+One of the most important food upgrades is available here: "Improve grain crops treatment". This upgrade allows peasants to gather more food per trip. Conduct this upgrade.
+#PAGE17 Missions\Pictures\russia 19
+Very well. Select the blacksmith.
+#PAGE12 Missions\Pictures\russia 8
+The upgrade "Manufacture agricultural equipment" in the blacksmith increases the quantity of food gathered on every field. Therefore, you don't have to sow the field so often any more.
+#PAGE18 Missions\Pictures\russia 8
+Wonderful. Now select the academy.
+#PAGE13 Missions\Pictures\mord_tut 22
+The academy is the scientific centre of your town. This is where you conduct most of your upgrades. Now we will talk about food upgrades.
+There are four kinds of upgrades: "Cultivate new cultures of wheat", "Cultivate new cultures of rye", "Raise agriculturists' salary", "Carry out field melioration". Conducting the 1st, 2nd and 3rd upgrades increases the quantity of food gathered per trip by 20%, 15%, 10%. This allows your peasants to gather more food in the same period of time. The 4th upgrade increases the amount of food gathered on every field by 200%. Therefore, you don't have to sow the field so often. Conduct these upgrades and you'll see that your peasants gather food more effectively.
+#PAGE14 Missions\Pictures\mord_n 9
+Now it's time to think about wood and stone upgrades. There is an upgrade in the academy that will increase the amount of wood, and two upgrades to increase the amount of stone you gather. The wood upgrade "Design new woodworking tools" enables your peasants to procure twice as much wood. The stone upgrades "Develop mining" and "Raise miners' salary" enable your peasants to bring two and four times as much stone. There is one more upgrade available in the academy: "Develop geology". As a result of this upgrade, all the deposits will appear on the mini-map. Conduct these upgrades now.
+#PAGE15 Missions\Pictures\mord_tut 8
+The amount of gold, iron and coal you gather is determined by the number of workers in mines. As soon as a mine is built, only five workers can work in it. To increase the number of workers in a mine you have to upgrade them, i.e. "Enlarge mines and build extensive railroad network for them". These upgrades include levels II, III, IV, V, VI and VII. This will increase the number of peasants working in a mine by 5, 8, 10, 12, 15 and 40 respectively.
+#PAGE19 Missions\Pictures\mord_tut 8
+These upgrades have to be conducted in each mine. The more you upgrade a mine, the more valuable it becomes, and the more attractive it is to the enemy. Try to upgrade only the mines located on territory you control. After every upgrade, you have to send in an appropriate number of peasants. Press CTRL+M to see unoccupied mines. By pressing the spacebar you can switch between unoccupied mines. Conduct all upgrades in the gold mine.
+#PAGE20 Missions\Pictures\mord_tut 8
+Send the peasants into the upgraded mine and you'll see that the speed at which gold is gathered has increased.
+#PAGE16 Missions\Pictures\mord_tut 2
+In the next section we'll talk about upgrades which will help you lead your army to victory.
+#PAGE100 Missions\Pictures\russia 14
+What happened? It was so easy and you failed!

@@ -1,0 +1,40 @@
+#BRIEFING faces 0 
+{A}Smolensk
+ 
+You will win if you defeat the Russian troops. Wipe out all the blue player's peasants, town halls and mines.
+{B}You lose as soon as you lose your squad.
+{C}You lose as soon as you lose all your peasants.
+{T} 
+  Current objectives:
+{D}Get to your workers
+{E}Free captive peasants
+{F}~Free captive peasants~
+{G}Attack the Russian city
+#AWARD Missions\Pictures\poland 18
+  Battle experience allows you to achieve a higher level of mastery.
+#PAGE0 Missions\Pictures\poland 23
+  Your squad has arrived in the region of Smolensk. The workers wait for you in the south. With their help, you can start building up the military camp.
+#PAGE1 Missions\Pictures\russia2 3
+  Friends! Let us arise ... for Russia!
+#PAGE2 Missions\Pictures\poland 1
+  You meet one of the pikemen guarding the peasants. "Please help us, my lord! The Russians attacked us! They captured the peasants and drove them to the south. I was lucky to escape!"
+#PAGE3 Missions\Pictures\mord_d 6
+  Your squad has been destroyed. Mission failed.
+#PAGE4 Missions\Pictures\mord2_tut 14
+  You have freed the workers from the Russians. It's time you started building up the military camp.
+#PAGE5 Missions\Pictures\mord_d 6
+  All your troops have been destroyed!
+#PAGE6 Missions\Pictures\poland 18
+  Congratulations! You have defeated the enemy!
+#PAGE7 Missions\Pictures\poland 12
+  You have encountered the remains of the squad that was supposed to guard the peasants. "Thank God you are here! We fought as hard as we could ... but then we had to retreat. Those Russians are beasts! They are holding the peasants in the stockade in the east."
+#PAGE8 Missions\Pictures\faces 15
+  You have found a chest containing %d in gold.
+#PAGE9 Missions\Pictures\poland 13
+  You have found a chest full of gold in the local bandits' camp. It contains %d in gold.
+#PAGE10 Missions\Pictures\ukraine 15
+  You have found the chest in which the Russian bandits kept their gold. It contains %d in gold.
+#OTST1 Missions\Pictures\faces 14
+  Destroy the Russian town in the north-east and annihilate all the enemy peasants to win.
+#OTST2 Missions\Pictures\faces 14
+  Remember your objective is to assault Smolensk. Find the Russian town in the north-eastern part of the map.

@@ -1,0 +1,33 @@
+MMSINGLE Single Player Mode\Click here to play against the computer on a random map\or to play a single mission or a campaign.
+MMMULTI Multiplayer Mode\Click here to play versus 1-6 opponents via a network.
+MMLOAD Click here to load a saved game.
+MMOPTIONS Click here to adjust game settings.
+MMVIDEO Click here to open the Map & Mission Editor.
+MMEXIT Click here to exit the game.
+SCOMPAGIN Click here to play a campaign.
+SMISSION Click here to play a single mission.
+SRANDOM Click here to play against the computer on a random or designed map.
+SHISTORICAL Click here to play a historical battle.
+SBACK Back to the main menu.
+MDEATHM Click here to play a network game.
+MHISTBATT Click here to play a historical battle via a network.
+MBACK Back to the main menu.
+SOSTART Click here to start a single player game.
+SOCANCEL Back to the main menu.
+SOPAGES Click on DESIGNED MAP to select a previously designed map.\Click on RANDOM MAP to adjust the settings for the Random Map Generator.
+SOMAPSTYLE Landscape Type: LAND - Firm ground with a few small ponds. MEDITERRANEAN - A large sea in the middle,\surrounded by land. PENINSULAS - Peninsulas surrounding vast expanses of water. ISLANDS - Isolated land regions\surrounded by sea. CONTINENTS - Large continents divided by sea. CONTINENT - A large region of land washed by the sea.
+SOMOUNT Nature of Ground: PLAIN - A plain with a few hills. LOW MOUNTAINS - A landscape with a few low mountains.\HIGH MOUNTAINS - A landscape with several high mountains. HIGHLANDS - Highlands with numerous low mountains.\PLATEAUS - A landscape with plateaus.
+SORESONMAP Minerals: LEAN - The map lacks resources (players fight for deposits).\MEDIUM - Normal amount of resources (deposits are strategically important).\RICH - The map is rich in resources (no worrying about deposits).
+SORESTOT Initial Resources: NORMAL - Normal amount of initial resources (development starts immediately).\RICH - Large amount of initial resources (fast development).\THOUSANDS - Enormous amount of initial resources (quick start).
+SOCHANGENAME Click here to change your name.
+SOCHANGECOMP Click here to toggle computer opponent on and off.
+MOREADY Click here when you are ready to play the network game.
+MOSTART Click here to start the network game.
+MOCANCEL Back to the main menu.
+MOCHANGENAME Click here to change the player's name.
+MMCHANGECOLOR Click here to change the nation's colour.
+MMCHANGENAT Click here to change the nation the player will control.
+MOPAGES Click on DESIGNED MAP to select a previously designed map.\Click on RANDOM MAP to adjust the settings for the Random Map Generator.\Click on SAVED GAME to select and resume a saved network game.
+DIFFICULTY Here you can select one of four difficulty levels.
+OLDVER Game version outdated, cannot connect. For updates please see www.cossacks-server.net
+??? Random

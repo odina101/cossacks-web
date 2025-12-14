@@ -1,0 +1,66 @@
+#BRIEFING faces 0
+{A}Serving the King
+
+In order to secure the victory, you must capture the southern fortress with the help of the Polish forces.
+{B}
+{K} You will lose if you have no soldiers left.
+{L} You will lose if you have no cannons left.
+{C}
+  Current objectives:
+
+{D} You must capture the cannons in the Russian camp.
+{E} ~ You must capture the cannons in the Russian camp.~
+{F} Follow to the Polish camp.
+{I} ~ Follow to the Polish camp.~
+{J} Breach the Russians' defence.
+{N} ~ Breach the Russians' defence.~
+{O} Capture the fortress
+#PAGE1 missions\pictures\ukraine 23
+  Hail! I'm glad you agreed to join our side. For many days now, our forces have been attacking a small fortress in the south, belonging to Smolensk. But as we have no artillery in our army, the Russians could easily repulse all our attacks.
+#PAGE2 missions\pictures\ukraine 23
+  There is a Russian camp with several cannons in it to the east. You are to attack the camp and capture the cannons. Besides, according to the information we received, there are Ukrainian Cossack captives in the camp. You might be able to release them. Then cross to the other bank.
+#PAGE3 missions\pictures\ukraine 24
+  The captured Russian cannons will be a great help to you during the siege. Proceed to our camp.
+#PAGE4 missions\pictures\ukraine 24
+  Good day. To the east there is a base from which the Russians get their reinforcements. You should try to destroy this base. If you are successful, the defenders in the fortress will not receive their next reinforcements.
+#PAGE5 missions\pictures\ukraine 6
+  Halt! I believe the gold in your pockets is too heavy for you to carry, eh? Leave it here and you may get out of here in one piece.
+#PAGE6 missions\pictures\ukraine 15
+  The bandits you have killed had much gold, iron and coal with them.
+#PAGE7 missions\pictures\ukraine 1
+  You have no resources. Your cannon cannot shoot and will be useless during the siege. You can acquire resources by capturing the convoys that transport them to the bases.
+#PAGE8 missions\pictures\ukraine 24
+  I cannot let you pass. You did not capture the cannons, so you cannot assist in the assault. Return when you have captured the cannons. We will let you pass then.
+#PAGE9 missions\pictures\ukraine 1
+  We are free now! Thank you! This convoy carries much gold, iron and coal.
+#PAGE10 missions\pictures\ukraine 1
+  Greetings! You're just in time! To be frank, only a miracle may help you to breach the defence of this fortress. The Russians have gained a foothold on a hill, and two slopes leading to the fortress are defended by artillery.
+  The enemy is strengthening his defences all the time. If we wait another second, we may all end up dead. We'll start the assault shortly.
+#PAGE11 missions\pictures\ukraine 1
+  The Polish commander is dead. The Poles are under your command now.
+#PAGE12 missions\pictures\ukraine 1
+  Excellent, you have breached the Russian defence. Now the enemy will have to regroup and counterattack. This is a good chance to take the fortress. Attack the fortifications and the Russians defending it.
+#PAGE13 missions\pictures\ukraine 1
+ Excellent. You have captured the fortress.
+#PAGE14 missions\pictures\ukraine 1
+  Hurry up! The Russians are attacking.
+#PAGE15 missions\pictures\ukraine 1
+  You proved unable to hold the fortress and it has fallen to the Russians once more. You have failed.
+#PAGE16 missions\pictures\ukraine 1
+  You have lost the cannons and the assault is doomed. Mission failed.
+#PAGE17 missions\pictures\ukraine 1
+ You have lost all your forces.
+#PAGE18 missions\pictures\ukraine 1
+  You need to pass the Russian lines as quietly as possible, otherwise your cannon may be destroyed and the assault will fail. Don't allow your cannon to fire until you reach the Polish camp.
+#PAGE19 missions\pictures\ukraine 1
+  Well done! You have captured the base. Now the Russian defenders of the fortress will not receive any more reinforcements and the siege will be much easier.
+#PAGE20 missions\pictures\ukraine 1
+  Before the assault begins, try to eliminate the enemy artillery defending the slopes that lead to the eminence. Use your cannon and attack from an advantageous position.
+#PAGE21 missions\pictures\ukraine 1
+  You have liberated the prisoners.
+#PAGE22 missions\pictures\ukraine 1
+  You have liberated the prisoners.
+#PAGE23 missions\pictures\ukraine 1
+  The assault begins.
+#PAGE24 missions\pictures\ukraine 1
+ The enemy has captured your cannon. Without them you will never be able to carry out a successful assault. You must take back the cannon and return to the camp.

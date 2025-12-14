@@ -1,0 +1,59 @@
+#BRIEFING faces 0
+{A}	The Austro-Turkish Border
+
+!You must eliminate the Turks that have settled in the frontier region.
+!You will lose if your troops are defeated.
+
+#PAGE1 Missions\Pictures\austria 3
+Your commander-in-chief, Saxon Prince Frederick Augustus, has been named Elector of Saxony. The Saxon army with its new commander at the head has entered the war with Turkey on the side of Austria. The valiant Saxon army intends to protect the Christian lands and suppress the aggressor. 
+Your task is to take up positions in the frontier region and set up defences. Our Elector believes that an offensive strategy will yield the best results and suggests you deliver a mighty preventive blow.
+
+#PAGE2 Missions\Pictures\austria 7
+You have arrived in the Austrian frontier region that is suffering from Turkish raids.
+You have been assigned to establish order in the province and protect the locals. They will supply you with resources in return for their safety. 
+Guard the packhorses that deliver resources.
+
+#PAGE3  Missions\Pictures\austria 14
+Your troops have been eliminated.
+You have lost.
+
+#PAGE4  Missions\Pictures\austria 45
+The Turks have been eliminated.
+Congratulations! This wasn't an easy victory. 
+
+#PAGE5  Missions\Pictures\ukraine 7
+You have destroyed the brigands' camp. 
+They won't attack your camp any more.
+
+#PAGE6  Missions\Pictures\ukraine 7
+You have destroyed the brigands' camp. 
+They won't attack your camp any more.
+
+#PAGE7  Missions\Pictures\algeria 1
+The Turks have killed the guards at the gold mines.
+The gold supply has been cut off.
+
+#PAGE8  Missions\Pictures\algeria 1
+The Turks have captured the settlement in the south-east.
+The food and iron supply has been cut off.
+
+#PAGE9  Missions\Pictures\algeria 1
+The Turks have killed the guards at the coal mines.
+The coal supply has been cut off.
+
+#PAGE10  Missions\Pictures\algeria 1
+The Turks have killed the guards of the village by the river.
+The gold and food supply has been cut off.
+
+#PAGE11  Missions\Pictures\algeria 1
+Guards at the iron mines have been killed. 
+The iron supply has been cut off.
+
+
+
+#PAGE12  Missions\Pictures\algeria 1
+The settlement in the south has been captured.
+The food and coal supply has been cut off.  
+
+#PAGE911  Missions\Pictures\ukraine 7
+Value equals %10d.

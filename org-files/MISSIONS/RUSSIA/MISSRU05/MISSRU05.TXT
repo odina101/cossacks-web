@@ -1,0 +1,20 @@
+#BRIEFING faces 0
+{A}Fortress Daugavgri
+
+In order to win, you should fight the enemy back until reinforcements arrive.
+You will lose if your hero dies.
+You will lose if just one military building in the fortress is demolished.
+#PAGE1 Missions\Pictures\mord_tut 12
+  You should defend the fortress at all costs. The Swedes will most likely besiege it, and your objective is to hold them back until reinforcements arrive.
+#PAGE2 Missions\Pictures\mord_n 7
+  A horse convoy with supplies has arrived. You are to escort it to the fortress, because the Swedes will surely try to intercept it.
+#PAGE3 Missions\Pictures\russia 26
+  The convoy is in your fortress. You have replenished your supplies of food, ammunition and gold.
+#PAGE4 Missions\Pictures\russia 23
+  Reinforcements have arrived! With this Saxon army, you will crush the enemy.
+#PAGE5 Missions\Pictures\russia 14
+  You have died in battle. Russia will remember your feat!
+#PAGE5A Missions\Pictures\russia 24
+  You have died of starvation. What a horrible death ... Next time, make sure you have enough food.
+#PAGE6 Missions\Pictures\mord_tut 18
+  You proved unable to defend the fortress! Mission failed!

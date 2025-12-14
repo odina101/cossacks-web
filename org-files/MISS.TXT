@@ -1,0 +1,9 @@
+ Mutiny insurgent.
+
+Objective:
+Vanquish the enemy.
+   You are to defeat tsar forces to win!
+   You will lose if your main character dies.
+
+Current objective:
+Leave enemy village unspotted

@@ -1,0 +1,1 @@
+Heavy cavalryman armed with a long lance. Effective against infantry, cavalry and for sabotage raids. Wears armour that protects him well against bullets and splinters. Good manoeuvrability. Good attack and defence parameters. Takes a long time to create.

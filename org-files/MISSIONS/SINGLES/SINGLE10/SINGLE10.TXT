@@ -1,0 +1,19 @@
+#BRIEFING faces 0
+{A} Marshlands
+  
+Current objectives:
+{B}Seek and destroy the opponent on the opposite side of the marshes.
+{C}To stop brigand raids from the marshes, seek and destroy their base. 
+{D}~Destroy the brigands' base.~
+
+#PAGE0 Missions\Pictures\mord2_tut 14
+Excellent! The brigands' base has been destroyed! Now the raids will stop.
+
+#PAGE1 Missions\Pictures\austria 1
+Your mines have been plundered. Your mission may fail due to lack of resources. 
+
+#PAGE2 Missions\Pictures\Faces 13
+The islands are full of scout brigands. Make sure a strong patrol is sent out. The brigands are very likely to attempt looting the mines.   
+
+#PAGE3 Missions\Pictures\mord_tut 29
+In the brigands' camp you find your looted gold. Hurray!

@@ -1,0 +1,91 @@
+#BRIEFING faces 0
+{A}Tatar Wars
+
+{B}You will lose if you have no soldiers left.
+{C}You will lose if the village headman dies.
+{M}You will lose if the nomads capture your village.
+{O}You will lose if the Polish take the imprisoned Cossacks away on the ferry.
+{E}
+  Current objectives:
+
+{D}Find a village located in the west.
+{U}~ Find a village located in the west.~
+{F}Follow the village headman's instructions.
+{G}~ Follow the village headman's instructions.~
+{H}Defend the village.
+{K}~ Defend the village.~
+{L}Release the imprisoned Cossacks.
+{S}~ Release the imprisoned Cossacks. ~
+
+#PAGE1 missions\pictures\ukraine 23
+  Greetings! Our squad is heading for Lublin to join the Polish army. We will gladly accompany you until we must part.
+#PAGE2 missions\pictures\ukraine 24
+  We are under fire from xebecs. We had better retreat immediately.
+#PAGE3 missions\pictures\ukraine 7
+  Beware, villeins, now we'll cut your throats!
+#PAGE4 missions\pictures\ukraine 7
+  Our forces are unequal. I'll soon be back with reinforcements.
+#PAGE5 missions\pictures\ukraine 4
+  Greetings, compatriots! Every day nomads attack our village. We can hardly hold them back. You have come just at the right time and will probably be a great help to us. Please come through the gate and proceed to the village headman.
+#PAGE6 missions\pictures\ukraine 4
+  A strong nomadic horde is attacking from the south. Close the gate! We'll try to stop them.
+#PAGE7 missions\pictures\ukraine 10
+  Greetings! I am the village headman. For many months now, warm Crimean winds have been bringing us nomads from the steppe. They plunder and burn our villages and kill our brothers and sisters. I beg you to help us and protect the western part of the village. Please follow me.
+#PAGE8 missions\pictures\ukraine 10
+  Here we are. Let's organize a defence and fight the nomads back.
+#PAGE9 missions\pictures\ukraine 10
+  Scouts report that a strong nomadic detachment is ahead. I advise you not to go any further.
+#PAGE10 missions\pictures\ukraine 10
+  We have lost many people and cannot hold the nomads back any longer. We should retreat to the east of the village. Follow me.
+#PAGE11 missions\pictures\ukraine 10
+  You cannot hold this nomadic horde back! You will die for nothing! Come with me, we'll try to stop them from the eastern part of the village.
+#PAGE12 missions\pictures\ukraine 9
+  Please follow the village headmen. Your help is a matter of life and death for the defenders of this village.
+#PAGE16 missions\pictures\ukraine 10
+  The damned nomads are close! I cannot expose you to such danger any longer. Please follow me, I'll take you to the next village.
+#PAGE17 missions\pictures\ukraine 10
+  Thank you for your help. Now I must return to oversee the defence.
+#PAGE18 missions\pictures\ukraine 10
+  Even if we die here, we'll fight tooth and nail to stop the nomads. I hand the village over to you. While you have some time, try to think through the defence and start arranging your forces.
+#PAGE22 missions\pictures\ukraine 0
+  Hurry! The nomads may attack at any moment. Get more peasants, extract resources, build a strelets barracks and assemble your forces.
+#PAGE23 missions\pictures\ukraine 7
+  Damned villeins! We have lost too many people here. We must retreat now, but you will pay for this!
+#PAGE24 missions\pictures\ukraine 1
+  Greetings. I am Polish Voevode Pan Horunzy. I am here to implement the edict of the Polish Seym. Here it is.
+#PAGE25 missions\pictures\ukraine 13
+  "As soon as this edict has been announced, all Cossacks with the exception of those who serve in the Polish army must proceed to Poland to work for Polish landowners on their fields."
+#PAGE26 missions\pictures\ukraine 25
+  We are a free people! You'll never make us your slaves! Get out of here!
+#PAGE27 missions\pictures\ukraine 1
+  Well, we anticipated this and are ready to implement the order at all costs. If you don't obey, our sabres and muskets will do the talking from now on.
+#PAGE28 missions\pictures\ukraine 25
+  Damn! The Poles haven't only imprisoned the Cossacks, but also sacked us!
+#PAGE29 missions\pictures\ukraine 25
+  The Poles are holding the Cossacks in a camp to the south of here. Form a squad and liberate them. Hurry up! The Poles may take them by river to Rzecpospolita, where they will be out of reach.
+#PAGE30 missions\pictures\ukraine 24
+  You need resources to create a detachment. There are several mines to the west, defended by nomads. Eliminate them to start extracting resources.
+#PAGE31 missions\pictures\ukraine 24
+  The path to the Poles' camp lies through the steppe, which is full of nomadic tribes. Approach the Polish camp with a strong squad.
+#PAGE32 missions\pictures\ukraine 24
+  Scouts report that a large nomadic detachment is in position ahead. Don't go any further. Such a small squad as yours is easy prey to them.
+#PAGE33 missions\pictures\ukraine 24
+  The nomads are waiting for reinforcements to begin their assault. You should create a squad and attack them first. Make use of your advantage - you can always hide behind the paling.
+#PAGE34 missions\pictures\ukraine 24
+  Hurry up! A ferry has set sail to pick up the captive Cossacks! If the Poles take our brothers away, you will never be able to save them!
+#PAGE35 missions\pictures\ukraine 24
+  The headman of the village is dead. Mission failed.
+#PAGE36 missions\pictures\ukraine 17
+  The headman must survive the defence of the western village.
+#PAGE37 missions\pictures\ukraine 24
+  You have liberated the prisoners.
+#PAGE38 missions\pictures\ukraine 24
+  A Polish ferry has already taken the prisoners away. You cannot liberate them. Mission failed.
+#PAGE39 missions\pictures\ukraine 24
+  You arrived just in time to release the captives.
+#PAGE40 missions\pictures\ukraine 24
+  You have lost all your forces. Mission failed.
+#PAGE41 missions\pictures\ukraine 24
+  You can't create more than 200 serdiuks.
+#PAGE42 missions\pictures\ukraine 24
+  Proceed to the village located in the west.

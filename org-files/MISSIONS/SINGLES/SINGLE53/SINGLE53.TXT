@@ -1,0 +1,100 @@
+#BRIEFING faces 0
+{Q} Gold Fever
+ 
+Defeat the Danish forces to win. 
+!You will lose if your army is defeated. 
+ 
+Current objectives:
+{W}Proceed to the Swedish fort.
+{I}~Proceed to the Swedish fort.~
+{E} Hints:
+{R}The Danes are located to the south-west.
+{T}Stick to the road or you may become lost. 
+{Y}These forests are full of hungry and drunk citizens without employ. They are bound to grab all they can off you and spend it in the nearest brothel. It would also be a pleasure to them to kill you. They take delight in the sight of blood.  
+{U}You can only trade with allies if you have a market. 
+
+#Allert0 missions\pictures\austria 10
+I see dirty, stinking people in shabby clothes. Thrash the brigands!
+
+#Allert1 missions\pictures\austria 10
+Greetings, brave warrior. God be praised, you have arrived. I was sent to beg you to hurry. A gang of brigands has attacked our fort. We won't make it without your help. 
+Hurry!
+
+#Allert1.0 missions\pictures\austria 10
+Officer, I will be your bodyguard until we reach the fort. 
+
+#MarketLost missions\pictures\austria 10
+You have lost the market. You can no longer trade with your allies. 
+
+#MarketBuilt missions\pictures\austria 10
+You have a market. Now it is possible to trade with allies. Select the market to hire a merchant. 
+
+#MerchantPrice  missions\pictures\austria 10
+Welcome to the market.
+A merchant will cost you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+
+#MarketMainMenu missions\pictures\austria 10
+Would you like to hire a merchant?
+
+#MerchantMainMenu missions\pictures\austria 10
+What's on your mind, my lord?
+
+#MerchantInfoMenu missions\pictures\austria 10
+This is a nightmare: The longer it goes on, the more frightening it becomes.  
+What exactly are you interested in, sir? 
+
+#Buiznes missions\pictures\austria 10
+Number of packhorses in caravan: %d
+A new packhorse will cost you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+Packhorses are able to carry: 
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+A successful deal will yield:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+
+#MakeOboz missions\pictures\austria 10
+Would you like to buy a packhorse?
+
+#MerchantSucsess missions\pictures\austria 10
+Greetings, my lord!
+My campaign has been successfully completed. 
+As a result of my efforts you have acquired:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+
+#CancelTrading missions\pictures\austria 10
+I have loaded a packhorse with goods and set off to trade. Cancelling the campaign means you will lose the cargo.  
+Would you like to end the campaign? 
+
+#TooManyOboz missions\pictures\austria 10
+I will not be able to supervise such a number of packhorses. 
+
+#KaravanEmpty missions\pictures\austria 10
+I will not be able to trade without packhorses. 
+
+#MerchantDie missions\pictures\austria 10
+You have lost the merchant. Select the market to hire a new one. 
+
+#Entry0 missions\pictures\austria 10
+The King of Sweden has decided to expand his domain and captured lands on the territory of the Danes. You have received news that the colony is in danger!
+The king orders you to set off to the fort and take command.
+
+#Trans missions\pictures\austria 10
+At last you have arrived. A fort is now under your command. 
+Allow me to put you in the picture:
+On close inspection we have discovered that these lands hold few gold deposits. This has considerably hampered our development. 
+However, we have not lost heart, but have arranged trade with our northern neighbours. It has been our salvation: Their gold is cheaper than grass. Trade is possible only if you have a market available. 
+But there is distressing news too. These uninhabited lands are teeming with all kinds of brigands. Most of them are French convicts on the run.  
+On top of that, the Danes have been preparing a campaign and are about to drive us from these lands. 
+
+#Target0 missions\pictures\austria 10
+Only the total defeat of the Danish will secure your victory. Good luck! 
+
+#LittleMoney missions\pictures\austria 10
+You don't have enough resources! 
+
+#Defeat missions\pictures\austria 10
+You have lost all your troops. 
+
+#Victory missions\pictures\austria 10
+Congratulations! The Danes have been defeated. Victory! 

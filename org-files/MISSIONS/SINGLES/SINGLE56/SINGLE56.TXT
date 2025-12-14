@@ -1,0 +1,73 @@
+#BRIEFING faces 0
+{A} The Central Post
+ 
+Your objective is to neutralise the alliance of Poland, Saxony and Bavaria. Poland and Saxony can be defeated with land troops, but naval forces are required to defeat Bavaria. 
+The assistance of your ally, France, will be of great help to you. The French are positioned on the south-western isle.  
+You will lose if your troops are defeated, or if you fail to hold the island (i.e. if your military units are numerically far inferior to the enemy). 
+ 
+Current objectives:
+{B}Neutralise the alliance of Poland, Saxony and Bavaria. 
+{C}~Neutralise the alliance of Poland, Saxony and Bavaria.~
+{D}Blow up 2 Saxon shipyards on the north-eastern isle. 
+{E}~Blow up 2 Saxon shipyards on the north-eastern isle.~
+{F}Blow up or capture the Saxon town hall to the north-west. 
+{G}~Blow up or capture the Saxon town hall to the north-west.~
+{M} Additional objective:
+{N}Deliver packhorses to your ally on the south-western isle. 
+{O}~Deliver packhorses to your ally on the south-western isle.~
+
+#PAGE0A Missions\Pictures\austria 18
+You must neutralise the alliance of Poland, Saxony and Bavaria! It will be difficult to beat the enemies with your own forces, so ask your allies on the south-western island for help. To gain their support you will need to send them packhorses loaded with valuable cargo. Beware, Saxon ships patrol the sea!
+
+#PAGE0B Missions\Pictures\faces 31
+A Saxon sea patrol has spotted your ships! Now the Saxons will attack your shipyards to deprive you of the possibility to build a strong fleet. Your workers cannot build shipyards, but your ally will provide you with peasants. To stop the Saxon attacks, destroy their 2 shipyards on the north-eastern island. 
+
+#PAGE0C Missions\Pictures\faces 31
+The Saxons have discovered your location and sent soldiers and cavalry to meet you! To stop the Saxon attacks, you must destroy or capture their town hall in the north-west. 
+
+#PAGE1 Missions\Pictures\faces 4
+You were killed in the unequal fight. 
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death. 
+
+#PAGE1B Missions\Pictures\faces 4
+Your troops failed to hold the centre of the map! Mission failed!
+
+#PAGE3 Missions\Pictures\faces 34
+Greetings, French allies! We have brought you packhorses with a map and combat operation plan! Help us beat the enemy! 
+Unfortunately, our peasants cannot build shipyards. Could you provide us with some of your workers?  
+
+#PAGE4 Missions\Pictures\faces 6
+Good day, Austrians! We will provide you with peasants and gather troops immediately to help you deal with the enemy! 
+
+#PAGE6 Missions\Pictures\austria 37
+Congratulations! You have demolished two Saxon shipyards! 
+
+#PAGE7 Missions\Pictures\austria 37
+Congratulations! You have destroyed the Saxon town hall! 
+ 
+#PAGE7A Missions\Pictures\austria 30
+Congratulations! You have captured the Saxon town hall! 
+
+#PAGE8 Missions\Pictures\austria 6
+Congratulations! The alliance of Poland, Saxony and Bavaria has been neutralised! 
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! The Bavarians have been defeated! 
+
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! The Poles have been defeated! 
+
+#PAGE8C Missions\Pictures\austria 6
+Congratulations! The Saxons have been defeated! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have completed all your tasks and won! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+Your ally's troops have been defeated! 
+
+#PAGE12  Missions\Pictures\mord_d 6
+You have lost the packhorse and will not be able to deliver the important cargo to your ally! Well, now you'll find it harder to fight against your opponents! 

@@ -1,0 +1,17 @@
+#BRIEFING faces 0
+{A}The Captured Coast
+ You must defeat the French to win.
+{B}
+  You will lose if you have no army left.
+#PAGE1 missions\pictures\england 16
+You are to defeat the French and restore Portugal's control over the coast. After disembarking on the coast, eradicate the French artillery attacking the town. This way you will save the town from being ruined and gain a good base from which to organize your attack. Your peasants will be unable to build some structures, though you may use captured buildings in the towns if you drive the French out of them.
+#PAGE2 missions\pictures\england 25
+ You have driven away the French and the town is now under your control.
+#PAGE3 missions\pictures\england 25
+ You have driven away the French and the town is now under your control.
+#PAGE4 missions\pictures\england 25
+ You have driven away the French and the town is now under your control.
+#PAGE5 missions\pictures\england 24
+ You have lost the howitzer and cannot demolish the French fortifications.
+#PAGE6 missions\pictures\england 16
+ There is only one howitzer in your detachment. You must not lose it until you are able to create your own artillery.

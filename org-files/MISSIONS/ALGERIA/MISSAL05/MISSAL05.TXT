@@ -1,0 +1,20 @@
+#BRIEFING faces 0
+{A}The Fortress of Penon
+ 
+You will win if you succeed in capturing the town hall located on the island.
+You will lose if your troops are defeated.
+
+#PAGE0 Missions\Pictures\austria 18
+  On the island to the north stands the Spanish fortress of Penon. You must penetrate its defences and capture the town hall. Be watchful, for that guileful traitor, the Algerian bey, may attack you from the east.
+#PAGE1 Missions\Pictures\mord_d 1
+  The town hall is in your hands! The fortress of Penon has been captured!
+#PAGE2 Missions\Pictures\mord_tut 15
+  The town hall of Penon has been destroyed. You failed to capture the fortress. Mission failed.
+#PAGE2A Missions\Pictures\mord3_tut 14
+  All your troops in the region have been defeated. You have lost.
+#PAGE3 Missions\Pictures\algeria 1
+  You must put an end to the outrageous behaviour of the treacherous bey. Nothing can stop you from conquering the Spanish fortress.
+#PAGE4 Missions\Pictures\ukraine 15
+  Your troops have found a chest containing %d in gold.
+#PAGE5 Missions\Pictures\poland 13
+  In a hiding place located almost in the centre of the oasis, your troops have found a store of food and some gold. You receive %d units of food and 57 of gold.

@@ -1,0 +1,33 @@
+#BRIEFING faces 0
+{A}Rocroi Fortress
+
+You should reconnoitre the territory and raid the enemy's rear.
+You will lose if your hero (the king's musketeer) dies.
+#PAGE1 Missions\Pictures\mord2_tut 5
+  You are in charge of a small reconnaissance squad - several knights and a team of Hungarian mercenaries. Now your mission is to cover the peasants' retreat from the village to the north of the fortress.
+#PAGE2 Missions\Pictures\mord_tut 4
+  Many peasants have died because of you! Mission failed!
+#PAGE3 Missions\Pictures\mord_tut 14
+  The peasants are safe. Now you should reconnoitre the enemy lines. Act secretly and do your best to avoid the Spaniards.
+#PAGE4 Missions\Pictures\mord_n 5
+  You have spotted a large Spanish detachment and a convoy with ammunition ready for departure. Your mission is to intercept and eliminate the enemy convoy.
+#PAGE5 Missions\Pictures\mord2_tut 6
+  The Spanish convoy has been eliminated! This will greatly weaken the enemy forces.
+#PAGE6 Missions\Pictures\mord2_tut 0
+  You have spotted a small enemy squad. It looks like the Spaniards have left their cannon without proper defence. March to the enemy's rear and eliminate the artillery.
+#PAGE7 Missions\Pictures\mord2_tut 6
+  Well done! The cannon have been eliminated!
+#PAGE8 Missions\Pictures\mord_tut 3
+  Good work! Return to the fortress. Now victory is almost ours.
+#PAGE9 Missions\Pictures\mord_tut 3
+  You have come across the ruins of an old castle. It looks like the enemy has abandoned it.
+#PAGE10 Missions\Pictures\faces 4
+  You have died for the King and for France!
+#PAGE10A Missions\Pictures\russia 24
+  You have died of starvation!
+#PAGE11 Missions\Pictures\mord_tut 1
+  You have found numerous footprints leading to the south. It looks like a strong army passed through this area.
+#PAGE12 Missions\Pictures\mord_tut 0
+  You have spotted a small enemy squad. To all appearances, it is a reserve force. You eavesdrop on some soldiers and find out that the major enemy forces are to the south-west and the south-east.
+#PAGE13 Missions\Pictures\mord_d 3
+  Well done! You have captured the enemy storehouse. However, it was almost empty...

@@ -1,0 +1,29 @@
+#BRIEFING faces 0
+{A} The Price of Peace
+
+Current objectives:
+{B} Defeat your opponents.
+    Only your main character can speak to the mission characters. 
+	
+#PAGE0 Missions\Pictures\poland 7
+As governor of a Danish village, you must support the Piemontese city with provisions, or its citizens will starve to death. 
+It is necessary to send packhorses loaded with provisions to your ally through enemy territory now and then. 
+10,000 units of food are needed to load a packhorse. 
+
+#PAGE1 Missions\Pictures\England 9
+Would you like to load a packhorse with provisions (10,000 food)? 
+
+#PAGE2 Missions\Pictures\England 9
+We don't have enough provisions to load a packhorse. 
+
+#PAGE3 Missions\Pictures\England 9
+The packhorse needs to be delivered to the square of the allied town centre (by the flower bed).  
+
+#PAGE4 Missions\Pictures\Faces 0
+The allied city is running out of provisions, you must hurry up and send a packhorse loaded with food.  
+
+#PAGE5 Missions\Pictures\England 12
+The city is starving, people are dying.
+
+#PAGE6 Missions\Pictures\England 12
+Packhorses delivered. The city is no longer threatened with famine! 

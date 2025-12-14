@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+{F}The Battle of Prague
+ Destroy the Austrian troops.
+{C} You can take control of allied forces (orange).
+{A} Orders to the squads of grenadiers and cavalry are given through messengers (hussars).
+{B} Orders to the squads of grenadiers and cavalry should be given to their commanders.
+{D} !You will lose if you finish with far less forces than the Austrians.
+
+{P} Current objective:
+  Issue orders to your allies and begin the offensive.
+
+#PAGE11 Missions\Pictures\mord_tut 10
+In the face of the powerful pressure of the Prussian army, the Austrians were forced to retreat. However, upon reaching the outskirts of Prague and taking up a favourable position, the Austrian army command decided to wage battle. You will be in charge of the whole Prussian army and your task will be to crush the Austrian defence.
+#PAGE1 Missions\Pictures\austria 6
+ Issue an order to General Keith's corps:
+#PAGE2 Missions\Pictures\mord_tut 3
+ Issue an order to Prince Moritz' corps:
+#PAGE3 Missions\Pictures\mord2_tut 6
+The cavalry has taken up a starting position and is beginning to storm the Austrian fortifications!
+#PAGE4 Missions\Pictures\mord2_tut 0
+General Keith's corps is ready and awaiting your orders:
+#PAGE5 Missions\Pictures\austria 45
+General Keith's corps has taken up a starting position and is beginning to storm the Austrian fortifications!
+#PAGE6 Missions\Pictures\mord_tut 10
+Headquarters orders you ...
+#PAGE7 Missions\Pictures\mord2_tut 5
+The cavalry has taken up a starting point and is awaiting your orders:
+#PAGE8 Missions\Pictures\mord2_tut 14
+The Austrian troops have been defeated!
+#PAGE9 Missions\Pictures\mord_d 6
+The Prussian troops have been defeated! Mission failed!
+#PAGE10 Missions\Pictures\mord_tut 4
+The Austrians have been crushed! The last remnants of the Austrian army have fled from the battlefield!
+
+

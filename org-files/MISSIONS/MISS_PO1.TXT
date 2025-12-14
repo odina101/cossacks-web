@@ -1,0 +1,92 @@
+Q1_1 50 in gold? Very well, you leeches! Here is your gold, now follow me!
+Q1_2 How dare you demand money from me, beggars?! Take the oath at once or I will have your heads impaled!
+Q1_3 Hmmm... I would love to pay, but I don't have any money at the moment. Maybe you could join me anyway?
+Q2_1 I intend to make mincemeat of the bandits. I will head the garrison of this village. 
+Q2_2 Listen! I will not protect your worthless lives for nothing. What payment can you offer me? 
+Q2_3 I don't care what troubles your village has. Out of my way, beggar!
+Q3_1 You have worked hard, soldiers! Here are 200 pieces of gold for you!
+Q3_2 Is the honour of serving in my army not enough to satisfy you, beggars? You won't get a single penny, you greedy rabble!
+Q4_1 You expect a gentleman to fight side by side with infidels?! Not for anything in the world!
+Q4_2 I don't have the money now. Maybe I'll hire you later.
+Q4_3 Join me for nothing ... or die!
+Q4_4 Very well, here are 50 pieces of gold for you, now follow me!
+Q4_5 I suppose your sabres alone value 100 in gold. 
+Q5_1 Very well, merchant. You are under my protection.
+Q5_2 How much will you pay for my protection, miser?
+Q5_3 I will not soil my hands by dealing with you! I have more important things to do.
+Q5_4 It's not your day, is it? Give me your goods or I will take them by force!
+Q6_1 400 pieces of gold? Very well, merchant. You are under my protection.
+Q6_2 You would call this a lot of money? Don't make me laugh! Name a decent price, or forget it!
+Q6_3 You are no businessman. Farewell!
+Q6_4 Your money is indeed good. Give it to me or I'll kill you!
+Q7_1 Err... I beg your pardon, things just happened this way, it is not my fault.
+Q7_2 I don't care about your losses! A bargain is a bargain - pay me gold or...
+Q7_3 Be grateful that you're still alive! Farewell, you thankless brute!
+Q8_1 Hire 10 pikemen for 100 pieces of gold.
+Q8_2 Hire 5 riflemen for 150 pieces of gold.
+Q8_3 Train pikemen for 300 pieces of gold.
+Q8_4 Train riflemen for 300 pieces of gold.
+Q8_5 Nothing. Farewell.
+Q9_1 I do not need your help. I will manage alone!
+Q9_2 It seems I will have to clear my lands not only of Turks. Run while you still can!
+Q9_3 Well, it's a bargain! Here is your gold.
+Q9_4 I would gladly cooperate, but I don't have that much money.
+Q10_1 Get away from here, you pigs! You have already devastated my village, I have had enough of you!
+Q10_2 Now you will die, pigs!
+Q10_3 Very well, here are 1,000 pieces of gold. Now leave!
+Q10_4 I would pay you, but I don't have that much money.
+Q10_5 You will get nothing. Now go, or I'll have your heads impaled!
+Q10_6 Guards, take them! Impale the rascals!
+Q10_7 Here is your gold, as we agreed.
+Q10_8 It's a pity, but I don't possess such a sum at the moment.
+Q11_1 Yes, thank you, I would enjoy a drink. Pour it out!
+Q11_2 I can't waste my time by boozing with you here, I'm too busy.
+Q11_3 Well now! Yes, I think I will share a drink with you. Thank you.
+Q11_4 Huh! I will not make friends with every plastered swine that comes my way!
+Q11_5 No, no, no. I'm just too busy. I am gathering an army to clear my lands of the infidels.  
+Q11_6 500? I could hire a squad of overseas dragoons for that kind of money! Name a justifiable sum, then we'll talk!
+Q11_7 All right then, it's a bargain! Here is your gold.
+Q11_8 I don't have that much money at the moment. Sorry. 
+Q11_9 Excellent, I'll pay you a whole thousand, but only once our business is done, agreed?
+Q12_1 Brilliant, where's the bandits' camp?
+Q12_2 We are too busy to settle your problems, good bye!
+Q12_3 What kind of a favour are we talking about? You owe us your life. Tell us where the gold is, or you will die!
+Q12_4 Then you will die, fool!
+Q12_5 I believe you are right. Where did you say the brigands are holding your caravan? 
+Q12_6 Farewell, you contemptible worm. Our roads must part now.
+Q12_7 You are right... There is no point in killing you. Our torturers will take care of you. Soon you will regret you that I didn't kill you on the spot. 
+Q13_1 I wish it had ended otherwise. Farewell.
+Q13_2 We have an agreement. Tell me where the gold is, or you will die!
+Qf2_1 You greed will kill you! Very well, take 3,000 in gold and give us your horsemen.
+Qf2_2 I will not bargain with a person who is indifferent towards the fate of his people. You are a disgrace to your uniform! I will return and make you understand the meaning of honour. Now get out of my way! 
+Qf3_1 Excellent! This multi-barrelled cannon is just what we need. 
+Qf3_2 What?! 5,000 pieces of gold! This piece of iron isn't worth a penny! Take it and take to your heels while you still can.
+Qf3_3 Now you will give this gun for free. Men, seize them! 
+Qr4_1 Hire 10 mounted riflemen for 3,000 pieces of gold.
+Qr4_2 Hire 10 mounted knights for 1,500 pieces of gold.
+Qr4_3 Hire 4 cannons for 5,000 pieces of gold.
+Qr4_4 Hire 4 howitzers for 5,000 pieces of gold.
+Qr4_5 Purchase a Montgolfier for 3,500 pieces of gold.
+Qr4_6 Hire a ferry for 1,000 pieces of gold.
+Qr4_7 Some other time. Farewell.
+Qpr1_1 Who are you to tell me what to do?! ...kill him! 
+Qpr1_2 Thank you for the warning. But all the roads around us are blocked and the path through your village is the only free passageway to the river.
+Qpru1_1 Attack the Saxon fort
+Qpru1_2 Attack the Austrian fortress
+Qpru1_3 Guard our camp
+Qb1 ...order you to cross to the other bank on ferries and assault the Austrian rear. 
+Qb2 ...start advancing on the right flank.
+Qb3	Assume positions on the right flank and wait for the order to attack.
+Qb4 Attack Austrian positions along the whole front.
+Qb1_1 Attack the right flank of the Austrian troops.
+Qb2_2 Begin the assault at once and strike at the heart of the Austrian troops.
+Qb3_3 Attack the left flank of the Austrian troops.
+Qb4_4 Assume positions on the left flank and await further orders.
+Qb5_5 Assume positions to attack the centre and wait for the order to begin the assault. 
+Qb6_6 Assume positions on the right flank and await further instructions.  
+Qgr1 ...begin the assault!
+Qgr2 ...stay in position and await further orders.
+Qs2_1 You there! Who is the leader here? Quick, open the gates, and I will let you live!
+Qs2_2 How dare you demand money from me?! Men, seize these greedy scoundrels!
+Qs2_3 Very well, leeches! Here is your gold, now move!
+Text_for_Pru5 You have approached a bridge controlled by a gang of brigands.

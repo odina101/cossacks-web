@@ -1,0 +1,88 @@
+#BRIEFING faces 0
+{A} Central Europe
+
+Victory will be yours if you are able to defeat the troops of all opponents in the area (blue, green and black). 
+You will lose if all your troops are defeated. 
+
+#PAGE0 Missions\Pictures\faces 9
+Europe is submerged in chaos, its countries are at war. Opposing troops are all around, but ...
+A squad of brave riders still lives a free life. They possess nothing but their trusty steeds, weapons, personal courage and a cabin hidden in the forests of the mountain. Friendly towns are located in the north-west and south-east. 
+It may be worth visiting those towns to discover something interesting.    
+
+#PAGE01 Missions\Pictures\austria 18
+The locals tell you that it is possible to hire warriors and improve your cavalry's attack and defence parameters in this town (a blacksmith and stables are at your disposal). 
+You have also discovered that the mayor has promised a reward to anyone who can defeat the brigands that rampage in the area.  
+There is a market and a church in the town.
+
+#PAGE02 Missions\Pictures\austria 18
+The locals tell you that it is possible to hire warriors and improve your cavalry's attack and defence parameters in this town (a blacksmith and stables are at your disposal). 
+You have also discovered that the mayor has promised a reward to anyone who can defeat the brigands that rampage in the area.   
+There is also a market in the town. 
+
+#PAGE03 Missions\Pictures\austria 18
+The locals tell you it is possible to hire mercenaries in this town (there is a diplomatic centre at your disposal). 
+There is a market and a church in the town. 
+
+#PAGE1 Missions\Pictures\austria 12
+
+
+At the market you hear that the current cost of escorting merchant packhorses is %d gold.
+
+#PAGE2 Missions\Pictures\faces 0
+A merchant at the market:
+- I need guards for my packhorse, as I fear brigand attacks. Will you escort my packhorse to the bridge in the south-east? 
+
+#PAGE3 Missions\Pictures\faces 0
+Merchant:
+- Thank you. Take the money. By the way, you can hire warriors in the town beyond the bridge. 
+
+#PAGE4 Missions\Pictures\faces 4
+The merchant has died. The packhorse is yours. It turns out it was carrying %d food. 
+
+#PAGE4B Missions\Pictures\faces 4
+The merchant has died and the packhorse has been destroyed. 
+
+#PAGE5 Missions\Pictures\faces 5
+While examining the belongings of the killed bandits, you find %d gold. 
+
+#PAGE6 Missions\Pictures\mord2_tut 7 
+The mayor of a nearby town has paid the promised reward for the annihilation of the gang: %d gold. 
+
+
+#PAGE7 Missions\Pictures\faces 0
+Merchant at the market:
+- I need guards for my packhorse, as I fear brigand attacks. Will you escort my packhorse to the bridge in the north-west? 
+
+#PAGE8 Missions\Pictures\faces 0
+Merchant:
+- Thank you. Take the money. 
+
+#PAGE10 Missions\Pictures\faces 9
+Mission failed. The squad has been killed. 
+
+#PAGE11 Missions\Pictures\faces 9
+Blue opponent defeated.
+
+#PAGE12 Missions\Pictures\faces 9
+Green opponent defeated. 
+
+#PAGE13 Missions\Pictures\faces 9
+Violet ally defeated.
+
+#PAGE14 Missions\Pictures\faces 9
+Orange ally defeated.
+
+#PAGE15 Missions\Pictures\faces 9
+Black opponent defeated.
+
+#PAGE16 Missions\Pictures\faces 9
+Having discovered your strong forces and your town hall, the black opponent has declared war. 
+
+#PAGE20 Missions\Pictures\faces 14
+Congratulations! Victory!
+Peace has returned to these lands.
+   
+Congratulations!
+
+#PAGE21 Missions\Pictures\faces 14
+Nation selection:

@@ -1,0 +1,8 @@
+#ZoneVictory0 Missions\Pictures\austria 6
+    You have captured strategic zones and spread panic in the enemy camp... Prussian monarch Frederick left his army to the mercy of fate and fled. You are victorious!!!
+#ZoneVictory1 Missions\Pictures\faces 10
+    Enemy has captured strategic zones. Your troops are fleeing the battlefield in panic. You have lost...
+#ArmyLost0 Missions\Pictures\faces 10
+    Your army has exhausted. The remnants of your people took to their heels out of the harm's way... You have lost...
+#ArmyLost1 Missions\Pictures\austria 6
+    Victory!!! You have crushed miserable Austrians and got the better of arrogant Saxons. Long live king Frederick the Great! Hurray!!!

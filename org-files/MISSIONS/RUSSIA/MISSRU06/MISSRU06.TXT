@@ -1,0 +1,23 @@
+#BRIEFING faces 0
+{A}Narva
+
+Eliminate the garrison of the Swedish fortress to win.
+You will lose if your hero dies.
+#PAGE1 Missions\Pictures\mord_tut 1
+  Move towards the Swedish fortress to the south of here. You can go along the bank or use ferries. Our forces should attack the Swedes simultaneously in several sectors, so don't waste your time.
+#PAGE2 Missions\Pictures\russia 23
+  Our squads have initiated an attack! It's going to be hot! Do your best to take the fortress as soon as possible, because an enemy cavalry squadron may be sent here from Riga.
+#PAGE3 Missions\Pictures\russia 23
+  The Swedes have received reinforcements! What bad luck!
+#PAGE4 Missions\Pictures\mord2_tut 23
+  Victory!!! Narva is ours!
+#PAGE5 Missions\Pictures\russia 14
+  You have died in battle. Russia will remember your feat!
+#PAGE6 Missions\Pictures\russia2 4
+  Gua-a-ards! They'll kill us! Run for your lives!
+#PAGE7 Missions\Pictures\mord3_tut 1
+  A Swedish yacht has spotted our ferries! Move it!
+#PAGE8 Missions\Pictures\mord2_tut 14
+  You have come across a small Swedish settlement with a weak garrison. To your great surprise, the locals rushed out in a desperate attack to protect their homes.
+#PAGE9 Missions\Pictures\mord_tut 10
+  You reach your camp and meet a field commander there: "What are you doing here, you idlers?! Attack at once. To the west, attack Narva!!! Quick march!!!"

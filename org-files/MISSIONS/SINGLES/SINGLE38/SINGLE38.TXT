@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{A} Foiled Negotiations
+
+Current objectives:
+{B}Demolish the Russian city.
+
+Russia is holding negotiations with the Portuguese, who reign at sea and control the islands with their gold deposits.  
+Foil the negotiations by killing one of the Russian diplomatic delegations en route to a Portuguese city.  
+Having paid the Saxons to pass through their territory, you can occupy advantageous positions that will enable you to shell the Russian city. 
+
+#PAGE0 Missions\Pictures\poland 7
+Russia is holding negotiations with the Portuguese, who reign at sea and control the islands with their gold deposits. 
+Foil the negotiations by killing one of the Russian diplomatic delegations en route to a Portuguese city. 
+Having paid the Saxons to pass through their territory, you can occupy advantageous positions that will enable you to shell the Russian city.
+
+#PAGE1 Missions\Pictures\England 9
+It will cost you 5,000 in gold to pass through our territory. Do you agree to pay? 
+
+#PAGE2 Missions\Pictures\England 9
+You are short of money. 
+
+#PAGE3 Missions\Pictures\England 9
+Remove your troops from our territory or pay.
+
+#PAGE4 Missions\Pictures\England 9
+Your troops are trespassing. This is a clear declaration of war! 
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

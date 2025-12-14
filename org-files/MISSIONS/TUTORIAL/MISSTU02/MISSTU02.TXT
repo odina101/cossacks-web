@@ -1,0 +1,121 @@
+#BRIEFING faces 0
+{A}Tactics and Strategy
+
+You must complete the whole tutorial to win.
+#P1 NONE
+  What unit formations are possible in the game?
+#P1_1 Missions\Pictures\mord2_tut 0
+  Having selected an officer, you will be able to create three kinds of formations:
+       1. Rank;
+       2. Column;
+       3. Square.
+  The number of fighters in the formation depends on the number of soldiers near the officer that organizes it. A formation may include 36, 72, 120 or 196 soldiers.
+#P2 NONE
+  How do I effectively use an infantry formation of units with cold steel?
+#P2_1 Missions\Pictures\mord2_tut 1
+  Use rank formations in most cases. A formation ordered to "Stand Ground" has good attack (+9) and defence (+9) parameters. Only a force several times stronger may annihilate such a formation. You can build a virtually impenetrable wall of pikemen.
+#P3 NONE
+  How do I effectively use an infantry formation of units with handguns?
+#P3_1 Missions\Pictures\mord2_tut 2
+  Shooting units with bayonets are best in hollow square formations. This multipurpose infantry can provide effective fire and even fight back cavalry in close combat. A square can also be used to safeguard musketeers or artillery inside the formation.
+#P4 NONE
+  Why do I create an artillery formation?
+#P4_1 Missions\Pictures\mord2_tut 3
+  An artillery formation, or battery, is easily selected with a single mouse-click. Cannon in the battery are positioned in the most convenient order.
+#P5 NONE
+  How do I effectively use combinations of formations made up of different types of forces?
+#P5_1 Missions\Pictures\mord2_tut 4
+  Your first line should be composed of cannon and multi-barrelled cannon. These will stop frontal attacks with grapeshot fire. They can also shell enemy lines with cannonballs. Your second line should consist of howitzers. They are effective against enemy lines. In addition, they may be put forward at any time to shell walls and buildings. Your third line and flanks should be made up of pikemen or similar units. The fourth line holds your mortars. The fifth line or flanks should consist of assault cavalry.
+#P6 NONE
+  What is the difference between light and heavy cavalry?
+#P6_1 Missions\Pictures\mord2_tut 5
+  Light cavalry has minor defence and attack parameters, but is highly manoeuvrable. Heavy cavalry is slower but very powerful and has good defence parameters.
+#P7 NONE
+  How do I effectively combine cavalry and formations of different types?
+#P7_1 Missions\Pictures\mord2_tut 6
+  The following combinations are advantageous:
+    1. Pikemen are the first to enter the combat, followed by heavy cavalry.
+    2. The heavy cavalry goes into action, covered from the rear by musketeers.
+    3. The light cavalry goes into action, followed by the infantry. The cavalry gives ground to the infantry.
+    4. The light cavalry attacks and defeats small formations or individual units. Pikemen and musketeers are always ready to go into action.
+    5. Light cavalry terrorizes the enemy's rear while the main army advances.
+#P8 NONE
+  What is the use of a diplomatic centre?
+#P8_1 Missions\Pictures\mord2_tut 7
+  To defend your base, you can quickly engage a powerful (expensive) army that will fight the enemy back. If you decide to attack the enemy with units recruited via the diplomatic centre, you should remember that you have to spend much gold to maintain them while they advance on the enemy. If you run out of gold, your mercenaries will revolt against you. All mercenaries are weaker than regular soldiers of the same type.
+#P9 NONE
+  When do I hire roundshiers in a diplomatic centre?
+#P9_1 Missions\Pictures\mord2_tut 8
+  If you are fighting for Austria and have regular roundshiers, the recruited ones may trick your enemy into thinking that they are all regular forces and he may fall back, believing your force to be greatly superior.
+#P10 NONE
+  When do I hire Turkish infantry?
+#P10_1 Missions\Pictures\mord2_tut 9
+  Turkish infantry should definitely be hired if you are fighting for Algeria or Turkey. This will mislead your enemies as to the number of your regular army. These mercenaries are inexpensive but much weaker than their regular counterparts.
+#P11 NONE
+  What is the purpose of archers hired in a diplomatic centre?
+#P11_1 Missions\Pictures\mord2_tut 10
+  Archers are the cheapest mercenaries. These are best used to set buildings and vessels on fire.
+#P12 NONE
+  When do I hire grenadiers in a diplomatic centre?
+#P12_1 Missions\Pictures\mord2_tut 11
+  Grenadiers are very strong in combination with any other infantry units. They are also effective in blowing up walls and towers with grenades.
+#P13 NONE
+  What is the use of mercenary Cossacks?
+#P13_1 Missions\Pictures\mord2_tut 12
+  A Cossack is one of the fastest units. It is best used for sabotage raids - capturing enemy mines, buildings, artillery and peasants.
+#P14 NONE
+  When do I hire dragoons?
+#P14_1 Missions\Pictures\mord2_tut 13
+  Dragoons are expensive marksmen that spend much gunpowder and iron for shooting. However, if you have more than enough resources, 50 dragoons can cause a devastating amount of damage to the enemy with their raids on infantry units with cold steel.
+#P15 NONE
+  How does infantry efficiency depend on their numbers?
+#P15_1 Missions\Pictures\mord2_tut 14
+  The more, the better.
+#P16 NONE
+  How does the efficiency of infantry units with handguns depend on their numbers?
+#P16_1 Missions\Pictures\mord2_tut 15
+  Musketeers tend to kill approximately once every 25 shots. Thus, 200 or more musketeers create a firewall that can hardly be breached, even by heavy cavalry.
+#P17 NONE
+  How does archers' efficiency depend on their numbers?
+#P17_1 Missions\Pictures\mord2_tut 16
+  Archers are the weakest units in the game. However, if you like hit-and-run tactics, they may be quite useful.
+#P18 NONE
+  How do a formation's parameters change after toggling on "Stand Ground"?
+#P18_1 Missions\Pictures\mord2_tut 17
+  When the "Stand Ground" mode is activated, a small bar will appear in the icon. When the time is out, the formation will obtain an attack bonus of +9 and a defence bonus of +9.
+#P19 NONE
+  What does the icon "Go and Attack" do?
+#P19_1 Missions\Pictures\mord2_tut 18
+  Select an assault squad, click on this icon and indicate the destination by right-clicking. The units will reach the spot you have indicated and kill everyone on their way.
+#P20 NONE
+  Why do I use a multi-barrelled cannon?
+#P20_1 Missions\Pictures\mord2_tut 19
+  A multi-barrelled cannon fires grapeshot, though at shorter range than a field cannon. However, military forces shelled by a multi-barrelled cannon will be considerably weakened and can be easily beaten by light cavalry.
+#P21 NONE
+  How can I effectively use cannon in close combat?
+#P21_1 Missions\Pictures\mord2_tut 20
+  Select a number of cannons and order them not to fire in order to toggle this mode on. Let the enemy approach as close as possible and click the icon again to toggle it off. Grapeshot fire will simply blow the attackers away.
+#P22 NONE
+  How do I breach a defensive line of cannons?
+#P22_1 Missions\Pictures\mord2_tut 21
+  After a grapeshot volley, a cannon needs much time to reload. Therefore you will have to sacrifice several weak units to make all enemy cannons fire. Then a cavalry attack should follow. While the enemy cannons are being reloaded, your cavalry should smash the guards and capture the artillery.
+#P23 NONE
+  How do I organize an effective defence using my walls and towers?
+#P23_1 Missions\Pictures\mord2_tut 22
+  Always build towers outside the wall. Towers should be fully upgraded for the number of cannons inside. A durability upgrade is also required for towers and walls. Several peasants should repair partially destroyed walls and towers. If enemy grenadiers assault your fortifications, open the gate and conduct a cavalry sally.
+#P24 NONE
+  How do I capture an unassailable fortress?
+#P24_1 Missions\Pictures\mord2_tut 23
+  Towers should be demolished with cannon and mortars. Walls can be destroyed with howitzers and grenadiers supported by your major forces.
+#P25 NONE
+  What is a mortar?
+#P25_1 Missions\Pictures\mord2_tut 24
+  A mortar is a long-range cannon effective against towers, mines and other buildings. Its life index is below 5000.
+#P26 NONE
+  What are the drawbacks of a mortar?
+#P26_1 Missions\Pictures\mord2_tut 25
+  It spends too much for a shot. To destroy a tower, it may sometimes require 3,000 iron and 4,000 coal.
+#P26_2 NONE
+  We congratulate you on the successful completion of your second tutorial mission!
+#P26_3 Missions\Pictures\mord_tut 37
+  The supreme command rewards you with a medal for your success in military science and effective commanding. You are now ready to face challenges from powerful enemies, but if you keep on training, you will soon learn more subtleties of warfare and be able to pulverize very strong and experienced rivals.

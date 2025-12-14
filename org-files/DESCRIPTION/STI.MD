@@ -1,0 +1,1 @@
+Infantryman armed with a musket. Suitable for long-range fire. Wears armour that protects him well against bullets and splinters. Will not shoot if the enemy is too close. Medium attack parameters. Takes a long time to create.

@@ -1,0 +1,125 @@
+12
+Tutorial Campaign
+Missions\Tutorial\Tutorial.txt
+Interface\Background_Tutorial_Campaign.bmp
+5
+#Tutorial1 ON 1 1 1
+#Tutorial2 ON 1 1 1
+#Tutorial3 ON 1 1 1
+#Tutorial4 ON 1 1 1
+#Tutorial5 ON 1 1 1
+Tutorial Classrooms
+Missions\TUTORIAL\Tut_camp.txt
+Interface\Background_Tutorial_Campaign.bmp
+3
+#MISSTU01 ON  1 1 1
+#MISSTU02 ON  2 2 2
+#MISSTU03 ON  0 0 0
+Caribbean Pirates
+Missions\England\Eng_camp.txt
+Interface\Background_England_Campaign.bmp
+8
+#MISSEN01 ON  1 1 1
+#MISSEN02 OFF  2 2 2
+#MISSEN03 OFF  3 3 3
+#MISSEN04 OFF  4 4 4
+#MISSEN05 OFF  5 5 5
+#MISSEN06 OFF  6 6 6
+#MISSEN07 OFF  7 7 7
+#MISSEN08 OFF  0 0 0
+War of Independence
+Missions\Ukraine\Ukr_camp.txt
+Interface\Background_Ukrainian_Campaign.bmp
+7
+#MISSUK01 ON  1 1 1
+#MISSUK02 OFF  2 2 2
+#MISSUK03 OFF  3 3 3
+#MISSUK04 OFF  4 4 4
+#MISSUK05 OFF  5 5 5
+#MISSUK06 OFF  6 6 6
+#MISSUK07 OFF  0 0 0
+Serving the Cardinal
+Missions\France\Frn_camp.txt
+Interface\French_Campaign_Background.bmp
+10
+#MISSFR01 ON  1 1 1
+#MISSFR02 OFF  2 2 2
+#MISSFR03 OFF  3 3 3
+#MISSFR04 OFF  4 4 4
+#MISSFR05 OFF  5 5 5
+#MISSFR06 OFF  6 6 6
+#MISSFR07 OFF  7 7 7
+#MISSFR07A OFF  8 8 8
+#MISSFR08 OFF  9 9 9
+#MISSFR09 OFF  0 0 0
+A Window to Europe
+Missions\Russia\Rus_camp.txt
+Interface\Background_Russian_Campaign.bmp
+8
+#MISSRU01 ON  1 1 1
+#MISSRU02 OFF  2 2 2
+#MISSRU03 OFF  3 3 3
+#MISSRU04 OFF  4 4 4
+#MISSRU05 OFF  5 5 5
+#MISSRU06 OFF  6 6 6
+#MISSRU07 OFF  7 7 7
+#MISSRU08 OFF  0 0 0
+Encircled by Fire
+Missions\Saxony\Sax_camp.txt
+Interface\Background_Campaign_Saxonian.new.bmp
+5
+#MISSAX01@ ON  1 1 1
+#MISSAX02@ OFF 2 2 2
+#MISSAX03@ OFF 3 3 3
+#MISSAX04@ OFF 4 4 4
+#MISSAX05@ OFF 1 1 1
+Under the banner of King Frederick 
+Missions\Prussia\Pru_camp.txt
+Interface\Background_Campaign_Prussia.New.bmp
+5
+#MISSPRU01@ ON  1 1 1
+#MISSPRU02@ OFF 2 2 2
+#MISSPRU03@ OFF 3 3 3
+#MISSPRU04@ OFF 4 4 4
+#MISSPRU05@ OFF 1 1 1
+Champion of the Empire
+Missions\Austria\Aus_camp.txt
+Interface\Background_Campaign_Austria.new.bmp
+10
+#MISSAU01@ ON  1 1 1
+#MISSAU02@ OFF 2 2 2
+#MISSAU03@ OFF 3 3 3
+#MISSAU04@ OFF 4 4 4
+#MISSAU05@ OFF 5 5 5
+#MISSAU06@ OFF 6 6 6
+#MISSAU07@ OFF 7 7 7
+#MISSAU08@ OFF 8 8 8
+#MISSAU09@ OFF 9 9 9
+#MISSAU10@ OFF 1 1 1
+Noble's Honour
+Missions\Poland\Pol_camp.txt
+Interface\Background_Campaign_Poland.new.bmp
+5
+#MISSPO01@ ON  1 1 1
+#MISSPO02@ OFF 2 2 2
+#MISSPO03@ OFF 3 3 3
+#MISSPO04@ OFF 4 4 4
+#MISSPO05@ OFF 1 1 1
+Grand Bey
+Missions\Algeria\Alg_camp.txt
+Interface\Background_Campaign_Algeria.new.bmp
+5
+#MISSAL01@ ON  1 1 1
+#MISSAL02@ OFF 2 2 2
+#MISSAL03@ OFF 3 3 3
+#MISSAL04@ OFF 4 4 4
+#MISSAL05@ OFF 1 1 1
+Over the Horizon
+Horizon\Horizon.txt
+Horizon\Background_Horizon_Campaign.bmp
+5
+#Horizon1 ON 1 1 1
+#Horizon2 OFF 2 2 2
+#Horizon3 OFF 3 3 3
+#Horizon4 OFF 4 4 4
+#Horizon5 OFF 0 0 0

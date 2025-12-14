@@ -1,0 +1,38 @@
+#BRIEFING faces 0
+{A} Azov
+
+Crush the Russian forces in this region to win.
+!You will lose if the mosque is destroyed.
+!The locals will render you tremendous assistance. (turquoise)
+ 
+ Current objective:
+Build a military settlement as soon as possible and crush the Russians.
+	
+#PAGE1 Missions\Pictures\Ukraine 7
+It is quiet along the borders, but you must nonetheless be prepared for the infidels to invade.
+#PAGE2 Missions\Pictures\mord2_tut 10
+Protect the mosque, it is a stronghold of faith to our warriors!
+#PAGE3 Missions\Pictures\mord2_tut 2
+Russian troops are already at your borders! It appears the war has begun.
+#PAGE4 Missions\Pictures\england 10
+-Your allies are running out of resources. If you use your packhorses to deliver them resources, your allies will render you assistance. Take packhorses to your market.
+#PAGE5 Missions\Pictures\austria 4
+Packhorses have been loaded and are ready to go.
+#PAGE6 Missions\Pictures\austria 44
+As a token of their gratitude, your allies have granted you a small amount of troops.
+#PAGE7 Missions\Pictures\faces 25
+-Hold the borders at any price!
+#PAGE8 Missions\Pictures\Russia 32
+-Thank you for your help. Now guide our warriors! 
+#PAGE9 Missions\Pictures\poland 3
+-These rich deposits are at your disposal. Take peasants inside.
+#PAGE10 Missions\Pictures\poland 18
+-At last the news has reached the capital, and they are sending reinforcements. Now we can attack.
+#PAGE19 Missions\Pictures\mord_tut 15
+-Unfortunately, you have failed to withstand the pressure of the Russian troops. The mosque has been destroyed.
+#PAGE20 Missions\Pictures\Russia 24
+Russia will remember this day forever!
+#PAGE21 Missions\Pictures\Ukraine 22
+You have been given fields.
+#PAGE22 Missions\Pictures\Ukraine 22
+You have lost your troops and your hope of victory! 

@@ -1,0 +1,120 @@
+#BRIEFING faces 0
+{A}Desert Warriors
+ 
+You will win if you defeat the Spanish fleet.
+You will lose if the town hall, artillery depot, blacksmith or shipyard are lost.
+ 
+  Current objectives:
+{B}Destroy the nomad camp (eliminate the guards)
+{C}~Defeat the nomads~
+{D}Capture the Algerian town hall
+{E}~Capture the Algerian town hall~
+{F}Ransack Spanish ships (they are cruising in the northern waters; to ransack a ship you must founder it)
+{G}~Ransack Spanish ships~
+{H}Destroy Spanish ports
+{J}~Destroy Spanish ports~
+{K}Prepare for the defence (form a powerful fleet)
+{L}~Prepare for the defence~
+{M}Defeat the Spanish fleet (sink all the Spanish ships attacking your town)
+{N} 
+! Store wood in order to trade with Algiers
+#PAGE0 Missions\Pictures\mord3_tut 10
+  As the emir and Allah have willed it so, you have been promoted to the rank of Bey of Tunis. Outrageous nomadic raids have been preventing the people of your glorious city from living in peace for several years. The time has come to put an end to this misery. Defeat the raiders in the south-east.
+#PAGE0 Missions\Pictures\ukraine 15
+  The trade with Algiers, your western neighbour, is a good source of income for your city. Algerian merchants pay good money for the wood we provide them with. But the Spanish refuse to trade with us. Therefore, our sailors must take their goods by ransacking and sinking their freighters.
+#PAGE1 Missions\Pictures\mord_d 3
+  You have accumulated enough wood to send it to Algiers by caravan. Take the packhorses to the market to be loaded.
+#PAGE2 Missions\Pictures\austria 12
+  The packhorses are loaded and ready to go! Take them to the Algerian storehouse.
+#PAGE3 Missions\Pictures\austria 44
+  Congratulations on your successful bargain! The wood has been sold for %d in gold.
+#PAGE4 Missions\Pictures\poland 5
+  You shall pay for this, sons of jackals! Our brothers will avenge us!
+#PAGE4 Missions\Pictures\austria 43
+  You defeated the gang of robbers. Your soldiers have no scruples about searching the corpses. They have found 23 pieces of gold.
+#PAGE5 Missions\Pictures\poland 5
+  Kill these jackals! Allah be with us!
+#PAGE6 Missions\Pictures\poland 3
+  Your people encounter a squad of mercenaries. "Bey! If you want to recruit the best warriors under the sun, pay 2,000 in gold!"
+#PAGE6A Missions\Pictures\poland 3
+  So be it! Put us into action, great bey!
+#PAGE6B Missions\Pictures\poland 3
+  We are truly the best! However, if you insist ... too bad. It's your loss, not ours. We will remain here just in case you choose to correct your mistake.
+#PAGE6C Missions\Pictures\poland 3
+  Ah, you have come to recruit us, am I right? Very well! Give us 2,000 in gold, and you will find us the best warriors that ever served you, great bey.
+#PAGE6D Missions\Pictures\poland 3
+  You lying dogs, you would deceive us, would you?! For this you shall all die!
+#PAGE7 Missions\Pictures\poland 4
+  You have found a chest filled with %d in gold.
+#PAGE8 Missions\Pictures\faces 15
+  You have found %d in gold in the chest.
+#PAGE9 Missions\Pictures\ukraine 14
+  An Algerian bey, blinded by greed, has declared war on you. Capture the Algerian town hall and break your greedy neighbour's bad habit.
+#PAGE9 Missions\Pictures\ukraine 14
+  Your merchants report that trade with Algiers has been suspended due to the war.
+#PAGE10 Missions\Pictures\mord2_tut 16
+  The guards at the gates of Algiers say, "Only packhorses can pass through the gates of Algiers! Armed men are not permitted!"
+#PAGE11 Missions\Pictures\mord_tut 29
+  Having cleared the holds of the Spanish ship you have sunk it. You found %d ducats.
+#PAGE11A Missions\Pictures\england 5
+  You have sunk the Spanish freighter. Unfortunately, its hold was empty.
+#PAGE12 Missions\Pictures\austria 36
+  You have defeated the nomads and burnt their settlement. This will happen to everybody who opposes your city.
+#PAGE13 Missions\Pictures\austria 2
+  A finely clad European addresses you. "Thank you for your help, gentlemen. The bandits wished to elicit from me the secret hiding place of the gold. I shall be happy to reveal the place to you, but first I must ask a favour of you: Return my packhorses to me. The bandits have taken them to their camp."
+#PAGE13A Missions\Pictures\austria 2
+  Their camp is in the south-east. Good luck!
+#PAGE13B Missions\Pictures\austria 2
+  If you kill me, my secret will die with me. Therefore I would suggest you listen to what I have to say.
+#PAGE13C Missions\Pictures\austria 2
+  Very well! I will tell you everything! The gold is hidden in the desert to the south, under the large stone on the rim of the chasm.
+#PAGE14 Missions\Pictures\austria 2
+  You have returned the merchant's packhorses to him. Overcome by gratitude, he tells you about his hiding place. "The gold is hidden in the desert to the south, under the large stone on the rim of the chasm."
+#PAGE14A Missions\Pictures\austria 2
+  You have returned the merchant's packhorses to him. "What a pity! Most of my goods are ruined! I cannot give away my gold. I will need it for a new caravan".
+#PAGE15 Missions\Pictures\england 17
+  The warriors have found a leather bag containing %d in gold under the large stone.
+#PAGE16 Missions\Pictures\faces 1
+  You receive a letter from the merchant you saved from the nomads. "May you live long, Bey of Tunis. I hear your trade relations with Algiers have been broken, therefore I want to offer you my services. Of course, I cannot pay you as generously for the wood as the Algerian merchants did, but I am prepared to offer quite lucrative conditions: %d pieces of gold for each caravan carrying 4,000 units of wood."
+#PAGE16A Missions\Pictures\austria 2
+  "Since your trade relations with Algiers have been severed, I offer you my services. Of course, I cannot pay as generously for the wood as the Algerian merchants did, but I am prepared to offer quite lucrative conditions: %d pieces of gold for each caravan carrying 4,000 units of wood."
+#PAGE17 Missions\Pictures\austria 37
+  The town hall has been destroyed! You have lost!
+#PAGE17A Missions\Pictures\austria 37
+  The port has been destroyed! You have lost!
+#PAGE17B Missions\Pictures\austria 23
+  The artillery depot has been destroyed! You have lost!
+#PAGE17C Missions\Pictures\austria 31
+  The blacksmith has been destroyed! You have lost!
+#PAGE18 Missions\Pictures\mord3_tut 7
+  Rumours have reached you that Spain is preparing a fleet to attack Tunis. Destroy the enemy shipyards to prevent the progress of their armada.
+#PAGE19 Missions\Pictures\mord3_tut 0
+  Perfect! You have destroyed the Spanish shipyards close to the colonies of Tunis. The Spanish crown will be less than amused, therefore you must prepare for the defence. It is possible the Spanish fleet will come to destroy your city.
+#PAGE20 Missions\Pictures\mord3_tut 8
+  The Spanish fleet has been destroyed! Congratulations on the successful accomplishment of your mission.
+#PAGE21 Missions\Pictures\mord3_tut 12
+  Your warriors have captured the town hall of Algiers. The greedy bey was executed on the spot. The enemy's morale has been seriously undermined. Finish the guards, and Algiers will be in your hands!
+#PAGE21 Missions\Pictures\mord3_tut 11
+  Captive Algerian engineers have agreed to teach your builders how to build walls and towers.
+#PAGE21A Missions\Pictures\mord3_tut 14
+  The Algerian town hall has been destroyed, and the greedy bey lies buried beneath the ruins. The enemy's morale has been seriously undermined. Finish the guards, and Algiers will be in your hands!
+#PAGE22 Missions\Pictures\mord_tut 2
+  Your troops have captured the Algerian mosque. Among rows and rows of worthless books and scrolls you found a few precious writings. One of them teaches you the secret of building xebecs.
+#PAGE23 Missions\Pictures\austria 2
+  Wonderful! The goods have arrived! Here are your %d pieces of gold, as we agreed.
+#PAGE24 Missions\Pictures\austria 12
+  The packhorses are loaded and ready to go. Take them to the merchant's tent to strike a bargain with him.
+#PAGE25 Missions\Pictures\austria 25
+ You have destroyed the pirates' shipyard. Now your sailors are the only threat for local trade ships.
+#PAGE26 Missions\Pictures\mord_d 3
+  You have accumulated enough wood to send with the caravan. Take the packhorses to the market to be loaded.
+#PAGE27 Missions\Pictures\mord3_tut 9
+  Your soldiers' attention has been drawn to the tower near the pirates' shipyard. "Our archers will never reach this tower! It's too high!"
+#OTST1 Missions\Pictures\mord_d 7
+  Shipyards are located on the two peninsulas in the north-western and north-eastern corners of the map.
+#OTST2 Missions\Pictures\mord_n 9
+  To successfully perform pirate raids, you will require iron and coal. The hills to the west and east of Tunis are rich in these minerals, but before arranging for provisions you will have to eradicate local tribes.
+#OTST3 Missions\Pictures\mord_tut 8
+  The secret of your neighbour's wealth is the gold mine to the west of Algiers. Capture the mine to supply your town with a constant influx of gold.
+#OTST4 Missions\Pictures\england 35
+  Now it's high time you set up your fleet. Build warships and attack the Spanish trade vessels. Piracy is an excellent means of enriching yourself at the expense of your enemies.

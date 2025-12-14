@@ -1,0 +1,45 @@
+#BRIEFING faces 0
+{A} Coal Union
+
+Current objectives:
+{B}Defeat your opponent.
+{C}Protect and liberate the ally's village.
+{F}~Liberate the ally's village.~
+{D}Capture gold from the pirates.
+{G}~Capture gold from the pirates.~
+{E}Prevent your opponent's ally from supplying him with coal. 
+{H}~Prevent your opponent's ally from supplying him with coal.~
+
+Only your main character can speak to mission characters. 
+	
+#PAGE0 Missions\Pictures\poland 7
+You control a Turkish city. 
+Your territory has no deposits. You will have to trade food for stone with your allies on the island. 
+Have your main character approach the merchant at the market and agree to outfit trade caravans. 
+When you liberate the allied town, you'll be able to purchase cannons from the officer at the artillery depot in the east, and then trade food with the town for a good profit.   
+Your opponent receives big coal supplies from an ally in the north-east, across the sea. It would be wise for you to neutralise that ally. 
+
+#PAGE1 Missions\Pictures\poland 8
+Rumour among sailors has it there is an island where pirates have buried their loot. 
+ 
+#PAGE2 Missions\Pictures\Ukraine 10
+In the pit you find a treasure of 10,000 in gold! 
+
+#PAGE3 Missions\Pictures\Ukraine 10
+Awaiting your orders, master. 
+
+#PAGE4 Missions\Pictures\Ukraine 10
+You need to transport the packhorse to the allied island and unload it at the gates. 
+
+#PAGE5 Missions\Pictures\Ukraine 10
+What would you like to purchase?
+
+#PAGE6 Missions\Pictures\Ukraine 10
+We are short of provisions to load a packhorse. 
+
+#PAGE7 Missions\Pictures\Ukraine 10
+You have liberated the city!
+Now you can start trading.
+
+#PAGE8 Missions\Pictures\Ukraine 10
+You have defeated your opponent's ally. This will put an end to coal supplies. 

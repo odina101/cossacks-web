@@ -1,0 +1,23 @@
+#BRIEFING faces 0
+{A}Baltic Campaign
+
+Eliminate all Swedish peasants (including mine workers) and all Swedish town halls to win.
+You will meet with failure if you lose all your peasants and town halls.
+#PAGE1 Missions\Pictures\russia 18
+  Your primary objective is to build a well-fortified city and create a strong fleet. Wipe out the Swedes if they try to interfere.
+#PAGE2 Missions\Pictures\russia 29
+  The Swedes have been annihilated! What a glorious victory!
+#PAGE3 Missions\Pictures\mord3_tut 14
+  All your peasants are dead and your city lies in ruins. You have been defeated.
+#PAGE4 Missions\Pictures\russia2 3
+  That's our gold! Get out while the going's good!
+#PAGE5 Missions\Pictures\russia 23
+  A letter from the Tsar: "Russia needs a fleet! Your mission is to procure 100,000 units of wood and send it to the metropolis."
+#PAGE6 Missions\Pictures\russia 22
+  It's time to send the timber! Gather 100,000 units of wood or the sovereign will go wild.
+#PAGE7 Missions\Pictures\mord_tut 37
+  You have sent 100,000 units of wood to the capital. The Tsar has given you a medal for your loyal service.
+#PAGE7A Missions\Pictures\mord_n 0
+  You failed to follow the Tsar's instructions and are demoted! Mission failed!
+#PAGE8 Missions\Pictures\russia 27
+  The Tsar sends you 10,000 in gold for your military necessities.

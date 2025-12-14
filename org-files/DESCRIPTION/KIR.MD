@@ -1,0 +1,1 @@
+Heavy cavalryman armed with a broadsword. His armour protects him from bullets and splinters. Effective against infantry and cavalry. Good attack and defence parameters. Takes only a short time to create. Expensive to create.

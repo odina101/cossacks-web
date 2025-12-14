@@ -1,0 +1,75 @@
+#BRIEFING faces 0
+{A}A Long Way to Lorraine
+#PAGE3 Missions\Pictures\faces 24
+  A dispatch from Paris:
+  "A myrmidon of his Eminence is in the Huguenots' clutches.
+  A reward will be paid for his liberation."
+#PAGE4 Missions\Pictures\faces 17
+  A recently dismissed mercenary squad would like to join you - for a pretty sum (50 louisdors). Should you refuse, they threaten they will take offence and cut your throat.
+#PAGE5 Missions\Pictures\faces 5
+  The bandits you just exterminated had plundered a lot. You receive a considerable benefit (100 louisdors). Open the gates and proceed.
+#PAGE6 Missions\Pictures\faces 10
+  You have killed the son of the Baron de Bressis and are threatened with revenge. The  sergeant advises you to close the gates and hole up in the camp for a while.
+#PAGE7 Missions\Pictures\faces 21
+  This territory is controlled by the King's henchman General de Gueclin. You are advised to choose another route, or you will be dismissed.
+#PAGE8 Missions\Pictures\faces 1
+  You have received the King's order to hand over your howitzer to this stronghold to strengthen its defences. The commander of the fortress will compensate you for this disadvantage with 100 louisdors.
+#PAGE9 Missions\Pictures\faces 13
+  Welcome to our stronghold! We are always glad to see the King's myrmidons.
+#PAGE10 Missions\Pictures\faces 27
+  The gang chieftain offers his assistance - not for free, of course.
+#PAGE11 Missions\Pictures\faces 20
+  Our city is besieged. Your squad is too small to help us. Proceed through the city to another gate and rendezvous with reinforcements. Together you will be able to break the siege.
+#PAGE12 Missions\Pictures\faces 19
+  You are in a tough situation. The city where you have met your reinforcements was captured by the King's enemies. Many of your supporters perished in the doomed battle.
+#PAGE13 Missions\Pictures\faces 34
+  Greetings, monsieur.
+  We will escort you and do our best to lead you out of this hell.
+#PAGE14 Missions\Pictures\faces 3
+  There are no roads here, and swamps are all around us. We cannot go this way.
+#PAGE15 Missions\Pictures\faces 4
+  You have killed a notorious rogue who had been terrorizing the neighbourhood for years. The bounty amounted to 250 louisdors. The reward will be paid immediately.
+#PAGE16 Missions\Pictures\faces 17
+  Hey, you! It will cost you to go this way! Spare your purse and we'll not spare your lives! Don't even think of taking up your weapons - we are the most malicious raiders in this province! Try and fight us and you'll die a terrible death!
+#PAGE17 Missions\Pictures\faces 21
+  The local bishop has established a toll gate here. If you lack money, go and sell some resources at the city market.
+#PAGE18 Missions\Pictures\faces 29
+  Monsieur, we are the Bishop's servants. We have been ordered to collect payments from all who pass this road. The toll for your squad is 1,000 louisdors. We realize it is a substantial sum, but the money will be used for charitable purposes.
+#PAGE19 Missions\Pictures\faces 5
+  Count your money again! You don't have 1,000 louisdors in this purse!
+#PAGE20 Missions\Pictures\faces 11
+  Your guide, the devout priest Buisonis, is under arrest. You can easily liberate him at present, as the fortress is practically undefended.
+#PAGE21 Missions\Pictures\faces 20
+  Noblemen of Lorraine are hatching a plot against the King. You are to seize the conspirators' castles and arrest or kill the plotters. All previous attempts to catch the offenders have failed. Our squad will aid you in this challenging and significant mission.
+#PAGE22 Missions\Pictures\faces 0
+  The King congratulates you on the success of your mission. We are returning to Paris to receive new orders. You may proceed to your destination.
+#PAGE23 Missions\Pictures\faces 5
+  The King is very grateful and sends you a gift of 500 louisdors and a golden ruby-decorated snuffbox.
+#PAGE24 Missions\Pictures\faces 10
+  You have failed. Your reinforcements have been slaughtered. The King is very disappointed.
+#PAGE25 Missions\Pictures\faces 4
+  Your hero is dead. Mission failed.
+#PAGE26 Missions\Pictures\faces 11
+  Thank you for this timely rescue! I will guide you to where workers are awaiting you. There you will be able to build barracks and assemble an army.
+#PAGE27 Missions\Pictures\faces 28
+  Mission failed. The Cardinal's myrmidon, the priest Buisonis, is dead.
+#PAGE28 Missions\Pictures\faces 34
+  Mission failed. Stupidity and impudence are not the best virtues. Try to pay more attention to your commanders' orders in future.
+#PAGE29 Missions\Pictures\faces 19
+  Here you can begin camp construction and assemble armies.
+#PAGE30 Missions\Pictures\faces 34
+  Monsieur, our mission is accomplished. The King orders us to return to our camp.
+#PAGE31 Missions\Pictures\faces 9
+  Sir, you make a perfect target! I've often dreamt of meeting someone like you!
+#PAGE32 Missions\Pictures\faces 21
+  Men of courage, eh? Meet our pikes!
+#PAGE33 Missions\Pictures\faces 11
+  Save me! France will appreciate your heroic feat!
+#PAGE34 Missions\Pictures\faces 25
+  There's a howitzer on the crest! It could be very useful to us.
+#PAGE35 Missions\Pictures\faces 25
+  You must attack and eliminate the howitzer's guard at once! Then you will be able to capture the gun. You won't be able to do without artillery in future!
+#PAGE36 Missions\Pictures\faces 17
+  Gentlemen with empty pockets are often seen nowadays. What has become of poor France?! We don't rob beggars and paupers. Take these alms and go in peace.
+#PAGE37 Missions\Pictures\faces 4
+  You have accidentally killed the priest in the skirmish. The King is very disappointed.

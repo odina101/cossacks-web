@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A}Two Bridges
+
+!Neutralise your opponents to win. 
+!You will lose if you have no troops and peasants left. 
+
+#PAGE1 Missions\Pictures\austria 10
+You must break the alliance of Austria and Turkey.  
+
+#PAGE2 Missions\Pictures\mord_tut 0
+You must stop the enemy at the bridges by any means necessary.   
+
+#PAGE3  Missions\Pictures\algeria 2
+The Turks have been defeated!! 
+
+#PAGE4  Missions\Pictures\austria 9
+The Austrians have been defeated!
+
+#PAGE5  Missions\Pictures\england 25
+You have won!
+
+#PAGE6  Missions\Pictures\mord_d 2
+You have been defeated.
+
+#PAGE7  Missions\Pictures\austria 0
+A Spanish trade vessel has arrived at your port. 
+You gain 1,000 in gold from trade operations. 

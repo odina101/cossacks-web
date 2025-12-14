@@ -1,0 +1,61 @@
+#BRIEFING faces 0
+{A}Secret Mission
+Find the caravan of gold in the royal palace and deliver it to your allies to win.
+#P101 Missions\Pictures\faces 11
+  Monsieurs, the King is entrusting you with a very important and top secret mission: You are to escort a caravan of gold to our allies. The fate of our country - the fate of Europe - depends on your success. Your mission won't be easy, but we believe you will overcome all obstacles. May the Lord go with you.
+#P1 Missions\Pictures\faces 21
+  Halt! I am captain of the army of the Netherlands and you are on Dutch soil. We are under orders not to let anybody pass here.
+#P102 Missions\Pictures\faces 8
+  There is a ferry here. We must cross the water to the castle and pick up the freight there. Does anyone here suffer from seasickness? You'd better learn to put up with it, because there's no other way to go.
+#P103 Missions\Pictures\faces 8
+  It's high time we embarked on our journey! We're pressed for time!
+#P1401 Missions\Pictures\faces 11
+  Greetings, my sons! The King of Sweden sent me to warn you: There is a strong enemy force ahead. You'd better avoid combat and try to pass unnoticed. And God forbid you turn off the road!
+#P2 Missions\Pictures\faces 6
+  Greetings, monsieurs! We are here to escort you. Proceed to the middle of the castle. You will find the caravan with gold there.
+#P3 Missions\Pictures\faces 21
+  Hey you! Never poke your nose in other people's business! Let your commander come to the caravan in person and assume command. Money can be transferred to a senior officer only.
+#P4 Missions\Pictures\faces 15
+  Please be careful! The saddlebags on these horses are full of gold, while war rages along your path. The area is swarming with enemy forces, retired mercenaries and common thieves. If anybody finds out about these bags, you are very definitely dead.
+#P5 Missions\Pictures\faces 13
+  It is good to see you! We have been assigned to take you to your destination. We believe we can travel without complications.
+#P6 Missions\Pictures\faces 8
+  Monsieurs, back to the crossing. There is a ferry waiting to take us to the opposite bank.
+#P7 Missions\Pictures\faces 20
+  Greetings. I am a guard of His Majesty, the King of Sweden. I am here to escort you and defend the freight.
+#P8 Missions\Pictures\faces 21
+  Halt! Foreign soldiers are prohibited here! But, if you pay for your passage, we will open the gate.
+#P9 Missions\Pictures\faces 5
+  The soldiers are asking you to raise their wages, because we are now passing through hostile territory and the risk is great.
+#P104 Missions\Pictures\faces 5
+  In this case, the soldiers refuse to obey your orders.
+#P10 Missions\Pictures\faces 15
+  You have captured the enemy's food supplies.
+#P11 Missions\Pictures\faces 1
+  Deserters offer you a detailed map of roads and outposts. They might also take you to your destination - only for a generous award, of course.
+#P12 Missions\Pictures\faces 7
+  You shouldn't have refused. We wished you the best. Our fee is nothing in comparison to the losses that await you. Your greed will cost you the lives of your servants and probably your own, as well as all your money.
+#P13 Missions\Pictures\faces 29
+  Greetings, my lord! I am a usurer and everybody around here knows me. I would like to help you. If you could lend me some money, I would return it tomorrow with a 300% interest. I'm on the point of loosing a good bargain! So, do you want to get rich by lending me a nominal sum?
+#P14 Missions\Pictures\faces 11
+  How do you do, my good man? A swindler is roaming the city. He claims to be a usurer and to be loosing a good bargain. Then he disappears with your money. Never lend him anything!
+#P15 Missions\Pictures\faces 23
+  A local usurer offers you a good bargain. He might buy your captured enemy foodstuff for 5,000 louisdors.
+#P16 Missions\Pictures\faces 0
+  Hello. I've heard you have a good loot. Some foodstuff, eh? I could buy it off you for 25,000 louisdors.
+#P17 Missions\Pictures\faces 0
+  No food? What a pity! There is a famine here, and I could give you as much as 30,000 for it.
+#P18 Missions\Pictures\faces 18
+  Our village is suffering a great disaster. Bandits roam the streets and kill our neighbours. Unless you are a perfect fool, turn back! Death awaits you ahead - a ferocious death!
+#P19 Missions\Pictures\faces 11
+  This territory lies in ruins and people are starving. They ask you to give them some food.
+#P20 Missions\Pictures\faces 34
+  Greetings! This is a residence of Gustaf Adolf, the King of Sweden. Your visit is looked forward to with anticipation.
+#P21 Missions\Pictures\faces 8
+  You have accomplished a well-nigh impossible mission! I admire you. You are one of the bravest citizens of France. The King will reward you generously for your loyalty.
+#P22 Missions\Pictures\faces 4
+  Your hero is dead. Mission failed.
+#P23 Missions\Pictures\faces 1
+  The enemy has captured the caravan carrying the money. Mission failed.
+#P105 Missions\Pictures\kart5 0
+  Try not to get lost!

@@ -1,0 +1,45 @@
+#BRIEFING faces 0
+{A} The Fortress
+
+Victory can only be yours once the enemy is vanquished.
+You will lose if you have no troops left or your main character dies. 
+ 
+#PAGE1 Missions\Pictures\austria 18
+There is a fortress under your command.
+You must prevail in the siege and defeat your opponents in unequal battle. 
+
+#PAGE2 Missions\Pictures\Russia 4
+Protect your allies, who provide ammunition supplies for the fortress. 
+ 
+#PAGE3  Missions\Pictures\austria 9
+You have defeated the Swedes. 
+
+#PAGE4  Missions\Pictures\algeria 2
+The Turks have been vanquished. 
+
+#PAGE5  Missions\Pictures\austria 6
+You have won! Hurray! 
+
+#PAGE6  Missions\Pictures\austria 14
+Sadly, you have lost ...
+
+#PAGE7  Missions\Pictures\Russia 14
+You have perished in battle. The world must learn to live without you. 
+
+#PAGE8  Missions\Pictures\austria 4
+A caravan has arrived. It has delivered 3,000 iron. 
+
+#PAGE9  Missions\Pictures\austria 4
+A caravan has arrived. It has delivered 3,000 coal.
+
+#PAGE10  Missions\Pictures\Russia 29
+The mine guards have died. 
+There will be no more coal supply. 
+
+#PAGE11  Missions\Pictures\Russia 29
+The mine guards have died. 
+There will be no more iron supply. 
+
+#PAGE12  Missions\Pictures\Mord_tut 22
+You have destroyed the diplomatic centre of the brigands. 
+There will be no more raids. 

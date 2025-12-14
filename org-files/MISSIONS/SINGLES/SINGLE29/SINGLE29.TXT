@@ -1,0 +1,62 @@
+#BRIEFING faces 0
+{A} Cossacks in the fields ...
+   and on the banks of the big river.
+   
+Banish all the opponents from this affluent and free country - Ukraine - to win. 
+You will lose if your forces are vanquished. 
+
+#PAGE0 Missions\Pictures\Ukraine 28
+You control a small cossack settlement on the shore of a big river. The settlement is located on rich lands, with plenty of resources and dense woods around, while the waters of the wide river are full of fish. But there is fierce conflict over possession of this world ...       
+Beyond the bridge that spans an arm of a big river, a competing state is exploring the lands. Its borders lie along the water. The stance of that state is rather aggressive, it does not tolerate foreign settlers on these lands.    
+Near your settlement, honest prospectors exploit deposits. 
+However, prospectors are quite peaceful and do not engage in conflict with anybody. 
+Will you be able to retain your positions, build a city, develop a fleet and take the power in your hands?
+
+#PAGE1 Missions\Pictures\poland 19
+A delegation of neighbouring prospectors has arrived in your village:
+- May you have peace in your lands! We are free prospectors, your neighbours, and come to you in peace. We exploit deposits and procure metals and coal from our mines to the west.  
+If you do not treat us with hostility, we think it is likely we will be able to keep up a good neighbourly relationship. 
+We treat our neighbours well, unless of course they attack and capture our mines ... 
+The land is rich and has enough resources for everybody. Good luck! 
+
+#PAGE3 Missions\Pictures\Faces 1
+A message has arrived from the leader of the prospectors: 
+"Dear neighbour. The assault on our mines was a treacherous and short-sighted act! From now on, we cease to regard you as friendly and forbid you to enter our territory. You will regret your act of aggression."  
+
+#PAGE4 Missions\Pictures\Faces 1
+A message has arrived from the prospectors:
+"This was a treacherous and short-sighted act! You will pay heavily for killing our leaders!"
+
+#PAGE5 Missions\Pictures\poland 0
+The commander of the mine guards:
+"Warrior! Do not approach the mine! Otherwise we will open fire."
+
+#PAGE6 Missions\Pictures\mord3_tut 6 
+Fishermen have discovered a small island on the river. It is said to contain deposits of gold, iron and coal. 
+
+#PAGE7 Missions\Pictures\mord2_tut 2
+Scouts have reported that there is a large Swedish army approaching from the north. 
+
+#PAGE9 Missions\Pictures\austria 41
+Among the debris of the enemy cabin you find battle trophies - ingots of gold (%d), some food (%d) and ammunition. 
+
+#PAGE10 Missions\Pictures\faces 14
+Forward all subdivisions! For victory!
+You have succeeded in taking control of the land. 
+Your formidable and uncompromising opponents have been crushed!  
+All trials and gory battles are over and peace has returned to these lands. 
+Until a new threat appears ...
+
+#PAGE11 Missions\Pictures\Ukraine 14
+The Polish army has been defeated (blue opponent).
+
+#PAGE12 Missions\Pictures\Ukraine 14
+All the prospectors' forces have been defeated (green opponent).
+
+
+#PAGE13 Missions\Pictures\Ukraine 14
+A large Swedish army has been defeated (violet opponent).
+
+#PAGE14 Missions\Pictures\Ukraine 20
+Unfortunately, you failed to retain your positions. Your soldiers have been defeated. 
+Maybe you should try again? 

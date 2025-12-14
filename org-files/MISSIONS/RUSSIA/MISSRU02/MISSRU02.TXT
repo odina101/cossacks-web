@@ -1,0 +1,75 @@
+#BRIEFING faces 0
+{A}Tatar Raids
+
+Eliminate all civil Tatar and Turkish buildings to win.
+You will lose if your hero dies.
+!Some characters will talk to your hero.
+!Burn the Tatar settlement to stop nomadic raids.
+#PAGE1 Missions\Pictures\russia 29
+  You are almost there! The road to the south will lead you to the place where you should create an effective squad and march out to face the Tatars.
+#PAGE2 Missions\Pictures\russia 33
+  Who goes there? What do you want?
+#PAGE2A Missions\Pictures\russia 7
+  Open the gate, lackey! Princess Sophia has put me in charge here!
+#PAGE2B Missions\Pictures\russia 33
+  Sorry, Voevode, awfully sorry! Here you are!
+#PAGE3 Missions\Pictures\russia 6
+  A serf yells by your southern gate:
+  "He-e-elp! The Tatars are in the village! They're taking peasants and burning our huts! Save us, someone!"
+#PAGE4 Missions\Pictures\russia 6
+  Ye are a true redeemer! Many thanks from our settlement! We beg for your protection; save us from the Tatars, an' we'll give ye our bread an' brew.
+#PAGE4A Missions\Pictures\russia 7
+  Your brew, you say? Hm, very well, your village is now under my protection.
+#PAGE4B Missions\Pictures\russia 7
+  I am too busy to shepherd your village, villeins. Significant deeds must be done - to cleanse our land of foreigners.
+#PAGE5 Missions\Pictures\russia 7
+  Who are you?
+#PAGE5A Missions\Pictures\russia 4
+  Russian Commander Matiushin and a reconnaissance squad. The Tatars attacked us and we barely escaped. Now we are afraid to move on. What if they attack again?
+#PAGE5B Missions\Pictures\russia 7
+  You want to live? Come with me. You are too small in number to fight the Tatars back again.
+#PAGE5C Missions\Pictures\russia 4
+  I see I have no options. Very well, I acknowledge your command, Voevode. One more thing - we have seen a Tatar settlement to the south-east. The infidels are in position there.
+#PAGE6 Missions\Pictures\russia 6
+  Guards! Master, save us! The Tatars are going for the village again!
+#PAGE7 Missions\Pictures\england 32
+  You have captured a Tatar storehouse with ammunition and found 500 in gold.
+#PAGE8 Missions\Pictures\ukraine 5
+  A messenger at the northern gate calls:
+  "Hey, in there! I carry a message from the Hetman! He is waiting for you across the Samara River, to the north-west of your fortress! Hurry!"
+#PAGE9 Missions\Pictures\russia 7
+  Hey, ferryman! Over here, at once! We need to cross the river!
+#PAGE9A Missions\Pictures\russia2 1
+  At your service, master, as I am always at the service of any nobleman. Just pay the fee ...
+#PAGE9B Missions\Pictures\russia 7
+  You are too greedy, villein! Is my gratitude not enough for you? Don't even think of money! Thank God that I am sparing your life!
+#PAGE10 Missions\Pictures\ukraine 2
+  Hail, Prince! It is good to see you! Together we will beat the Tatars!
+#PAGE10A Missions\Pictures\russia 7
+  Hail, Hetman. As it is the wish of our Princess, you and your squad are now under my command.
+#PAGE10B Missions\Pictures\ukraine 2
+  Very well. I don't like this, but we have a deal. I yield command to you, but only while we fight the Tatars.
+#PAGE11 Missions\Pictures\mord3_tut 14
+  The enemy settlements have been demolished! Success!
+#PAGE12 Missions\Pictures\russia 14
+  You have died in battle. Russia will remember your feat!
+#PAGE12A Missions\Pictures\russia 14
+  You have died of starvation. What a horrible death ... Next time, make sure you have enough food.
+#PAGE13 Missions\Pictures\russia 29
+  You have eliminated the guards of the Tatar village and burned it to the ground. Well done!
+#PAGE14 Missions\Pictures\mord_tut 15
+  The Turkish settlement has been burnt! Now the enemies of Russia cannot gain a foothold here.
+#PAGE15 Missions\Pictures\ukraine 25
+  Ha! Take a look at this! Muscovites!
+#PAGE15 Missions\Pictures\russia 7
+  Who are you, lazybones?
+#PAGE15 Missions\Pictures\ukraine 25
+  Well, we teach the Turks a few lessons around here.
+#PAGE15 Missions\Pictures\russia 7
+  Come with us, you are too few to cope with the Tatars.
+#PAGE15 Missions\Pictures\ukraine 25
+  Well, that's a deal! Come on, men, let's help these Muscovites trample down the infidels!
+#PAGE16 Missions\Pictures\ukraine 7
+  Russian dog! Die now!
+#PAGE17 Missions\Pictures\russia 33
+  We cannot shoot, Voevode! Our muskets are out of ammunition!

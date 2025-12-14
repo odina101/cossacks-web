@@ -1,0 +1,46 @@
+#BRIEFING faces 0
+{A}Poltava
+
+In order to win, you should successfully follow all instructions.
+You will lose if your hero dies.
+{K}You will meet with failure if you lose all mills.
+{L}!Some characters will talk to your hero.
+
+Current objectives:
+{B}Capture three mills and hold them until reinforcements arrive
+{C}~Capture three mills and hold them until reinforcements arrive~
+{D}Capture or burn storehouses with ammunition
+{E}~Capture or burn storehouses with ammunition~
+{F}Capture or burn the storehouse with timber
+{G}~Capture or burn the storehouse with timber~
+{H}Capture the village where the meeting with the Cossacks is to take place
+{I}~Capture the village where the meeting with the Cossacks is to take place~
+{J}Burn three mills in the village near Poltava
+#PAGE1 Missions\Pictures\russia 17
+  The Tsar instructs you to do the following: You and your squad should capture a village to the west. This settlement will provide food for the Russian army during the battle against the Swedes.
+#PAGE1A Missions\Pictures\mord_tut 1
+  Major Swedish forces are to the south, and according to reconnaissance reports, the enemy has already captured Poltava. You should march to the north in order to evade the strong enemy squads.
+#PAGE2 Missions\Pictures\russia 17
+  You have captured the village and replenished your food supplies. Now your objective is to hold it till reinforcements arrive. Remember that mills are the main source of food, so defend them well. Hold on, reinforcements are on their way!
+#PAGE3 Missions\Pictures\ukraine 20
+  You have lost all the mills! Now our soldiers will die of hunger. Mission failed.
+#PAGE4 Missions\Pictures\russia 13
+  At last the reinforcements are here. A platoon of grenadiers is under your command now. The platoon leader has brought a message with the Tsar's instructions.
+#PAGE4A Missions\Pictures\russia 23
+  "My faithful Prince! Your mission is to capture or burn ammunition storehouses in the stronghold to the south-east of the village. As this will deprive the Swedes of gunpowder and cannonballs, we shall soon be able to throw them back."
+#PAGE5 Missions\Pictures\england 32
+  Good work! The Swedes have lost their ammunition! Now you should take away their wood in order to undermine their economy. Their wood storage is to the east. A road will lead you there from the fortress.
+#PAGE6 Missions\Pictures\russia 18
+  Well done! The Swedes will not be able to fortify their lines without this timber. A squad of Cossacks has been sent to help you, but the village where they are to wait for you has been captured by the enemy. Recapture this settlement to clear the way for your reinforcements. The village is to the south-west and a road leads there from the fortress.
+#PAGE7 Missions\Pictures\russia 33
+  Excellent, the village is secure! The squad of Cossacks has joined your host to aid you in accomplishing the main mission.
+#PAGE7A Missions\Pictures\russia 29
+ There is a large village, a northern suburb of Poltava, to the south-east of here. The Swedes intend to gather food there. Burn all the mills in the village, but beware! Poltava has a very strong garrison, so do your best to avoid encounters.
+#PAGE8 Missions\Pictures\russia 26
+  You have captured the hamlet and replenished your food supplies.
+#PAGE9 Missions\Pictures\russia 27
+  Well done! Now the Swedes will be easily defeated by our army! The Tsar grants you a generous reward.
+#PAGE10 Missions\Pictures\russia 14
+  You have died in battle for your motherland. Russia will remember your feat!
+#PAGE10A Missions\Pictures\russia 24
+  You have died of starvation. What a horrible death ...

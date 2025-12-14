@@ -1,0 +1,21 @@
+#BRIEFING faces 0
+{A}Arras
+
+Your mission is to capture the eastern eminence and establish a foothold there.
+You will lose if your hero (officer) dies.
+#PAGE1 Missions\Pictures\mord_tut 10
+  Proceed to the north along with major forces. When the main detachment attacks, lead an assault on the eastern eminence.
+#PAGE2 Missions\Pictures\mord_tut 17
+  Your soldiers are in position! Drive the enemy from the eminence and organize a defence.
+#PAGE3 Missions\Pictures\mord_d 6
+  The main detachment has been defeated! The enemy will be here at any moment! Get ready to hold the line!
+#PAGE4 Missions\Pictures\mord_d 6
+  The western flank is crushed! The enemy will possibly send all troops to your eminence.
+#PAGE5 Missions\Pictures\mord_d 6
+  You did not succeed in holding the line! Mission failed!
+#PAGE6 Missions\Pictures\mord_tut 5
+  Excellent, you have successfully fought them back! Now eliminate the guards on the bridge.
+#PAGE7 Missions\Pictures\mord2_tut 21
+  Your enemies have fled in disgrace! Congratulations on your victory!
+#PAGE8 Missions\Pictures\faces 4
+  You have died for the King and for France!

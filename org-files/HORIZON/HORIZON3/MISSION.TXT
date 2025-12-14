@@ -1,0 +1,76 @@
+#BRIEFING faces 0
+
+{A}Laretia
+You will win if you establish a colony a drive away the enemy.
+You will lose if your hero or your peasants die before you build your base.
+This time you can go on if The Red Fang is sunk.
+
+#P0 Missions\Pictures\mord_tut 5
+The nearby island of Laretia seems to be the perfect place for your permanent colony. It is large, lush, and has mineral deposits. Unfortunately, it currently serves as a pirate hideout. You will have to drive them out.
+
+#P1 Missions\Pictures\mord_d 0
+"Sir, we have scouted the area. Laretia is to the west of here. I strongly advise we land just to the north of the stream there. It's the only safe spot we've found. Our ammo supply is dangerously low after our last battle, so we need to avoid unnecessary fights until we establish a base and resupply."
+
+#P2 Missions\Pictures\austria 0
+You have landed on the island:
+"Sir, this is Laretia. There is a suitable clearing to the south-west of the stream. We can build there after we wipe out the pirate camp."
+
+#P3 Missions\Pictures\england 13
+"Oi! Seize these rats! And bring me their gold!"
+
+#P4 Missions\Pictures\austria 31
+You've looted the pirate camp and burned it to the ground. You can now use this clearing to start building up your colony.
+Your first priority is to train new troops and strenghten your defences. Avoid provoking the pirates until you have more soldiers.
+
+#P5 Missions\Pictures\mord_tut 32
+You have constructed a Town Hall. In order to establish a self-sufficient colony you will also have to build:
+- An Academy
+- A Market
+- A Diplomatic Centre
+- A Shipyard
+- 3 Mines (one for each mineral)
+However, your first priority should be defense. Train more soldiers!
+You can sell wood and stone at the market until you capture the mineral deposits.
+
+#P6 Missions\Pictures\mord_d 0
+"Sir, the King's flagship has tracked us down! My scouts have spotted it coming this way from the south. It will be here in less than half an hour! The pirate bands must have made some sort of deal with the king's forces and told them we've landed here."
+
+#P6A Missions\Pictures\england 2
+In addition to completing your colony, you will also have to deal with the king's flagship when it arrives. It will never stop hunting you unless you destroy it.
+
+#P7 Missions\Pictures\mord3_tut 0
+The enemy flagship has arrived. It's pursuit must end here. Destroy it in any way you can!
+
+#P8 Missions\Pictures\england 28
+You have found a chest in the jungle with 5,000 gold.
+
+#P9 Missions\Pictures\mord_tut 25
+You have found a chest containing a large amount of gunpowder.
+
+#P10 Missions\Pictures\mord_tut 29
+You have found a chest full of pirate riches. There is 12,000 in gold here!
+
+#P11 Missions\Pictures\mord_tut 39
+You have constructed all of the buildings needed for your colony.
+
+#P12 Missions\Pictures\mord3_tut 8
+The king's flagship has been destoryed! Excellent work. This will seriously cripple the enemy's control over these waters.
+
+#P13 Missions\Pictures\mord2_tut 7
+You have both destoryed the enemy flagship and completed your colony. Outstanding work! You have won!
+
+#P14 Missions\Pictures\faces 10
+You were killed in a fight!
+
+#P15 Missions\Pictures\england 5
+The Red Fang has been sunk. It is a considerable loss, but you must continue.
+
+#P16 Missions\Pictures\england 19
+You've lost your peasants!
+
+#P17 Missions\Pictures\ukraine 16
+You wiped out a major pirate camp. You have gathered 3,000 in gold and iron and 5,000 in coal.
+
+#P18 Missions\Pictures\austria 22
+You killed a pirate captain:
+"Arrgh. My boys will get you, damn, you... bastard..."

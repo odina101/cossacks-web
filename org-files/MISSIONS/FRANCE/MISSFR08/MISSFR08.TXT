@@ -1,0 +1,22 @@
+#BRIEFING faces 0
+{A}Zusmarshausen
+
+Eliminate all enemy commanders to win.
+You will lose if your hero dies.
+!Some characters will talk to your hero.
+#PAGE1 Missions\Pictures\mord_tut 0
+  It's high time we attacked! Our scouts have reported that a small reinforcement squad with three cannons is moving towards the enemy camp. Capture the cannons - you will need them to assault the enemy lines.
+#PAGE1A Missions\Pictures\russia 34
+  Cross the river and attack the enemy squad. Remember - surprise is your trump card.
+#PAGE2 Missions\Pictures\russia 28
+  Excellent! The cannons are yours. Now it is time to deliver a heavy blow to the enemy! Cross the river to the south-western areas and eliminate all enemy commanders.
+#PAGE2A Missions\Pictures\faces 1
+  You have received a message informing you that an auxiliary squad is waiting for you to the south.
+#PAGE3 Missions\Pictures\england 32
+  The enemy storehouse is yours! You have captured some food, gold and ammunition.
+#PAGE4 Missions\Pictures\faces 10
+  The enemies have been beheaded! What a glorious victory!
+#PAGE5 Missions\Pictures\faces 4
+  You were killed in the heat of battle!
+#PAGE6 Missions\Pictures\faces 34
+  You have met an auxiliary detachment. Following brief negotiations, their commander has acknowledged your supremacy.

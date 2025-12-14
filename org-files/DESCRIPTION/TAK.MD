@@ -1,0 +1,1 @@
+Heavy cavalryman armed with a mace. Wears armour that protects him well against bullets and splinters. Effective against infantry and light cavalry. Good attack and defence parameters. Expensive to create. Takes a long time to create.

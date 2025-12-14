@@ -1,0 +1,21 @@
+#BRIEFING faces 0
+{Z} Three Nations
+                 
+!Gain control of the fertile land.
+!You will lose if your troops are annihilated! 
+                                     
+  Current objective:
+{A}Destroy the enemy by fair means or foul!
+
+#PAGE1 Missions\Pictures\faces 3
+New deposits of gold have been discovered in this area. Your task is to take control over them!  
+#PAGE2 Missions\Pictures\faces 3 
+Two more nations want to possess this territory! Be prepared to repel them! 
+#PAGE3 Missions\Pictures\faces 29
+Whose side will you take?
+#PAGE19 Missions\Pictures\austria 15
+You could not withstand the stronger rival!
+#PAGE20 Missions\Pictures\mord_tut 5
+Both your rivals have been annihilated. You have conquered lands with rich mines for your country!
+
+

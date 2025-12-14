@@ -1,0 +1,11 @@
+#BRIEFING faces 0
+{A}Frontier Wars
+
+Your mission is to annihilate all enemy forces.
+You will suffer defeat if you lose all your peasants.
+#PAGE1 Missions\Pictures\mord_tut 12
+  The enemy is close by and may attack at any moment! Take care to defend your stronghold and peasants.
+#PAGE2 Missions\Pictures\mord_tut 4
+  All civilians are dead! You have been defeated.
+#PAGE3 Missions\Pictures\mord_tut 14
+  The enemy is crushed! What a glorious victory!

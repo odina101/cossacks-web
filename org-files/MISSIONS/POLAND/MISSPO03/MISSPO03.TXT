@@ -1,0 +1,48 @@
+#BRIEFING faces 0
+{A}Mutiny in Ukraine
+ 
+You will win as soon as you have stifled the rebellion.
+You will lose if your main hero dies.
+
+! There's no need to kill peasants in vain. It is enough to kill all the armed Ukrainians to stifle the rebellion.
+ 
+  Current objectives:
+{B}Establish order in the Ukrainian villages by killing all the mutineers in five settlements. Stick to the roads to reach the villages.
+{C}~Establish order in the Ukrainian villages~
+{D}Kill the cossack hetman
+#AWARD Missions\Pictures\poland 18
+  Battle experience allows you to achieve a higher level of mastery.
+#PAGE0 Missions\Pictures\poland 23
+  You have three squads of the select infantry at your service. In addition to that, you can recruit mercenaries to establish order.
+  You should first of all try to capture the rebels' dwellings to house your troops.
+#PAGE1 Missions\Pictures\ukraine 12
+  All the armed Ukrainians guarding the rebellious village have been killed. The surviving peasants are begging for mercy. Will you have mercy upon them?
+#PAGE2 Missions\Pictures\mord_tut 8
+  The guards of the mine have been killed. Will you let the miners live?
+#PAGE3 Missions\Pictures\ukraine 8
+  The village has been liberated from the rebels. Will you spare the peasants?
+#PAGE4 Missions\Pictures\ukraine 0
+  The riot has been suppressed in this village. Will you spare the peasants?
+#PAGE5 Missions\Pictures\mord_tut 8
+  The rebels guarding the mines have been killed. Will you let the miners live?
+#PAGE6 Missions\Pictures\poland 18
+  The cossack hetman who was at the head of the rebellion has been killed! Without their leader, the mob will end the riot. Well done!
+#PAGE7 Missions\Pictures\ukraine 5
+  Order has been restored in all the nearby villages. But the leader of the rebellion has fled across the river. To prevent another rebellion, you must kill the cossack hetman who caused the previous uprising.
+#PAGE8 Missions\Pictures\ukraine 30
+  The peasants whose lives you spared are rebelling again!
+#PAGE9 Missions\Pictures\ukraine 15
+  The chest you found in the Ukrainian camp is full of gold.
+#PAGE10 Missions\Pictures\poland 13
+  Your people have found the chest in which the bandits kept their gold.
+#PAGE11 Missions\Pictures\mord_n 3
+  Your people have found a substantial amount of food in the wild cossacks' camp.
+#PAGE12 Missions\Pictures\poland 9
+  You were killed in action.
+#PAGE12A Missions\Pictures\poland 21
+  You starved to death.
+#OTST1 Missions\Pictures\faces 14
+  As soon as you have annihilated all the armed mutineers, the peasants will submit to you, and the village will be liberated.
+  Free 5 settlements.
+#OTST2 Missions\Pictures\ukraine 22
+  This settlement is free of rebels. Now liberate %d more settlement(s).

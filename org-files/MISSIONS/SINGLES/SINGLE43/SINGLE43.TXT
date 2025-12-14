@@ -1,0 +1,57 @@
+#BRIEFING faces 0
+{A} An Evil Neighbour
+
+!Defeat your opponent to win.
+!You will lose if you have no troops left.  
+  
+#PAGE1 Missions\Pictures\austria 3
+Owing to its advantageous geographical location, at the point where trade routes crossed, the Saxon principality was one of the richest German states. 
+As a young officer, you are faced with excellent opportunity of promotion in both rank and wealth. Your objective is to form a company, build a barracks and provide supplies.  
+With a big squad of soldiers and constructors, you will head for the frontier area. There you must build a small military settlement: a mill, town hall, dwellings, mines for procuring of gold, metal and nitre. Your workers will sow fields and begin collecting resources. Also, you will need to chop wood and quarry stone in order to construct a barracks. 
+When your financial state reaches the required level, it will be possible to begin recruiting additional soldiers. 
+
+#PAGE2 Missions\Pictures\austria 17
+You should build up a fortified city to encourage trade in the area, defend the city from brigand raids and the infringements of neighbours.  
+
+#PAGE3  Missions\Pictures\ukraine 24
+A Serdiuk addresses you. 
+
+#PAGE4  Missions\Pictures\ukraine 15
+Our squad would join you for 1,000 in gold. 
+
+#PAGE5  Missions\Pictures\ukraine 16
+You are short of money. 
+
+#PAGE6  Missions\Pictures\ukraine 16
+If you are not in need of our help, we will not hold you up any longer. 
+
+#PAGE7  Missions\Pictures\ukraine 10
+A Sich Cossack addresses you. 
+
+#PAGE8  Missions\Pictures\ukraine 15
+We would be willing to enlist for 2,000 in gold.
+
+#PAGE9  Missions\Pictures\ukraine 14
+If you don't have the money at present, we shall wait until you do. 
+
+#PAGE10  Missions\Pictures\ukraine 14
+As you wish. 
+
+#PAGE11  Missions\Pictures\england 16
+You have destroyed the camp of brigands.
+Searching the camp you find 2,000 in gold. 
+
+#PAGE12  Missions\Pictures\england 24
+Having defeated the brigands you gain a loot of 1,000 in gold. 
+
+#PAGE13  Missions\Pictures\england 25
+Searching through the brigands' pockets you find 1,000 in gold. 
+
+#PAGE14  Missions\Pictures\austria 14
+You have lost. What a pity.
+
+#PAGE15  Missions\Pictures\austria 6
+You have won!
+
+#PAGE16  Missions\Pictures\faces 0
+Residents of the fishermen's settlement have agreed to serve you in exchange for your protection. 

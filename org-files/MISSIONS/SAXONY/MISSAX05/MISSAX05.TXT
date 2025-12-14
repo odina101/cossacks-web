@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A}Impregnable Fortress
+Annihilate all the defenders of the fortress.
+
+!You will win if you destroy the fortress garrison. 
+!You will lose if you have no army left.
+
+Current objective:
+Destroy the Swedish border line fortifications and get ready to assault the fortress.
+#PAGE1 Missions\Pictures\austria 18
+  The Saxon army continues its campaign into Sweden. Your squad has approached the Swedish border. You will have to combat the Swedish army, which outnumbers yours.   
+#PAGE2 Missions\Pictures\mord_tut 14
+  You have been spotted by a frontier patrol. Be careful! Now the people in the fortress are aware of your approach. 
+#PAGE3 Missions\Pictures\Russia 31
+  A squad of Russians is approaching from the south-east. Allies would be of great help to you. 
+#PAGE4 Missions\Pictures\austria 41
+  The Swedish frontier is straight ahead. 
+#PAGE5 Missions\Pictures\mord_tut 31 	
+Sir! Swedish ferries carrying reinforcement have arrived from the flanks. 
+#PAGE7 Missions\Pictures\austria 27
+The allied squad has been destroyed!
+#PAGE10 Missions\Pictures\austria 43
+ You army has been crushed! You failed to accomplish your mission!
+#PAGE9 Missions\Pictures\mord2_tut 23
+You have won! The Swedes have surrendered!
+
+

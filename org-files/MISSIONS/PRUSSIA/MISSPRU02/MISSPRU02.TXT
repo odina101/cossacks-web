@@ -1,0 +1,39 @@
+#BRIEFING faces 0
+Bohemian Frontier
+
+Kill the commander of the fortress garrison.
+! You will lose if your main character dies.
+!Do not lose the town hall, market or academy.
+The sum of money required to recruit bandits is 5,000 in gold.
+There will be no deal if one packhorse is lost.
+
+Current objective:
+  Arrange for the defence of your town. When a suitable opportunity arises, commence an assault on the Austrian fortress. 
+
+#PAGE1 Missions\Pictures\england 17
+ You have enough gold to ask the bandits for help. To load the packhorses, take them to the town square.
+#PAGE2 Missions\Pictures\mord_tut 1
+ The packhorses have arrived and are being loaded.
+#PAGE3 Missions\Pictures\austria 4
+The packhorses have been loaded and are ready to go.
+#PAGE4 Missions\Pictures\mord_n 0
+ Our squad is ready and awaits your orders:
+#PAGE5 Missions\Pictures\mord_tut 1
+Our squad is ready and awaits your orders:
+#PAGE6 Missions\Pictures\mord_tut 0
+You will act on the flank of our army. You must set up a fortified camp to prepare for the invasion and attack the enemy when the opportunity presents itself. Your targets are the Austrian frontier fortress in the west and the Saxon fort. One more thing: Local bandits also hate the Austrians and have agreed to help us for a small amount of money.
+#PAGE8 Missions\Pictures\england 10
+Oh, as I can see you require our help. Unload the packhorses in the storehouse.
+#PAGE9 Missions\Pictures\mord2_tut 23
+You have killed the commander of the fortress garrison. The Austrian fortress has surrendered!
+#PAGE10 Missions\Pictures\austria 31
+You have lost the town hall!
+#PAGE11 Missions\Pictures\austria 36
+You have lost the academy!
+#PAGE12 Missions\Pictures\austria 38
+You have lost the market!
+#PAGE13 Missions\Pictures\austria 8
+You have been killed!
+#PAGE15 Missions\Pictures\austria 4
+The packhorses have been unloaded!
+

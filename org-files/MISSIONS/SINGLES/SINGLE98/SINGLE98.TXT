@@ -1,0 +1,48 @@
+#BRIEFING faces 0
+The Devil and the Deep Blue Sea
+
+Destroy all Swedish troops to prevail.
+You will lose if all your troops and buildings are destroyed.
+
+{E}	You will also lose if more than 100 of your ships are destroyed.	
+{F}	You will also lose if more than 60 of your ships are destroyed.
+{G}	You will also lose if more than 40 of your ships are destroyed.
+{H}	You will also lose if more than 30 of your ships are destroyed.
+{M}	!You can repair ships in shipyards.
+
+#PAGE2501 Missions\Pictures\England 2
+After the successful landing, our troops have fortified their position on the coast. 
+There are Swedish troops to the north-west and north-east of our base. 
+You must be prepared for constant attacks. Reports from our scouts mention a naval base to the south-west. 
+Your task is to eliminate the Swedish army and navy.
+
+#PAGE2502 Missions\Pictures\Austria 42
+A military adviser says: "It will be very difficult to conduct naval warfare if our base is regularly attacked on land. I suggest we destroy the Swedish fleet in the north-east and then extend the war to the north-west."
+
+
+#PAGE2503 Missions\Pictures\Mord2_tut 23
+A military adviser says: "You have successfully beaten the north-eastern Swedish fortress. Now we have only the north-western menace left to deal with. I suggest we concentrate our efforts on that front."
+
+#PAGE2504 Missions\Pictures\Mord2_tut 23
+A military adviser says: "You have eliminated the Swedish fortress in the north-west. Next you should turn your attention to the fleet in the north-east."
+
+#PAGE2505 Missions\Pictures\Mord3_tut 0
+You have destroyed the enemy on land. Now there is nothing to stop us conducting naval warfare and driving the enemy from the island in the south-west. Be careful, though! The Swedish fleet is very large and constantly reinforced by new vessels.
+
+#PAGE2506 Missions\Pictures\mord_d 7
+A military adviser says: "Allow me to remind you our carpenters can easily repair your ships when they are close to our shipyards."
+
+#PAGE2507 Missions\Pictures\Mord_tut 36
+Orders from headquarters: "Greetings, Colonel! We have every faith in your military skills and are therefore confident that you will lose no more than %d vessels in this naval operation."
+
+#PAGE2508 Missions\Pictures\Mord_tut 37
+You have completely eliminated the enemy forces. On your return you will be recommended for decoration. Your nation is proud of you!
+
+#PAGE2509 Missions\Pictures\Mord_tut 39
+Orders from headquarters: "Unfortunately, you have already lost %d vessels. We fear the campaign will not succeed if you continue in this manner. You are relieved of command."
+
+#PAGE2510 Missions\Pictures\England 5
+A military adviser says: "My lord, I must warn you we have already lost %d ships."
+
+#PAGE2511 Missions\Pictures\Mord2_tut 21
+A military adviser says: "I regret to inform you our army has been destroyed. You have lost the battle."

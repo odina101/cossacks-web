@@ -1,0 +1,12 @@
+#BRIEFING faces 0
+{A}Contested Island
+
+  You must gain control over the island and defeat the Venetian army to win.
+{B}
+  You will lose if you have no army left.
+#PAGE1 missions\pictures\england 6
+ A new island in the Pacific Ocean was discovered by your expedition and by Venetian ships almost simultaneously. Before you set sail, the King of Spain personally ordered you to eradicate anyone who tries conquer the new lands. According to His Majesty's orders, you must defeat the Venetian expedition to give Spain the right to call this island its property. Be careful. There are bound to be pirate bases on the island.
+#PAGE2 missions\pictures\england 28
+  You have defeated the pirates. Their base was full of robbed valuables. You received 35,000 in gold and 50,000 coal.
+#PAGE3 missions\pictures\england 28
+  You have defeated the pirates. Their base was full of robbed valuables. You received 15,000 in gold and 50,000 iron.

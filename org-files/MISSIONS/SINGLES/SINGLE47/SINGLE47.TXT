@@ -1,0 +1,43 @@
+#BRIEFING faces 0
+{A} Lima
+
+!Defeat the pirates to win.
+!You will lose if you lose your troops or flagship. 
+
+#PAGE1 Missions\Pictures\austria 25
+English pirates are causing heavy damage to the Spanish crown. They impudently raid cities and ships carrying gold and silver. Now South America is visited by a squadron commanded by Francis Drake. You are commissioned to oppose him. You will occupy an area of gold deposits and will build a fortress and shipyard there.  
+Your objective is to wipe out the pirates. You must save the gold of the Spanish crown at any cost, for the state is in desperate need of it. 
+
+#PAGE2 Missions\Pictures\england 6
+You have reached a colony of the Spanish empire. 
+Your objective is to defeat the pirates in the area. 
+If your flagship is damaged, you'll be able to repair it in a shipyard. 
+
+#PAGE3  Missions\Pictures\austria 16
+You have been defeated.
+
+#PAGE4  Missions\Pictures\england 5
+You have lost the flagship.
+ 
+#PAGE8  Missions\Pictures\england 35
+The pirates have been vanquished!
+Congratulations - it was a tough battle.  
+
+#PAGE10  Missions\Pictures\england 2
+The flagship has entered the shipyard. 
+Would you like to carry out ship repairs?
+The repairing cost is 2,000 in gold. 
+
+#PAGE11  Missions\Pictures\england 17
+You don't have enough gold for ship repairs.
+
+#PAGE12  Missions\Pictures\england 17
+A ship from Spain has arrived. Take the vessel to the shipyard. 
+
+#PAGE13  Missions\Pictures\england 17
+The ship has arrived and been unloaded. You have received 5,000 in gold for fleet maintenance. 
+
+#PAGE911  Missions\Pictures\mord_tut 15
+This is 911
+Life = %10d
+MaxLife = %10d

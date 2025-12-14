@@ -1,0 +1,8 @@
+#KMStaffCaptured0 Missions\Pictures\austria 6
+  Yusuf Pasha ran away, headquarters have been captured. Victory !!!
+#KMStaffCaptured1 Missions\Pictures\austria 6
+  Yusuf Pasha ran away, headquarters have been captured. You lose !!!
+#ArmyLostVictory Missions\Pictures\austria 6
+  The alliance has been defeated. Enemy flees the battlefield in panic. Victory !!!
+#ArmyLostDefeat Missions\Pictures\austria 6
+  Your forces were too small to resist a 100-thousand strong army of Turks. You lose !!!

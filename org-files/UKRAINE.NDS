@@ -1,0 +1,727 @@
+[MEMBERS]
+Kres_ukranian(UA)	Kres_ukranian
+Kozacki_Strelec(UA)	Kozacki_Strelec
+Kozak_loshad(UA)	Kozak_loshad
+Kozak_pikiner(UA)	Kozak_pikiner
+Getman(UA)	Getman
+Sveshenik_ukr(UA) Sveshenik_ukr
+Pushka(UA)	Pushka
+Pushka2(UA)	Pushka2
+Mortira(UA)	Mortira
+Mortira_b(UA)  Mortira_b
+CenterUR(UA)	CenterUR
+Ukrainska_hata(UA)	Ukrainska_hata
+Melnica_rus(UA)	Melnica_rus
+Sclad3(UA)	Sclad3
+shahta(UA)	shahta
+shahta_FE(UA) 	shahta_FE
+shahta_UG(UA) 	shahta_UG
+Kuznica_ua(UA)	Kuznica_ua
+konushnia_ua(UA)	konushnia_ua
+Cerkov_UA(UA)	Cerkov_UA
+akademia_UA(UA)	akademia_UA
+Dip_korpus_UA(UA)	Dip_korpus_UA
+Rinok(UA)	Rinok_R
+Strelcovaia_Izba(UA)	Strelcovaia_Izba
+artileri_depo_UA(UA)	artileri_depo_UA
+WALL_UKR(UA)	WALL_UKR
+Poru(UA) Poru
+Rundashir_Avstria_DIP(UA) Rundashir_Avstria_DIP
+Grenader_DIP(UA)	Grenader_DIP
+Pehota_turki_DIP(UA) Pehota_turki_DIP
+Strelec_Algir_DIP(UA) Strelec_Algir_DIP
+Kozak_loshad_DIP(UA)  Kozak_loshad_DIP
+Dragun_18_DIP(UA)  Dragun_18_DIP
+Lodka(UA) Lodka
+PERES_KOR(UA) PERES_KOR
+GALERA(UA) GALERA
+FIELD(UA)       FIELD
+BGAUZ(UA) BGAUZ  
+BGAUZ2(UA) BGAUZ2
+
+[FIXED_PRODUCE]
+Kres_ukranian(UA)	16
+CenterUR(UA) 2 2 H
+Ukrainska_hata(UA) 0 0 E
+Melnica_rus(UA) 1 0 N
+Sclad3(UA) 2 0 S
+shahta(UA) 3 0 I
+Kuznica_ua(UA) 2 1 L
+konushnia_ua(UA) 3 1 U
+Cerkov_UA(UA) 4 0 C
+akademia_UA(UA) 5 1 A
+Dip_korpus_UA(UA) 0 2 D
+Rinok(UA) 0 1 M
+Strelcovaia_Izba(UA) 1 1 B
+konushnia_ua(UA) 3 1 U
+artileri_depo_UA(UA) 4 1 F
+WALL_UKR(UA) 3 2 W
+Poru(UA) 5 0 P
+CenterUR(UA) 1
+Kres_ukranian(UA) 0 0 P
+konushnia_ua(UA) 3
+Kozak_loshad(UA) 0 0 K
+Kozak_pikiner(UA) 2 0 R
+Getman(UA) 4 0 G
+Cerkov_UA(UA) 1
+Sveshenik_ukr(UA) 0 0 S
+Dip_korpus_UA(UA) 6
+Rundashir_Avstria_DIP(UA)	0 0 K
+Pehota_turki_DIP(UA)        1 0 T
+Strelec_Algir_DIP(UA)       2 0 L
+Grenader_DIP(UA)            3 0 G
+Kozak_loshad_DIP(UA)        4 0 K
+Dragun_18_DIP(UA)           5 0 D
+Strelcovaia_Izba(UA) 1
+Kozacki_Strelec(UA) 0 0 K	
+artileri_depo_UA(UA) 4
+Pushka(UA) 0 0 P
+Pushka2(UA) 1 0 P
+Mortira(UA) 2 0 M
+Mortira_b(UA) 3 0 B
+Poru(UA) 3
+Lodka(UA)  0 0 B
+PERES_KOR(UA) 2 0 P
+GALERA(UA) 4 0 G
+Melnica_rus(UA) 1 
+FIELD(UA) 0 0 F
+
+[ENABLED]
+Kres_ukranian(UA)
+Sveshenik_ukr(UA)
+Kozacki_Strelec(UA)	
+Kozak_loshad(UA)
+Kozak_pikiner(UA)
+Getman(UA)
+Pushka(UA)
+Pushka2(UA)
+Mortira(UA)
+Mortira_b(UA) 
+CenterUR(UA)
+Ukrainska_hata(UA)
+Melnica_rus(UA)
+Sclad3(UA)
+shahta(UA)
+shahta_FE(UA)
+shahta_UG(UA)
+Kuznica_ua(UA)
+Cerkov_UA(UA)
+WALL_UKR(UA)
+Poru(UA)
+Rundashir_Avstria_DIP(UA) 
+Grenader_DIP(UA)	
+Pehota_turki_DIP(UA)
+Strelec_Algir_DIP(UA)
+Kozak_loshad_DIP(UA) 
+Dragun_18_DIP(UA) 
+Lodka(UA)
+PERES_KOR(UA)
+GALERA(UA)
+FIELD(UA)
+
+[UPGRADE]
+//akademia
+AKA01UA A1 #POSITION 0 0 #LEVEL 1 AKA01AU #COST 2 GOLD 322 WOOD 200 #TIME 500
+	EFFECT_FOOD +4
+AKA02UA A2 #POSITION 0 1 #LEVEL 1 AKA02AU #COST 2 GOLD 1522 WOOD 12400 #TIME 500
+	EFFECT_FOOD +4
+AKA03UA A3 #POSITION 0 2 #LEVEL 1 AKA03AU #COST 2 GOLD 1330 WOOD 32400 #TIME 500
+	EFFECT_FOOD +5
+AKA04UA A4 #POSITION 1 0 #LEVEL 1 AKA04AU #COST 2 GOLD 522 WOOD 1400 #TIME 500
+	EFFECT_FOOD +2000
+AKA05UA A5 #POSITION 1 1 #LEVEL 1 AKA05AU #COST 2 GOLD 2522 WOOD 12400 #TIME 500
+	FISHING Lodka(UA) +100%  
+AKA06UA A6 #POSITION 1 2 #LEVEL 1 AKA06UA #COST 2 GOLD 1000 WOOD 400 #TIME 500
+	ENABLE UNITS GRP 1  GALERA(UA) 
+AKA07UA A7 #POSITION 2 0 #LEVEL 1 AKA07AU #COST 2 GOLD 1220 WOOD 7300 #TIME 500
+	COST Lodka(UA) WOOD -85% 
+AKA08UA A8 #POSITION 2 1 #LEVEL 1 AKA08AU #COST 2 FOOD 5500 GOLD 550 #TIME 500
+	EFFECT_WOOD 200
+AKA09UA A9 #POSITION 2 2 #LEVEL 1 AKA09AU #COST 2 GOLD 950  WOOD 3200 #TIME 500
+	SHIELD GRP  17 CenterUR(UA) Ukrainska_hata(UA) Melnica_rus(UA) Sclad3(UA) shahta(UA) shahta_FE(UA) shahta_UG(UA) Kuznica_ua(UA) konushnia_ua(UA) Cerkov_UA(UA) Poru(UA) akademia_UA(UA) Dip_korpus_UA(UA) Rinok(UA) Strelcovaia_Izba(UA) konushnia_ua(UA) artileri_depo_UA(UA) +85
+AKA10UA A10 #POSITION 3 0 #LEVEL 1 AKA10AU #COST 1 GOLD 1750 #TIME 500
+	BUILD GRP 17 CenterUR(UA) Ukrainska_hata(UA) Melnica_rus(UA) Sclad3(UA) shahta(UA) shahta_FE(UA) shahta_UG(UA) Kuznica_ua(UA) konushnia_ua(UA) Cerkov_UA(UA) Poru(UA) akademia_UA(UA) Dip_korpus_UA(UA) Rinok(UA) Strelcovaia_Izba(UA) konushnia_ua(UA) artileri_depo_UA(UA) -75%
+AKA12UA A12 #POSITION 3 2 #LEVEL 1 AKA12AU #COST 1 GOLD 7000  #TIME 500
+	DAMAGE WEAPONKIND VISTREL GRP 1 Kozacki_Strelec(UA) +10%
+AKA13UA A13 #POSITION 4 0 #LEVEL 1 AKA13AU #COST 1 GOLD 6000  #TIME 500
+	DAMAGE WEAPONKIND VISTREL GRP 1 Kozacki_Strelec(UA) +15%
+AKA14UA A14 #POSITION 4 1 #LEVEL 1 AKA14AU #COST 1 GOLD 12000  #TIME 500
+	DAMAGE WEAPONKIND VISTREL GRP 1 Kozacki_Strelec(UA) +20%
+AKA15UA A15 #POSITION 4 2 #LEVEL 1 AKA15AU #COST 1 GOLD 21000  #TIME 500
+	DAMAGE WEAPONKIND VISTREL GRP 1 Kozacki_Strelec(UA)  +30%
+AKA16UA A16 #POSITION 5 0 #LEVEL 1 AKA16AU #COST 2 GOLD 2000 IRON 18150 #TIME 500
+	ATTRANGE ATTINDEX 0 GRP 3  Pushka(UA) Mortira(UA) GALERA(UA)  +5%
+AKA17UA A17 #POSITION 5 1 #LEVEL 1 AKA17AU #COST 3 GOLD 7000 IRON 9050 COAL 47235  #TIME 500
+	ATTRANGE ATTINDEX 0 GRP 3 Pushka(UA) Mortira(UA) GALERA(UA)  +10%
+AKA18UA A18 #POSITION 5 2 #LEVEL 1 AKA18AU #COST 3 GOLD 500 IRON 3830 COAL 1500  #TIME 500
+	LIFE GRP 2 Pushka(UA) Mortira(UA) +150%
+AKA20UA A20 #POSITION 6 1 #LEVEL 1 AKA20AU #COST 3 GOLD 2000 WOOD 3540 COAL 7250 #TIME 500
+	RAZBROS GRP 4 Pushka(UA) Mortira(UA) GALERA(UA) Mortira_b(UA) -35%
+AKA21UA A21 #POSITION 6 2 #LEVEL 1 AKA21AU #COST 3 GOLD 100 WOOD 350 COAL 250 #TIME 500
+	HEALING GRP 4 Mortira_b(UA) Pushka(UA) Pushka2(UA) Mortira(UA) 
+AKA22UA A22 #POSITION 7 0 #LEVEL 1 AKA22AU #COST 1 GOLD 500 #TIME 500
+	GEOLOGY
+AKA23UA A23 #POSITION 7 1 #LEVEL 1 AKA23AU #COST 2 GOLD 1550 IRON 3000 #TIME 500
+	EFFECT_STONE 200
+AKA24UA A24 #POSITION 7 2 #LEVEL 1 AKA24AU #COST 3 FOOD 4200 GOLD 1550 COAL 12520  #TIME 500
+	EFFECT_STONE 400
+AKA25UA A25 #POSITION 8 0 #LEVEL 1 AKA25AU #COST 1 GOLD 12750 #TIME 500
+	SHAR akademia_UA(UA)
+AKA26UA A26 #POSITION 8 1 #LEVEL 1 AKA26AU #COST 2 GOLD 200 COAL 200 #TIME 500
+	HEALING GRP 6 Kres_ukranian(UA) Kozacki_Strelec(UA) Sveshenik_ukr(UA) Kozak_loshad(UA) Kozak_pikiner(UA) Getman(UA)
+AKA27UA A27 #POSITION 8 2 #LEVEL 1 AKA27AU #COST 3 GOLD 12000 WOOD 9540 COAL 65200  #TIME 500
+	RAZBROS GRP 4 Mortira_b(UA) Pushka(UA) Mortira(UA) GALERA(UA) -35%
+AKA28UA A28 #POSITION 9 0 #LEVEL 1 AKA28AU #COST 1 GOLD 900  #TIME 500
+	SPEED GRP 1  GALERA(UA)  140%
+AKA30UA A30 #POSITION 9 2 #LEVEL 1 AKA30AU #COST 3 GOLD 1150 WOOD 2300 STONE 58700  #TIME 500
+	BUILD GRP 3 Lodka(UA) PERES_KOR(UA) GALERA(UA)  -90%
+AKA31UA A31 #POSITION 10 0 #LEVEL 1 AKA31AU #COST 2 GOLD 350 IRON 2000 #TIME 500
+	ATTPAUSE WEAPONKIND VISTREL GRP 1 Kozacki_Strelec(UA) -35%
+AKA33UA A33 #POSITION 10 2 #LEVEL 1 AKA33AU #COST 2 GOLD 5501 COAL 21200 #TIME 500
+	ATTPAUSE WEAPONKIND VISTREL GRP 1 Kozacki_Strelec(UA) -35%
+
+//kuznia
+KUZ01UA K1 #POSITION 0 0 #LEVEL 1 KUZ01AU #COST 2 GOLD 100 WOOD 400 #TIME 500
+	EFFECT_FOOD +1000
+KUZ02UA K2 #POSITION 1 0 #LEVEL 1 KUZ02AU #COST 3 GOLD 350 IRON 900 STONE 19320 #TIME 500
+	SHIELD GRP  17 CenterUR(UA) Ukrainska_hata(UA) Melnica_rus(UA) Sclad3(UA) shahta(UA) shahta_FE(UA) shahta_UG(UA) Kuznica_ua(UA) konushnia_ua(UA) Cerkov_UA(UA) Poru(UA) akademia_UA(UA) Dip_korpus_UA(UA) Rinok(UA) Strelcovaia_Izba(UA) konushnia_ua(UA) artileri_depo_UA(UA) +50
+KUZ03UA K3 #POSITION 2 0 #LEVEL 1 KUZ03AU #COST 3 GOLD 3650 IRON 5300 COAL 8200 #TIME 500
+	BUILD GRP 3 Kozak_loshad(UA) Kozak_pikiner(UA) Getman(UA)  -50%
+KUZ05UA K5 #POSITION 4 0 #LEVEL 1 KUZ05AU #COST 2 GOLD 550 IRON 7900 #TIME 500
+        DAMAGE WEAPONKIND PIKA GRP 3 Kozak_loshad(UA) Kozak_pikiner(UA) Getman(UA) +5 
+
+shahta(UA)INSIDE SH1 #POSITION 2 2 #LEVEL 2 shahta(au)INSIDE #COST 2 FOOD 1000 GOLD 1250 #TIME 500
+	SINGLE_INSIDE shahta(UA) +5
+shahta(UA)INSIDE3 SH1 #POSITION 2 2 #LEVEL 3 shahta(au)INSIDE3 #COST 3 FOOD 25000 GOLD 7750 WOOD 5000 #TIME 500
+	SINGLE_INSIDE shahta(UA) +8
+shahta(UA)INSIDE4 SH1 #POSITION 2 2 #LEVEL 4 shahta(au)INSIDE4 #COST 3 FOOD 41205 GOLD 6250 WOOD 22230 #TIME 500
+	SINGLE_INSIDE shahta(UA) +10
+shahta(UA)INSIDE5 SH1 #POSITION 2 2 #LEVEL 5 shahta(au)INSIDE5 #COST 3 FOOD 15030 GOLD 19500 IRON 7000 #TIME 500
+	SINGLE_INSIDE shahta(UA) +12          
+shahta(UA)INSIDE6 SH1 #POSITION 2 2 #LEVEL 6 shahta(au)INSIDE6 #COST 3 FOOD 23010 GOLD 21050 IRON 9000 #TIME 500
+	SINGLE_INSIDE shahta(UA) +15
+shahta(UA)INSIDE7 SH1 #POSITION 2 2 #LEVEL 7 shahta(au)INSIDE7 #COST 2 FOOD 400300 GOLD 90950 #TIME 500
+	SINGLE_INSIDE shahta(UA) +40
+
+Melnica_rus(UA)GETRES M1 #POSITION 2 2 #LEVEL 1 Melnica(au)GETRES #COST 2 FOOD 750 GOLD 250 #TIME 500
+	EFFECT_FOOD +14
+Melnica_rus(UA)GETRES2 M2 #POSITION 2 2 #LEVEL 2 Melnica(au)GETRES2 #COST 3 FOOD 5600 GOLD 1350 IRON 1900 #TIME 500
+	EFFECT_FOOD +25
+
+Pushka(UA)COST D1 #POSITION 0 1 #LEVEL 2 Pushka(au)COST #COST 2 FOOD 1760 GOLD 350 #TIME 500
+	COST Pushka(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Pushka(UA)COST3 D1 #POSITION 0 1 #LEVEL 3 Pushka(au)COST3 #COST 2 FOOD 1760 GOLD 350 #TIME 500
+	COST Pushka(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Pushka(UA)COST4 D1 #POSITION 0 1 #LEVEL 4 Pushka(au)COST4 #COST 2 FOOD 1760 GOLD 350 #TIME 500
+	COST Pushka(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Pushka(UA)COST5 D1 #POSITION 0 1 #LEVEL 5 Pushka(au)COST5 #COST 2 FOOD 1760 GOLD 350 #TIME 500
+	COST Pushka(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Pushka(UA)COST6 D1 #POSITION 0 1 #LEVEL 6 Pushka(au)COST6 #COST 2 FOOD 1760 GOLD 350 #TIME 500
+	COST Pushka(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Pushka(UA)COST7 D1 #POSITION 0 1 #LEVEL 7 Pushka(au)COST7 #COST 2 FOOD 1760 GOLD 350 #TIME 500
+	COST Pushka(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Pushka(UA)BUILD D2 #POSITION 0 2 #LEVEL 2 Pushka(au)BUILD #COST 2 FOOD 560 COAL 950 #TIME 500
+	BUILD Pushka(UA) -50%   
+Pushka(UA)BUILD3 D2 #POSITION 0 2 #LEVEL 3 Pushka(au)BUILD3 #COST 2 FOOD 700 COAL 150 #TIME 500
+	BUILD Pushka(UA) -50%   
+Pushka(UA)BUILD4 D2 #POSITION 0 2 #LEVEL 4 Pushka(au)BUILD4 #COST 2 FOOD 1550 COAL 250 #TIME 500
+	BUILD Pushka(UA) -50%   
+Pushka(UA)BUILD5 D2 #POSITION 0 2 #LEVEL 5 Pushka(au)BUILD5 #COST 2 FOOD 2560 COAL 1350 #TIME 500
+	BUILD Pushka(UA) -50%   
+Pushka(UA)BUILD6 D2 #POSITION 0 2 #LEVEL 6 Pushka(au)BUILD6 #COST 2 FOOD 3560 COAL 2500 #TIME 500
+	BUILD Pushka(UA) -50%   
+Pushka(UA)BUILD7 D2 #POSITION 0 2 #LEVEL 7 Pushka(au)BUILD7 #COST 2 FOOD 5560 COAL 3320 #TIME 500
+	BUILD Pushka(UA) -50%   
+
+Mortira(UA)COST D1 #POSITION 2 1 #LEVEL 2 Mortira(au)COST #COST 2 FOOD 360 GOLD 350 #TIME 500
+	COST Mortira(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Mortira(UA)COST3 D1 #POSITION 2 1 #LEVEL 3 Mortira(au)COST3 #COST 2 FOOD 850 GOLD 350 #TIME 500
+	COST Mortira(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Mortira(UA)COST4 D1 #POSITION 2 1 #LEVEL 4 Mortira(au)COST4 #COST 2 FOOD 1120 GOLD 350 #TIME 500
+	COST Mortira(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Mortira(UA)COST5 D1 #POSITION 2 1 #LEVEL 5 Mortira(au)COST5 #COST 2 FOOD 1760 GOLD 350 #TIME 500
+	COST Mortira(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Mortira(UA)COST6 D1 #POSITION 2 1 #LEVEL 6 Mortira(au)COST6 #COST 2 FOOD 2130 GOLD 350 #TIME 500
+	COST Mortira(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Mortira(UA)COST7 D1 #POSITION 2 1 #LEVEL 7 Mortira(au)COST7 #COST 2 FOOD 2730 GOLD 350 #TIME 500
+	COST Mortira(UA) GRP 3 IRON -5% GOLD -7% COAL -10%  
+Mortira(UA)BUILD D2 #POSITION 2 2 #LEVEL 2 Mortira(au)BUILD #COST 2 FOOD 160 COAL 350 #TIME 500
+	BUILD Mortira(UA) -50%   
+Mortira(UA)BUILD3 D2 #POSITION 2 2 #LEVEL 3 Mortira(au)BUILD3 #COST 2 FOOD 270 COAL 450 #TIME 500
+	BUILD Mortira(UA) -50%   
+Mortira(UA)BUILD4 D2 #POSITION 2 2 #LEVEL 4 Mortira(au)BUILD4 #COST 2 FOOD 1460 COAL 550 #TIME 500
+	BUILD Mortira(UA) -50%   
+Mortira(UA)BUILD5 D2 #POSITION 2 2 #LEVEL 5 Mortira(au)BUILD5 #COST 2 FOOD 2560 COAL 1150 #TIME 500
+	BUILD Mortira(UA) -50%   
+Mortira(UA)BUILD6 D2 #POSITION 2 2 #LEVEL 6 Mortira(au)BUILD6 #COST 2 FOOD 6760 COAL 3200 #TIME 500
+	BUILD Mortira(UA) -50%   
+Mortira(UA)BUILD7 D2 #POSITION 2 2 #LEVEL 7 Mortira(au)BUILD7 #COST 2 FOOD 7360 COAL 4500 #TIME 500
+	BUILD Mortira(UA) -50%   
+
+Kozak_loshad(UA)ATTACK ATAKA1 #POSITION 0 1 #LEVEL 2 Konni_Ricar(au)ATTACK #COST 2 FOOD 1000 GOLD 3000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_loshad(UA) +2
+Kozak_loshad(UA)ATTACK3 ATAKA2 #POSITION 0 1 #LEVEL 3 Konni_Ricar(au)ATTACK3 #COST 2 FOOD 2000 GOLD 2000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_loshad(UA) +3
+Kozak_loshad(UA)ATTACK4 ATAKA3 #POSITION 0 1 #LEVEL 4 Konni_Ricar(au)ATTACK4 #COST 2 FOOD 7100 GOLD 8000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_loshad(UA) +4
+Kozak_loshad(UA)ATTACK5 ATAKA4 #POSITION 0 1 #LEVEL 5 Konni_Ricar(au)ATTACK5 #COST 2 FOOD 2250 GOLD 2000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_loshad(UA) +1
+Kozak_loshad(UA)ATTACK6 ATAKA5 #POSITION 0 1 #LEVEL 6 Konni_Ricar(au)ATTACK6 #COST 2 FOOD 3030 GOLD 5000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_loshad(UA) +1                      
+Kozak_loshad(UA)ATTACK7 ATAKA5 #POSITION 0 1 #LEVEL 7 Konni_Ricar(au)ATTACK7 #COST 2 FOOD 7000 GOLD 18000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_loshad(UA) +1
+Kozak_loshad(UA)SHIELD SHIT1 #POSITION 0 2 #LEVEL 2 Konni_Ricar(au)SHIELD #COST 3 FOOD 200 GOLD 135 IRON 3000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_loshad(UA) +3 
+Kozak_loshad(UA)SHIELD3 SHIT2 #POSITION 0 2 #LEVEL 3 Konni_Ricar(au)SHIELD3 #COST 3 FOOD 2000 GOLD 100 IRON 5000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_loshad(UA) +4 
+Kozak_loshad(UA)SHIELD4 SHIT3 #POSITION 0 2 #LEVEL 4 Konni_Ricar(au)SHIELD4 #COST 3 FOOD 176000 GOLD 200 IRON 10000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_loshad(UA) +5 
+Kozak_loshad(UA)SHIELD5 SHIT4 #POSITION 0 2 #LEVEL 5 Konni_Ricar(au)SHIELD5 #COST 3 FOOD 176000 GOLD 300 IRON 4000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_loshad(UA) +2 
+Kozak_loshad(UA)SHIELD6 SHIT5 #POSITION 0 2 #LEVEL 6 Konni_Ricar(au)SHIELD6 #COST 3 FOOD 176000 GOLD 350 IRON 20000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_loshad(UA) +2
+Kozak_loshad(UA)SHIELD7 SHIT5 #POSITION 0 2 #LEVEL 7 Konni_Ricar(au)SHIELD7 #COST 3 FOOD 176000 GOLD 1000 IRON 30000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_loshad(UA) +2
+
+Kozak_pikiner(UA)ATTACK ATAKA1 #POSITION 2 1 #LEVEL 2 Konni_Ricar(au)ATTACK #COST 2 FOOD 1000 GOLD 3000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_pikiner(UA) +2
+Kozak_pikiner(UA)ATTACK3 ATAKA2 #POSITION 2 1 #LEVEL 3 Konni_Ricar(au)ATTACK3 #COST 2 FOOD 2000 GOLD 2000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_pikiner(UA) +3
+Kozak_pikiner(UA)ATTACK4 ATAKA3 #POSITION 2 1 #LEVEL 4 Konni_Ricar(au)ATTACK4 #COST 2 FOOD 7100 GOLD 8000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_pikiner(UA) +4
+Kozak_pikiner(UA)ATTACK5 ATAKA4 #POSITION 2 1 #LEVEL 5 Konni_Ricar(au)ATTACK5 #COST 2 FOOD 2250 GOLD 2000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_pikiner(UA) +1
+Kozak_pikiner(UA)ATTACK6 ATAKA5 #POSITION 2 1 #LEVEL 6 Konni_Ricar(au)ATTACK6 #COST 2 FOOD 3030 GOLD 5000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_pikiner(UA) +1                      
+Kozak_pikiner(UA)ATTACK7 ATAKA5 #POSITION 2 1 #LEVEL 7 Konni_Ricar(au)ATTACK7 #COST 2 FOOD 7000 GOLD 18000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Kozak_pikiner(UA) +1
+Kozak_pikiner(UA)SHIELD SHIT1 #POSITION 2 2 #LEVEL 2 Konni_Ricar(au)SHIELD #COST 3 FOOD 200 GOLD 135 IRON 3000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_pikiner(UA) +3 
+Kozak_pikiner(UA)SHIELD3 SHIT2 #POSITION 2 2 #LEVEL 3 Konni_Ricar(au)SHIELD3 #COST 3 FOOD 2000 GOLD 100 IRON 5000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_pikiner(UA) +4 
+Kozak_pikiner(UA)SHIELD4 SHIT3 #POSITION 2 2 #LEVEL 4 Konni_Ricar(au)SHIELD4 #COST 3 FOOD 65000 GOLD 200 IRON 10000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_pikiner(UA) +5 
+Kozak_pikiner(UA)SHIELD5 SHIT4 #POSITION 2 2 #LEVEL 5 Konni_Ricar(au)SHIELD5 #COST 3 FOOD 65000 GOLD 300 IRON 4000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_pikiner(UA) +2                              
+Kozak_pikiner(UA)SHIELD6 SHIT5 #POSITION 2 2 #LEVEL 6 Konni_Ricar(au)SHIELD6 #COST 3 FOOD 65000 GOLD 350 IRON 20000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_pikiner(UA) +2
+Kozak_pikiner(UA)SHIELD7 SHIT5 #POSITION 2 2 #LEVEL 7 Konni_Ricar(au)SHIELD7 #COST 3 FOOD 65000 GOLD 1000 IRON 30000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozak_pikiner(UA) +2
+
+Getman(UA)ATTACK7 ATAKA5 #POSITION 4 1 #LEVEL 7 Getman(au)ATTACK7 #COST 2 FOOD 7000 GOLD 18000 #TIME 500
+        DAMAGE WEAPONKIND PIKA Getman(UA) +50
+Getman(UA)SHIELD7 SHIT5 #POSITION 4 2 #LEVEL 7 Oficer_rusevr2(au)SHIELD #COST 3 FOOD 176020 GOLD 1000 IRON 30000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Getman(UA) +20
+
+Kozacki_Strelec(UA)ATTACK ATAKA1 #POSITION 0 1 #LEVEL 2 Kozacki_Strelec(au)ATTACK #COST 2 FOOD 22000 GOLD 800 #TIME 500
+        DAMAGE WEAPONKIND VISTREL Kozacki_Strelec(UA) +2
+Kozacki_Strelec(UA)ATTACK3 ATAKA2 #POSITION 0 1 #LEVEL 3 Kozacki_Strelec(au)ATTACK3 #COST 2 FOOD 32400 GOLD 5800 #TIME 500
+        DAMAGE WEAPONKIND VISTREL Kozacki_Strelec(UA) +3
+Kozacki_Strelec(UA)ATTACK4 ATAKA3 #POSITION 0 1 #LEVEL 4 Kozacki_Strelec(au)ATTACK4 #COST 2 FOOD 42010 GOLD 6800 #TIME 500
+        DAMAGE WEAPONKIND VISTREL Kozacki_Strelec(UA) +4
+Kozacki_Strelec(UA)ATTACK5 ATAKA4 #POSITION 0 1 #LEVEL 5 Kozacki_Strelec(au)ATTACK5 #COST 3 FOOD 52300 GOLD 1800 IRON 7400 #TIME 500
+        DAMAGE WEAPONKIND VISTREL Kozacki_Strelec(UA) +5
+Kozacki_Strelec(UA)ATTACK6 ATAKA5 #POSITION 0 1 #LEVEL 6 Kozacki_Strelec(au)ATTACK6 #COST 3 FOOD 45000 GOLD 300 IRON 14500 #TIME 500
+        DAMAGE WEAPONKIND VISTREL Kozacki_Strelec(UA) +6
+Kozacki_Strelec(UA)ATTACK7 ATAKA5 #POSITION 0 1 #LEVEL 7 Kozacki_Strelec(au)ATTACK7 #COST 2 FOOD 62400 COAL 39200 #TIME 500
+        DAMAGE WEAPONKIND VISTREL Kozacki_Strelec(UA) +10
+Kozacki_Strelec(UA)SHIELD SHIT1  #POSITION 0 2 #LEVEL 2 Kozacki_Strelec(au)SHIELD #COST 2 FOOD 3706 IRON 2350 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozacki_Strelec(UA) +1 
+Kozacki_Strelec(UA)SHIELD3 SHIT2 #POSITION 0 2 #LEVEL 3 Kozacki_Strelec(au)SHIELD3 #COST 2 FOOD 12060 IRON 7850 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozacki_Strelec(UA) +2 
+Kozacki_Strelec(UA)SHIELD4 SHIT3 #POSITION 0 2 #LEVEL 4 Kozacki_Strelec(au)SHIELD4 #COST 2 FOOD 36706 IRON 14000 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozacki_Strelec(UA) +3 
+Kozacki_Strelec(UA)SHIELD5 SHIT4 #POSITION 0 2 #LEVEL 5 Kozacki_Strelec(au)SHIELD5 #COST 2 FOOD 36706 IRON 22350 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozacki_Strelec(UA) +4 
+Kozacki_Strelec(UA)SHIELD6 SHIT5 #POSITION 0 2 #LEVEL 6 Kozacki_Strelec(au)SHIELD6 #COST 2 FOOD 37060 IRON 34350 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozacki_Strelec(UA) +5 
+Kozacki_Strelec(UA)SHIELD7 SHIT5 #POSITION 0 2 #LEVEL 7 Kozacki_Strelec(au)SHIELD7 #COST 2 FOOD 55706 COAL 51350 #TIME 500
+	PROTECTION GRP 3 MECH STRELA PIKA Kozacki_Strelec(UA) +6
+
+[UPGRADEPLACE]
+akademia_UA(UA) 28 AKA01UA
+	AKA02UA
+	AKA03UA
+	AKA04UA
+	AKA05UA
+	AKA07UA
+	AKA08UA
+	AKA09UA
+	AKA10UA
+	AKA12UA
+	AKA13UA
+	AKA14UA
+	AKA15UA
+	AKA16UA
+	AKA17UA
+	AKA18UA
+	AKA20UA
+	AKA21UA
+	AKA22UA
+	AKA23UA
+	AKA24UA
+	AKA25UA
+	AKA26UA
+	AKA27UA
+	AKA28UA
+	AKA30UA
+	AKA31UA
+	AKA33UA
+Kuznica_ua(UA) 4 KUZ01UA
+	KUZ02UA
+	KUZ03UA
+	KUZ05UA
+Strelcovaia_Izba(UA) 12 Kozacki_Strelec(UA)ATTACK
+	Kozacki_Strelec(UA)ATTACK3
+	Kozacki_Strelec(UA)ATTACK4
+	Kozacki_Strelec(UA)ATTACK5
+	Kozacki_Strelec(UA)ATTACK6
+	Kozacki_Strelec(UA)ATTACK7
+	Kozacki_Strelec(UA)SHIELD
+	Kozacki_Strelec(UA)SHIELD3
+	Kozacki_Strelec(UA)SHIELD4
+	Kozacki_Strelec(UA)SHIELD5
+	Kozacki_Strelec(UA)SHIELD6
+	Kozacki_Strelec(UA)SHIELD7
+Melnica_rus(UA) 2 Melnica_rus(UA)GETRES
+Melnica_rus(UA)GETRES2
+artileri_depo_UA(UA) 24 Pushka(UA)COST
+	Pushka(UA)COST3
+	Pushka(UA)COST4
+	Pushka(UA)COST5
+	Pushka(UA)COST6
+	Pushka(UA)COST7
+	Pushka(UA)BUILD
+	Pushka(UA)BUILD3
+	Pushka(UA)BUILD4
+	Pushka(UA)BUILD5
+	Pushka(UA)BUILD6
+	Pushka(UA)BUILD7
+	Mortira(UA)COST
+	Mortira(UA)COST3
+	Mortira(UA)COST4
+	Mortira(UA)COST5
+	Mortira(UA)COST6
+	Mortira(UA)COST7
+	Mortira(UA)BUILD
+	Mortira(UA)BUILD3
+	Mortira(UA)BUILD4
+	Mortira(UA)BUILD5
+	Mortira(UA)BUILD6
+	Mortira(UA)BUILD7
+konushnia_ua(UA) 26 Kozak_loshad(UA)ATTACK
+	Kozak_loshad(UA)ATTACK3
+	Kozak_loshad(UA)ATTACK4
+	Kozak_loshad(UA)ATTACK5
+	Kozak_loshad(UA)ATTACK6
+	Kozak_loshad(UA)ATTACK7
+	Kozak_loshad(UA)SHIELD
+	Kozak_loshad(UA)SHIELD3
+	Kozak_loshad(UA)SHIELD4
+	Kozak_loshad(UA)SHIELD5
+	Kozak_loshad(UA)SHIELD6
+	Kozak_loshad(UA)SHIELD7
+	Kozak_pikiner(UA)ATTACK
+	Kozak_pikiner(UA)ATTACK3
+	Kozak_pikiner(UA)ATTACK4
+	Kozak_pikiner(UA)ATTACK5
+	Kozak_pikiner(UA)ATTACK6
+	Kozak_pikiner(UA)ATTACK7
+	Kozak_pikiner(UA)SHIELD
+	Kozak_pikiner(UA)SHIELD3
+	Kozak_pikiner(UA)SHIELD4
+	Kozak_pikiner(UA)SHIELD5
+	Kozak_pikiner(UA)SHIELD6
+	Kozak_pikiner(UA)SHIELD7
+	Getman(UA)ATTACK7
+	Getman(UA)SHIELD7
+shahta(UA) 6 shahta(UA)INSIDE
+	shahta(UA)INSIDE3
+	shahta(UA)INSIDE4
+	shahta(UA)INSIDE5
+	shahta(UA)INSIDE6
+	shahta(UA)INSIDE7
+shahta_UG(UA) 6 shahta(UA)INSIDE
+	shahta(UA)INSIDE3
+	shahta(UA)INSIDE4
+	shahta(UA)INSIDE5
+	shahta(UA)INSIDE6
+	shahta(UA)INSIDE7
+shahta_FE(UA) 6 shahta(UA)INSIDE
+	shahta(UA)INSIDE3
+	shahta(UA)INSIDE4
+	shahta(UA)INSIDE5
+	shahta(UA)INSIDE6
+	shahta(UA)INSIDE7
+
+[UPGRADEENABLE]
+Kozak_loshad(UA)ATTACK
+Kozak_loshad(UA)SHIELD
+Kozak_pikiner(UA)ATTACK
+Kozak_pikiner(UA)SHIELD
+Getman(UA)ATTACK7
+Getman(UA)SHIELD7
+AKA01UA
+AKA02UA
+AKA03UA
+AKA04UA
+AKA05UA
+AKA07UA
+AKA08UA
+AKA09UA
+AKA10UA
+AKA12UA
+AKA13UA
+AKA14UA
+AKA15UA
+AKA16UA
+AKA17UA
+AKA18UA
+AKA20UA
+AKA21UA
+AKA22UA
+AKA23UA
+AKA24UA
+AKA25UA
+AKA26UA
+AKA27UA
+AKA28UA
+AKA30UA
+AKA31UA
+AKA33UA
+KUZ01UA
+KUZ02UA
+KUZ03UA
+KUZ05UA
+Melnica_rus(UA)GETRES
+Pushka(UA)BUILD
+Pushka(UA)COST
+Mortira(UA)BUILD
+Mortira(UA)COST
+Kozacki_Strelec(UA)SHIELD
+Kozacki_Strelec(UA)ATTACK
+shahta(UA)INSIDE
+
+[UPGRADELINKS]
+Melnica_rus(UA)GETRES 1 Melnica_rus(UA)GETRES2
+Pushka(UA)COST 1 Pushka(UA)COST3
+Pushka(UA)COST3 1 Pushka(UA)COST4
+Pushka(UA)COST4 1 Pushka(UA)COST5
+Pushka(UA)COST5 1 Pushka(UA)COST6
+Pushka(UA)COST6 1 Pushka(UA)COST7
+Pushka(UA)BUILD 1 Pushka(UA)BUILD3
+Pushka(UA)BUILD3 1 Pushka(UA)BUILD4
+Pushka(UA)BUILD4 1 Pushka(UA)BUILD5
+Pushka(UA)BUILD5 1 Pushka(UA)BUILD6
+Pushka(UA)BUILD6 1 Pushka(UA)BUILD7
+Mortira(UA)BUILD 1 Mortira(UA)BUILD3
+Mortira(UA)BUILD3 1 Mortira(UA)BUILD4
+Mortira(UA)BUILD4 1 Mortira(UA)BUILD5
+Mortira(UA)BUILD5 1 Mortira(UA)BUILD6
+Mortira(UA)BUILD6 1 Mortira(UA)BUILD7
+Mortira(UA)COST 1 Mortira(UA)COST3
+Mortira(UA)COST3 1 Mortira(UA)COST4
+Mortira(UA)COST4 1 Mortira(UA)COST5
+Mortira(UA)COST5 1 Mortira(UA)COST6
+Mortira(UA)COST6 1 Mortira(UA)COST7
+Kozak_loshad(UA)ATTACK 1 Kozak_loshad(UA)ATTACK3
+Kozak_loshad(UA)ATTACK3 1 Kozak_loshad(UA)ATTACK4
+Kozak_loshad(UA)ATTACK4 1 Kozak_loshad(UA)ATTACK5
+Kozak_loshad(UA)ATTACK5 1 Kozak_loshad(UA)ATTACK6
+Kozak_loshad(UA)ATTACK6 1 Kozak_loshad(UA)ATTACK7
+Kozak_loshad(UA)SHIELD 1 Kozak_loshad(UA)SHIELD3
+Kozak_loshad(UA)SHIELD3 1 Kozak_loshad(UA)SHIELD4
+Kozak_loshad(UA)SHIELD4 1 Kozak_loshad(UA)SHIELD5
+Kozak_loshad(UA)SHIELD5 1 Kozak_loshad(UA)SHIELD6
+Kozak_loshad(UA)SHIELD6 1 Kozak_loshad(UA)SHIELD7
+Kozak_pikiner(UA)ATTACK 1 Kozak_pikiner(UA)ATTACK3
+Kozak_pikiner(UA)ATTACK3 1 Kozak_pikiner(UA)ATTACK4
+Kozak_pikiner(UA)ATTACK4 1 Kozak_pikiner(UA)ATTACK5
+Kozak_pikiner(UA)ATTACK5 1 Kozak_pikiner(UA)ATTACK6
+Kozak_pikiner(UA)ATTACK6 1 Kozak_pikiner(UA)ATTACK7
+Kozak_pikiner(UA)SHIELD 1 Kozak_pikiner(UA)SHIELD3
+Kozak_pikiner(UA)SHIELD3 1 Kozak_pikiner(UA)SHIELD4
+Kozak_pikiner(UA)SHIELD4 1 Kozak_pikiner(UA)SHIELD5
+Kozak_pikiner(UA)SHIELD5 1 Kozak_pikiner(UA)SHIELD6
+Kozak_pikiner(UA)SHIELD6 1 Kozak_pikiner(UA)SHIELD7
+Kozacki_Strelec(UA)ATTACK  1 Kozacki_Strelec(UA)ATTACK3
+Kozacki_Strelec(UA)ATTACK3 1 Kozacki_Strelec(UA)ATTACK4
+Kozacki_Strelec(UA)ATTACK4 1 Kozacki_Strelec(UA)ATTACK5
+Kozacki_Strelec(UA)ATTACK5 1 Kozacki_Strelec(UA)ATTACK6
+Kozacki_Strelec(UA)ATTACK6 1 Kozacki_Strelec(UA)ATTACK7
+Kozacki_Strelec(UA)SHIELD  1 Kozacki_Strelec(UA)SHIELD3
+Kozacki_Strelec(UA)SHIELD3 1 Kozacki_Strelec(UA)SHIELD4
+Kozacki_Strelec(UA)SHIELD4 1 Kozacki_Strelec(UA)SHIELD5
+Kozacki_Strelec(UA)SHIELD5 1 Kozacki_Strelec(UA)SHIELD6
+Kozacki_Strelec(UA)SHIELD6 1 Kozacki_Strelec(UA)SHIELD7
+shahta(UA)INSIDE 1 shahta(UA)INSIDE3
+shahta(UA)INSIDE3 1 shahta(UA)INSIDE4
+shahta(UA)INSIDE4 1 shahta(UA)INSIDE5
+shahta(UA)INSIDE5 1 shahta(UA)INSIDE6
+shahta(UA)INSIDE6 1 shahta(UA)INSIDE7
+AKA21UA 1 AKA21UA
+AKA26UA 1 AKA26UA
+
+/[DISABLED_UPGRADES]
+
+[ACCESSCONTROL]	
+Rinok(UA) 2 Melnica_rus(UA) Sclad3(UA)
+konushnia_ua(UA)  1  Kuznica_ua(UA)
+akademia_UA(UA)  1   Strelcovaia_Izba(UA)
+Strelcovaia_Izba(UA)  1 Kuznica_ua(UA)
+artileri_depo_UA(UA)  2  Kuznica_ua(UA) konushnia_ua(UA)
+Dip_korpus_UA(UA) 1 akademia_UA(UA)
+Poru(UA) 1 Rinok(UA)
+Sclad3(UA) 1 CenterUR(UA)
+Cerkov_UA(UA) 1 CenterUR(UA)
+Kuznica_ua(UA) 1 CenterUR(UA)
+Ukrainska_hata(UA) 1 CenterUR(UA)
+WALL_UKR(UA) 1 Sclad3(UA)
+AKA05UA 1 Poru(UA)
+AKA07UA 1 Poru(UA)
+AKA08UA 1 Kuznica_ua(UA)
+AKA12UA 1 Kuznica_ua(UA)
+AKA13UA 1 Kuznica_ua(UA)
+AKA14UA 1 Kuznica_ua(UA)
+AKA15UA 1 Kuznica_ua(UA)
+AKA16UA 2 artileri_depo_UA(UA) Kuznica_ua(UA)
+AKA17UA 2 artileri_depo_UA(UA) Kuznica_ua(UA)
+AKA18UA 2 artileri_depo_UA(UA) Kuznica_ua(UA)
+AKA20UA 2 artileri_depo_UA(UA) Kuznica_ua(UA)
+AKA27UA 2 artileri_depo_UA(UA) Kuznica_ua(UA)
+AKA28UA 1 Poru(UA)
+AKA30UA 1 Poru(UA)
+PERES_KOR(UA) 1 artileri_depo_UA(UA) Kuznica_ua(UA)
+GALERA(UA) 1  artileri_depo_UA(UA) Kuznica_ua(UA)
+Pushka(UA)BUILD  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)BUILD3 2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)BUILD4 2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)BUILD5 2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)BUILD6 2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)BUILD7 2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)COST  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)COST3  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)COST4  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)COST5  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)COST6  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)COST7  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka(UA)  2  Kuznica_ua(UA) konushnia_ua(UA)
+Pushka2(UA)  2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA) 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)COST 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)COST 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)COST 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)COST 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)COST 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)COST 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)BUILD 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)BUILD 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)BUILD 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)BUILD 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)BUILD 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira(UA)BUILD 2  Kuznica_ua(UA) konushnia_ua(UA)
+Mortira_b(UA) 2  Kuznica_ua(UA) konushnia_ua(UA)
+ 
+[CANSETDEST]
+CenterUR(UA)
+shahta(UA)
+shahta_FE(UA)
+shahta_UG(UA)
+konushnia_ua(UA)
+Cerkov_UA(UA)
+Dip_korpus_UA(UA)
+Strelcovaia_Izba(UA)
+artileri_depo_UA(UA)
+Poru(UA)
+
+[PRIVATE]
+shahta(UA)INSIDE
+shahta(UA)INSIDE3
+shahta(UA)INSIDE4
+shahta(UA)INSIDE5
+shahta(UA)INSIDE6
+shahta(UA)INSIDE7
+
+[UNITLOCK]  
+Dip_korpus_UA(UA) 1 Dip_korpus_UA(UA)
+PERES_KOR(UA) 10 PERES_KOR(UA)
+
+[SPECIAL_UPGRADE]
+Pushka(UA)COST 1 0 0 0 0 0 0 0
+Pushka(UA)COST3 1 0 0 0 0 0 0 0
+Pushka(UA)COST4 1 0 0 0 0 0 0 0
+Pushka(UA)COST5 1 0 0 0 0 0 0 0
+Pushka(UA)COST6 1 0 0 0 0 0 0 0
+Pushka(UA)COST7 1 0 0 0 0 0 0 0
+Pushka(UA)BUILD 1 0 0 0 0 0 0 0
+Pushka(UA)BUILD3 1 0 0 0 0 0 0 0 
+Pushka(UA)BUILD4 1 0 0 0 0 0 0 0
+Pushka(UA)BUILD5 1 0 0 0 0 0 0 0
+Pushka(UA)BUILD6 1 0 0 0 0 0 0 0
+Pushka(UA)BUILD7 1 0 0 0 0 0 0 0
+AKA25UA 0 1 0 0 0 0 0 0
+
+[SPECIAL_UNIT]
+Pushka(UA)  1 0 0 0 0 0 0 0
+
+[COUNTRY]	
+UKRAINE	38	
+#èÖïéíÄ	
+Kres_ukranian(UA)	
+Kozacki_Strelec(UA)	
+Sveshenik_ukr(UA)
+Rundashir_Avstria_DIP(UA) 
+Grenader_DIP(UA)	
+Pehota_turki_DIP(UA)
+Strelec_Algir_DIP(UA)
+#äÄÇÄãÖêàü
+Kozak_loshad(UA)
+Kozak_pikiner(UA)
+Getman(UA)
+Kozak_loshad_DIP(UA) 
+Dragun_18_DIP(UA) 
+#ÄêíàããÖêàü
+Pushka(UA)
+Pushka2(UA)
+Mortira(UA)
+Mortira_b(UA)
+#îãéí
+Lodka(UA)
+PERES_KOR(UA)
+GALERA(UA)
+#áÑÄçàü
+CenterUR(UA)
+Ukrainska_hata(UA)
+Melnica_rus(UA)
+Sclad3(UA)
+shahta(UA)
+Kuznica_ua(UA)
+konushnia_ua(UA)
+Poru(UA)
+Cerkov_UA(UA)
+akademia_UA(UA)
+Dip_korpus_UA(UA)
+Rinok(UA)
+Strelcovaia_Izba(UA)
+artileri_depo_UA(UA)
+
+[OFFICERS]
+Pushka(UA) Pushka(UA) 1
+LINE   39 #LINE3PUS #LINE4PUS #LINE5PUS #LINE6PUS #LINE7PUS #LINE8PUS #LINE9PUS #LINE10PUS #LINE11PUS #LINE12PUS #LINE13PUS #LINE14PUS #LINE15PUS #LINE16PUS #LINE17PUS #LINE18PUS #LINE19PUS #LINE20PUS #LINE21PUS #LINE22PUS #LINE23PUS #LINE24PUS #LINE25PUS #LINE26PUS #LINE27PUS #LINE28PUS #LINE29PUS #LINE30PUS #LINE31PUS #LINE32PUS #LINE33PUS #LINE34PUS #LINE35PUS #LINE36PUS #LINE37PUS #LINE38PUS #LINE39PUS #LINE40PUS #LINE100PUS  1 Pushka(UA)
+Mortira(UA) Mortira(UA) 1 
+LINE   8 #LINE3 #LINE4 #LINE5 #LINE6 #LINE7 #LINE8 #LINE9 #LINE10 1 Mortira(UA)
+Mortira_b(UA) Mortira_b(UA) 1
+LINE   16 #LINEMORB5 #LINEMORB6 #LINEMORB7 #LINEMORB8 #LINEMORB9 #LINEMORB10 #LINEMORB11 #LINEMORB12 #LINEMORB13 #LINEMORB14 #LINEMORB15 #LINEMORB16 #LINEMORB17 #LINEMORB18 #LINEMORB19 #LINEMORB20 1 Mortira_b(UA)
+Kozak_pikiner(UA) Kozak_pikiner(UA) 3 
+PRUS   3 #PRUS03 #PRUS02 #PRUS0                                 1 Kozak_pikiner(UA)
+TRI    3 #TRI03 #TRI02 #TRI0                                    1 Kozak_pikiner(UA)
+SHER   3 #SHER03 #SHER02 #SHER0                                 1 Kozak_pikiner(UA)
+Getman(UA) Getman(UA) 3 
+PRUS   3 #PRUS03 #PRUS02 #PRUS0                                 1 Getman(UA)
+TRI    3 #TRI03 #TRI02 #TRI0                                    1 Getman(UA)
+SHER   3 #SHER03 #SHER02 #SHER0                                 1 Getman(UA)
+Kozak_pikiner(UA) Kozak_pikiner(UA) 3
+PRUS2   3 #PRUS03 #PRUS02 #PRUS0                             1 Kozak_pikiner(UA)
+TRI2    3 #TRI03 #TRI02 #TRI0   			     1 Kozak_pikiner(UA)
+SHER2   3 #SHER03 #SHER02 #SHER0                             1 Kozak_pikiner(UA)
+[END]

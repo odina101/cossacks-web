@@ -1,0 +1,33 @@
+#BRIEFING faces 0
+{Q} Treachery
+ 
+A squad of infantry and a small squadron belonging to the King of England are under your command.   
+The English, the allied French fleet and the marines are waiting for your command to begin landing on the Dutch territory.
+Using your peasants, gather forces for a simultaneous strike on the Dutch.
+There are three islands in the north, each of them rich in the resources you need.
+Your primary objective is to defeat the Dutch (blue and violet).
+!You will lose if your army is defeated.
+ 
+{W} Current objectives:
+{A}Capture the island and prepare forces for a joint attack on the Dutch. 
+{Z}~Capture the island and prepare forces for a joint attack on the Dutch.~
+{S}Attack the Dutch together with your allies. 
+{X} 
+
+Hints:
+Destroy the Dutch sea caravans (white ketches).
+
+#Entry missions\pictures\austria 10
+The English and French monarchies still cannot tolerate the Dutch desire for freedom. Having combined their efforts, the English and French are ready to defeat the Dutch navy with a single blow. The allies will then conduct a landing operation to nip the the young state's independence in the bud. 
+
+#Start_att missions\pictures\austria 10
+The Anglo-French army has begun to assault the Dutch. Your help would be much appreciated.
+
+#ali_assault missions\pictures\austria 10
+The allied forces have landed on the continent and are beginning their infantry assault.
+
+#defeat missions\pictures\austria 10
+You failed to complete your task and have been defeated.
+
+#victory missions\pictures\austria 10
+Congratulations! The Dutch have been defeated. Victory!

@@ -1,0 +1,302 @@
+#Kreposnoi_pruss(BA)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(BA) P
+Kreposnoi_pruss(BA) X
+BGAUZ(BA)  Q
+BGAUZ2(BA) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_pruss(DA)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(DA) P
+Kreposnoi_pruss(DA) X
+BGAUZ(DA)  Q
+BGAUZ2(DA) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_pruss(au)
+0 20000 0 0 6000 9000
+4
+Mushketer_avstr(au) P
+Kreposnoi_pruss(au) X
+BGAUZ(au)  Q
+BGAUZ2(au) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Krestian_Turki(AL)
+0 20000 0 1000 6000 9000
+4
+Strelec_Algir(AL) P
+Krestian_Turki(AL) X
+BGAUZ(AL)  Q
+BGAUZ2(AL) W
+20 4
+      PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP
+      PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP
+      PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP
+ Q    PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP   W
+      PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP    
+      PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP    
+      PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP
+      PPPPPPPPPPPXXXXXXXXPPPPPPPPPPP
+#Krestian_Sved(en)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(en) P
+Krestian_Sved(en) X
+BGAUZ(en)  Q
+BGAUZ2(en) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Krestian_Sved(fr)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(fr) P
+Krestian_Sved(fr) X
+BGAUZ(fr)  Q
+BGAUZ2(fr) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_pruss(GE)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(GE) P
+Kreposnoi_pruss(GE) X
+BGAUZ(GE)  Q
+BGAUZ2(GE) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Krestian_Sved(HO)  
+0 20000 0 0 6000 9000
+4
+Mushketer_niderland(HO) P
+Krestian_Sved(HO) X
+BGAUZ(HO)  Q
+BGAUZ2(HO) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_portugal(PI)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(PI) P
+Kreposnoi_portugal(PI) X
+BGAUZ(PI)  Q
+BGAUZ2(PI) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_evro(PL)
+0 20000 0 0 6000 9000
+4
+Mushketer_polsha(PL) P
+Kreposnoi_evro(PL) X
+BGAUZ(PL)  Q
+BGAUZ2(PL) W
+20 4
+                               
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP         
+#Kreposnoi_portugal(PO)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(PO) P
+Kreposnoi_portugal(PO) X
+BGAUZ(PO)  Q
+BGAUZ2(PO) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi(RU)
+0 20000 0 0 6000 9000
+4
+Strelec(RU) P
+Kreposnoi(RU) X
+BGAUZ(RU)  Q
+BGAUZ2(RU) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_pruss(SA)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(SA) P
+Kreposnoi_pruss(SA) X
+BGAUZ(SA)  Q
+BGAUZ2(SA) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_portugal(sp)
+0 20000 0 0 6000 9000
+4
+Strelec_Spain(sp) P
+Kreposnoi_portugal(sp) X
+BGAUZ(sp)  Q
+BGAUZ2(sp) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Krestian_Sved(SV)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(SV) P
+Krestian_Sved(SV) X
+BGAUZ(SV)  Q
+BGAUZ2(SV) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Krestian_Turki(TU)
+0 20000 0 0 6000 9000
+4
+Ianithar(TU) P
+Krestian_Turki(TU) X
+BGAUZ(TU)  Q
+BGAUZ2(TU) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP  
+        PPPPPPPP  XXXXXX  PPPPPPPP  
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kres_ukranian(UA)
+0 20000 0 0 6000 9000
+4
+Kozacki_Strelec(UA) P
+Kres_ukranian(UA) X
+BGAUZ(UA)  Q
+BGAUZ2(UA) W
+20 4
+                               
+            PPPP  XXXXXX  PPPP    
+            PPPP  XXXXXX  PPPP     
+ Q          PPPP  XXXXXX  PPPP         W
+            PPPP  XXXXXX  PPPP          
+            PPPP  XXXXXX  PPPP          
+            PPPP  XXXXXX  PPPP           
+#Kreposnoi_portugal(VE)
+0 20000 0 0 6000 9000
+4
+Mushketer_ev(VE) P
+Kreposnoi_portugal(VE) X
+BGAUZ(VE)  Q
+BGAUZ2(VE) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Krestian_Sved(SW)
+0 20000 0 0 6000 9000
+4
+SwzS15(SW) P
+Krestian_Sved(SW) X
+BGAUZ(SW)  Q
+BGAUZ2(SW) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#Kreposnoi_pruss(VG)
+0 20000 0 0 6000 9000
+4
+VngSer(VG) P
+Kreposnoi_pruss(VG) X
+BGAUZ(VG)  Q
+BGAUZ2(VG) W
+20 4
+                               
+        PPPPPPPP  XXXXXX  PPPPPPPP
+        PPPPPPPP  XXXXXX  PPPPPPPP 
+ Q      PPPPPPPP  XXXXXX  PPPPPPPP     W
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP      
+        PPPPPPPP  XXXXXX  PPPPPPPP       
+#

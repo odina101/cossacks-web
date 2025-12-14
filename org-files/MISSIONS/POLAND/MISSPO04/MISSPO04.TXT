@@ -1,0 +1,32 @@
+#BRIEFING faces 0
+{A}Cossack Wars
+ 
+You will win if you deliver the goods to the northern region.
+{B}You will lose if you lose any packhorse or a storehouse.
+{C}You will lose if you lose even a single packhorse.
+{T} 
+  Current objectives:
+{D}Take the packhorses to the storehouses
+{E}~Take the packhorses to the storehouses~
+{F}Wait till the end of the shipment
+{G}~Wait till the end of the shipment~
+{H}Take the packhorses to the northern end of the road
+
+#AWARD Missions\Pictures\poland 18
+  Battle experience allows you to achieve a higher level of mastery.
+#PAGE0 Missions\Pictures\mord_d 3
+  Your latest assignment is to move the gold and ammunition out of the war zone. The Ukrainians are likely to try to capture valuable resources. Therefore, take the packhorses to the storehouses and move the goods to the safe region as soon as possible.
+#PAGE1 Missions\Pictures\poland 0
+  The packhorses have reached the storehouses. The workers have begun loading them. Please wait until their task has been completed.
+#PAGE2 Missions\Pictures\russia2 0
+  The packhorses are loaded and ready to go. Take them along the road to the northern part of the map. 
+#PAGE3 Missions\Pictures\poland 2
+  The packhorses were not loaded completely as they left the place.
+#PAGE4 Missions\Pictures\poland 10
+  One of the packhorses has been killed by the enemy! Mission failed.
+#PAGE5 Missions\Pictures\poland 4
+  One of the storehouses has been destroyed by the enemy! Mission failed.
+#PAGE6 Missions\Pictures\poland 5
+  The load has been delivered safely. Congratulations on the successful accomplishment of your mission!
+#PAGE7 Missions\Pictures\poland 6
+  A squad of winged hussars has arrived to help you.

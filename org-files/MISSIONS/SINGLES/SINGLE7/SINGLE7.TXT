@@ -1,0 +1,183 @@
+#BRIEFING faces 0
+{X} A Good Friend
+
+You will win if you save your friend from the brigands. 
+You lose if your main character dies. 
+{A}
+
+Current objective:
+{B}Talk to the lord's courier.
+{C}~Talk to the lord's courier.~
+{D}Liberate the village.
+{E}~Liberate the village.~
+{F}Wipe out four brigand camps. 
+{G}~Wipe out four brigand camps.~
+{H}Go to the priest for help. 
+{L}~Go to the priest for help.~
+{M}Kill the gang leader.
+{N}~Kill the gang leader.~
+{O}Speak to the fort's commander.
+{P}~Speak to the fort's commander.~
+{Q}Kill the former gang leader's brother. 
+{R}~Kill the former gang leader's brother.~
+{S}Speak to the general.
+{T}~Speak to the general.~
+{V}Demolish the brigands' camp. 
+
+Additional defeat conditions:
+{W}You will lose if you lose the fort. 
+
+Additional defeat conditions:
+You will lose if either the general or the village priest dies. 
+
+#PAGE1 Missions\Pictures\mord_tut 36
+You have received a missive: "I am happy to greet you, my old friend! My subjects have been suffering from the terror of the bandits lately. Help me. West of your settlement my scout will be waiting for you, he will put you in the picture. Good luck!"   
+
+#PAGE25 Missions\Pictures\poland 5
+Infidels! MAKE MINCEMEAT OUT OF THEM!
+
+#PAGE2 Missions\Pictures\mord_tut 5
+Brigands have captured a settlement to the west. Liberate the settlement by wiping out the gang. This is a top priority objective. But be careful in the forest, there are many brigands on the way to the village. Try avoiding fights with them, or you will risk undermining the forces of your garrison. 
+
+#PAGE11 Missions\Pictures\poland 13
+You have defeated the camp of bandits and discover a loot of gold and food. 
+
+#PAGE12 Missions\Pictures\poland 13
+You have defeated the camp of bandits and discover looted gold, provisions and some ammunition. 
+
+#PAGE30 Missions\Pictures\England 7
+Protect the ataman!
+
+#PAGE31 Missions\Pictures\England 7
+This man has brought troops. He dies now! Run for your life, infidel!
+
+#PAGE32 Missions\Pictures\England 30
+Your friend is grateful for your liberation of the village and has despatched troops for the ultimate defeat of the brigands (troops are on the way). First, clear the woods of brigands (to the east), then speak to the village priest, he will tell you how to neutralise the gang. 
+
+#PAGE33 Missions\pictures\mord2_tut 2
+A garrison of regular interior forces has arrived under your command. Clear the woods of brigands!
+
+#PAGE34 Missions\pictures\mord_d 6
+You have cleared the woods of brigands, it's high time you spoke to the priest. 
+
+#PAGE35 Missions\pictures\poland 16
+I'm aware of the gang leader's location. Bring this to the duke and he will grant you a reward. 
+Reinforcements will arrive from the fort shortly. The gang leader is carefully guarded. 
+
+#PAGE36 Missions\pictures\mord2_tut 2
+Reinforcements have arrived.
+
+#PAGE51 Missions\pictures\poland 18
+You have neutralised the gang that terrorised the village. Report to the fort commander. 
+
+#PAGE50 Missions\pictures\austria 14
+Spare my life and I will pay you 2,000 in gold. 
+
+#PAGE52 Missions\pictures\austria 44
+You waste your forces serving the local lord, we will win anyway. 
+
+#PAGE53 Missions\pictures\England 26
+My brother will take vengeance on you. 
+
+#PAGE54 Missions\pictures\mord_d 10
+Kill the leader of a gang to the west of the fort. Reinforcements are constantly arriving, so hurry. The fort barracks is at your disposal. 
+
+#PAGE55 Missions\pictures\mord_tut 3
+Allied reinforcements have arrived. 
+
+#PAGE56 Missions\pictures\poland 18
+You have killed the gang leader's brother and plundered his treasury. Now set off to the city and report to the general. 
+
+#PAGE3 Missions\pictures\austria 4
+Would you like to purchase packhorses loaded with bread for 500 in gold? I'm old and scared of brigands, but let me tell you a secret: To the west there is a settlement where you can sell them for a decent sum. 
+
+#PAGE4 Missions\pictures\England 11
+We have problems with bread. We are ready to exchange our diplomatic centre for several packhorses of bread. (Take them to the storehouse.) 
+
+#PAGE5 Missions\pictures\austria 44
+Thanks for your help. The diplomatic centre is yours. 
+
+#PAGE6 Missions\pictures\ukraine 6
+You have coped well with your task. Now a city and a fort garrison are under your command. You will also need provisions for your army, so I will give you the village too. Do your best not to lose it.
+Demolish the brigands' fortress to the north-west.   
+
+#PAGE7 Missions\pictures\ukraine 6
+In addition, the city shipyard and fleet are placed under your command. Destroy enemy shipyards to the north-east. This will deprive their fortress troops of ammunition. The suburban adits will secure your ammunition supply. Good luck!    
+
+#PAGE9 Missions\pictures\poland 9
+You have perished in battle.
+
+#PAGE14 Missions\pictures\mord2_tut 23
+You have accomplished the task and won!
+
+#PAGE8 Missions\pictures\mord2_tut 21
+You failed to protect the fort. You have been defeated.
+
+#PAGE13 Missions\pictures\mord_d 2
+You failed to meet the objective and have been defeated.
+
+#PAGE15 Missions\pictures\mord2_tut 7
+Greetings, my friend. I see your combat skills are still good. The city fort and shipyards shall be under your command. Destroy the bandits' main fort to the north-west. I will take command of the sea operations in the meantime. If I'm lucky, I may be able to destroy the coastal defences. But you will have to demolish the shipyards yourself. Without them the enemy will have no chance of transporting ammunition to the fort and their army will be left without support. I am also assigning the headman of the village you liberated to you. The village will provide you with resources, so don't lose it. Good luck! 
+
+#PAGE37 Missions\pictures\mord3_tut 9
+Shipyards destroyed. The enemy towers will no longer fire. 
+
+#PAGE22 Missions\pictures\England 35
+We have been betrayed! Someone released the gang leader and he brought reinforcements. I am surrendering the ships to your command. Save them, if you can. 
+
+#PAGE60 Missions\pictures\poland 18
+We are the advance reconnaissance squad. We were warned of your arrival, and are ready to follow your commands.  
+
+#PAGE70 Missions\pictures\poland 13
+You have already wiped out all of them. 
+
+#PAGE71 Missions\pictures\poland 13
+We have already destroyed three camps, just one more to go. 
+
+#PAGE72 Missions\pictures\poland 13
+We have already destroyed two camps, two remaining. 
+
+#PAGE73 Missions\pictures\poland 13
+We have destroyed one camp, three remaining. 
+
+#PAGE75 Missions\pictures\mord_d 4
+Your combat experience has allowed you to attain a new level. 
+
+#PAGE76 Missions\pictures\mord_d 7
+You can deliver ammunition from the fortress. Just send the transport from your shipyard to the ally's shipyard. 
+
+#PAGE77 Missions\pictures\mord_d 7
+Ammunition is being loaded. 
+
+#PAGE78 Missions\pictures\mord_d 7
+Loading complete. 
+
+#PAGE79 Missions\pictures\mord_d 7
+Ammunition is being unloaded.
+
+#PAGE80 Missions\pictures\mord_d 7
+Unloading complete. You can send the transport to fetch the next ammo load. 
+
+#PAGE81 Missions\pictures\mord_d 7
+Loading hasn't been completed. 
+
+#PAGE82 Missions\pictures\mord_d 7
+Unloading hasn't been completed. 
+
+#PAGE83 Missions\pictures\mord_d 7
+You have lost the transport vessel you needed to deliver ammunition. Now you can use the second transport ship for this purpose. 
+
+#PAGE85 Missions\pictures\mord_d 7
+You are short of money. 
+
+#PAGE86 Missions\pictures\austria 4
+Would you like to purchase packhorses loaded with bread for 5,000 in gold? I'm old and scared of brigands, but let me tell you a secret: To the west there is a settlement where you can sell them for a decent sum. 
+
+#PAGE87 Missions\pictures\austria 4
+Would you like to purchase packhorses loaded with bread for 10,000 in gold? I'm old and scared of brigands, but let me tell you a secret: To the west there is a settlement where you can sell them for a decent sum.
+
+#PAGE88 Missions\pictures\austria 4
+Would you like to purchase packhorses loaded with bread for 15,000 in gold? I'm old and scared of brigands, but let me tell you a secret: To the west there is a settlement where you can sell them for a decent sum.
+
+#PAGE89 Missions\pictures\austria 4
+Would you like to purchase packhorses loaded with bread for 20,000 in gold? I'm old and scared of brigands, but let me tell you a secret: To the west there is a settlement where you can sell them for a decent sum.

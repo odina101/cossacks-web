@@ -1,0 +1,8 @@
+Questions handled:
+How to select a required unit. How to select all the buildings of the same type.
+How to select idle peasants.
+What is the purpose of the shipyard? 
+What is the purpose of the artillery depot?
+What is the purpose of the diplomatic centre?
+Mercenaries - pros and cons.
+Resource gathering upgrades. Which are more important? 

@@ -1,0 +1,77 @@
+#BRIEFING faces 0
+{A}Mutiny in Toulouse
+
+Kill six rebellious leaders to win.
+You will lose if your hero dies.
+!Some characters will talk to your hero.
+! Capture the enemy's storehouses to replenish the stock of resources.
+
+Current objectives:
+{B}Destroy the diplomatic centre to the east of the de Louvoir estate
+{C}~Destroy the diplomatic centre to the east of the de Louvoir estate~
+{D}Capture the artillery depot at the d'Engoulemme castle (to the east)
+{E}~Capture the artillery depot at the d'Engoulemme castle (to the east)~
+#PAGE1 Missions\Pictures\mord2_tut 15
+  A squad of new musketeers is under your command. To the east of here lies an estate belonging to the Marquis de Louvoir, who is loyal to the King. The Marquis is aware of your visit, and with his help you will be able to assemble an efficient army.
+#PAGE2 Missions\Pictures\faces 6
+  You meet three musketeers: "Ha! Look at that! The King's faithful slave is leading swine into battle against true noblemen. Hey, monsieur! Why the hurry? You'll die right here!"
+#PAGE3 Missions\Pictures\faces 3
+  You knock at the gate of the de Louvoir estate. A frightened door-keeper opens the gate: "We are under attack! The enemies are pressing hard from the east! The Marquis has been waiting for you, he will be here soon."
+#PAGE4 Missions\Pictures\faces 27
+  Greetings, milord! I am the Marquis de Louvoir, a faithful myrmidon of His Majesty. Those damned traitors have been encroaching upon my domain. Du Vernes, my neighbour to the east, has made a deal with foreigners and is now recruiting hordes of mercenaries.
+#PAGE4A Missions\Pictures\faces 27
+  I know you need my assistance, but for now I am unable to give it. I must protect my land. If only we could destroy du Vernes's diplomatic centre ... But without artillery, it is impossible.
+#PAGE4B Missions\Pictures\faces 27
+  My scouts have reported that mutineers are concealing a howitzer in the forest to the north of here. If you could capture it and demolish the diplomatic centre, it would be a great help. Return here when you are done, and I will help you. I give you my word as a nobleman!
+#PAGE5 Missions\Pictures\mord_tut 15
+  The diplomatic centre has burnt down! You have ruined the dishonourable alliance between du Vernes and the foreigners!
+#PAGE6 Missions\Pictures\faces 10
+  Excellent! Du Vernes is dead! Let his death be a lesson to all traitors.
+#PAGE7 Missions\Pictures\faces 4
+  The Marquis de Louvoir is dead! Without his guidance, his subjects have become robbers.
+#PAGE8 Missions\Pictures\faces 27
+  Unbelievable! You did it! I much appreciate your help! For now, please excuse me, I have important business to attend to ... Farewell!
+#PAGE8A Missions\Pictures\faces 27
+  You again? Oh yes, I gave you my word ... Very well, take my soldiers, my barracks, my stable and my blacksmith. You can keep them until the mutineers have been defeated!
+#PAGE8B Missions\Pictures\mord3_tut 15
+  You will need an artillery depot to besiege the strongholds of rebellious noblemen. The best way is to capture a depot from d'Engoulemme. His estate is to the north-east of the demolished diplomatic centre.
+#PAGE9 Missions\Pictures\faces 4
+  You have died for the King and for France!
+#PAGE9A Missions\Pictures\russia 24
+  You have died of starvation!
+#PAGE10 Missions\Pictures\faces 12
+  Local thugs are attacking your squad!
+#PAGE11 Missions\Pictures\faces 5
+  You have found a purse full of gold and a small supply of food and ammunition in the robbers' camp.
+#PAGE12 Missions\Pictures\faces 10
+  D'Engoulemme is dead! Well done!
+#PAGE13 Missions\Pictures\england 30
+  You captured a village that belonged to d'Engoulemme. The locals have paid you a ransom of 20,000 units of food.
+#PAGE14 Missions\Pictures\mord2_tut 14
+  You have eliminated the garrison of the fortress and burned it to the ground!
+#PAGE15 Missions\Pictures\england 32
+  You have captured a storehouse! Your loot is 3,000 gold, 5,000 coal and 5,000 iron.
+#PAGE16 Missions\Pictures\england 32
+  You have captured a storehouse with 5,000 gold and 20,000 food.
+#PAGE17 Missions\Pictures\mord_d 3
+  The storehouse is yours! You have found 5,000 gold, 6,000 coal, 6,000 iron and 40,000 wood.
+#PAGE18 Missions\Pictures\faces 10
+  Dubelles is dead! You have relieved France of another traitor.
+#PAGE19 Missions\Pictures\faces 10
+  Prince Condes has been defeated! The King is very pleased.
+#PAGE20 Missions\Pictures\faces 10
+  You have killed Gastone of Armagne. His fate shall be that of all the King's enemies!
+#PAGE21 Missions\Pictures\faces 10
+  Excellent! Prince Condes has gone to meet his Creator. Long live the King!
+#PAGE22 Missions\Pictures\england 30
+  You have occupied the estate of Prince Condes and confiscated 30,000 units of food from locals to replenish your food supplies.
+#PAGE23 Missions\Pictures\mord_d 7
+  You have captured the shipyard! Now you can reach Prince Condes. His domain is across the river.
+#PAGE24 Missions\Pictures\faces 16
+  Robbers are attacking your squad!
+#PAGE25 Missions\Pictures\faces 15
+  You have spotted a chest with the bandits' loot in the woods. 1500 units of gold are now yours.
+#PAGE26 Missions\Pictures\russia 18
+  Unbelievable! You have captured a stable!
+#PAGE27 Missions\Pictures\faces 8
+  Congratulations! Your mission has been successfully accomplished! Let the long-awaited peace reign in France at last.

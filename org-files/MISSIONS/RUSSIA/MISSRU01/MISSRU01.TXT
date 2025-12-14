@@ -1,0 +1,107 @@
+#BRIEFING faces 0
+{A}Stepan Razin
+
+Eliminate all rebel forces to win.
+You will lose if your hero dies.
+!Some characters will talk to your hero.
+
+Current objectives:
+{B}Reach the village of Tetiushi
+{C}~Reach the village of Tetiushi~
+{D}Find the Tsar's secret agent
+{E}~Find the Tsar's secret agent~
+#PAGE1 Missions\Pictures\mord_tut 1
+  Your squad is off course. Find the correct way to Tetiushi, for any delay may cost you dearly. And take care - predatory Cossacks rule this place.
+#PAGE2 Missions\Pictures\russia2 0
+  Hey, men! Come on! Cut'em!!
+#PAGE3 Missions\Pictures\russia2 4
+  He-e-elp! These vermin be stealing my goods!
+#PAGE4 Missions\Pictures\russia2 4
+  Thank ye kindly, milord! Ye be my redeemer! Yse ...
+#PAGE4A Missions\Pictures\russia 7
+  Enough, you villein! Do you know the way to Tetiushi?
+#PAGE4B Missions\Pictures\russia2 4
+  Aye, sure I know, sure I know! Lately we had merry wedding there, an' I come home up in morning. Come on with me, I'll show ye th'way.
+#PAGE5 Missions\Pictures\russia2 2
+  What's this scum here? Hey men, kill'em!
+#PAGE6 Missions\Pictures\russia 7
+  You spot a peasant:
+  "Hey, villein! Do you know the way to Tetiushi? We must find Razin and are short of time".
+#PAGE6A Missions\Pictures\russia2 3
+  Why yes, master, sure I do! Come ye along after me, I'll lead ye to the village.
+#PAGE7 Missions\Pictures\russia2 3
+  Come on, guys! Kill the Tsar's stooges! For Stepan Razin!
+#PAGE7A Missions\Pictures\russia 7
+  Treachery! You'll pay for this! Be damned, liar! Soldiers, charge!
+#PAGE8 Missions\Pictures\russia 4
+  Finally you're here, Prince! I was beginning to think that something had gone wrong. You are no under my command. Here is the plan: First of all we need to send a message to our man - there is a ferry to the north ...
+#PAGE8A Missions\Pictures\russia 5
+  Eat this, you murderer! You shan't plot against Razin again! For Stepan!
+#PAGE8D Missions\Pictures\russia 14
+  The Voevode has been treacherously killed! Now you should sit tight in Tetiushi and exterminate Razin's squad.
+#PAGE8B Missions\Pictures\russia 7
+  The traitor is dead! Everyone who is against the Tsar will face a dreadful death! Now I am in command, and I swear on my honour that we will crush Razin!
+#PAGE8C Missions\Pictures\russia 23
+  In one of Voevode's pockets you have found a message to one of the Tsar's secret agents.
+#PAGE9 Missions\Pictures\russia 6
+  Guards! Murderers! It's Razin! Run for your lives!
+#PAGE10 Missions\Pictures\russia 7
+  Hey, ferryman! Over here! From now on you serve the Tsar!
+#PAGE10A Missions\Pictures\russia 7
+  You approach the ferry and find Razin's flag on it.
+  "Whom do you serve, villein?! Vow fidelity to the Tsar or die!"
+#PAGE10B Missions\Pictures\russia2 1
+  Have mercy on my life, master, in the name of Christ! I swear to serve our father the Tsar for as long as I live! Spare me!
+#PAGE11 Missions\Pictures\russia 29
+  Excellent! Razin's gang is no more! This ought to be a lesson to the Cossacks not to oppose the Tsar.
+#PAGE12 Missions\Pictures\russia 14
+  You have died in battle. Russia will remember your feat!
+#PAGE12A Missions\Pictures\russia 14
+  You have died of starvation. What a horrible death ... Next time, make sure you have enough food.
+#PAGE13 Missions\Pictures\russia 3
+  You come closer and meet the master of the hunters' house:
+  "Who dares to disturb the Tsar's servant?"
+#PAGE13A Missions\Pictures\russia 33
+  We seek one of the Tsar's agents, who should be living somewhere nearby. Have you seen him?
+#PAGE13B Missions\Pictures\russia 3
+  What is your business with him?
+#PAGE13C Missions\Pictures\russia 33
+  We bring a message from the Voevode.
+#PAGE13D Missions\Pictures\russia 3
+  Give it to me. I've been expecting news from Tetiushi. Wait for reinforcements - I'll send a messenger to Simbirsk.
+#PAGE14 Missions\Pictures\england 34
+  You have received reinforcements! Five half-galleys are under your command now!
+#PAGE15 Missions\Pictures\russia 17
+  Finally you have reached Tetiushi! Now you should talk to Voevode Baryatinsky to receive new orders.
+#PAGE15A Missions\Pictures\russia 17
+  Finally you have reached Tetiushi! But you are too late. The Voevode has died in battle, and Razin is on a rampage in the village.
+#PAGE15B Missions\Pictures\russia 7
+  Soldiers, charge! Let's drive Razin from the village!
+#PAGE15C Missions\Pictures\russia 33
+  But we have no reserves, master! Razin's galleys are too tough for our strelets regiments, though some serfs did tell me that the Voevode had spoken of reinforcements and a messenger that we should send across the river.
+#PAGE16 Missions\Pictures\russia 6
+  Cha-a-arge! Cut'em, men! Disembowel them!
+#PAGE17 Missions\Pictures\russia 11
+  Shoot, brothers! Drive them from the Cossacks' land!
+#PAGE18 Missions\Pictures\russia2 0
+  Halt! Razin says that no-one may walk here! We will kill you who go against the will of Razin!
+#PAGE19 Missions\Pictures\russia2 3
+  Hey, men! Come on! Cut the Tsar's minions!
+#PAGE20 Missions\Pictures\russia 11
+  You come across a camp of robbers. "Ha! Look at this dinner party! A herd of swine with a hog at the head! Kill'em, brothers! Kill'em all!"
+#PAGE20A Missions\Pictures\russia 7
+  You'll pay for the "hog", you rogue! Soldiers, shoot them!
+#PAGE21 Missions\Pictures\russia2 3
+  Kill'em, men! Kill the scum!!
+#PAGE22 Missions\Pictures\mord_n 3
+  In the middle of the razed camp, your soldiers found a cauldron filled with hot skilly. Not too fastidious about bandits' food, your soldiers have filled their stomachs.
+#PAGE23 Missions\Pictures\mord_tut 27
+  All your soldiers are suffering from severe diarrhoea. You must stop your march. Let us hope their condition was caused by robbers' soup, not typhoid fever.
+#PAGE24 Missions\Pictures\russia 7
+  You reach a village: "At last! Hey, villein! Is this Tetiushi?"
+#PAGE24A Missions\Pictures\russia 10
+  The Lord be with you, master! This is Terenga. Tetiushi is that way, to the north, behind the hills.
+#PAGE25 Missions\Pictures\russia 33
+  You meet the manager of a mine: "Hey, man! Do you know the Tsar's agent? I have a letter for him."
+#PAGE25A Missions\Pictures\russia 2
+  There are no agents here! This is the Tsar's mine, not his office! Go to the north. There you will meet a hermit beside the water. Ask him. Now go, don't waste my time.

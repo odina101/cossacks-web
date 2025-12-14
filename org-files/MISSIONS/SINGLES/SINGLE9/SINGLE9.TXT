@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A} The Fort 
+
+!Demolish the Spanish fortifications in the west to win (destroy all the military units on the island). 
+!You will lose if your main character is killed. 
+
+#PAGE1 Missions\Pictures\austria 7
+A small provincial town is under your command. 
+Your objective is to destroy the Spanish fortifications in the west. 
+
+#PAGE2 Missions\Pictures\austria 7
+There is a Prussian town to the north. 
+Beware, an attack is expected any time. 
+
+#PAGE11  Missions\Pictures\austria 8
+You have perished! High hopes were placed in you, but you failed to justify them!
+
+#PAGE10  Missions\Pictures\mord_tut 14
+Excellent! You have accomplished your task!
+This was far from being a walkover!
+
+#PAGE12  Missions\Pictures\mord_tut 14
+You have crushed the Prussian army and captured rich deposits. 
+
+#PAGE15  Missions\Pictures\mord_tut 14
+You have demolished a camp of brigands.
+In the villains' pockets you find 5,000 in gold. 

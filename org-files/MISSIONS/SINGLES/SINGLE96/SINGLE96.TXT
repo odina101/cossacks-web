@@ -1,0 +1,51 @@
+#BRIEFING faces 0
+{A}	The Prussian Naval Base
+    
+Defeat all the enemies in the region.
+You will lose if your forces are eliminated or all the Prussian shipyards are destroyed.
+   
+Current objectives:
+{B}	Keep the base shipyards.
+{C}	Defeat the Dutch land army (blue).
+{D}	~Defeat the Dutch land army.~
+{E}	Destroy the Dutch fleet (green).
+{H}	~Destroy the Dutch fleet.~
+{G}	Destroy the enemies overseas (violet and black).
+
+#PAGE0 Missions\Pictures\faces 14
+The commander-in-chief has assigned you to defend the naval base on the north-western coast. The Prussian fleet commander will secure the defence at sea (orange).
+Your task is to organise the defence on land and fortify the coastal batteries to repel any attacks from the sea, as well as destroy the Dutch land army (blue).  
+
+#PAGE1 Missions\Pictures\mord3_tut 0
+The commander-in-chief is very pleased with your successful actions. He places shipyards and the fleet under your control (shipyards are now available).
+
+#PAGE2 Missions\Pictures\mord3_tut 0
+Be careful! The Dutch fleet is reportedly about to attack the base. You must reinforce your fleet and defeat the Dutch ships (green).
+
+#PAGE3 Missions\Pictures\mord3_tut 7
+According to the latest reports from our scouts, the Dutch are preparing a new invasion on land. The enemy is expected to come from the north.
+Now you must eliminate the Dutch forces overseas, i.e. the republican expeditionary corps (violet) and the continental army (black).
+
+#PAGE10 Missions\Pictures\mord3_tut 5
+You have no Prussian shipyards left. The naval base has been destroyed.
+Mission failed. 
+
+#PAGE10B Missions\Pictures\mord3_tut 14
+You have lost all your forces. The naval base has no land cover left. 
+Mission failed. 
+
+#PAGE11 Missions\Pictures\mord2_tut 14
+The Dutch land army on the continent has been eliminated (blue).
+
+#PAGE12 Missions\Pictures\mord3_tut 8
+The Dutch fleet has been destroyed (green)! However, they may try to restore their fleet.
+
+#PAGE13 Missions\Pictures\mord2_tut 14
+The republican expeditionary corps has been destroyed (violet). 
+
+#PAGE15 Missions\Pictures\mord2_tut 14
+The Dutch continental army has been defeated (black). 
+
+#PAGE20 Missions\Pictures\faces 14
+All Dutch armies and the fleet have been eliminated.
+You have won!

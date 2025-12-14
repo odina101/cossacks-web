@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+{A}	Early Winter
+
+!You must defeat Sweden.
+!You will lose if your troops are eliminated.
+
+#PAGE1 Missions\Pictures\russia 0
+War has broken out with Sweden. King Charles is a serious opponent. His army is widely considered the best in Europe. You must set up the defence of the Russian lands. 
+The primary task of your mission is to build a fortress and barracks, create and cater for the army. You must be very fast because the enemy may attack any time.
+
+#PAGE2 Missions\Pictures\russia 6
+"Master, the early snow has killed the crops. We'll have to ask the Ukrainian settlement for help."
+
+#PAGE3  Missions\Pictures\russia 14
+Your troops have been defeated.
+You have lost.
+
+#PAGE4  Missions\Pictures\austria 45
+You have defeated Sweden.
+Congratulations! This was not an easy victory. 
+
+#PAGE5  Missions\Pictures\ukraine 2
+I salute you! I am aware of your troubles.
+I will help you. You can harvest food on our fields and I will also give you workers.
+But you will have to protect our village from the Tatars.  
+
+#PAGE6  Missions\Pictures\ukraine 7
+You have destroyed the nomads' camp. 
+There will be no more raids on the village.
+
+#PAGE7  Missions\Pictures\algeria 1
+
+#PAGE8  Missions\Pictures\algeria 1
+
+

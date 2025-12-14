@@ -1,0 +1,8 @@
+LOADING Loading ...
+WAITPL Please wait ...
+Assume_Rank_Formation Assume Rank Formation
+Assume_Column_Formation Assume Column Formation
+Assume_Square_Formation Assume Square Formation
+Assume_HR_LINE_Formation Assume Line Formation
+Assume_HR_TRI_Formation Assume Wedge Formation
+Assume_HR_P_Formation Assume Column Formation

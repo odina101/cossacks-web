@@ -1,0 +1,41 @@
+#BRIEFING faces 0
+{A}Brazil
+
+Defeat the English to win.
+
+{C}You will lose if no army is left.
+{D}You will lose if the Governor's assistant dies.
+{B}
+ Current objectives:
+
+{E} Release the Governor's assistant.
+{F}~ Release the Governor's assistant.~
+{G} Bring the assistant to the Brazilian coast and escort him to the highlighted spot near the Portuguese shipyard.
+{H}~ Bring the assistant to the Brazilian coast and escort him to the highlighted spot near the Portuguese shipyard.~
+
+#PAGE1 missions\pictures\faces 0
+  As a Brazilian governor, you will have to repulse the attack and destroy the English base. The English have the advantage at sea, as frigates and battleships are still not available to you.
+#PAGE3 missions\pictures\faces 9
+  Great! You have captured the island.
+#PAGE4 missions\pictures\faces 9
+  The English have recovered the island.
+#PAGE5 missions\pictures\faces 5
+  A rich merchant has entered your harbour. You receive 3,000 gold and 5,000 food.
+#PAGE6 missions\pictures\faces 5
+  A rich merchant has entered your harbour. You receive 3,000 iron and 5,000 wood.
+#PAGE7 missions\pictures\faces 5
+  A rich merchant has entered your harbour. You receive 3,000 coal and 5,000 stone.
+#PAGE9 missions\pictures\faces 5
+  A rich merchant has entered your harbour. You receive 1,000 gold, 1,000 iron and 1,000 coal.
+#PAGE11 missions\pictures\faces 6
+  Thank you for saving me. Now we should hurry. As soon as we get to the Brazilian coast, we'll start building vessels.
+#PAGE12 missions\pictures\faces 6
+  Great! We've reached our destination. Now you may build frigates and battleships.
+#PAGE13 missions\pictures\faces 4
+  The Governor's assistant is dead. Mission failed.
+#PAGE14 missions\pictures\faces 0
+ To the west is an island where many trade lines meet. Rich convoys enter the island's ports to trade. This yields great profits for the side controlling the island. It is currently controlled by the English. Capture the island and your treasury will soon be filled.
+#PAGE15 missions\pictures\faces 0
+  Take the Governor's assistant to the highlighted beach.
+#PAGE16 missions\pictures\faces 0
+  Dutch shipbuilders have recently learnt how to build frigates and battleships. Your assistant has just left for the Netherlands to pick up some shipbuilders for your own ship construction. On the way back, the Governor's assistant and the people on board were captured by the English and the ship was sunk. The prisoners are being held kept on the island to the north-east. You must rescue them, because this is the only way to begin constructing your navy. You will be able to build frigates and battleships, which will allow you to compete with the English fleet. The Governor's assistant and the shipbuilders must survive.

@@ -1,0 +1,63 @@
+#BRIEFING faces 0
+{A}Rocroi: After the Victory
+
+In order to win, you should wipe out all Spanish squads in the territory around the fortress.
+You will lose if your hero dies.
+!Some characters will talk to your hero.
+
+Current objectives:
+{B}Secure the eastern tower
+{C}Liberate the village (to the north of the fortress)
+{D}~Secure the eastern tower~
+{E}~Liberate the village (to the north of the fortress)~
+{F}Recover northern ruins
+{G}~Recover northern ruins~
+{H}Capture the storehouse (a road from the eastern tower will lead you there)
+{J}~Capture the storehouse (a road from the eastern tower will lead you there)~
+{K}Liberate the civilians in the fort to the south-east
+{L}~Liberate the civilians in the fort to the south-east~
+{M}Crush a Spanish squad to the south-west
+#PAGE1 Missions\Pictures\mord_tut 14
+  You and your small reconnaissance squad have returned to the fortress. Your worst premonitions proved true: There are a lot of Spaniards to finish off all around. Proceed to the chief in the middle of the fortress to report on the situation and receive new orders.
+#PAGE2 Missions\Pictures\mord_d 0
+ The situation is nasty. I cede the command over nearly the whole fortress garrison to you. Your primary objective is to liberate the village to the north of the fortress and secure the eastern tower. Return when you have succeeded.
+#PAGE3 Missions\Pictures\russia 26
+  You have liberated the village from invaders. The grateful locals have paid you 20,000 in food.
+#PAGE4 Missions\Pictures\mord2_tut 14
+  The Spanish squad has been eliminated! Return to the fortress to receive new orders.
+#PAGE5 Missions\Pictures\mord_tut 12
+  You have eliminated the Spanish squad that had captured the tower. Well done!
+#PAGE6 Missions\Pictures\faces 18
+  Save us! Get us out of here!
+#PAGE7 Missions\Pictures\mord_tut 22
+  You have returned the kidnapped civilians to their families. One of the survivors is the son of the local academy's president. The happy father offers you his services.
+#PAGE8 Missions\Pictures\mord_tut 4
+  Most of the hostages are dead! You proved unable to save the civilians. Mission failed!
+#PAGE9 Missions\Pictures\mord2_tut 21
+  A strong Spanish detachment has been eliminated! Good work!
+#PAGE10 Missions\Pictures\faces 4
+  You have died for the King and for France!
+#PAGE10A Missions\Pictures\russia 24
+  You have died of starvation!
+#PAGE11 Missions\Pictures\mord_d 0
+  Things are even worse than I expected! There are too many Spaniards. I live in fear lest they should counterattack. But I realize your goal is of greater importance, that is why I'll run the risk of weakening the defences of the fortress and giving you a howitzer.
+#PAGE12 Missions\Pictures\faces 24
+  Knights from the neighbouring estate have found out about the lamentable state of affairs and come to help. They are waiting for you at the southern gate.
+#PAGE13 Missions\Pictures\mord_d 10
+  Our duty is to guard our native land. Thus we will assist you in your battles against the Spanish.
+#PAGE14 Missions\Pictures\england 32
+  You have captured a storehouse! The loot is 20,000 food, 3,000 gold, 15,000 coal and 15,000 iron.
+#PAGE14A Missions\Pictures\mord_tut 15
+  You have demolished the enemy storehouse! Although you did not recover the booty, the Spaniards are now unable to grab it!
+#PAGE15 Missions\Pictures\mord_tut 14
+  Excellent! Major Spanish forces have been crushed. The fortress and its outskirts are secure.
+#PAGE16 Missions\Pictures\mord_d 0
+  Your next mission is to drive the Spanish out of the ruins to the north of here. Watch out, reconnaissance reports state that the enemy line is well fortified.
+#PAGE17 Missions\Pictures\mord_d 0
+  I've received word that the Spanish are keeping the booty in a storehouse next to the road from the eastern tower. Your mission is to eliminate the guards and capture the storehouse.
+#PAGE18 Missions\Pictures\mord_d 0
+ Many Frenchmen were taken captives by the Spaniards. Our scouts report that the enemy is holding them in a camp to the south-east. Liberate the civilians and bring them back to the fortress.
+#PAGE19 Missions\Pictures\mord_d 0
+  A strong Spanish detachment has been spotted to the south-west. It looks like they are assembling forces for a counterstrike. Annihilate them before the enemy can regroup after the defeat.
+#PAGE20 Missions\Pictures\mord_tut 33
+  You did it! Now return to the fortress to receive new orders.

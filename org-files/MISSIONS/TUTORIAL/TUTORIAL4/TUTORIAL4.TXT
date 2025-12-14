@@ -1,0 +1,87 @@
+#BRIEFING faces 0
+{Z} Military tricks!
+                                                 
+!You will lose if you don't have peasants and can't create them, and if the quantity of military units is less than 8 (default defeat conditions).
+!Don't forget about the guards!
+           
+  Current objective:
+{A}Select the barracks.
+{J}Carry out attack and defence upgrades for pikemen.
+{K}Repel the attack of the deserters. 
+{B}Select the stable.
+{C}Bring up unit description.
+{D}Find the upgrades depicted. 
+{L}Carry out defence upgrade for armoured units.
+{N}Select the academy.
+{E}Repulse the gang's assault. 
+{M}Carry out upgrade and build one more multi-barrelled cannon.
+{F}Select the artillery depot. 
+{H}Repel the attack.
+{I}Select a mounted unit.
+{G}Repel the Tatar raid.
+{O}Conduct both rate of fire upgrades and two upgrades to increase fire power (10% and 15%).
+
+#PAGE1 Missions\Pictures\mord_tut 1
+Upgrades you carry out in the course of development should go in line with the goals you aim to pursue. Depending on the tactics and strategy selected, upgrades are to be performed in a certain order. Still, every commander has his own way to victory.
+#PAGE21 Missions\Pictures\mord_tut 1
+In the previous mission we scrutinized the upgrades intended to help you with economic growth. In this mission, we'll take a look at the upgrades to boost your military power.
+#PAGE22 Missions\Pictures\mord_tut 1
+You will now learn about improving military units in the game. You can train each type of units, be it infantrymen or cavalrymen, thus improving their characteristics.
+#PAGE2 Missions\Pictures\russia 17
+As you can see, there are two upgrades under each unit icon. The upper upgrade allows you to increase the attack parameters, the lower increases the parameters of defence against direct attacks. In total, different infantry units have from four to seven attack and defence upgrades available. Carrying out these upgrades trains your soldiers, turning greenhorns into professional warriors. Each upgrade carried out affects all the units of this type that you possess at that time, as well as those you will build later on. Don't forget to train your soldiers, for a mob of ill-prepared new recruits always loses to even a small squad of trained warriors.
+#PAGE23 Missions\Pictures\russia 17
+Carry out all six attack and defence upgrades for pikemen. If you experience lack of resources, procure them or obtain them at the market.
+#PAGE24 Missions\Pictures\russia 17
+Repel the attack of a group of deserters approaching from the south-west.
+#PAGE25 Missions\Pictures\russia 17
+Excellent. As you can see, your trained soldiers beat the untrained, though more numerous enemy forces hands down.
+#PAGE26 Missions\Pictures\russia 17
+Now let's go over to the cavalry. Select the stable.
+#PAGE3 Missions\Pictures\russia 18
+The system used to train cavalry units in a stable is analogous to that of training pikemen in barracks - the system we scrutinized just now. There are two upgrades under each unit icon. The upper upgrade increases the attack parameters, the lower one allows you to improve the defence. Various cavalry units have six attack and defence upgrades each.
+#PAGE27 Missions\Pictures\russia 18
+"Forge harnesses for horses" is an upgrade of paramount importance to cavalry, for it allows you to create cavalry units 4 times faster. Similarly important is the "Forge new broadswords and sabres" upgrade, which increases your cavalry's attack parameters by 5. Both of these upgrades can be found in the blacksmith.
+#PAGE28 Missions\Pictures\russia 18
+There is a built-in reference system in the game, where you can find information on units and buildings. Select any unit and press the U key to see its characteristics pop up in the upper right corner. Having selected the subsection Upgrades, you will see how each upgrade improves a unit's attack or defence parameters. Hold the cursor on the number of the improvement to bring up a pop-up menu indicating the cost of this upgrade. To hide the information window, press U once again.
+#PAGE4 Missions\Pictures\england 24
+Among the upgrades are some affecting all types of units and some affecting only particular ones. Thus, in the academy and blacksmith for instance, there are "Research improved steel grades for cuirasses" and "Forge new cuirasses" upgrades, which add 2 points to the defence of armoured units. Having made these improvements, you will have increased the defence parameters of all your armoured units. Carry out one of these upgrades.
+#PAGE29 Missions\Pictures\england 24
+The upgrade has been completed. All your armoured units have acquired a defence bonus.
+#PAGE30 Missions\Pictures\england 24
+Now let's take a look at upgrades which allow you to increase the parameters of shooting units. Select the academy.
+#PAGE5 Missions\Pictures\mord_d 8
+Here you can see the upgrades "Design wheel lock" and "Design paper cartridge and iron ramrod". These increase your shooting units' rate of fire by 35% each. Also, you will find the "Research granular gunpowder", "Improve firearms: rifled barrel", "Research new sulphur rectification methods" and "Research new nitre rectification methods" upgrades. These increase fire power. Note: Mercenaries are not affected by upgrades. Carry out both upgrades for the rate of fire and two upgrades to increase the fire power (by 10% and 15%).
+#PAGE31 Missions\Pictures\england 24
+Great, the attack parameters of your shooting units have increased. Now let's deal with the artillery.
+#PAGE6 Missions\Pictures\poland 5
+There is a multi-barrelled cannon at your disposal. Such guns are very effective against infantry and cavalry units without armour. Watch out, a squad of brigands is about to attack you from the north-west. Make use of the multi-barrelled cannon to repel the attack.
+#PAGE7 Missions\Pictures\russia 8
+As you saw, your method of attack proved quite effective. Still, there are a number of units with armour that protects them. Multi-barrelled cannons are ineffective against such units. Thus, for example, your pikemen are armoured. Select one pikeman to see his parameters in the lower left part of the interface. The pikeman's defence against this method of attack is 150.
+#PAGE8 Missions\Pictures\mord2_tut 19
+Multi-barrelled cannons are unavailable when you have just built the artillery depot. To make them available, you must conduct the upgrade "Design multi-barrelled cannon". Select the academy.
+#PAGE32 Missions\Pictures\england 24
+Good, now conduct the multi-barrelled cannon upgrade and select the artillery depot. Build one more multi-barrelled cannon there.
+#PAGE9 Missions\Pictures\russia 28
+Right, now let's take a look at the cannons. Cannons are artillery units which fire balls at long range. They can also fire grapeshot if a target is close enough. Select the artillery depot.
+#PAGE33 Missions\Pictures\russia 28
+Under the cannon icon you can see two upgrades, i.e. "Foundry mechanization" and "Develop new metalworking methods". These allow you to diminish the cost and the building time of the cannon.
+#PAGE34 Missions\Pictures\russia 28
+A howitzer is a bomb-firing short-range artillery unit. Howitzers are effective against troops and buildings alike. Unlike the cannons howitzers conduct curved fire and can strike the target over the surface irregularities. As for the cannons, with the help of the upgrades "Foundry mechanization" and "Develop new metalworking methods" you can diminish the cost and the building time of the howitzers.
+#PAGE35 Missions\Pictures\russia 28   
+Finally, a mortar is an artillery unit with an exceptionally long range. Effective only against buildings and constructions. The flight path of mortar projectiles is curved, so that they can strike a target over surface irregularities.
+#PAGE10 Missions\Pictures\mord_tut 13
+This is the ideal time to demonstrate the power of a conventional cannon and howitzer. A group of enemy troops is moving out from the thicket. Disable the cannons' attack by clicking on the corresponding icon. When the enemy is close, enable the attack (grapeshot).
+#PAGE11 Missions\Pictures\mord_tut 17
+Hopefully, this wasn't too hard. Select any mounted unit (except mercenaries).
+#PAGE15 Missions\Pictures\ukraine 29
+In the lower left part of the interface you can see three icons for building up mounted formations. Gather 40 units of one type (Don Cossacks), select one of them and click on the formation icon to create a formation. Cavalry units in formations receive a bonus, just as infantry units do. You can't create formations of fast cavalry units.
+#PAGE36 Missions\Pictures\ukraine 29
+A squad of Don Cossacks has joined you.
+#PAGE16 Missions\Pictures\poland 23
+If you run out of lodgings, build several izbas. Selecting the town hall shows you the number of lodgings available (below) and the number of units you have (above). The number of lodgings should significantly exceed that of the units.
+#PAGE17 Missions\Pictures\russia 29
+The tsar has sent you a squad of Don Cossacks and a regiment of Strelets to rebuff the raids of the Tatars expected from the south-east.
+#PAGE20 Missions\Pictures\russia 15
+Bravo! It seems to be time you progressed to the 18th century.
+#PAGE100 Missions\Pictures\england 22
+You almost made it! Pity ...

@@ -1,0 +1,65 @@
+#BRIEFING faces 0
+{A}Jamaica
+
+Sink Spanish vessels in order to gain enough resources for construction and navy maintenance.
+
+{B}You will lose if you let even one Spanish freighter with soldiers aboard sail in your waters.
+{C}To win this mission, sink all Spanish transport vessels carrying soldiers.
+#PAGE1 Missions\Pictures\mord_d 7
+  We have just conquered Jamaica. However, it lacks settlers to organize good resource extraction, so the only source of your colony's revenue is what you manage to capture.
+#PAGE1A Missions\Pictures\mord3_tut 0
+  Spanish vessels have several trade lines that pass by Jamaica. You must help relieve the greedy Spaniards of some of their heavy load. It will come in very useful for building a strong fleet.
+#PAGE2 Missions\Pictures\england 0
+  Guards! Thieves! Pirates have stolen gold and ammunition from our shipyard!
+#PAGE3 Missions\Pictures\mord3_tut 4
+  You have received a report stating that a Spanish battleship loaded with gold will pass to the north of your island ...
+#PAGE4 Missions\Pictures\england 28
+  Great! The load is yours! 15,000 Spanish coins replenish your treasury.
+#PAGE5 Missions\Pictures\england 34
+  Your agents report that a Spanish galley laden with gold is making its way along the southern islands. Pirates often plough those waters, so hurry up - do not allow them to grab the loot!
+#PAGE6 Missions\Pictures\england 28
+  The load is ours! 10,000 units of gold are aboard!
+#PAGE6A Missions\Pictures\england 35
+  Pirates have sunk the Spanish galley and grabbed the load!
+#PAGE7 Missions\Pictures\england 28
+  The Spanish ship turned out to be quite heavily loaded. You have captured valuable resources.
+#PAGE8 Missions\Pictures\england 6
+  A Spanish squadron will pass to the south of Jamaica. You have heard that they are carrying ammunition for colonial armies.
+#PAGE9 Missions\Pictures\england 32
+  The frigates have gone down! You have captured a good load of coal and iron.
+#PAGE10 Missions\Pictures\england 14
+  Sir! A Spanish squadron is reported to be heading to our island from the south! It seems that the Spanish are going to try to drive us out of Jamaica. We need to get ready to defend ourselves.
+#PAGE11 Missions\Pictures\england 28
+  The Spanish squadron has been crushed! You have gained 5,000 in gold and some ammunition.
+#PAGE12 Missions\Pictures\mord3_tut 0
+  Major Spanish forces will pass to the north of your island. We suspect that the enemy is transporting soldiers to the South American colonies. By personal order of the Governor, you must sink all Spanish freighters.
+#PAGE13 Missions\Pictures\mord_n 1
+  The Spanish have found their way into your domain! You have failed and are hereby demoted!
+#PAGE14 Missions\Pictures\mord_tut 15
+  Due to demolitions, you are unable to build more war ships! Jamaica is lost! You have failed the Queen.
+#PAGE15 Missions\Pictures\mord3_tut 8
+  Good work! All the transports went down! You are a really good officer!
+#PAGE16 Missions\Pictures\england 1
+  Sir! We cannot shoot! We have run out of ammunition!
+#PAGE17 Missions\Pictures\england 14
+  Sir, we have no more gold! The crews refuse to fight until you have paid them their wages.
+#PAGE18 Missions\Pictures\england 28
+  You have captured a load of 2,000 in gold and 1,000 in iron.
+#PAGE19 Missions\Pictures\england 28
+  In the ship's hold you have found a chest with 3,000 units of gold.
+#PAGE20 Missions\Pictures\england 32
+  This vessel was loaded with ammunition and some gold.
+#PAGE21 Missions\Pictures\england 32
+  You have captured timber which was being transported to one of the new Spanish colonies. Your loot is 20,000 units of wood.
+#PAGE22 Missions\Pictures\england 32
+  You have plundered a freighter carrying ammunition. Your trophy is 3,000 iron and 3,000 coal.
+#PAGE23 Missions\Pictures\england 28
+  You have sunk a Spanish merchant vessel. 4,000 units of gold are now aboard your ship!
+#PAGE24 Missions\Pictures\england 23
+  You have sent a letter to the Governor telling him of your distress and asking for help. Now you must wait for his response ...
+#PAGE24A Missions\Pictures\england 32
+  You have received a letter from the Governor! He is very displeased but ready to help - just this once. You sends a load of valuable resources. Use them wisely, for this is all you will get.
+#PAGE24B Missions\Pictures\england 32
+  Having heard of the danger threatening the island, the Governor sends you the resources needed to build and maintain your vessels.
+#PAGE25 Missions\Pictures\mord_n 1
+  You have spent all your resources! Mission failed! You are demoted.

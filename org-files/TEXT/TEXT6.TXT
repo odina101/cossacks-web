@@ -1,0 +1,38 @@
+UI_LOCK1 Show Inaccessible Zones (Q)
+UI_LOCK2 Hide Inaccessible Zones (Q)
+UM_TRANS1 Turn Off Transparent Mode (O)
+UM_TRANS2 Turn On Transparent Mode (O)
+ENCICL Encyclopaedia
+LOADING Loading ...
+MHISTORY Latest Messages
+@MSYES Yes
+@MSNO No
+@MSOK OK
+@MSNEXT Next
+@MSPREV Previous
+@MSCANCEL Close
+@RMID_EASY Easy
+@RMID_NORMAL Normal
+@RMID_HARD Hard
+@RMID_VERYHARD Very Hard
+GI_UNITS Units
+GI_BLD Buildings
+RA_Lean Lean
+RA_Medium Medium
+RA_Rich Rich
+RA_Normal Normal
+RA_Rich Rich
+RA_Thousands Thousands
+RT_Plane Plain
+RT_Low_mountains Low Mountains
+RT_High_mountains High Mountains
+RT_Highlands Highlands
+RT_Plateaus Plateaus
+LT_Land Land
+LT_Mediterranean Mediterranean
+LT_Peninsulas Peninsulas
+LT_Islands Islands
+LT_Continents Continents
+LT_Continent Continent
+PLALONE You have been disconnected from the game!
+CONFIRM Are you sure?

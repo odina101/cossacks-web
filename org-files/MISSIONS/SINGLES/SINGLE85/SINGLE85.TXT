@@ -1,0 +1,47 @@
+#BRIEFING faces 0
+{A}	Mountain Maze
+ 
+The King of Poland has ordered you to neutralise the alliance of Ukraine, Russia and Turkey. For that purpose you must find the command centre and kill the Russian general who is in charge of the alliance's forces. 
+Be careful, the region is full of brigands. 
+You will lose if your troops are defeated.
+ 
+Current objectives:
+{B}	Neutralise the alliance of Ukraine, Russia and Turkey.
+{C}	~Neutralise the alliance of Ukraine, Russia and Turkey.~
+
+#PAGE0A Missions\Pictures\austria 18
+You must defeat the alliance of Ukraine, Russia and Turkey. To do so you must find and kill the general (orange) commanding the alliance's forces. The general has elite guards (orange). 
+The victory hinges on the pace of your actions! You must be the first to build a squad of light cavalry and scout the territory! 
+
+#PAGE0B Missions\Pictures\faces 31
+There are brigands hungry for gold in the passes and woods! They have heard of your arrival. Beware!
+
+#PAGE0C Missions\Pictures\faces 31
+It is likely the general will reinforce his guard! Hurry!
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You have destroyed the brigands' camp and found %d gold! 
+
+#PAGE1 Missions\Pictures\faces 4
+You have been killed in action!
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death.
+
+#PAGE8 Missions\Pictures\mord_tut 3
+You have defeated the alliance of Ukraine, Russia and Turkey and prevailed!
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! You have defeated Russia!
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! You have defeated Ukraine!
+
+#PAGE8C Missions\Pictures\austria 6
+
+
+Congratulations! You have defeated Turkey!
+
+#PAGE10 Missions\Pictures\mord_tut 3
+Congratulations! You have neutralised the alliance of Ukraine, Russia and Turkey! You were able to throw the alliance into disarray by killing the general! 
+

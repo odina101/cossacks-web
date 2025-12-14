@@ -1,0 +1,37 @@
+#BRIEFING faces 0
+{A}Armistice
+Defeat all the Polish tycoons whose estates are in the north.
+
+{B} You will lose if you have no army left.
+{Y} You will fail if you lose even one settlement.
+
+{C}
+  Current objectives:
+
+{D} Destroy the Polish tycoons.
+{E} Release the metropolitan.
+{F} ~ Release the metropolitan.~
+{G} Escort the metropolitan to the Russian camp located in the west.
+{H} ~ Escort the metropolitan to the Russian camp located in the west.~
+#PAGE1 missions\pictures\ukraine 10
+  Although Ukraine is officially at peace with Rzecpospolita, several restless Polish barons are continuing the war. The domains of two most offensive barons are to the south. They are preparing an assault against Ukrainian frontier territories.
+#PAGE4 missions\pictures\ukraine 10
+  If you crush the Polish, you will not only save many villages from demolition, but also get rid of barons that are actively trying to lead Poland into war. There are three settlements under your control. You must not lose a single one of them.
+#PAGE2 missions\pictures\russia 4
+  Greetings! Our squad was escorting a delegation headed by a metropolitan to Rzecpospolita to conduct negotiations. On our way to the border, we were attacked by Poles. Many soldiers died and the metropolitan was taken prisoner. Our squad suffered great losses. Please liberate the metropolitan. We will reward you generously.
+#PAGE3 missions\pictures\russia 12
+  Greetings! I am the metropolitan of Moscow. Thank you for my liberation. Please escort me to my guards.
+#PAGE5 missions\pictures\russia 4
+  Thank God! The metropolitan is alive and free! In recognition of your actions, take your promised reward. The metropolitan is none the worse for his ordeal, but this scum should pay for their attack on the delegation!
+#PAGE6 missions\pictures\russia 4
+  If you eliminate the baron that organized this attempt, we will let you pass through our camp to strategic heights near the domain of another Polish baron.
+#PAGE10 missions\pictures\ukraine 14
+  All your forces are lost. Mission failed.
+#PAGE11 missions\pictures\ukraine 10
+  Well done, you have crushed the Polish baron!
+#PAGE12 missions\pictures\russia 4
+  You have coped with the task brilliantly! Please enter our camp.
+#PAGE13 missions\pictures\ukraine 14
+  You have lost a settlement. Mission failed.
+#PAGE14 missions\pictures\ukraine 10
+  You have eliminated the Polish barons.

@@ -1,0 +1,112 @@
+#BRIEFING faces 0
+{A}	The Ally
+
+You must eliminate the French and English forces.
+You will lose if your troops and buildings are destroyed.
+
+Current objectives:
+{B} 	!Your mamelukes can establish trade.
+{C} 	!Take the army into the area near the shipyard.
+
+#PAGE1 Missions\Pictures\England 30
+Select the action you want to carry out in the territory:
+
+#PAGE11 Missions\Pictures\England 30
+         %-15s
+Production: %-10s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+Budget income %-10d
+Treasury income - %-10d
+Required for production - %-10d
+Current budget   -   %-10d
+                (population - %5d citizens)
+
+#PAGE40 Missions\Pictures\England 30
+         %-15s
+
+Production: %-10s
+%-10s  - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s  - %-10d
+Current budget   -   %-10d
+                (population - %5d citizens)
+
+#PAGE41 Missions\Pictures\England 30
+         %-15s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+
+#PAGE42 Missions\Pictures\England 30
+         %-15s
+   We exchange food, wood and stone for gold, iron and coal.
+
+#PAGE12 Missions\Pictures\England 17
+Impose tax:
+
+#PAGE13 Missions\Pictures\austria 44
+Trade.
+
+#PAGE131 Missions\Pictures\England 17
+Current prices in the village:
+We exchange
+%-10s  - %-10d
+to
+%-10s  - %-10d
+
+#PAGE133 Missions\Pictures\poland 20
+Change route for packhorses:
+
+#PAGE1331 Missions\Pictures\poland 20
+What do you want to do about packhorses?
+
+#PAGE2 Missions\Pictures\poland 1
+Unfortunately, these are not our packhorses.
+
+#PAGE3 Missions\Pictures\poland 1
+The packhorses have been destroyed.
+
+#PAGE4 Missions\Pictures\poland 1
+Who shall we trade with?
+
+#PAGE5 Missions\Pictures\poland 1
+What should be loaded on the packhorses in the village storehouses?
+
+#PAGE6 Missions\Pictures\poland 1
+What should the cargo be exchanged for in the neighbouring villages?
+
+#PAGE7 Missions\Pictures\poland 20
+Trades with   %-10s
+Sells     %-10s
+Purchases    %-10s
+
+Loaded
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE8 Missions\Pictures\poland 1
+You don't own these packhorses.
+
+#PAGE21 Missions\Pictures\austria 8
+You have lost.
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+Victory!
+
+#PAGE23 Missions\Pictures\mord_tut 39
+The allied forces of Spain and Portugal have been fighting with England and France on the continent. You must help them. The Turkish fleet controls the sea, so you will have to transport troops and trade with the help of merchants who have concluded non-aggression pacts with Turkey. If you need to send your troops across the water, take them to the shipyard to board the ferry. 
+Your mamelukes can arrange trade with your allies near the storehouses in their territory. Your allies will send you the packhorses. Build up a fleet, take control of the sea and destroy the English and French troops.
+
+
+

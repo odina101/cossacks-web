@@ -1,0 +1,12 @@
+#MainZoneVictory Missions\Pictures\austria 6
+  You have gained the initiative and spread panic among the Dutch troops. The blockade of Newport has been raised. Victory!!!
+ #MainZoneDefeat Missions\Pictures\faces 10
+  Your army has lost its positions and flees in panic. You lose... 
+#ArmyLostVictory Missions\Pictures\faces 10
+  You have lost the major part of your troops, the remnants of the army are panic-stricken. The King is dissatisfied with you. You lose...
+ #ArmyLostDefeat Missions\Pictures\austria 6
+  The main enemy forces have been destroyed, Spaniards flee in panic. You are victorious!!! 
+#TownCaptureVictory  Missions\Pictures\austria 6
+  Newport has been taken up. Now the Spanish have nothing in common with these lands. Victory!!!
+#TownCaptureDefeat  Missions\Pictures\faces 10
+  The Dutch have recovered Newport. The King is very disappointed with you. You lose...

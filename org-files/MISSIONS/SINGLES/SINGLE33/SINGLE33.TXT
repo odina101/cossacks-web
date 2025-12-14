@@ -1,0 +1,75 @@
+#BRIEFING faces 0
+{A}	The French Fortress
+ 
+Your objective is to neutralise the alliance of Bavaria and Prussia. France supports the alliance, and possesses a fortress in the central area. The French will oppose you in any way they can. 
+The commanders of the western and eastern forts have arrived in the south. They will help you as soon as you provide them with the resources required for development. 
+You will lose if your main character dies or if the troops of the western or eastern fronts suffer a defeat.
+ 
+Current objectives:
+{B}Neutralise the alliance of Bavaria and Prussia, as well as France.
+{C}~Neutralise the alliance of Bavaria and Prussia, as well as France.~
+{D}Blow up the French town hall.
+{E}~Blow up the French town hall.~
+{F}Destroy the camp of bandits in the east.
+{G}~Destroy the camp of bandits in the east.~
+{K}Destroy the camp of bandits in the west. 
+{L}~Destroy the camp of bandits in the west.~
+{M} Additional objective:
+{N}Deliver 1,000 wood to the commanders of the western and eastern fronts (by packhorse).
+{O}~Deliver 1,000 wood to the commanders of the western and eastern fronts (by packhorse).~
+
+#PAGE0AA Missions\Pictures\austria 18
+You must neutralise the alliance of Bavaria and Prussia! The French, supporters of the alliance, have discovered your nearby location and sent soldiers towards you! To stop the French attacks, demolish the town hall that houses their command staff.  
+  
+#PAGE0A Missions\Pictures\faces 31
+Officers of the Austrian army have arrived to the south-west and south-east to help you defeat your opponent! But they are short of wood for initial development. Therefore you should collect 2,000 wood, load it onto packhorses and deliver it to the commanders. Besides, you must protect the officers and their peasants from French attacks. 
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You have demolished the camp of brigands and found %d gold! 
+
+#PAGE1 Missions\Pictures\faces 4
+You were killed in the unequal fight.
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death. 
+
+#PAGE2 Missions\Pictures\poland 4
+There are brigands to the west and east! Destroy their camps! 
+
+#PAGE7 Missions\Pictures\austria 37
+Congratulations! You have demolished the French town hall! 
+
+#PAGE8 Missions\Pictures\austria 6
+Congratulations! You have neutralised the alliance of Bavaria and Prussia, along with France! 
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! You have defeated the Bavarians! 
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! The Prussians have been defeated! 
+
+#PAGE8C Missions\Pictures\austria 6
+Congratulations! The French have been defeated! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have fulfilled your orders and won! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+The troops of the western front have suffered a defeat! Mission failed! 
+
+#PAGE11A  Missions\Pictures\mord_d 6
+The troops of the eastern front have suffered a defeat! Mission failed! 
+
+#PAGE10 Missions\Pictures\austria 4
+You already have the necessary amount of resources to send to the officers of the Austrian army!  
+Dispatch packhorses to the storehouse for loading. 
+
+#PAGE10A Missions\Pictures\austria 4
+Packhorses loaded! Send one of them to the commander of the western front, and the other to the commander of the eastern front. If both packhorses go to one commander, he will take them both and you won't be able to deliver wood to the other commander. 
+
+#PAGE12  Missions\Pictures\mord_d 6
+You have lost a packhorse and won't be able to deliver resources to one of the commanders! Now it will be harder to defeat your adversaries! 
+
+#PAGE13 Missions\Pictures\faces 13
+Ah! You have delivered the necessary initial resources! We will begin with development straight away, so that our combined forces may defeat the enemy alliance! 
+(Guards must not stand too close to the peasants, as space is required for development.) 

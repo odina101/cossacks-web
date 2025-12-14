@@ -1,0 +1,84 @@
+#BRIEFING faces 0
+{A}Incursion
+ 
+You will win if you succeed in freeing your lands from invaders. To do this, wipe out all the black peasants, demolish town halls and mines.
+You will lose if your main character dies.
+! Only your main hero can talk to some other characters.
+! Try to recruit Ukrainian cossacks, they will help you to fight the Ottomans.
+
+#AWARD Missions\Pictures\poland 18
+  Your battle experience allows you to acquire a higher level of mastery.
+#PAGE0 Missions\Pictures\poland 23
+  Your estate is under threat. You hear more and more about troubles with Turks in the south. It appears that you must prepare for war.
+#PAGE1 Missions\Pictures\ukraine 25
+  Your people have spotted a Ukrainian camp. One of the serdiuks says, "If you want to talk, tell your leader to come up to the gate. Our hetman will be waiting there."
+#PAGE2 Missions\Pictures\ukraine 2
+  Ah, my lord, greetings. It seems we have common interests. We both want to drive away the Turks. I can help you if you pay me 3,000 in gold. Agreed?
+#PAGE2A Missions\Pictures\ukraine 2
+  Farewell then, my lord. But remember, the miser always pays twice.
+#PAGE2B Missions\Pictures\ukraine 2
+  Cursed Pole! You will never drive us away from our land! Take up your weapons, brothers!
+#PAGE2C Missions\Pictures\ukraine 2
+  I can wait until you collect the necessary amount of money. Until then ...!
+#PAGE2D Missions\Pictures\ukraine 2
+  Good, thus our alliance has been concluded. You can recruit cossacks in our stable.
+#PAGE2E Missions\Pictures\ukraine 2
+  Ah, my lord, you are returned? Do you have the gold? The cost of the alliance is 3,000.
+#PAGE3 Missions\Pictures\poland 17
+  My lord, save us! The Ottomans are attacking the village!
+#PAGE4 Missions\Pictures\poland 10
+  The nomads have penetrated into the Catholic church!
+#PAGE5 Missions\Pictures\poland 5
+  The nomads approach your estate, "Greetings, lord! Give us a thousand in gold, and we will not harm your people. Do you agree?"
+#PAGE5A Missions\Pictures\poland 5
+  A coward makes a better master, for he shall live longer. We shall return, have more gold prepared!
+#PAGE5B Missions\Pictures\poland 5
+  Oh, do you not have sufficient gold? Do not worry, we will take what you have, and come back later to collect the rest ... and a new tribute.
+#PAGE5C Missions\Pictures\poland 5
+  You tried to cheat us, infidel! For this, all your kin shall die!
+#PAGE5D Missions\Pictures\poland 5
+  Son of a jackal! We will spill the blood of your people until the land itself is red!
+#PAGE5E Missions\Pictures\poland 5
+  We will leave now. But we will return soon ... very many of us will return! This is war!
+#PAGE5F Missions\Pictures\poland 5
+  You shall regret this, son of a jackal! You will die soon!
+#PAGE5G Missions\Pictures\poland 5
+  For this money, we will let your people live for some time. We will come soon for a new tribute.
+#PAGE5H Missions\Pictures\poland 5
+  You try our patience too much. Give us all you have. Next time, we will not be so kind.
+#PAGE5J Missions\Pictures\poland 5
+  We are tired of you, fool! Soon we will come to take all your land and kill your people.
+#PAGE6 Missions\Pictures\poland 5
+  Turkish messengers approach your estate again, "Time to pay a new tribute. Give us a thousand pieces of gold!"
+#PAGE6A Missions\Pictures\poland 5
+  Turkish messengers approach your estate again, "Time to pay a new tribute. Give us a thousand pieces of gold to repay your debt!"
+#PAGE6B Missions\Pictures\ukraine 14
+  The Turks have declared war on you!
+#PAGE7 Missions\Pictures\poland 6
+  A large chest was found near the old glade. Unfortunately, it proved to be empty.
+#PAGE7A Missions\Pictures\faces 15
+  You have found a hidden chest full of loot in the forest.
+#PAGE8 Missions\Pictures\russia 11
+  You have approached the Moldavian camp. Their leader addresses you, "Ah, my lord, good day! Will you drink with us?"
+#PAGE8A Missions\Pictures\russia 11
+  You have had a good time in the Moldavian camp. The strong wine went to your head and you began to demand senseless things ...
+#PAGE8B Missions\Pictures\russia 11
+  Are you intending to insult us, sir?
+#PAGE8C Missions\Pictures\russia 11
+  Men, look at this cheeky lad! Nobody can scare us! 
+#PAGE8D Missions\Pictures\russia 11
+  To free the land from the Ottomans would be a good thing. My men could help you ... For 500 pieces of gold.
+#PAGE8E Missions\Pictures\russia 11
+  You refuse to drink with us, and in addition to that you insult us ... Get out of here before we teach you a lesson!
+#PAGE8F Missions\Pictures\russia 11
+  Wonderful! We are your servants!
+#PAGE8G Missions\Pictures\russia 11
+  Very well, we can wait! Return when you have enough gold.
+#PAGE8H Missions\Pictures\russia 11
+  I say, what a generous lord! So be it! We are ready to serve you in faith and truth!
+#PAGE10 Missions\Pictures\poland 9
+  You perished in an unequal battle!
+#PAGE10A Missions\Pictures\poland 21
+  You starved to death.
+#OTST1 Missions\Pictures\faces 14
+ To free your land, wipe out all the black peasants, demolish town halls and mines.

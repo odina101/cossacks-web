@@ -1,0 +1,1 @@
+Medium-range military vessel. Has two types of artillery on board: cannon and mortars. Cannon are suitable for short-range fire, mortars are efficient at long ranges and for shelling coastal buildings and enemy defences. Gold is required for maintenance. If you run out of gold, the galley will cease to fire. Requires much coal and iron to fire.

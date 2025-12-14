@@ -1,0 +1,25 @@
+#BRIEFING faces 0
+{Z}Colonial Wars
+                       
+You will win if you regain the lands captured by the Dutch.
+!You will lose if your troops are wiped out.
+!The English will help you in this mission. (turquoise)
+!Be on the alert, the channel is patrolled by Dutch ships!
+
+   Current objective:
+{A}Annihilate the Dutch on the nearby island.
+{D}~Annihilate the Dutch on the nearby island.~
+{B}Create a colony, build a powerful fleet, land your troops on the Dutch island and retake the captured lands!
+#PAGE1 Missions\Pictures\Russia 34
+Capture the north-eastern island controlled by the Dutch. Ferry the troops across and assault the Dutch!
+#PAGE2 Missions\Pictures\mord3_tut 0
+English frigates will clear your way to the island!
+#PAGE3 Missions\Pictures\mord_tut 32
+You have captured the island. Now drive the enemy off the mainland!
+#PAGE4 Missions\Pictures\mord3_tut 3
+Be careful, the channels are patrolled by Dutch ships.
+#PAGE19 Missions\Pictures\mord_d 6
+This time the enemy proved to be stronger ...
+#PAGE20 Missions\Pictures\mord2_tut 6
+Your are victorious!!
+

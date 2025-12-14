@@ -1,0 +1,6 @@
+F1 The woods may shelter bandits.
+F2 There is a guarded entrance to a Protestants' camp nearby.
+F6 Your salary is 100 louisdors.
+F7 There is a howitzer on the crest! It would be of great advantage to us to capture it.
+F8 You must assault and eliminate the howitzer's guard at once! Then you will be able to capture the gun. You won't be able to do without artillery in future!
+F9 Don't change your route! This is an order!

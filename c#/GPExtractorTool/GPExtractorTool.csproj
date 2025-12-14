@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Include source files from Gpak-tools -->
+    <Compile Include="..\..\Gpak-tools\src\Extractor\*.cs" Link="GpakExtractor\%(RecursiveDir)%(Filename)%(Extension)" />
+    <Compile Include="..\..\Gpak-tools\src\Types\*.cs" Link="GpakTypes\%(RecursiveDir)%(Filename)%(Extension)" />
+    <Compile Include="..\..\Gpak-tools\src\ImageRenderer\*.cs" Link="GpakImageRenderer\%(RecursiveDir)%(Filename)%(Extension)" />
+    <Compile Include="..\..\Gpak-tools\src\Shared\*.cs" Link="GpakShared\%(RecursiveDir)%(Filename)%(Extension)" />
+    
+    <!-- Exclude AssemblyInfo to avoid duplicates/conflicts -->
+    <Compile Remove="..\..\Gpak-tools\src\Extractor\Properties\AssemblyInfo.cs" />
+    <Compile Remove="..\..\Gpak-tools\src\Types\Properties\AssemblyInfo.cs" />
+    <Compile Remove="..\..\Gpak-tools\src\ImageRenderer\Properties\AssemblyInfo.cs" />
+    <Compile Remove="..\..\Gpak-tools\src\Shared\Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+
+</Project>

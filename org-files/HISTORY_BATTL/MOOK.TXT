@@ -1,0 +1,13 @@
+#Ludovik_Killed0 Missions\Pictures\austria 6
+  Congratulations, you have killed Lois of Nassau, the bitterest enemy of the Spanish crown. Now it is his brother's turn...
+#Ludovik_Killed1 Missions\Pictures\faces 10
+  Louis of Nassau has died in battle. You have failed...
+#Ludovik_Escaped0 Missions\Pictures\poland 23
+  Louis of Nassau, the bitterest enemy of the Spanish crown has managed to force his way and join the brother. You lose...
+#Ludovik_Escaped1 Missions\Pictures\mord_tut 5
+  Congratulations, Louis of Nassau has forced his way to join the brother. You are victorious!!! 
+#DutchArmyLost_Victory Missions\Pictures\austria 6
+  Congratulations, you have defeated the rival's army. The plans of unruly Dutch have been upset. Louis and remnants of his army flee the battlefield. Victory!!! 
+#DutchArmyLost_Defeat  Missions\Pictures\mord_tut 5
+  You have failed to burst through to join your brother's forces. The remnants of your army are panic-stricken and flee the battlefield. You lose...
+

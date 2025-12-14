@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+Guerrilla Warfare
+
+Victory will be yours if you destroy the Russian economy and defeat its army.  
+You will lose if you have no troops and structures left. 
+
+{A} Current objective:
+{B}Destroy the enemy supply bases.
+{C}~Destroy the enemy supply bases.~
+
+#PAGE1701 Missions\Pictures\Mord_tut 3
+Your scouts have provided you with valuable information on the location of enemy supply bases. Send troops there so you can proceed with their destruction. This will deprive them of gold and ammunition.  
+
+#PAGE1702 Missions\Pictures\Mord3_tut 14
+You have succeeded in destroying the enemy ammunition supply bases. Now the army troops in charge of supply will not be able to use firearms. 
+
+#PAGE1703 Missions\Pictures\Mord_d 7
+You have taken the enemy naval base which supplied the army with gold! 
+
+#PAGE1704 Missions\Pictures\Mord2_tut 0
+We protect this mountain pass and are ready to submit to your command.  
+
+#PAGE1705 Missions\Pictures\Mord2_tut 0
+We protect the crossing and are ready to submit to your command. 
+
+#PAGE1706 Missions\Pictures\Mord_tut 37
+You have handled your task excellently and are to be commended. 
+
+#PAGE1707 Missions\Pictures\Mord_d 6
+You have been defeated.

@@ -1,0 +1,1 @@
+Allows you to extract gold. Can be captured by the enemy. The number of peasants working in a mine may be increased through corresponding upgrades. Upgrades should be conducted separately for each mine. The absolute maximum number of peasants that can work in a mine after all upgrades have been completed is 95.

@@ -1,0 +1,14 @@
+Questions handled:
+How to select a peasant.
+How to select a group of peasants.
+How to select all the units of the same type.
+How and where to build.
+What is the purpose of the mill?
+What is the purpose of the town hall?
+How to set a rally point.
+What is the purpose of the storehouse?
+How and where to gather resources.
+What is the purpose of the market?
+How to exchange resources.
+Where should a mine be built?
+What is extracted in mines?  

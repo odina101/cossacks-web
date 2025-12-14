@@ -1,0 +1,34 @@
+#BRIEFING faces 0
+{A}	Mediterranean Sea Struggle
+   
+You must destroy the pirates and Algerian forces in the region.
+You must not lose your peasants or the three shipyards.
+
+   
+#PAGE0 Missions\Pictures\mord3_tut 7
+The king has assigned you to command the troops guarding the merchant shipyards at the Mediterranean Sea. 
+You are in command of 200 peasants, a small fleet and five shipyards. 
+The shipyards are the major meeting places for merchants in this region. You have to protect them against enemy raids. Each shipyard yields 50 gold per day.
+There are currently 100 peasants in the shipyards willing to join you.
+
+#PAGE0A Missions\Pictures\mord3_tut 0
+Reinforce your fleet as soon as possible! Spain is rumoured to have sent its fleet to hold you up. 
+
+#PAGE10 Missions\Pictures\mord_d 7
+You have lost three shipyards. Mission failed.
+ 
+#PAGE10B Missions\Pictures\austria 9
+You have lost all the peasants. Mission failed.  
+
+#PAGE11 Missions\Pictures\algeria 2
+The Algerian forces (blue) in the region have been eliminated.
+
+#PAGE12 Missions\Pictures\mord3_tut 8
+The Spanish fleet (green) in the region has been defeated.
+
+#PAGE15 Missions\Pictures\england 35
+The main forces of the pirates (black) in the region have been crushed. 
+
+#PAGE20 Missions\Pictures\faces 14
+The enemies have been defeated!
+You have captured the whole region! Victory!

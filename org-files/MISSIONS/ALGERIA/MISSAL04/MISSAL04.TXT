@@ -1,0 +1,50 @@
+#BRIEFING faces 0
+{A}Three Seaports
+ 
+You will win if you succeed in capturing three seaports.
+You will lose if you lose your squad.
+ 
+! To capture the city it is enough to capture or destroy the town hall.
+
+#PAGE0 Missions\Pictures\mord_d 7
+  There are three seaports to the south-east. Capture their town halls to establish your power in that region.
+#PAGE1 Missions\Pictures\mord3_tut 12
+  The town hall is in your hands! Bon has been captured. The local sailors have acknowledged your power.
+#PAGE1A Missions\Pictures\austria 36
+  The town hall of Bon has been destroyed! Continue your conquest.
+#PAGE2 Missions\Pictures\mord3_tut 12
+  The town hall of Collo has been captured! The chiefs of the local ports bow before you.
+#PAGE2A Missions\Pictures\austria 36
+  The town hall of Collo has been destroyed! You have no further business in this city.
+#PAGE3 Missions\Pictures\mord3_tut 12
+  The town hall of Sharshal is in your hands! The local authorities have placed the ports at your disposal.
+#PAGE3A Missions\Pictures\austria 36
+  The town hall of Sharshal has been destroyed. This will be a lesson to the locals.
+#PAGE4 Missions\Pictures\algeria 3
+  The zeal displayed by your pikemen while storming the city is its own reward. The attack and defence parameters of these soldiers have increased.
+#PAGE5 Missions\Pictures\algeria 3
+  The zeal displayed by your infantrymen while storming the city is its own reward. The attack and defence parameters of these soldiers have increased.
+#PAGE6 Missions\Pictures\algeria 3
+  The zeal displayed by your janissaries while storming the city is its own reward. The attack and defence parameters of these soldiers have increased.
+#PAGE7 Missions\Pictures\algeria 3
+  The zeal displayed by your Mamelukes while storming the city is its own reward. The attack and defence parameters of these soldiers have increased.
+#PAGE8 Missions\Pictures\mord_d 2
+  Your troops have been defeated. You have lost.
+#PAGE9 Missions\Pictures\algeria 1
+  All the cities have been captured! Congratulations on your victory!
+#PAGE10 Missions\Pictures\austria 4
+  You have captured one of the packhorses loaded with iron. Capture all of them to increase your gains.
+#PAGE11 Missions\Pictures\algeria 4
+  Your troops have ransacked captured packhorses. You receive %d units of iron.
+#PAGE12 Missions\Pictures\poland 4
+  Your people have found a chest containing %d in gold.
+#PAGE13 Missions\Pictures\poland 10
+  Your troops reach the camp of the nomads. "You there, give us gold, 500 pieces! Then we will fight for you."
+#PAGE13A Missions\Pictures\poland 10
+  This will be some fight! Excellent!
+#PAGE13B Missions\Pictures\poland 10
+  Oh-oh, you are a sly villain. No gold, eh? You would deceive us, would you? We shall not forgive such deceit!
+#PAGE13C Missions\Pictures\poland 10
+  Very well, have it your own way.
+#OTST1 Missions\Pictures\mord3_tut 10
+  Now you can start building up a military camp and forming a strong army to assault enemy towns.

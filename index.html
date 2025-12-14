@@ -1,125 +1,240 @@
-<html>
-    <style type="text/css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cossacks 3D (Three.js)</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    *{
-        margin:0
-        padding:0;
-    }
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background: #222; /* Changed background */
+        }
 
-    #buttons {
-        width: 300px;
-        margin: 20 auto;
-    }
+        /* Main game container - fullscreen */
+        #GameContainer {
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
 
-    #GameContainer {
-        
-        width: 1250px;
-        margin: 0 auto;
-        padding: 10px;
-        border: 1px solid blue;
-        
-    }
+        /* Game canvas - fills entire screen */
+        #fieldContainer {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
 
-    #fieldContainer {
-        width: 810px; 
-        display: table-cell; 
-        vertical-align: bottom;
-    }    
+        #fieldContainer canvas {
+            width: 100%;
+            height: 100%;
+        }
 
-    #minimapContainer {
-        display: table-cell;
-        height: 500px;
-        vertical-align: bottom;
-        
-    }
+        /* Minimap - bottom right corner overlay */
+        #minimapContainer {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            border: 2px solid #8b7355;
+            background: rgba(0,0,0,0.7);
+            z-index: 100;
+        }
 
-    #loading-container {
-        position: absolute;
-        left: 10px;
-        top: 20px;
-        font-size: 11px;
-        font-family: Verdana;
-    }
+        #minimapContainer canvas {
+            display: block;
+        }
 
-     #world-info {
-        position: absolute;
-        left: 200px;
-        top: 20px;
-        font-size: 11px;
-        font-family: Verdana;
-    }
+        /* Top panel - resource bar like original */
+        #top-panel {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 30px;
+            background: linear-gradient(180deg, #4a3c28 0%, #2e2518 100%);
+            border-bottom: 2px solid #8b7355;
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+            z-index: 100;
+            font-family: 'Times New Roman', serif;
+            color: #d4c4a8;
+            font-size: 12px;
+        }
 
-    #unit-info {
-        position: absolute;
-        left: 400px;
-        top: 20px;
-        font-size: 11px;
-        font-family: Verdana;
-    }
+        #top-panel .resource {
+            margin-right: 20px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
 
-    #can {
-       border: 1px dashed black;
-    }
+        #top-panel .resource span {
+            color: #ffd700;
+            font-weight: bold;
+        }
 
-    #minimap {
-       border: 1px solid black;
-    }
+        /* Bottom panel - unit controls like original */
+        #bottom-panel {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 300px;
+            height: 180px;
+            background: linear-gradient(180deg, #4a3c28 0%, #2e2518 100%);
+            border: 2px solid #8b7355;
+            border-bottom: none;
+            border-left: none;
+            z-index: 100;
+            display: flex;
+            flex-direction: column;
+        }
+
+        #unit-portrait {
+            width: 80px;
+            height: 80px;
+            background: #1a1410;
+            border: 2px solid #5c4a32;
+            margin: 10px;
+        }
+
+        #unit-controls {
+            display: flex;
+            gap: 5px;
+            padding: 10px;
+            flex-wrap: wrap;
+        }
+
+        #unit-controls select,
+        #unit-controls button {
+            padding: 5px 10px;
+            background: #3a2f20;
+            border: 1px solid #8b7355;
+            color: #d4c4a8;
+            cursor: pointer;
+            font-family: 'Times New Roman', serif;
+            font-size: 11px;
+        }
+
+        #unit-controls select:hover,
+        #unit-controls button:hover {
+            background: #4a3f30;
+        }
+
+        /* Loading overlay */
+        #loading-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #1a1410;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            font-family: 'Times New Roman', serif;
+            color: #d4c4a8;
+        }
+
+        #loading-overlay h1 {
+            font-size: 32px;
+            color: #ffd700;
+            margin-bottom: 20px;
+        }
+
+        #loading-container {
+            width: 400px;
+            max-height: 200px;
+            overflow-y: auto;
+            font-size: 12px;
+            color: #8b7355;
+        }
+
+        /* Debug info - top right */
+        #debug-info {
+            position: absolute;
+            top: 35px;
+            right: 10px;
+            background: rgba(0,0,0,0.7);
+            padding: 5px 10px;
+            font-family: monospace;
+            font-size: 11px;
+            color: #0f0;
+            z-index: 100;
+        }
     </style>
-    <body  oncontextmenu="return false;">
-        <div id="GameContainer">
-            <div id = "fieldContainer">
-                <canvas id="can" />
-            </div>
-            <div id = "minimapContainer">
-                <canvas id="minimap" />
-            </div>
-            <div style="clear:both"></div>
-            <div id = "buttons">
-                <BUTTON onclick="
-        unit.go(0);
-        unit.go(1);
-        unit.go(2);
-        unit.go(3);
-        unit.go(4);
-        unit.go(5);
-        unit.go(6);
-        unit.go(7);
-        unit.go(8);
-        unit.go(9);
-        unit.go(10);
-        unit.go(11);
-        unit.go(12);
-        unit.go(13);
-        unit.go(14);
-        unit.go(15);
+</head>
+<body oncontextmenu="return false;">
+    <div id="GameContainer">
+        <!-- Loading overlay -->
+        <div id="loading-overlay">
+            <h1>⚔️ COSSACKS</h1>
+            <div id="loading-container">Loading...</div>
+        </div>
 
-        " >Start</BUTTON>
+        <!-- Top resource panel -->
+        <div id="top-panel">
+            <div class="resource">Food: <span id="res-food">1000</span></div>
+            <div class="resource">Wood: <span id="res-wood">1000</span></div>
+            <div class="resource">Stone: <span id="res-stone">500</span></div>
+            <div class="resource">Gold: <span id="res-gold">500</span></div>
+            <div class="resource">Iron: <span id="res-iron">200</span></div>
+            <div class="resource">Coal: <span id="res-coal">200</span></div>
+        </div>
 
-        <BUTTON onclick="render.MoveCanvasToRight()" >Right</BUTTON>
-        <BUTTON onclick="render.MoveCanvasToLeft()" >Left</BUTTON>
-        <BUTTON onclick="render.MoveCanvasToDown()" >Down</BUTTON>
-        <BUTTON onclick="render.MoveCanvasToUp()" >Up</BUTTON>
+        <!-- Main game canvas -->
+        <div id="fieldContainer"></div>
+
+        <!-- Minimap overlay -->
+        <div id="minimapContainer"></div>
+
+        <!-- Bottom control panel -->
+        <div id="bottom-panel">
+            <div style="display: flex;">
+                <div id="unit-portrait"></div>
+                <div style="padding: 10px; font-family: 'Times New Roman', serif; color: #d4c4a8; font-size: 12px;">
+                    <div id="unit-name">Select Unit</div>
+                    <div id="unit-stats">HP: -- / --</div>
+                </div>
+            </div>
+            <div id="unit-controls">
+                <select id="char-selector">
+                    <option>Unit Type</option>
+                </select>
+                <select id="anim-selector">
+                    <option>Action</option>
+                </select>
+                <select id="building-selector">
+                    <option>Build</option>
+                </select>
+                <button onclick="window.startUnits()">March</button>
             </div>
         </div>
-        
-        <h1 id = "loading-container"></h1>
-        <h1 id = "world-info"></h1>
-        <h1 id = "unit-info"></h1>
 
-        <script src="sprites_png\sprites-info.json"></script>
-        <script data-main="js/Init.js" src="http://requirejs.org/docs/release/2.1.15/minified/require.js"></script>
+        <!-- Debug info -->
+        <div id="debug-info">
+            <div id="world-info">Units: 0</div>
+            <div id="unit-info">X: 0 Y: 0</div>
+            <div id="direction-info" style="color: #ff0;">Dir: 0 | Moving: No</div>
+            <div id="vector-info" style="color: #0ff;">dx: 0, dy: 0</div>
+        </div>
+    </div>
 
-       <!--  // <script src="js\im.js"></script>
-        // <script src="js\World.js"></script>
-        // <script src="js\Command.js"></script>
-        // <script src="js\CommandHandler.js"></script>
-        // <script src="js\Unit.js"></script>
-        // <script src="js\UnitState.js"></script>
-        // <script src="js\UnitHandler.js"></script>
-        // <script src="js\PriorityQueue.js"></script>
-        // <script src="js\animationLoop.js"></script>
-        // <script src="js\Render.js"></script>
-        // <script src="js\MinimapRender.js"></script> -->
-        <!-- // <script src="js\Init.js"></script> -->
-    </body>
+    <script src="sprites_png/sprites-info.js"></script>
+    <script src="sprites_png/buildings-info.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/7.3.2/pixi.min.js"></script>
+    <script type="module" src="js/pixi/main.js?v=25"></script>
+</body>
 </html>

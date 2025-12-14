@@ -1,0 +1,22 @@
+#BRIEFING faces 0
+{A}English Capers
+
+Capture valuable goods and return with your loot.
+#PAGE1 Missions\Pictures\mord3_tut 0
+  Two Spanish battleships will pass to the north of here. Your objective is to sink them and capture their load. You should hurry - there is a strong Spanish base to the west, and it may send reinforcements.
+#PAGE1A Missions\Pictures\mord_tut 1
+  In order to intercept the battleships in time, you should head in a north-westerly direction. Pirates are hoping to secure the treasure and may attack you, so keep your eyes open.
+#PAGE2 Missions\Pictures\england 34
+  The pirates have got the gold and are escaping! You must overtake them, whatever the cost!
+#PAGE3 Missions\Pictures\england 28
+  The gold is yours! Now you should return to the south-east.
+#PAGE4 Missions\Pictures\england 6
+  Excellent! You have fought back the pursuers, now nothing will prevent you from taking the load to Jamaica!
+#PAGE5 Missions\Pictures\england 5
+  You have died in the naval battle!
+#PAGE6 Missions\Pictures\england 2
+  The Spanish have reached their harbour! Mission failed!
+#PAGE7 Missions\Pictures\england 14
+  Watch out! A fortified Spanish colony is to the west of here.
+#PAGE8 Missions\Pictures\england 35
+  The pirates have reached their base. Now it will be much more difficult to deal with them.

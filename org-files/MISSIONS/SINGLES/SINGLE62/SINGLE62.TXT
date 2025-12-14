@@ -1,0 +1,107 @@
+#BRIEFING faces 0
+{C}	Two Forts
+
+You must eliminate the French and English forces.
+You will lose if your troops and buildings are destroyed.
+
+Current objectives:
+{A}	!Your hussars can establish trade with your neighbours. 
+{B}	!The Turks will let you cross the strait in exchange for gold.
+
+#PAGE1 Missions\Pictures\England 30
+Select the action you want to carry out in the village:
+
+#PAGE11 Missions\Pictures\England 30
+        %-20s
+Production: %-10s
+%-10s   - %-10d
+%-10s   - %-10d
+%-10s   - %-10d
+%-10s   - %-10d
+%-10s   - %-10d
+%-10s   - %-10d
+Budget income %-10d
+Treasury income -         %-10d
+Required for production - %-10d
+Current budget   -        %-10d
+(population - %5d)
+
+#PAGE12 Missions\Pictures\England 17
+Impose tax:
+
+#PAGE13 Missions\Pictures\austria 44
+Trade.
+
+#PAGE131 Missions\Pictures\England 17
+Current prices in the village:
+We exchange
+%-10s  - %-10d
+for
+%-10s  - %-10d
+
+#PAGE7 Missions\Pictures\poland 20
+Trades with   %-10s
+Sells         %-10s
+Purchases          %-10s
+Loaded
+%-10s       %-10d
+%-10s       %-10d
+
+
+#PAGE133 Missions\Pictures\poland 20
+Change the route for packhorses:
+
+#PAGE1331 Missions\Pictures\poland 20
+What do you want to do about packhorses?
+
+#PAGE2 Missions\Pictures\poland 1
+Unfortunately, these are not our packhorses.
+
+#PAGE3 Missions\Pictures\poland 1
+The packhorses have been destroyed.
+
+#PAGE4 Missions\Pictures\poland 1
+Who shall we trade with?
+
+#PAGE5 Missions\Pictures\poland 1
+What should be loaded on the packhorses in the village storehouses?
+
+#PAGE6 Missions\Pictures\poland 1
+What should the cargo be exchanged for in the neighbouring villages?
+
+#PAGE8 Missions\Pictures\poland 1
+You don't own these packhorses.
+
+#PAGE21 Missions\Pictures\austria 8
+You have lost.
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+You have proved a brilliant warrior and diplomat, and defeated a greatly superior enemy.
+
+#PAGE23 Missions\Pictures\mord_tut 39
+You have two forts under your command. Build up a powerful army and defeat England and France. The locals will trade wheat with you and pay for your protection. 
+Your hussars can arrange trade. However, the Turks control the sea, so you may want to try to reach an agreement with them as your enemy did. Good luck!
+
+#PAGE550 Missions\Pictures\mord_tut 39
+You have entered our territorial waters. If you want to cross the strait you'll have to pay 100,000 in gold. Should your forces try to land on our shore without paying, we will regard it as an act of aggression. Do you want to pay?
+
+#PAGE551 Missions\Pictures\mord_tut 39
+You can cross the strait.
+
+#PAGE552 Missions\Pictures\mord_tut 39
+You don't have enough gold.
+
+#PAGE553 Missions\Pictures\mord_tut 39
+The peace is over! Your troops have approached our shore!
+
+#PAGE554 Missions\Pictures\mord_tut 39
+You have eliminated the Turkish forces! Our scientists can raise the balloon now.
+
+#PAGE555 Missions\Pictures\mord_tut 39
+Our scientists report we have successfully progressed into another century.
+
+#PAGE24 Missions\Pictures\mord2_tut 23
+You have defeated the English forces in the region.
+
+#PAGE25 Missions\Pictures\mord2_tut 23
+You have defeated the French forces in the region.

@@ -165,7 +165,7 @@ function Render (o, ImModule, unitHandlerModule) {
 		});
 		
 		for(var i = 0; i < sprites.length; i++){
-			imageLoader.add('sprites_png/'+ sprites[i].UnitName + '.png', sprites[i].UnitName);
+			imageLoader.add('sprites_png/' + sprites[i].UnitName + '/' + sprites[i].UnitName + '.png', sprites[i].UnitName);
 		}
 	}
 	

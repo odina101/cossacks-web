@@ -1,0 +1,1 @@
+Light infantry, skilled in aimed fire. Light infantry regiments were considered more privileged than line army subdivisions and had a very high morale. Chasseurs were armed with muskets, short sabres and bayonets.

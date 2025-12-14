@@ -1,0 +1,37 @@
+#BRIEFING faces 0
+{A} Morea
+
+!Defeat the troops of Turkey and Algeria to win. 
+!You will lose if you have no troops left or your main character dies.  
+
+#PAGE1 Missions\Pictures\austria 0
+The war with the Ottoman empire is in full swing. 
+Venetian troops are about to assault the Turkish fortifications. Take a squad ashore and occupy the coastal territories. Then build a fortified camp and advance further inland. 
+The enemy will try to drive you back into the water. 
+
+#PAGE2 Missions\Pictures\England 25
+You must land on the Turkish shore, build a fortified camp and defeat the coastal garrisons. 
+
+#PAGE7   Missions\Pictures\austria 45
+Congratulations! You have completed your task. 
+
+#PAGE4  Missions\Pictures\England 19
+You have perished in battle.
+
+#PAGE3  Missions\Pictures\austria 16
+Your troops have been defeated. Mission failed.
+
+#PAGE5  Missions\Pictures\mord_tut 15
+You have crushed the Turkish garrison.
+
+#PAGE6   Missions\Pictures\austria 7
+The Algerian garrison has been defeated.
+
+#PAGE8  Missions\Pictures\mord_tut 3
+A cavalry squad has arrived to assist you. 
+
+#PAGE   Missions\Pictures\Russia 29
+
+#PAGE   Missions\Pictures\Mord_tut 22
+ 
+#PAGE13  Missions\Pictures\Mord_tut 22

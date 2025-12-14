@@ -1,0 +1,5 @@
+In this battle the allied army of Austria, England and Holland (red) has to conduct a continuous assault and cause maximum damage to the French military forces (blue). The allies have to annihilate 637 French units.
+In order to win, the French forces (blue) should hold the defensive for a certain time with minimum losses (keeping an army of at least 371 soldiers) or partly destroy the English army. The French will have to destroy 999 English units.
+The side that destroys part of its enemy's forces wins the battle.
+If the French are not attacked by the alliance, they will be considered winners after a certain amount of time has passed.
+When half of the specified number of units are destroyed, the players will be informed of their losses.

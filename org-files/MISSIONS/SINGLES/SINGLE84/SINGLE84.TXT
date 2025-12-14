@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A}	The Final Line
+
+Current objectives:
+{B}	Defeat the enemy troops.
+
+#PAGE0 Missions\Pictures\England 29
+You are the commander of the Austrian army.
+Your task is to defeat the enemy.
+The commander's orders are passed along by messengers. 
+
+#PAGE1 Missions\Pictures\England 29
+Wait for my orders!
+
+#PAGE2 Missions\Pictures\England 29
+  
+#PAGE3 Missions\Pictures\England 29
+Victory!
+The enemy troops have been defeated.
+
+#PAGE4 Missions\Pictures\England 29
+Defeat!
+The enemy has captured the town.
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

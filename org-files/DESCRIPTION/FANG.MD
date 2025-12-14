@@ -1,0 +1,1 @@
+Former ship of Lord Alan Kenneth. Unmatched firepower for it's class. Does not use gold.

@@ -1,0 +1,41 @@
+#BRIEFING faces 0
+{A}Gulf of Darien
+
+Demolish the Spanish town hall and return to the pirates' base to win.
+
+You will fail if your hero (officer) dies.
+!Some characters will talk to your hero.
+#PAGE1 Missions\Pictures\mord_tut 0
+  You and your team have landed on the South American continent. A small pirate base is to the east of here. You were promised reinforcements there.
+#PAGE1A Missions\Pictures\mord_d 1
+  The Spanish colony is to the south-east. You should teach the colonists a lesson. Burn their town hall to give them an idea of just how dangerous it is to leave cities undefended.
+#PAGE2 Missions\Pictures\england 9
+ You meet an old pirate who goes by the name of Thudder at the pirates' base: "Ah, Captain! I have been expecting you. My bandits are at your service - as we arranged.
+#PAGE2A Missions\Pictures\england 9
+  But remember, my men are greedy for gold, so you'd better keep tabs on them lest they go plundering the Spaniards instead of fulfilling your mission. Ah, I can also offer you a cannon practically for nothing. 10,000 and it's yours! Agreed?"
+#PAGE2B Missions\Pictures\england 9
+  Very well ... I'll give you a piece of advice - for free. The town you're heading for is going to be tough work, but you could make a deal with some guards ... Every man has his price ...
+#PAGE3 Missions\Pictures\england 13
+  The pirates run amok without your command: "Right, men! Hang the crazy captain and his even crazier mission! Come on, let's grab those Spanish moneybags! Anyone who dares to oppose us will see the colour of his own intestines!"
+#PAGE4 Missions\Pictures\mord_tut 34
+  You have approached the Spanish town and offer the guards some money to let you in.
+#PAGE4A Missions\Pictures\england 29
+  Very well, we'll open the gate. For 10,000 in gold. Agreed?
+#PAGE4B Missions\Pictures\england 29
+  Huh! Just look at them! Get out of here you penniless beggars!
+#PAGE5 Missions\Pictures\mord_tut 15
+  You have demolished the Spanish town hall. Now you must return as soon as possible to reach the pirate base before the enemy fleet arrives.
+#PAGE6 Missions\Pictures\england 6
+  Well done! The Governor is very pleased.
+#PAGE7 Missions\Pictures\england 19
+  You have died for the glory of England.
+#PAGE8 Missions\Pictures\england 20
+  You have spotted a small Spanish colony. The garrison has opened fire on your squad.
+#PAGE9 Missions\Pictures\mord2_tut 14
+  You have eliminated the guards of this village and plundered it.
+#PAGE10 Missions\Pictures\mord_d 5
+  Your warriors spotted a tavern. You had to wait until the pirates had quenched their thirst. And it cost you gold ...
+#PAGE11 Missions\Pictures\england 26
+  A gang of brigands attacks your squad.
+#PAGE12 Missions\Pictures\england 14
+  Do not forget, Sir, that pirates make their living in these waters. We'd better not leave the transport vessels unguarded.

@@ -1,0 +1,34 @@
+#BRIEFING faces 0
+{A} Ceylon 
+{B}Defeat the Dutch colonists.
+!You will lose if your troops are killed.
+
+#PAGE1 Missions\Pictures\austria 3
+The island of Ceylon is rich in natural deposits. It seems an ideal place to set up a colony.  
+But our worst enemies, the Dutch, also have their eyes on it and have founded their own colony here. 
+
+#PAGE2 Missions\Pictures\austria 45
+Restrain the enemy pressure and drive them from the island. 
+Beware, the Dutch have bribed the local tribe chiefs to make them hostile towards you. 
+
+#PAGE3  Missions\Pictures\austria 8
+Excellent! You have driven the Dutch from the island. 
+The king will be pleased with you. 
+
+#PAGE4  Missions\Pictures\mord_d 6
+Your troops have been defeated.
+You have suffered defeat.
+
+#PAGE5  Missions\Pictures\mord3_tut 4
+A frigate from Portugal has arrived. 
+It has brought a caravan with gold for army provisions. Deliver the caravan to the market to unload. 
+
+#PAGE6  Missions\Pictures\mord2_tut 7
+The caravan has arrived and been unloaded. 
+You have gained 3,000 in gold. 
+
+#PAGE7  Missions\Pictures\mord_d 6
+You have defeated the natives' village! This will put an end to the raids.
+
+#PAGE911 Missions\Pictures\mord2_tut 0
+911

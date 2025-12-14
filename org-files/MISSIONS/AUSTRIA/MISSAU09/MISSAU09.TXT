@@ -1,0 +1,61 @@
+#BRIEFING faces 0
+{A}Alsace
+ 
+You will win if you destroy the enemy fortresses.
+You will lose if your base is destroyed.
+ 
+#PAGE0 Missions\Pictures\austria 7
+  You have built up a small military base in the woods, but you are running out of food and ammunition. Therefore, you could borrow resources from the Prussians. The enemy is going to transport the packhorses with the ammunition on the road running along the northern part of the forest. Try to capture them.
+#PAGE1 Missions\Pictures\austria 2
+  Congratulations on your loot! Deliver the captured packhorses to the base to replenish your supplies.
+#PAGE2 Missions\Pictures\austria 12
+  The captured packhorses has arrived at your base. The precious goods are now in your storehouses.
+#PAGE3 Missions\Pictures\austria 42
+  The enemy has found out about your insolent attack on the supply squad. It is quite possible the Prussians will unleash their full punitive force on you. Try to keep the enemies away from your base.
+#PAGE4 Missions\Pictures\mord2_tut 5
+  The enemies have spotted your camp! Do not let any of them escape, this secret must die with them.
+#PAGE5 Missions\Pictures\austria 35
+  You must provide food for your troops. To the west of your base is a small French settlement. If you capture it, the problem may be considered resolved. Several small villages in the area have been captured by the Prussians. Taking control of them will enable you to arrange mining of all the required resources.
+#PAGE6 Missions\Pictures\austria 28
+  Intelligence reports state that the enemy is about to move the howitzer battery from the eastern fort to the western. Try to capture the Prussian guns. This will make it easier for you to storm the enemy fortresses.
+#PAGE7 Missions\Pictures\mord_tut 11
+  The howitzers have been captured! It is time to start mustering troops for a decisive assault.
+#PAGE8 Missions\Pictures\austria 11
+  The enemy has captured your storehouse! All your ammunition is lost!
+#PAGE9 Missions\Pictures\austria 38
+  The blacksmith has been destroyed. You cannot recruit any new troops. Mission failed.
+#PAGE10 Missions\Pictures\austria 37
+ Your barracks has been destroyed! Mission failed.
+#PAGE11 Missions\Pictures\austria 35
+  You have captured the small French settlement whose citizens are mostly wheat farmers. Now you can provide food to your troops. But be careful, the enemy is likely to try to recapture the village.
+#PAGE12 Missions\Pictures\austria 40
+  You have captured the woodcutters' village. You can store the wood and later exchange it for gold.
+#PAGE13 Missions\Pictures\austria 39
+  Your troops have captured the mining village. Now you can mine resources and provide your army with gold and ammunition. Stone you receive from the quarries can be exchanged for more urgently required resources.
+  Be careful! The capture of such a strategically important object cannot pass unnoticed.
+#PAGE14 Missions\Pictures\austria 43
+  The Prussian forces have been crushed! This will postpone the next attack. But don't think they will stop trying to detect your base.
+#PAGE15 Missions\Pictures\austria 42
+  The enemy command has found the location of our base! They may attack at any moment!
+#PAGE16 Missions\Pictures\austria 41
+  The enemy supply fort has been captured! Well done!
+#PAGE17 Missions\Pictures\mord_tut 34
+  Excellent! The enemy fortress has been captured!
+#PAGE18 Missions\Pictures\austria 45
+  Congratulations on your victory!
+#PAGE19 Missions\Pictures\poland 13
+  A small gang of bandits has been annihilated. You cannot stand competitors. In their camp, your soldiers have found %d in gold and some ammunition.
+#PAGE20 Missions\Pictures\poland 13
+  Having annihilated the bandits, you searched their camp and found %d in gold, but not much ammunition.
+#PAGE21 Missions\Pictures\austria 44
+  You have exchanged 5,000 units of %d pieces of gold with the local merchants.
+#PAGE22 Missions\Pictures\austria 44
+  Having reached an agreement with the local guild of merchants, you have exchanged 5,000 units of stone for %d units of coal and %d of iron.
+#PAGE23 Missions\Pictures\austria 34
+  An Austrian spy offers to provide you with information on enemy fortresses for 500 in gold. Will you pay him this money?
+#PAGE23A Missions\Pictures\faces 5
+  You don't have enough gold to pay for the spy's services.
+#PAGE23B Missions\Pictures\mord2_tut 7
+  The gold has been paid. Now the enemy can no longer take you by surprise.
+#OTST1 Missions\Pictures\faces 2
+  To liberate the settlement, wipe out all the guards and capture buildings and peasants.

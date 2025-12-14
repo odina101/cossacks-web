@@ -1,0 +1,56 @@
+#BRIEFING faces 0
+{A} Mutiny
+
+Objective:
+{B}Defeat the enemy.
+   You must defeat the tsar's forces to win!
+   You will lose if your main character dies.
+
+Current objective:
+{C}Leave the enemy village undetected.
+{D}~Leave the enemy village undetected.~
+{E}Meet the rebel squad.
+{F}~Meet the rebel squad.~
+{G}Release the toiling woodcutters.
+{H}~Release the toiling woodcutters.~
+{I}Defeat the tsar's troops!
+
+#PAGE0 Missions\Pictures\England 29
+Your character is the leader of a rebel army, who is wanted by the tsar's forces. 
+Your first objective is to leave the enemy village undetected. 
+The tsar's soldiers will recognise you if you approach them. 
+Beyond the village there are squads of mutineers. Find at least one of them. 
+
+#PAGE1 Missions\Pictures\England 29
+Defeat!
+You were taken captive.
+
+#PAGE2 Missions\Pictures\England 29
+Victory!
+The tsar's troops have been defeated.
+
+#PAGE3 Missions\Pictures\England 29
+Defeat!
+Your main character has died.
+
+#PAGE4 Missions\Pictures\England 29
+Defeat!
+The mutiny has been suppressed.
+
+#PAGE5 Missions\Pictures\England 29
+You have come across one of your squads. You were given a horse and weapons. 
+Your next objective is to liberate the toiling woodcutters. 
+
+#PAGE6 Missions\Pictures\England 29
+The tsar's forces have found out about your escape from the village and are in pursuit. 
+Don't stop, keep moving or the enemy will get you. 
+
+#PAGE7 Missions\Pictures\England 29
+Peasants are under your control. 
+Build a camp as soon as possible and defeat the tsar's forces. 
+
+#PAGE8 Missions\Pictures\England 29
+One of the soldiers has recognised you. RUN! 
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

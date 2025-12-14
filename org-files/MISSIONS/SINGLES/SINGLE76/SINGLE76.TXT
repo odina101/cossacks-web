@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{B}	The Will of the King
+
+You must defeat the Polish and Austrian forces.
+You will lose if all your troops and buildings are destroyed.
+
+Current objectives:
+{D}	Find the enemy base.
+{E}	~Find the enemy base.~
+{F}	Guard your ally's base. 
+{G}	~Guard your ally's base.~
+{M}	!Your ally will attack the enemy's mines.
+{N}	~Your ally will attack the enemy's mines.~
+
+#PAGE2001 Missions\Pictures\Mord_tut 39
+Select the nation you will lead to victory by crushing all your enemies. 
+Find your allies' command centre in the woods. They will help you in battle.
+
+#PAGE2002 Missions\Pictures\England 16
+You have found your allies' command centre. Unless it is captured, your ally will attack the enemy's mines.
+
+#PAGE2003 Missions\Pictures\Austria 16
+The Dutch command centre has been eliminated. Your ally won't be able to help you anymore.
+
+#PAGE2004 Missions\Pictures\Mord_tut 38
+You have successfully completed the mission and earned the king's gratitude.
+
+#PAGE2005 Missions\Pictures\Faces 10
+Unfortunately, you have failed to complete your mission. 
+We won't be able to win the region back quickly.

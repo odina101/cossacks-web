@@ -1,0 +1,53 @@
+#BRIEFING faces 0
+{A} Rescue Operation
+
+Defeat the Dutch fleet and transport your allies to the continent to win. 
+You will lose if you lose your troops and buildings. 
+
+Current objectives:
+{H}You will also lose if you lose the allied musketeers. 
+{J}~You will also lose if you lose the allied musketeers.~
+{B}Demolish the fort in the north.
+{C}Transport the allies from the island.
+{D}~Demolish the fort in the north.~
+{E}~Transport the allies from the island.~
+
+#PAGE2601 Missions\Pictures\Austria 10
+Commandant: "We are happy to greet our allies. We encountered a sea blockade and our food rations are running low. I have begun preparing the troops so we can set sail at once. Your objective is to secure a free sea passage for us." 
+
+#PAGE2602 Missions\Pictures\Austria 10
+Commandant: "We are very grateful, and prepared to fight alongside you." 
+
+#PAGE2603 Missions\Pictures\Austria 44
+Merchant: "Greetings! I lost my ship in a storm, and my packhorses were washed ashore on the neighbouring island. Help me to transport them over here and maybe I can bribe the pirates for you." 
+
+#PAGE2604 Missions\Pictures\Austria 12
+You have captured packhorses.
+
+#PAGE2605 Missions\Pictures\Faces 0
+Merchant: "You thief! You broke our agreement! You brought too few packhorses. I'd have fared better if I had struck a deal with the pirates. I will not help you."  
+
+#PAGE2606 Missions\Pictures\Faces 0
+Merchant: "These are not all the packhorses you could have transported. For this number of packhorses I can bribe no more than one ship of the line for you."
+
+#PAGE2607 Missions\Pictures\Faces 0
+Merchant: "Excellent, you have returned my packhorses to me! As a reward, I will bribe two pirate ships of the line for you. You are a reliable trading partner. Farewell."
+
+#PAGE2608 Missions\Pictures\England 24
+Your army has been defeated. You lose. 
+
+#PAGE2609 Missions\Pictures\England 24
+Your allies are dead. You lose.
+
+#PAGE2610 Missions\Pictures\Faces 14
+You did well in your task. It is a glorious victory! 
+
+#PAGE2611 Missions\Pictures\Faces 15
+In the brigands' camp you find a booty of %d gold.
+
+#PAGE2612 Missions\Pictures\mord_tut 36
+The Dutch have positioned their navy to the north and are preparing troops to assault you. 
+You have been ordered to demolish the fort. Our scouts report that there are likely to be brigands on the way. Be careful, get your troops ready and attack the enemy.  
+
+#PAGE2613 Missions\Pictures\Faces 1
+A messenger has arrived. He says your allies have lost contact with their fort to the north-west. They ask you to send your courier and find out what happened there.  

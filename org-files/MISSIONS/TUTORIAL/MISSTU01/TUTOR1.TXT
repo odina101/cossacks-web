@@ -1,0 +1,38 @@
+Playing this tutorial mission will teach you the following:
+How to select a unit.
+How to get information on the selected unit.
+How to use the mini-map.
+How to send a unit to a specific location.
+How to order a unit to attack an enemy.
+What territories are impassable.
+How to acquire wood, stone and food with peasants.
+How to build structures using peasants.
+How to build mines and extract resources there.
+How to view a list of all units.
+How to select units of a specific type from among a mixed squad.
+How to make cannon fire cannonballs or grapeshot.
+What obstacles will prevent units from firing.
+How to capture enemy buildings, artillery and peasants.
+How to protect my buildings, artillery and peasants from being captured.
+How to set buildings on fire.
+How to repair burning buildings.
+Why it is advantageous to shoot from an eminence.
+How to demolish enemy buildings with artillery, grenadiers and archers.
+How to create 1 to 5 units at a time.
+How to specify a rally point for units that are being created.
+Why units must be trained.
+Why upgrades are conducted in academies and blacksmiths.
+What upgrades are the most important.
+What resources are needed to maintain units.
+What resources are needed to carry out a battle.
+How to supervise the resources' balance.
+What do I do if you have spent too many resources.
+How to use a market.
+Why the construction costs for some structures change.
+When the 18th century barracks can be built.
+How to make units embark and disembark from a ferry.
+How to build walls and palings.
+How to build a gate.
+How to open and close gates.
+How to activate or deactivate information windows.
+How to use information windows.

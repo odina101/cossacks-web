@@ -1,0 +1,11 @@
+Questions handled:
+Which upgrade affects what?
+What units can be created in the barracks and stable? What are the upgrades for them and their location?
+What are the upgrades for armoured units and shooting units?
+Do the upgrades affect mercenaries?
+Against which units can multi-barrelled cannons be used effectively?
+When can the multi-barrelled cannon be built?
+What can be built in the artillery depot and what is the effect of the upgrades there?
+What two important mounted unit upgrades are there in the blacksmith?
+Which units can make formations? What quantity of units is required?
+In what way can the lack of lodgings be resolved?

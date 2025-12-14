@@ -1,0 +1,36 @@
+#BRIEFING faces 0
+{A}Turkish Stronghold
+
+ Bring this territory under your control and liberate it from the Turks.
+{D}!You will lose if your main character dies.
+{E}!You will lose if the enemy captures the village.
+  
+{K}Current objective:
+   {A}Reach the village as soon as possible and prepare for its defence.
+   {B}~Reach the village as soon as possible and prepare for its defence.~
+   {C}Assault the Turkish fortress and wipe out all its defenders.
+
+#PAGE1 Missions\Pictures\england 8
+There is a small fishing village to the south-east. Soon major Ottoman forces will pass through it. You must reach the settlement as soon as possible and arrange an ambush there. 
+#PAGE2 Missions\Pictures\austria 45  
+Finally you are here! The Turks are already nearby. Take our people and artillery. Arrange a defence by the eastern gates of the village, and remember - our lives are in your hands! 
+#PAGE3 Missions\Pictures\mord_tut 18
+Excellent! The enemy squad has been annihilated. Now destroy the Turkish fortress to the south-west. 
+#PAGE4 Missions\Pictures\mord2_tut 2
+You receive reinforcements to help you assault the fortress. 
+#PAGE5 Missions\Pictures\austria 9
+Sir! There is a village of bandits ahead. They often rob our packhorses. It's high time accounts were settled with them! 
+#PAGE6 Missions\Pictures\austria 33
+You have captured the bandits' settlement and replenished your supplies. 
+#PAGE7 Missions\Pictures\mord_tut 3
+You encountered guardsmen who have strayed from their cohort. They wish to join you for 1,000 in gold. 
+#PAGE10 Missions\Pictures\austria 36
+The fortress has been destroyed! Mission accomplished. You will be rewarded generously!
+#PAGE11 Missions\Pictures\mord_tut 4
+You have perished in an unequal combat.
+#PAGE12 Missions\Pictures\mord3_tut 14
+The village has been captured! Mission failed.
+#PAGE8 Missions\Pictures\mord2_tut 22
+Sir! We were spotted by a Turkish patrol. Now the soldiers in the fortress know of our approach.
+#PAGE20 Missions\Pictures\austria 33
+You have vanquished a small gang of brigands and discovered a stock of ammunition at the storehouse.

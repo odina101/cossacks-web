@@ -1,0 +1,57 @@
+#BRIEFING faces 0
+{A}	Operations in Mountain Passes
+   
+You must destroy the regular elements of the French and Austrians in the region.
+You will lose if your forces are eliminated.
+   
+Current objectives:
+{B}	Take the squad to the academy in the Venetian town. 
+{C}	~Take the squad to the academy in the Venetian town.~
+{D}	Eliminate the enemy in the region.
+   
+#PAGE0 Missions\Pictures\faces 14
+The valorous Piemontese forces are opposed by the French and Austrian armies. They threaten the peace of the region. You must repel them at any cost!
+Unfortunately, your builders have lost the plans for the academy. Therefore, you can't build it initially. You must take the squad to the academy in the centre of the Venetian town (orange) to obtain the necessary plans.
+However, always remember this region is a very dangerous place.
+There is no time to lose! It is reported that our insidious and greedy enemy has been preparing for a bloody and merciless war in this blossoming region.
+
+#PAGE01 Missions\Pictures\poland 23
+You have entered a picturesque little Venetian town, full of neat gardens and friendly citizens. The sweet scent of the gardens and flowers hovers in the clear air of the mountains. Suddenly you realise that life is beautiful, and there is nothing you should worry about here. 
+All you need to do is approach the academy in the centre to seek information.
+
+#PAGE02 Missions\Pictures\mord_tut 0
+You take a peaceful walk through the town and greet the locals. 
+All of a sudden, strangers race from the houses shouting and cursing. It's chaos!
+"Sabotage! A riot in the town!" the guards shout, and rush to attack.
+
+#PAGE2 Missions\Pictures\mord_tut 23
+You have gained the knowledge necessary to build the academy (it will take a while).
+
+#PAGE3 Missions\Pictures\mord_tut 2
+The acquisition of knowledge has been interrupted (your men are not in front of the academy).
+
+#PAGE4 Missions\Pictures\mord_tut 32
+You have received the necessary knowledge (the academy is available).
+
+#PAGE5 Missions\Pictures\mord2_tut 21
+The fortress has been captured.
+
+
+
+#PAGE10 Missions\Pictures\austria 31
+Your town has been destroyed.
+ Mission failed.
+
+
+#PAGE11 Missions\Pictures\faces 9
+Regular elements of the French army have been eliminated (blue).
+
+#PAGE12 Missions\Pictures\faces 9
+Regular elements of the Austrian army have been eliminated (green).  
+
+#PAGE15 Missions\Pictures\faces 9
+Highland forces in the region have been eliminated (black).  
+
+#PAGE20 Missions\Pictures\faces 14
+All enemy troops have been defeated.
+The war is over! Victory!

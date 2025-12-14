@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terrain Test - 3D Isometric</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #1a1410;
+            font-family: 'Times New Roman', serif;
+            color: #d4c4a8;
+        }
+        
+        h1 {
+            color: #ffd700;
+            margin-bottom: 20px;
+        }
+        
+        #terrain-canvas {
+            border: 2px solid #8b7355;
+            display: block;
+            margin: 20px auto;
+            background: #87CEEB;
+        }
+        
+        #controls {
+            text-align: center;
+            margin: 20px;
+        }
+        
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            background: #3a2f20;
+            border: 2px solid #8b7355;
+            color: #d4c4a8;
+            cursor: pointer;
+            font-family: 'Times New Roman', serif;
+            font-size: 14px;
+        }
+        
+        button:hover {
+            background: #4a3f30;
+        }
+        
+        #info {
+            text-align: center;
+            margin: 20px;
+            font-size: 12px;
+            color: #8b7355;
+        }
+    </style>
+</head>
+<body>
+    <h1>🏰 3D Isometric Terrain Generator - Cossacks Style</h1>
+    
+    <div id="controls">
+        <button onclick="generateTerrain()">🔄 Generate New Terrain</button>
+        <button onclick="generateTerrain(123)">Generate (Seed: 123)</button>
+        <button onclick="generateTerrain(456)">Generate (Seed: 456)</button>
+    </div>
+    
+    <canvas id="terrain-canvas"></canvas>
+    
+    <div id="info">
+        Click "Generate" to create a new random Cossacks-style terrain map with:<br>
+        ✓ 3D heightmap with hills and valleys<br>
+        ✓ Isometric rendering with depth<br>
+        ✓ Grass, cliffs, water, and shores<br>
+        ✓ Trees, rocks, and bushes<br>
+        ✓ Proper shading and texturing
+    </div>
+    
+    <script type="module">
+        import { TerrainGenerator } from './js/pixi/TerrainGenerator.js?v=1';
+        import { IsometricTerrainRenderer } from './js/pixi/IsometricTerrainRenderer.js?v=8';
+        import { TileAssetLoader } from './js/pixi/TileAssetLoader.js?v=3';
+        
+        const canvas = document.getElementById('terrain-canvas');
+        const ctx = canvas.getContext('2d');
+        
+        // Set canvas size
+        canvas.width = 1024;
+        canvas.height = 768;
+        
+        // Load assets first
+        const assetLoader = new TileAssetLoader();
+        await assetLoader.loadAssets();
+        
+        window.generateTerrain = function(seed) {
+            console.log('=== GENERATING TERRAIN ===');
+            console.log('Seed:', seed || 'random');
+            console.log('Canvas size:', canvas.width, 'x', canvas.height);
+            console.log('Using tile assets:', assetLoader.hasAssets());
+            console.log('Grass tiles:', assetLoader.tiles.grass.length);
+            console.log('Water tiles:', assetLoader.tiles.water.length);
+            
+            // Create generator
+            const generator = new TerrainGenerator(64, 64);
+            generator.generate(seed);
+            
+            // Create renderer with asset loader
+            const renderer = new IsometricTerrainRenderer(generator, 32, assetLoader);
+            
+            // Render to temporary canvas
+            const terrainCanvas = renderer.renderToCanvas(canvas.width, canvas.height);
+            
+            console.log('Terrain canvas created:', terrainCanvas.width, 'x', terrainCanvas.height);
+            
+            // Draw to main canvas
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = '#FF00FF'; // Magenta test color
+            ctx.fillRect(0, 0, 50, 50); // Test square
+            
+            ctx.drawImage(terrainCanvas, 0, 0);
+            
+            console.log('Terrain canvas drawn to display!');
+            console.log('=== RENDERING COMPLETE ===');
+        };
+        
+        // Generate initial terrain
+        window.generateTerrain();
+    </script>
+</body>
+</html>

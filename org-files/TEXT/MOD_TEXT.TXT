@@ -1,0 +1,62 @@
+PISWE.MD Pikeman, 17th century
+MUSWE.MD Musketeer, 17th c.
+DR2SWE.MD Dragoon, 18th century
+M2SWE.MD Musketeer,18th century
+GRSWE.MD Grenadier
+GUSWE.MD Hussar
+M2RUS.MD Musketeer,18th century
+GRRUS.MD Grenadier
+GURUS.MD Hussar
+DRPOL.MD Dragoon, 17th century
+GRPOL.MD Grenadier
+M2FRA.MD Musketeer,18th century
+PIFRA.MD Pikeman, 17th century
+MUFRA.MD Musketeer, 17th c.
+DR2PIE.MD Dragoon, 18th century
+M2PIE.MD Musketeer,18th century
+M2AUS.MD Musketeer,18th century
+GRAUS.MD Grenadier
+M2HOL.MD Musketeer,18th century
+M2POR.MD Musketeer,18th century
+GRPRU.MD Grenadier
+DR2SPA.MD Dragoon, 18th century
+MUVEN.MD Musketeer, 17th c.
+RUTUR.MD Heavy Infantryman
+PIENG.MD Pikeman, 17th century
+MUENG.MD Musketeer, 17th c.
+M2ENG.MD Musketeer,18th century
+GRENG.MD Grenadier
+DRENG.MD Dragoon, New Model Army
+RIENG.MD Cavalier
+PUS2.MD Cannon, 17th century
+PUS3.MD Cannon, 17th century
+PUS4.MD Coastal Defence Gun
+MUALG.MD Bashi-Bozouk
+SCOTDIP.MD Scottish Swordsman
+BLR.MD Balkan Light Rider
+Mushketer_alg(AL)ATTACK Conduct a practice shoot (fire power +1)
+Mushketer_alg(AL)ATTACK3 Conduct a practice shoot (fire power +2)
+Mushketer_alg(AL)ATTACK4 Conduct a practice shoot (fire power +1)
+Mushketer_alg(AL)ATTACK5 Conduct a practice shoot (fire power +5)
+Mushketer_alg(AL)ATTACK6 Conduct a practice shoot (fire power +6)
+Mushketer_alg(AL)ATTACK7 Conduct a practice shoot (fire power +10)
+Mushketer_alg(AL)SHIELD Conduct a physical training (morale, defence +1)
+Mushketer_alg(AL)SHIELD3 Conduct a physical training (morale, defence +2)
+Mushketer_alg(AL)SHIELD4 Conduct a physical training (morale, defence +3)
+TUrkey_pikiner(TU)ATTACK7 Conduct a fencing drill (cold steel weapons' attack +4)
+TUrkey_pikiner(TU))SHIELD7 Conduct a riding drill (morale, defence +4)
+Mameluk(AL)ATTACK7 Conduct a fencing drill (cold steel weapons' attack +4)
+Mameluk(AL)SHIELD7 Conduct a riding drill (morale, defence +4)
+BalkanRider(TU)ATTACK Conduct a fencing drill (cold steel weapons' attack +1)
+BalkanRider(TU)ATTACK3 Conduct a fencing drill (cold steel weapons' attack +2)
+BalkanRider(TU)ATTACK4 Conduct a fencing drill (cold steel weapons' attack +3)
+BalkanRider(TU)ATTACK5 Conduct a fencing drill (cold steel weapons' attack +2)
+BalkanRider(TU)ATTACK6 Conduct a fencing drill (cold steel weapons' attack +3)
+BalkanRider(TU)ATTACK7 Conduct a fencing drill (cold steel weapons' attack +5)
+BalkanRider(TU)SHIELD Conduct a riding drill (morale, defence +1)
+BalkanRider(TU)SHIELD3 Conduct a riding drill (morale, defence +1)
+BalkanRider(TU)SHIELD4 Conduct a riding drill (morale, defence +1)
+BalkanRider(TU)SHIELD5 Conduct a riding drill (morale, defence +2)
+BalkanRider(TU)SHIELD6 Conduct a riding drill (morale, defence +2)
+BalkanRider(TU)SHIELD7 Conduct a riding drill (morale, defence +9)
+Ianithar(TU)ATTACK4 Conduct a practice shoot (fire power +4)

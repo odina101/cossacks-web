@@ -1,0 +1,81 @@
+#BRIEFING faces 0
+{Z} The Beginning
+
+!You will lose if your peasants are killed and you can no longer build.
+!Keep an eye on your food supplies!
+                                                                                
+ Current objective:
+{A}Select peasants.
+{B}Build a mill.
+{K}~Build a mill.~
+{C}Build a town hall.
+{L}~Build a town hall.~
+{D}Build a storehouse.
+{M}~Build a storehouse.~
+{E}Build another town hall.
+{N}~Build another town hall.~
+{F}Select the town hall and create a peasant.
+{H}Build a market.
+{O}~Build a market.~
+{G} Enter the menu and save the game.
+{I}Build a mine.
+{P}~Build a mine.~
+                 
+#PAGE1 Missions\Pictures\mord_tut 5
+Take a look at the game screen and interface. In the middle of the screen you can see a part of the game map with a Don Cossack and a group of peasants. There's a mini-map in the lower right corner. The bar above the screen indicates the amount of resources you have. In the middle of the bar is a button to enter the game menu.
+#PAGE2 Missions\Pictures\mord3_tut 16
+First of all, select one or several peasants. To do this, place the cursor on a peasant and left-click on him. To select a group of peasants, keep the left button clicked and move the mouse.
+#PAGE3 Missions\Pictures\russia 16 
+Now, if you want to select all units of the same kind, for example peasants, select a peasant and press "Z". This way, you are selecting all the units of that kind in the visible part of the map. If you press CTRL+Z, you will select all the units of that kind on the map. Practice selecting units.
+#PAGE4 Missions\Pictures\russia 19 
+Very good! The same can be done with all other kinds of units.
+#PAGE5 Missions\Pictures\mord_tut 27
+Food is one of the most important resources in the game. It is necessary to support your subjects, i.e. all the units, as soon as they are built, start consuming food. Make sure you have food. If you run out of food, famine will strike your subjects and the units will die. You can gather food by growing wheat around the mill. Build a mill now.
+#PAGE6 Missions\Pictures\mord_n 1
+For this purpose, do the following: Select peasants, click on the "Mill" icon in the lower left part of the screen and then left-click again on a free area of the map.
+#PAGE7 Missions\Pictures\mord_tut 7   
+Good, you have started building the mill. You can watch your peasants building it. The mill will be finished.
+#PAGE8 Missions\Pictures\mord_n 1   
+Excellent! The mill has been built and wheat sown around it. The wheat will ripen and you'll have to send peasants to harvest it. When the wheat is gathered, you can sow the field again. To do that, select the mill and click on the "Grain Crops" icon in the lower left part of the interface.
+#PAGE9 Missions\Pictures\mord_n 1
+In selecting the mill you will also notice a very important upgrade in the lower left part of the interface. As a result of this upgrade, the peasants can harvest crops more effectively.
+#PAGE10 Missions\Pictures\russia 19
+Now build a town hall. Select peasants and click on the "Town Hall" icon in the lower left part of the screen, then left-click on the map. It is recommended to build the town hall as close as possible to a deposit of food, wood or stone, for peasants can take the resources to the town hall.
+#PAGE11 Missions\Pictures\ukraine 7
+The more peasants you send to build or gather a resource, the faster you'll see the result.
+#PAGE12 Missions\Pictures\mord_d 1
+Excellent, the town hall is finished! Now you can order peasants there. To do this, select the town hall and left-click on the icon of the peasant in the lower left part of the screen. Clicking once on the icon orders one unit. Press Shift and left-click on the icon to order five units at once. While ordering units, make sure the amount of food doesn't go below 1,000. Otherwise famine will strike when you run out of food.
+#PAGE13 Missions\Pictures\poland 11
+Build a storehouse now. Peasants can take gathered wood and stone to this place. Therefore, build storehouses as close as possible to the place where you want to gather wood or stone. Find such a place and build a storehouse.
+#PAGE14 Missions\Pictures\russia 8
+The storehouse is finished. Now you can start gathering wood and stone.
+#PAGE15 Missions\Pictures\ukraine 7
+Select several peasants and point the cursor at a forest (the cursor will turn into an axe) or stone deposit (the cursor will turn into a pick). Then right-click to make your peasants gather the resource.
+#PAGE16 Missions\Pictures\russia 8 
+Good, you have arranged the gathering of resources. Pay sufficient attention to economy, for only a powerful economy will allow you to form a strong army and fleet. Send more peasants to gather resources and open up new fields and deposits to increase the gathering of resources.
+#PAGE17 Missions\Pictures\mord_n 9 
+The next step towards hastening the development is the construction of an additional town hall. Select one or several peasants and click on the "Town Hall" icon in the lower left part of the interface. If you don't have enough resources, the icon appears grey. Keeping the cursor on the icon will display the amount of resources required to build a town hall. Get the required amount of resources.
+#PAGE18 Missions\Pictures\russia 9
+You have gathered enough resources to build another town hall. Now its icon is active. One peculiarity of the economic system in Cossacks is the fact that every new building of the same kind that you want to build is more expensive than the previous one.
+#PAGE19 Missions\Pictures\russia 19
+Wonderful! The new town hall is finished! To select the building, point the cursor at it and left-click on it.
+#PAGE20 Missions\Pictures\mord_d 1
+You can set rally points for buildings which create units. All the units built in this building will gather at the point you have set. To set a rally point, select the building and click on "Set Rally Point" or simply press CTRL and right-click.
+#PAGE21 Missions\Pictures\russia 8
+Set a rally point for the first town hall in the field and one for the second in the nearby wood or stone deposit. Peasants created in these town halls will go straight there to gather resources from whichever deposit you set the rally point on.
+#PAGE22 Missions\Pictures\mord_tut 28
+Now it's time you built a market. Select a group of peasants and build a market on the free area close to your buildings.
+#PAGE23 Missions\Pictures\russia 8
+Wonderful! You have built a market. Now you can exchange resources. Selecting the market will show you the resource exchange menu in the lower left part of the interface. In the left column are the resources you may barter, and the right column displays resources you need. Using the number keys, you can set the amount of resources you want to trade. Above is a button for confirming the deal. Beneath is a button for cancelling the deal.
+#PAGE24 Missions\Pictures\russia 19
+You have done well. It's time to save the game. To do that, point the cursor in the middle of the upper bar in the screen and left-click on it. In the pop-up menu select "Game Menu", and in the next menu choose "Save Game". If you want to resume the game, simply click on a free area of the screen. You can also save the game by pressing "F12" and selecting "Save Game" in the next menu. Pressing "F1" allows you to check your current objective.
+#PAGE25 Missions\Pictures\mord_tut 8
+To mine the remaining three kinds of resources, i.e. gold, coal and iron, you have to build mines. Mines can be built on deposits of gold, coal and iron located on the map. Near your camp there are deposits of coal, iron and gold. Select peasants and build mines.
+#PAGE26 Missions\Pictures\mord_tut 8
+The more peasants in a mine, the more resources you will get from it. To increase the amount of peasants working in a mine, conduct the upgrade "Enlarge mines and build extensive railroad network for them", then send new peasants inside. To do this, select a mine to see the upgrade icon in the lower left part of the interface. You must upgrade each mine separately. The more you have upgraded a mine, the more important the mine becomes to you. Therefore, try to upgrade only well-protected mines.
+#PAGE27 Missions\Pictures\russia 19
+You have successfully mastered the basics of mining and building. Welcome to the second part of the tutorial.
+#PAGE99 Missions\Pictures\mord_tut 9
+The initial tutorial stage has been completed successfully!
+#PAGE100 Missions\Pictures\russia 24
+You don't feel sorry for your peasants? In that case, you have failed the initial mission!

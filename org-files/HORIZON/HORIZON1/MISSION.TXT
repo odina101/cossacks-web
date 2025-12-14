@@ -1,0 +1,109 @@
+#BRIEFING faces 0
+
+{A}Persona non grata
+Eliminate the three coastal cannons guarding the shore, then go to the port in the south.
+
+#PAGE1 Missions\Pictures\mord_n 9
+You have returned from the king's service and found your former estate plundered. One of your peasants is still here.
+
+#PAGE1B Missions\Pictures\faces 31
+"Sir you have returned! Baron Kenneth's men were here yesterday with a decree from the king. You have been declared a rebel and your posessions and land have been turned over to the Baron!"
+
+#PAGE1C Missions\Pictures\poland 19
+"What? I just returned from the war with the king's enemies! What is this nonsense? Explain this, now! What decree?"
+
+#PAGE1D Missions\Pictures\faces 31
+"I am sorry sir, I meant no disrespect. The rumors were true I'm afraid. The king and the nobility fear the influence you have gained in the war. They must think you are a threat to their power and this must be their way of stopping you. The decree said you are a rebel, but you will be pardoned and allowed to stay in England if you forfeit your title and all possessions and land. Your men, too."
+
+#PAGE1E Missions\Pictures\mord_tut 0
+"What shall we do, sir?"
+
+#PAGE1F Missions\Pictures\poland 19
+"To hell with this! I will not spend the rest of my life begging in the streets. Men, follow me. We're leaving. Baron Kenneth's estate is near. We'll borrow some ships from him and destroy his coastal defences to enable our escape before anyone notices. We will seek out our fortune in the New World, and destory all who stand in our way."
+
+#PAGE1G Missions\Pictures\mord2_tut 20
+Eliminate the three 120mm guns along the coast. Then go to the port in the south.
+
+#PAGE1A Missions\Pictures\Faces 10
+Your hero has died.
+
+#PAGE2 Missions\Pictures\Faces 21
+Halt! What are you doing here? Only Baron Kenneth's men are permitted to approach the coastal battlements.
+
+#PAGE2A Missions\Pictures\Faces 5
+Well fine sir, our pockets are a bit too light for the road, how about you fill them with say, 50 coins?
+
+#PAGE2Ano Missions\Pictures\Faces 21
+Then we will settle for all of your gold! Sieze them!
+
+#PAGE2B Missions\Pictures\Faces 5
+Looks like our pay is early this month, boys! Good day to you fine sir.
+
+#PAGE2C Missions\Pictures\Faces 21
+These are the renegades we were warned about! Sieze them!
+
+#PAGE2D Missions\Pictures\Faces 21
+Looks like your pockets are not so deep sir. Get him, men!
+
+#PAGE4 Missions\Pictures\austria 27
+You have eliminated the northern coastal gun.
+
+#PAGE5 Missions\Pictures\Faces 27
+We know all about you rebels! Get em'!
+
+#PAGE6 Missions\Pictures\austria 27
+You have eliminated the coastal gun on the eminence.
+
+#PAGE7 Missions\Pictures\mord2_tut 13
+You encounter a group of renegades in the woods. Their leader addresses you:
+"Hello gentlemen. Would you be interested in hiring some brave sharpshooters? 50 coins only!"
+
+#PAGE7yes Missions\Pictures\mord2_tut 13
+Ready to serve, sir!
+
+#PAGE7no Missions\Pictures\mord2_tut 13
+Not even 50 gold pieces on this gentleman? No deal then.
+
+#PAGE8 Missions\Pictures\mord_tut 13
+You have eliminated all of the coastal artillery that could have been a threat when you sail out. Now you should go to the port south of here and "acquire" some ships from the enemy.
+
+#PAGE9 Missions\Pictures\austria 28
+You should deal with the coastal guns before going into the port for the ships. They will be of no use if they are at the bottom of the sea.
+
+#PAGE10 Missions\Pictures\poland 12
+The guard at the gate addresses you:
+"Sir! I have heard of your troubles with the baron and I believe you have not been treated fairly. I do not approve of his actions and would like to see him taught a lesson. I will open the gates for you so that you may seek justice!"
+
+#PAGE10A Missions\Pictures\mord3_tut 4
+You now have access to the port. It looks like Baron Kenneth's heavily armed flagship, "The Red Fang", is docked among the other ships. It will make a nice prize. You could also stop by his market to resupply yourself for the journey.
+
+#PAGE11 Missions\Pictures\mord_tut 29
+You've stopped by Baron Kenneth's market and "borrowed" some of his gold and ammunition. It will sure come in handy on your voyage to the New World.
+
+#PAGE12 Missions\Pictures\England 4
+You're at the docks. Eliminate the rest of the guards and take the ships.
+
+#PAGE13 Missions\Pictures\faces 23
+Hey you! Rebels! Get out of here before we are forced to kill you!
+
+#PAGE13A Missions\Pictures\faces 23
+You've just made a quarrel with us! Get em'!
+
+#PAGE13B Missions\Pictures\faces 23
+Hmm. I suppose we could... Take a break... From our duties for a while, yes?
+
+#PAGE13C Missions\Pictures\faces 23
+This bastard offers gold he does not have! Get him!
+
+#PAGE14 Missions\Pictures\austria 27
+You have eliminated the southern coastal gun.
+
+#PAGE15 Missions\Pictures\mord3_tut 0
+The port is clear. The docked ships are now under your command including "The Red Fang". However, you actions have reached Baron Kenneth and he has called for reinforcements. Eliminate his fleet to secure your escape.
+
+#PAGE16 Missions\Pictures\mord3_tut 8
+Enemy fleet lies at the bottom of the sea and with it the last obstacle of your escape.
+You have won!
+
+#PAGE17 Missions\Pictures\england 5
+You've lost the Red Fang!

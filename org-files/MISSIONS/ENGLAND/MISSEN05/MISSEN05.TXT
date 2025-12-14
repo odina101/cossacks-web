@@ -1,0 +1,15 @@
+#BRIEFING faces 0
+{A}Catalina
+
+In order to win, you must demolish all Spanish buildings.
+
+!Try to capture enemy cannon. They will aid you in demolishing enemy towers which are out of reach for your ships.
+!Don't forget to burn down the captured enemy structures.
+#PAGE1 Missions\Pictures\mord_d 5
+  You have managed to assemble a small team of thugs who have agreed to raid Catalina. You have made arrangements to meet in the "One-Eyed Bull" tavern. The Spanish colony is to the south-east of here.
+#PAGE1A Missions\Pictures\mord_d 1
+  Your objective is to demolish all Spanish buildings. You should do it with minimum losses, because you have no reserves to replenish your team.
+#PAGE2 Missions\Pictures\mord3_tut 8
+  Good work! You have overwhelmed the Spanish base! The honour and loot are yours.
+#PAGE3 Missions\Pictures\england 5
+  All your forces are down. You have failed.

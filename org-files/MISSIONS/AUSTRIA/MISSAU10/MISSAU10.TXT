@@ -1,0 +1,21 @@
+#BRIEFING faces 0
+{A}Elbe
+ 
+You will win if you succeed in defeating the enemy forces.
+You will lose if your troops are defeated.
+
+!Capture the enemy storehouses to neutralise the towers
+!Destroy the enemy headquarters to demoralise your opponent
+ 
+#PAGE0 Missions\Pictures\poland 23
+  Our troops are under fire! Attack! Let us shatter the Prussian army once and for all!
+#PAGE1 Missions\Pictures\russia2 0
+  Due to the loss of the storehouses the enemy has been left with only a portion of his ammunition. His towers must cease firing.
+#PAGE2 Missions\Pictures\russia2 0
+  The enemy HQ has been destroyed! Soon you will be victorious!
+#PAGE3 Missions\Pictures\russia2 0
+  All your troops have been eliminated! You have lost.
+#PAGE4 Missions\Pictures\poland 10
+  The enemy is fleeing from the battlefield in shame! You have won again!
+#OTST1 Missions\Pictures\mord_d 3
+  Destroy enemy storehouses to deprive the Prussian towers of ammunition.

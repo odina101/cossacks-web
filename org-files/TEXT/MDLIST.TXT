@@ -1,0 +1,360 @@
+BAR.MD Drummer, 18th century
+BA1.MD Drummer, 17th century
+BAE.MD Drummer, 17th century
+MUS.MD Musketeer, 18th century
+PUS.MD Cannon
+KRE.MD Serf
+LOK.MD Sich Cossack
+PIE.MD Pikeman, 17th century
+OFI.MD Officer, 18th century
+MEL.MD Mill
+MELN2.MD Mill
+SHA.MD Mine
+SHAFE.MD Mine
+SHAUG.MD Mine
+AKA.MD Academy
+KON.MD Stable
+ART.MD Artillery Depot
+EUD.MD Dwelling
+RUD.MD Izba
+UKD.MD Hut
+KRU.MD Peasant
+RIC.MD Rider
+TOW.MD Tower
+TO2.MD Tower
+KAZ.MD Barracks, 18th century
+GET.MD Hetman
+KZK.MD Register Cossack
+PE2.MD Pikeman, 18th century
+DRA.MD Dragoon, 17th century
+EVR.MD Town Hall
+PIR.MD Spearman
+CUR.MD Town Hall
+STR.MD Strelets
+DIP.MD Diplomatic Centre
+KOS.MD Catholic Church
+KUZ.MD Blacksmith
+K2Z.MD Barracks, 17th century
+RUS.MD Town Hall
+RST.MD Strelets Barracks
+FIELD1.MD Grain Crops
+RIN.MD Market
+CER.MD Church
+UKS.MD Cossack House
+KOM.MD Commander
+KST.MD Serdiuk
+MOR.MD Howitzer
+TAG.MD Don Cossack
+KR3.MD Peasant
+MUE.MD Musketeer, 17th c.
+GRE.MD Grenadier
+GUS.MD Hussar
+WALL_KR.MD Wall
+WALL_EV.MD Wall
+WALL_UKR.MD Paling
+TAK.MD Vityaz
+SVE.MD Priest
+SVU.MD Pope
+BRT.MD Drummer
+OFT.MD Officer
+TAT.MD Tatar
+JIA.MD Janissary
+KPO.MD Peasant
+KAA.MD Croat
+KRP.MD Peasant
+STI.MD Musketeer, 17th c.
+LPF.MD Chasseur
+MUA.MD Musketeer, 17th c.
+SWR.MD Swedish Rider
+SWP.MD Pikeman, 18th century
+SAG.MD Grenadier
+SAK.MD Cavalry Guard
+ENS.MD Highlander
+ENV.MD Bagpiper
+LRE.MD Light Rider
+VGA.MD Archer
+LPT.MD Light Infantryman
+L2T.MD Ottoman Pikeman
+MUT.MD Mullah
+MUP.MD Musketeer, 17th c.
+MUN.MD Musketeer, 17th c.
+KVT.MD Spakh
+DRF.MD Dragoon, 18th century
+KOF.MD King's Musketeer
+SV2.MD Padre
+PIP.MD Pikeman, 17th century
+TKP.MD Winged Hussar
+MAM.MD Mameluke
+PAA.MD Pandur
+RUA.MD Roundshier
+KRT.MD Peasant
+KRS.MD Peasant
+CEB.MD Town Hall
+CEI.MD Town Hall
+CEH.MD Town Hall
+CEP.MD Town Hall
+CSW.MD Town Hall
+OF2.MD Officer, 17th century
+CES.MD Town Hall
+ADET.MD Artillery Depot
+BAT.MD Barracks
+CET.MD Town Hall
+DIPT.MD Diplomatic Centre
+KUT.MD Blacksmith
+MET.MD Mosque
+MIT.MD Minaret
+RIT.MD Bazaar
+DOT.MD Dwelling
+CPL.MD Town Hall
+CRP.MD Church
+DPL.MD Dwelling
+DOB.MD Dwelling
+DOF2.MD Dwelling
+DOI.MD Dwelling
+DOP.MD Dwelling
+DPR.MD Dwelling
+DOS.MD Dwelling
+DSW.MD Dwelling
+KOT.MD Stable
+CAL.MD Town Hall
+CEF2.MD Town Hall
+DAL.MD Dwelling
+KSW.MD Stable
+CAU.MD Town Hall
+DAU.MD Dwelling
+SAM.MD Musketeer, 18th c.
+DR2.MD Dragoon, 18th century
+PSM.MD Multi-barrelled Cannon
+SHE.MD Xebec
+LINK.MD Ship of the Line
+YAH.MD Yacht
+SKL1.MD Storehouse
+SKL2.MD Storehouse
+SKL3.MD Storehouse
+SKL4.MD Storehouse
+PRS.MD Ferry
+LOD.MD Boat
+FREG.MD Frigate
+CEV.MD Town Hall
+DOV.MD Dwelling
+KIR.MD Cuirassier
+TO3.MD Tower
+PORE.MD Shipyard
+DPO.MD Dwelling
+CPO.MD Town Hall
+AKE.MD Academy
+RUADIP.MD Roundshier (mercenary)
+GREDIP.MD Grenadier (mercenary)
+LPTDIP.MD Infantryman (mc.)
+VGADIP.MD Archer (mercenary)
+DR2DIP.MD Dragoon, 18th c. (mc.)
+LOKDIP.MD Sich Cossack (mc.)
+WALL_TU.MD Wall
+PORR.MD Shipyard
+PORT.MD Shipyard
+PORU.MD Shipyard
+GAL.MD Galley
+ARTU.MD Artillery Depot
+MT.MD Mill
+KUZU.MD Blacksmith
+KONU.MD Stable
+HRA.MD Orthodox Cathedral
+AKAU.MD Academy
+CERU.MD Orthodox Church
+DIPU.MD Diplomatic Centre
+DIPR.MD Diplomatic Centre
+AKAR.MD Academy
+MORBIG.MD Mortar
+AKAFR.MD Academy
+KUZFR.MD Blacksmith
+KAZFR.MD Barracks, 17th century
+KONFR.MD Stable
+NOTRDAM.MD Cathedral
+DIPFR.MD Diplomatic Centre
+KA2FR.MD Barracks, 18th century
+ARTFR.MD Artillery Depot
+GRUZ.MD Packhorse
+MOST.MD Bridge
+SKA.MD Scampway
+AKABR.MD Academy
+ARTBR.MD Artillery Depot
+HRABR.MD Cathedral
+DIPBR.MD Diplomatic Centre
+KONBR.MD Stable
+KUZBR.MD Blacksmith
+KAZBR.MD Barracks, 17th century
+KA2BR.MD Barracks, 18th century
+AKASP.MD Academy
+ARTSP.MD Artillery Depot
+DIPSP.MD Diplomatic Centre
+KONSP.MD Stable
+KUZSP.MD Blacksmith
+KA1SP.MD Barracks, 17th century
+KA2SP.MD Barracks, 18th century
+HRASP.MD Cathedral
+AKAPO.MD Academy
+ARTPO.MD Artillery Depot
+HRAPO.MD Cathedral
+DIPPO.MD Diplomatic Centre
+KONPO.MD Stable
+KUZPO.MD Blacksmith
+KA1PO.MD Barracks, 17th century
+KA2PO.MD Barracks, 18th century
+PORPO.MD Shipyard
+KOTEL.MD Cauldron
+URTA.MD Tent
+AKAHO.MD Academy
+ARTHO.MD Artillery Depot
+HRAHO.MD Cathedral
+DIPHO.MD Diplomatic Centre
+KONHO.MD Stable
+KUZHO.MD Blacksmith
+KA1HO.MD Barracks, 17th century
+KA2HO.MD Barracks, 18th century
+AKAGE.MD Academy
+ARTGE.MD Artillery Depot
+HRAGE.MD Cathedral
+DIPGE.MD Diplomatic Centre
+KONGE.MD Stable
+KUZGE.MD Blacksmith
+KA1GE.MD Barracks, 17th century
+KA2GE.MD Barracks, 18th century
+MOST2.MD Bridge
+AKASA.MD Academy
+ARTSA.MD Artillery Depot
+HRASA.MD Cathedral
+DIPSA.MD Diplomatic Centre
+KONSA.MD Stable
+KUZSA.MD Blacksmith
+KA1SA.MD Barracks, 17th century
+KA2SA.MD Barracks, 18th century
+AKAAU.MD Academy
+ARTAU.MD Artillery Depot
+HRAAU.MD Cathedral
+DIPAU.MD Diplomatic Centre
+KONAU.MD Stable
+KUZAU.MD Blacksmith
+KA1AU.MD Barracks, 17th century
+KA2AU.MD Barracks, 18th century
+GRUZZ.MD Packhorse
+AKAPL.MD Academy
+ARTPL.MD Artillery Depot
+HRAPL.MD Cathedral
+DIPPL.MD Diplomatic Centre
+KONPL.MD Stable
+KUZPL.MD Blacksmith
+KA1PL.MD Barracks, 17th century
+KA2PL.MD Barracks, 18th century
+AKASV.MD Academy
+ARTSV.MD Artillery Depot
+HRASV.MD Cathedral
+DIPSV.MD Diplomatic Centre
+KUZSV.MD Blacksmith
+KONSV.MD Stable
+KA1SV.MD Barracks, 17th century
+KA2SV.MD Barracks, 18th century
+AKAPI.MD Academy
+ARTPI.MD Artillery Depot
+HRAPI.MD Cathedral
+DIPPI.MD Diplomatic Centre
+KONPI.MD Stable
+KA1PI.MD Barracks, 17th century
+KA2PI.MD Barracks, 18th century
+KUZPI.MD Blacksmith
+AKAVE.MD Academy
+ARTVE.MD Artillery Depot
+HRAVE.MD Cathedral
+DIPVE.MD Diplomatic Centre
+KONVE.MD Stable
+KUZVE.MD Blacksmith
+KA1VE.MD Barracks, 17th century
+KA2VE.MD Barracks, 18th century
+RINN.MD Market
+RINS.MD Market
+RINR.MD Market
+ARTRU.MD Artillery Depot
+KUZRU.MD Blacksmith
+KA2RU.MD Barracks, 18th century
+KOLODEC1.MD Well
+KOLODEC2.MD Well
+BGAUZ.MD Log Cabin
+BGAUZ2.MD Log Cabin
+PALATKA.MD Tent
+MUSOR.MD Garbage
+SUNDUK1O.MD Chest
+SUNDUK1Z.MD Chest
+SUNDUK2O.MD Chest
+SUNDUK2Z.MD Chest
+VIC.MD Victoria
+FRN.MD Frigate
+KECH.MD Ketch
+KUTT.MD Cutter
+YAHTU.MD Yacht
+CEBA.MD Town Hall
+AKABA.MD Academy
+ARTBA.MD Artillery Depot
+HRABA.MD Cathedral
+DIPBA.MD Diplomatic Centre
+DOBA.MD Dwelling
+KONBA.MD Stable
+KUZBA.MD Blacksmith
+KA1BA.MD Barracks, 17th century
+KA2BA.MD Barracks, 18th century
+ARTDA.MD Artillery Depot
+AKADA.MD Academy
+HRADA.MD Cathedral
+CEDA.MD Town Hall
+DIPDA.MD Diplomatic Centre
+DODA.MD Dwelling
+KA1DA.MD Barracks, 17th century
+KA2DA.MD Barracks, 18th century
+KONDA.MD Stable
+KUZDA.MD Blacksmith
+MDO.MD Dwelling
+FLG.MD Standard Bearer
+KUP.MD Merchant
+MOL.MD Moldavian
+GSN.MD Hussar
+OFN.MD General
+KPU.MD Command Centre
+MBA.MD Musketeer,18th century
+MDA.MD Musketeer,18th century
+MPR.MD Musketeer,18th century
+GLS.MD Galleass
+STEFAN.MD Stefan Hertrich
+VNGAKA.MD Academy
+VNGART.MD Artillery Depot
+VNGCEN.MD Town Hall
+VNGDIP.MD Diplomatic Centre
+VNGDOM.MD Dwelling
+VNGHRA.MD Cathedral
+VNGK17.MD Barracks, 17th century
+VNGK18.MD Barracks, 18th century
+VNGKON.MD Stable
+VNGKUZ.MD Blacksmith
+VNGKPND.MD Mounted Pandur
+VNGKVL.MD Kuruc
+VNGPND.MD Pandur 
+VNGSER.MD Hajduk
+SWZAKA.MD Academy
+SWZALB.MD Halberdier
+SWZART.MD Artillery Depot
+SWZCEN.MD Town Hall
+SWZDIP.MD Diplomatic Centre
+SWZDOM.MD Dwelling
+SWZEGR.MD Chasseur
+SWZHRA.MD Cathedral
+SWZK17.MD Barracks, 17th century
+SWZK18.MD Barracks, 18th century
+SWZKEGR.MD Mounted Chasseur
+SWZKON.MD Stable
+SWZKUZ.MD Blacksmith
+SWZMCH.MD Swordsman
+SWZS15.MD Harquebusier
+TURBED.MD Bedouin
+PUS4.MD 120mm Coastal Gun
+FANG.MD The Red Fang
+HERO.MD Commander
+SCH.MD Schooner
+RIF.MD Rifleman
+TRANS.MD Transport Ship

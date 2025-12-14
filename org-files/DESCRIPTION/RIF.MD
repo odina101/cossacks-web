@@ -1,0 +1,1 @@
+Infantryman armed with a rifled musket. Very strong shot, but weak in hand-to-hand combat. Takes a very long time to reload.

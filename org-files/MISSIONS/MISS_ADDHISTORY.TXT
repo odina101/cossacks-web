@@ -1,0 +1,20 @@
+// Nation Names
+RNK_NN_Alliance Austro-Russian Alliance
+RNK_NN_Turkestan Turkish troops controlled by the player
+RNK_NN_UsufPasha Yusuf Pasha's Turks
+// Hint
+RNK_P_Scout A scout has spotted enemy troops!
+RNK_P_TK The Tyrgu Kukulie camp has discovered the enemy's approach!
+RNK_P_KM The Kryngu Meilor camp has discovered the enemy's approach!
+RNK_R_KM Yusuf Pasha has sent reinforcements to the player!
+RNK_R_F The flag of the Tyrgu Kukulie camp has been captured by the Russians!
+
+MK_GOS The commander has left the HQ zone.
+
+MK_R_SpainCroat Reinforcements have arrived.
+MK_R_Dutch The Spanish HQ has been destroyed.
+MK_R_Spain The town hall has been destroyed.
+
+NPT_NN_Guard Newport Defenders
+
+

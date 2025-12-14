@@ -1,0 +1,145 @@
+#BRIEFING faces 0
+{Q}	Treasure Island
+ 
+You must find hidden treasures on the island.
+In your pursuit of gold you are opposed by an alliance between a Spanish grandee and an English lord.
+!You will lose if your adversary finds the treasure before you do, or if your troops are eliminated.
+ 
+Current objectives:
+{W}	Capture an English worker.
+{I}	~Capture an English worker.~
+{A}	Take the main hero and a group of workers to the island and find the treasure.
+
+#Allert0 missions\pictures\austria 10
+After a long, fruitless search for the pirates who destroyed the English and Spanish convoy and captured a large amount of gold, many English lords and Spanish grandees refused to continue to seek the treasures. 
+However, the other day a dirty plebeian in one of the brothels claimed there were huge treasures hidden on an unnamed island.
+He said he was a sailor, a crewman on one of three beautiful ships whose holds were full of gold. When passing by an unnamed island, a riot broke out on one of the frigates. The ships were seriously damaged and could no longer carry the gold. The greater part of the treasures was taken ashore and buried. He claims to know where it lies.
+Alas, you are not the only one who has heard this story. Two of your rivals also claim the gold. 
+
+#MarketLost missions\pictures\austria 10
+You have lost the market. You cannot trade with your ally.
+
+#MarketBuilt missions\pictures\austria 10
+You have built a market. You can trade with your ally.
+Select the market to hire a merchant.
+
+
+
+#MerchantPrice  missions\pictures\austria 10
+Welcome to the market.
+A merchant will cost you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+
+#MarketMainMenu missions\pictures\austria 10
+Do you want to hire a merchant?
+
+#MerchantMainMenu missions\pictures\austria 10
+What can I do for you, my lord?
+
+#MerchantInfoMenu missions\pictures\austria 10
+What exactly are you interested in, my lord?
+
+#Buiznes missions\pictures\austria 10
+The amount of packhorses is: %d
+A new packhorse will cost you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+The packhorses can carry: 
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+A successful deal will bring you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+
+#MakeOboz missions\pictures\austria 10
+Do you want to create a packhorse?
+
+#MerchantSucsess missions\pictures\austria 10
+I salute you, my lord.
+My trip has ended in success.
+As a result you have received:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+
+#CancelTrading missions\pictures\austria 10
+I have loaded the packhorses and set off to trade.
+Do you want to cancel the trip?
+
+#KaravanEmpty missions\pictures\austria 10
+I can't work without packhorses.
+
+#MerchantDie missions\pictures\austria 10
+You have lost the merchant. Select the market to hire a new merchant.
+
+
+
+#LittleMoney missions\pictures\austria 10
+You don't have enough resources!
+
+#Defeat missions\pictures\austria 10
+You have lost all your troops.
+
+#Victory missions\pictures\austria 10
+Congratulations! You have defeated the Danes.
+Victory!
+
+#entry missions\pictures\austria 10
+...
+
+#ai0_entry missions\pictures\austria 10
+
+
+There's an English base not far from your location.
+They have recently suffered heavy losses. This is your chance to capture their worker and even destroy them with a single blow.
+
+#ai0_surrender missions\pictures\austria 10
+You are a dangerous opponent. We don't want to die. Our commander has decided to surrender.
+
+
+
+#eng_capture missions\pictures\austria 10
+Congratulations.
+! You have captured the English. Try to develop their nation. English peasants mine resources much better than yours.
+
+#eng_lost missions\pictures\austria 10
+You have lost the opportunity to develop the English nation. Try to capture another peasant or town hall.
+
+#victory missions\pictures\austria 10
+Congratulations! You have accomplished your task. Victory!
+
+#ai2_death missions\pictures\austria 10
+Well done! Spain has been defeated!
+
+
+
+#ai3_death missions\pictures\austria 10
+
+
+England has been defeated. Victory is close!
+
+#defeat missions\pictures\austria 10
+It is too difficult for you. Try again.
+
+
+#fishers_help missions\pictures\austria 10
+Help us get rid of the brigands and we'll give you our shipyards ...
+
+#fishers_happy missions\pictures\austria 10
+Thank you very much. You have defeated those miserable robbers. Our shipyards and fishing boats are at your disposal.
+
+#search_treasure missions\pictures\austria 10
+Do you want to search for the treasures here?
+
+#no_diggers missions\pictures\austria 10
+You don't have diggers.
+
+#little_diggers  missions\pictures\austria 10
+It would be best to have about 20 diggers. You have less.
+Do you want to start digging?
+
+#search_false missions\pictures\austria 10
+We searched everywhere but found nothing. Try to search in a different place.
+
+#find_treasure missions\pictures\austria 10
+Congratulations! You have found the treasures!
+
+#treasure_empty missions\pictures\austria 10
+
+
+There are no treasures here! Die, you dirty liar!

@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+Swedish Frontier
+Demolish the Swedish town hall. 
+!You will lose if your main character dies.
+
+Current objective:
+  Hire an army in the allied fortress and prepare to assault Swedish fortifications.
+#PAGE1 Missions\Pictures\austria 42
+The Saxon army under the command of its king has crossed the Swedish border and is preparing for a large-scale offensive. However, the local citizens refuse to yield to the king's will. They are conducting raids and robbing wagon trains, assaulting small squads and poisoning the water. You must quell the revolt in this region and destroy the Swedish town hall to the north-east. If need be, you can hire cavalry and artillery at our allies' fortress.           
+#PAGE2 Missions\Pictures\austria 18
+To hire an army you will need gold that you can earn by capturing workers in the neighbouring villages. You can sell these workers as slaves for 300 pieces of gold each.  
+#PAGE3 Missions\Pictures\mord_tut 34
+Welcome to our town. If you have enough money, you can get everything you need here. 
+#PAGE4 Missions\Pictures\austria 34 
+In our town you will find:
+#PAGE5 Missions\Pictures\austria 34
+Is there anything else you'd like to buy? 
+#PAGE6 Missions\Pictures\austria 34
+Sir! You cannot afford this. You need another %d in gold.
+#PAGE7 Missions\Pictures\mord_n 8
+Sir! Bring the captured workers to the tent for me to examine and count them. Then you will get the money you were promised. 
+#PAGE8 Missions\Pictures\austria 30
+A nice booty. You have captured %d workers. So, as we agreed - %d in gold is yours. 
+#PAGE9 Missions\Pictures\mord_tut 15
+You have captured the village and picked 500 in gold from the locals' pockets.
+#PAGE10 Missions\Pictures\mord_d 6
+The village guards have been wiped out! Having searched the bodies of the village's defenders, you have collected 700 in gold.
+#PAGE11 Missions\Pictures\mord3_tut 14
+You have captured an enemy island and discovered a great deal of gold at the storehouse!
+#PAGE12 Missions\Pictures\england 28
+You have annihilated the bandits and discovered 3,000 in gold in a chest. 
+#PAGE13 Missions\Pictures\austria 43
+You were killed in battle. Mission failed!
+#PAGE14 Missions\Pictures\austria 31
+You have quelled the revolt and demolished the town hall! Now nothing prevents the Saxon army from starting the offensive. 

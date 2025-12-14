@@ -1,0 +1,59 @@
+#BRIEFING faces 0
+The Rhine
+
+!You will lose if your troops are destroyed, the packhorses are captured or you miss your opportunity.
+
+Current objectives:
+{A}	Accumulate 100,000 food, 20,000 iron and 20,000 coal.
+{B}	~Accumulate 100,000 food, 20,000 iron and 20,000 coal.~
+{C}	Deliver the packhorses to the ship.
+
+#PAGE1 Missions\Pictures\mord2_tut 0
+The army of Saxon Prince Frederick Augustus has formed an alliance with Austria in the war against France. Your newly formed company has been assigned to take part in the campaign. 
+You will cover the flank of the victorious Saxon army and keep it supplied with ammunition and food. To that end you must take an economically and militarily advantageous area and build up a military base, i.e. a barracks, a wooden fort and a stable. You must outfit a small mounted squad to patrol the roads. Light cavalry units are best suited to this task. 
+Be careful, the French are insidious. Be prepared to repel their attacks any time.
+You have been assigned to supply the Saxon army with food and ammunition.
+
+#PAGE2 Missions\Pictures\mord2_tut 13
+Accumulate 100,000 food and 20,000 units each of coal and iron. Prepare the packhorses and deliver them to the transport.
+Hurry, you are short of time!
+ 
+#PAGE3  Missions\Pictures\mord2_tut 21
+Your troops have been defeated.
+You have lost.
+
+#PAGE4  Missions\Pictures\austria 4
+You have accumulated the necessary amount of resources.
+Deliver the packhorses to the storehouse.
+
+#PAGE5  Missions\Pictures\austria 14
+Your time is up.
+You have lost.
+
+#PAGE6  Missions\Pictures\austria 0
+Deliver the packhorses to the transport.
+Be careful! French cavalry squads patrol the woods.
+
+#PAGE7  Missions\Pictures\mord_d 4
+You have lost the packhorses. Now the resources won't be delivered.
+You have lost.
+
+#PAGE8  Missions\Pictures\faces 21
+You have ruined the French outpost. 
+Searching the outpost you have found some ammunition.
+
+#PAGE9  Missions\Pictures\faces 21
+You have ruined the French outpost. 
+Searching the outpost you have found some ammunition.
+
+#PAGE10  Missions\Pictures\mord_d 4
+Half of the time has elapsed. Hurry!
+
+#PAGE11  Missions\Pictures\mord_d 4
+Three quarters of the time have elapsed.
+
+#PAGE12  Missions\Pictures\mord_d 4
+Hurry, you are running out of time!
+
+#PAGE14  Missions\Pictures\austria 8
+Very good! You have performed the task! The command has recommended you for decoration!

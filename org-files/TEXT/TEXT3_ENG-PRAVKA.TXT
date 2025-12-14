@@ -1,0 +1,4 @@
+GONATT Go and attack everybody on the way.
+MISSOBJ Mission Objectives
+TUTORIAL Next Issue
+UNILIMIT Unit limit has been reached!

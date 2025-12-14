@@ -1,0 +1,8 @@
+#ZoneVictory0 Missions\Pictures\austria 6
+    You have captured the strategic zones, enemy camp is panic-stricken...you are victorious!!!
+#ZoneVictory1 Missions\Pictures\faces 10
+    Enemy has captured the strategic zones. Your army flees the battlefield in panic. You lose...
+#ArmyLost0 Missions\Pictures\faces 10
+    You have lost your army. The remnants of your people took to their heels out of harm's way... You lose...
+#ArmyLost1 Missions\Pictures\austria 6
+    Victory!!! You have smashed the army of the worthless parliament. Long live the King! Hurray!!! 

@@ -1,0 +1,5 @@
+CANT_CHECK[%s] You do not have access to the clan server. It is impossible to check whether you are a member of the [%s] clan. Use the "Internet game set up" program to check your HTTP protocol settings. You can adjust the required settings by launching the Internet Explorer, and selecting Tools->Internet Options->Connections->LAN Settings from the menu. If this does not help, please contact the leader of your clan and ask him/her to send a registration request to support@gsc-game.kiev.ua.
+NO_CLAN_MEMBER_[%s] You are not a member of the [%s] clan.
+#F12LOCK F12 is locked for %ds
+#ALTTABDEFEAT You have been defeated, because the Cossacks multiplayer game has been inactive for more than 10s.
+#LOOKOPT You cannot look at the menu for more than 15-20s at a time. You can look at the menu again after 3 minutes.

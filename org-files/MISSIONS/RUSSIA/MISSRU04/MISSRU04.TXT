@@ -1,0 +1,21 @@
+#BRIEFING faces 0
+{A}Karelia and Ingermanland
+
+Eliminate all defenders of the Swedish fortress to win.
+You will lose if your hero dies or if you don't fulfill your tasks within the time limits.
+#PAGE1 Missions\Pictures\mord_tut 8
+  Build a base as soon as possible. Your goal is to create a strong army capable of coping with the Swedes. Then you should capture or destroy the enemy fortress as fast as you can. Be careful - if the Swedes learn of your plans, they will do their best to stop you.
+#PAGE2 Missions\Pictures\russia 8
+  You are as good as dead, Russian swine.
+#PAGE3 Missions\Pictures\russia 23
+  Hurry up! Half of the time assigned for your assault is up.
+#PAGE4 Missions\Pictures\russia 22
+  Be quick, you are almost out of time !
+#PAGE5 Missions\Pictures\russia 29
+  You did not make it within the time limit. Mission failed!
+#PAGE6 Missions\Pictures\russia 14
+  You have died in battle. Russia will remember your feat!
+#PAGE6A Missions\Pictures\russia 14
+  You have died of starvation. What a horrible death ... Next time, make sure you have enough food.
+#PAGE7 Missions\Pictures\mord2_tut 23
+  Excellent! All the guards are down and the fortress is yours! It was a gruelling victory.

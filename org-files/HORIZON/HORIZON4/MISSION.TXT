@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+
+{A}Conquistadors
+You will win if you destroy the enemy forces.
+You will lose if your troops are killed, or if the enemy reaches the summit.
+
+#P1 Missions\Pictures\austria 10
+Major enemy forces will soon pass this way to set their camp up north. They believe we have committed all our forces to fortify Laretia and will not expect a counterattack here.
+Prepare an ambush and eliminate them when they enter the canyon. Do not let them get to the top of the hill near your camp. Some can be allowed to escape, but not too many. You have a couple of minutes to prepare until they arrive.
+
+#P2 Missions\Pictures\mord2_tut 5
+Do not let the enemy scouts see you. If you are detected too early the enemy forces will surely change their route to avoid the canyon.
+
+#P3 Missions\Pictures\austria 15
+Enemy column has been informed of your presence! They will probably avoid the canyon now.
+
+#P4 Missions\Pictures\austria 43
+You have lost all your men!
+
+#P5 Missions\Pictures\mord_d 0
+It looks like your ambush was not spotted. The enemy column is going to pass through the canyon any moment now.
+
+#P6 Missions\Pictures\austria 8
+The Spanish army has suffered heavy losses and is not longer a threat. They are retreating from the battle. What a glorious victory!
+
+#P7 Missions\Pictures\austria 6
+Too much enemy troops have made it through. You have failed.

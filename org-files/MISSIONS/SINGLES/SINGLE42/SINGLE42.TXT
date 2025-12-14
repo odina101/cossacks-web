@@ -1,0 +1,12 @@
+#BRIEFING faces 0
+{A} Tunnels
+
+Current objectives:
+{B} Neutralise four opponents.
+
+#PAGE0 Missions\Pictures\poland 7
+We are surrounded and four strong opponents are warring against us! But the advantage is on your side. Use secret tunnels to attack your opponents from the rear. 
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

@@ -1,0 +1,63 @@
+#BRIEFING faces 0
+{A}	A War of Alliances
+ 
+Your task is to clear the peninsula of English and Swedes. In addition, you need to protect your ally, Prussia, from brigands and the Anglo-Swedish alliance. 
+You will lose if your main hero dies or your ally loses important objects. 
+Only your main hero can talk to allies!
+ 
+Current objectives:
+{B}	Clear the northern peninsula of the Swedes and English.
+{C}	~Clear the northern peninsula of the Swedes and English.~
+{D}	Destroy the camp of brigands harassing your ally in the west.
+{E}	~Destroy the camp of brigands harassing your ally in the west.~
+{K}	Reach the fort of your ally in the east.
+{L}	~Reach the fort of your ally in the east.~
+{F}	Blow up the Swedish shipyard whose ships are attacking your ally in the east.
+{G}	~Blow up the Swedish shipyard whose ships are attacking your ally in the east.~
+
+#PAGE0AA Missions\Pictures\ukraine 14
+Your task is to eliminate the English and Swedes in the north! However, your French workers know nothing about farming. Thus, your ally offers you the fort, which holds a supply of food. Protect it from the brigands!   
+
+#PAGE0A Missions\Pictures\faces 
+Your workers can't build a stable. Call on your ally in the east to train them.
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You have destroyed the brigands' camp and found %d gold. 
+
+#PAGE1 Missions\Pictures\faces 4
+You have been killed in action!
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death.
+
+#PAGE2 Missions\Pictures\poland 4
+You have found %d gold among the brigands' loot.
+
+#PAGE3 Missions\Pictures\mord2_tut 13
+Good afternoon, sir! I need to train my people in farming and stable building.
+
+#PAGE4 Missions\Pictures\faces 6
+Good afternoon, Commander! I shall fetch the instructor to train your people immediately. But, please, help us fortify the fort. I will hand over all the important objects to you. To stop the Swedish attacks, you need to destroy the shipyard in the north.
+
+#PAGE5 Missions\Pictures\faces 6
+I have prepared the hussar for you. He will train your people! Take him to your workers! 
+
+#PAGE6 Missions\Pictures\mord2_tut 5
+The hussar has passed the information on! 
+
+#PAGE7 Missions\Pictures\England 5
+Congratulations! You have destroyed the Swedish shipyard and they won't attack your eastern ally.
+
+
+
+#PAGE8 Missions\Pictures\austria 6
+Congratulations! You have cleared the peninsula of the English and Swedes!
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have accomplished all the tasks and won!
+
+#PAGE10  Missions\Pictures\mord_d 6
+You have failed to protect your ally in the west and lost!
+
+#PAGE11  Missions\Pictures\mord_d 6
+You have failed to protect your ally in the east and lost!

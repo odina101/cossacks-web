@@ -1,0 +1,31 @@
+#BRIEFING faces 0
+
+{A}The wrath of the king
+You will win if you survive the enemy siege!
+You will lose if your central Town Hall is captured or destroyed!
+
+#P0 Missions\Pictures\mord3_tut 7
+Laretia is under heavy attack. You cannot hope to stop the enemy alone this time. You should hold your position until reinforcements arrive.
+
+#P1 Missions\Pictures\mord_d 1
+Do not let the enemy destroy or capture the Town Hall in the city square. Our command staff, supplies, and refugees are in it!
+
+#P2 Missions\Pictures\mord2_tut 2
+This is only the first wave to test our defences. Scouts report at least a thousand more enemies approaching the shore on transports!
+
+#P3 Missions\Pictures\ukraine 27
+Another wave defeated. Elite enemy units are now approaching the island. Let's hope the reinforcements arrive in time.
+
+#P4 Missions\Pictures\mord2_tut 0
+Reinforcements have arrived! French forces along with some of our outlying forces have disembarked on the other side of the island and made their way here on foot. A French heavy cruiser has also arrived to the south!
+Drive the enemy forces off the island! Destory their Command Centre on the eastern island!
+
+#P4A Missions\Pictures\russia 27
+Keep an eye on the gold supply. We will need gold to operate our ships and take out the enemy headquarters.
+
+#P5 Missions\Pictures\mord_d 1
+You've lost your main Town Hall!
+
+#P6 Missions\Pictures\mord_tut 13
+Enemy headquarters have been demolished! The rest of the King's forces are in retreat.
+We have won a major victory today and showed the world the strength of our independent state thanks to your outstanding commanding skills!

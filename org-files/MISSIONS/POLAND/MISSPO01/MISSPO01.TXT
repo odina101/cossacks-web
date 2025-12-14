@@ -1,0 +1,182 @@
+#BRIEFING faces 0
+{A}Southern Province
+ 
+You will win as soon as you liberate the region from the bandits.
+You will lose if your main character dies.
+! Only the main hero can talk to some characters.
+ 
+  	
+{B}Win back the Polish frontier fortress from the Ukrainians.
+{C}~Win back the Polish frontier fortress from the Ukrainians.~
+{D}Get back to the fort.
+{E}~Get back to the fort.~
+{F}Reach your land.
+{G}~Reach your land.~
+{H}Free your estate from the strangers. To do this, eliminate all violent peasants and demolish town halls and mines.
+#AWARD Missions\Pictures\poland 18
+  Battle experience allows you to achieve a higher level of mastery.
+#PAGE0 Missions\Pictures\poland 23
+  On the map you will see that there is a little village in the east. There you might recruit volunteers for your troops.
+#PAGE1 Missions\Pictures\poland 0
+  You approach a group of pikemen and address them, "Soldiers! Fortune smiles upon you by letting you join my army. Pledge your allegiance to me, do not keep me waiting too long!"
+#PAGE1A Missions\Pictures\poland 1
+  It is hardly wise to face an enemy for no reason whatsoever. But, if your highly esteemed lordship will pay us 50 pieces of gold, we shall take the oath.
+#PAGE1B Missions\Pictures\poland 1
+  Hail our generous master! We are ready to serve you in faith and truth!
+#PAGE1C Missions\Pictures\poland 1
+  Stand firm then, miser! You may find yourself impaled! Seize him, my friends!
+#PAGE1D Missions\Pictures\poland 1
+  Alas, poor gentlemen are far from rare these days. Return when you have more money.
+#PAGE1E Missions\Pictures\poland 1
+  Oh! It's you again! So, have you brought 50 pieces of gold? 
+#PAGE2 Missions\Pictures\russia2 0
+  My friends! Seize him ... and be done with him!
+#PAGE3 Missions\Pictures\poland 2
+  You approach a village. One of the villagers addresses you, "Nobel master, help us! The bandits are about to burst into the village. Protect us, do not let us perish!"
+#PAGE3A Missions\Pictures\poland 2
+  Thank you, my lord! The garrison is now under your command.
+#PAGE3B Missions\Pictures\poland 2
+  We are poor peasants. We have nothing to reward our master with. But you must not let your people down! Help us, I beseech you! Do not let us die at the hands of infidels! Please grant us leniency!
+#PAGE3C Missions\Pictures\poland 2
+  Oh woe, woe! The devil take you, heartless master!
+#PAGE3D Missions\Pictures\poland 15
+  You have defeated the bandits and grateful peasants have filled up your bags with much food.
+#PAGE4 Missions\Pictures\poland 10
+  Look, here's a rich man coming our way. Come on! We will have gold for his head!
+#PAGE5 Missions\Pictures\poland 4
+  You find loot in the bandits' camp. Your soldiers believe that part of the booty is theirs by rights. What is your reply?
+#PAGE5A Missions\Pictures\poland 1
+  Hurray! Hail our generous master! 
+#PAGE5B Missions\Pictures\poland 1
+  See here the soldiers who shed their blood, and see here their master, who steals their reward! We are returning to our village.
+#PAGE5C Missions\Pictures\poland 4
+  You find loot in the bandits' camp. 
+#PAGE6 Missions\Pictures\poland 5
+  Now who do we have here! He comes to bring us gold! Rob the man, and finish him!
+#PAGE6A Missions\Pictures\poland 5
+  Good sir, now here's an offer - you give us gold, and we shall serve you!
+#PAGE6B Missions\Pictures\poland 5
+  You are a miser! In that case, you shall die! 
+#PAGE6C Missions\Pictures\poland 5
+  Good money earns good service! We are yours to command!
+#PAGE7 Missions\Pictures\poland 6
+  It is suspiciously quiet in this forest ...
+#PAGE7A Missions\Pictures\faces 15
+  You find a hidden chest full of loot in the forest.
+#PAGE8 Missions\Pictures\poland 7
+  You hear screams for help coming from the direction of the church.
+#PAGE8A Missions\Pictures\poland 16
+  Help me, noble lord! The infidels intend to burn the church! Do not allow them thus to desecrate this holy site!
+#PAGE8B Missions\Pictures\poland 16
+  I am grateful to you for saving the church, my son. If ever you need help, come to the church and I shall heal your wounds.
+#PAGE8C Missions\Pictures\poland 16
+  Thank you for saving my life, son ... Sadly though, the church was nonetheless destroyed! So go, leave me to my grief.
+#PAGE9 Missions\Pictures\poland 8
+  You meet a merchant. "Noble lord! What luck to meet you here! I am going to the village ..., but there are many bandits around. Will you protect me from them?"
+#PAGE9A Missions\Pictures\poland 8
+  In truth, you are a noble gentleman! Let us depart immediately!
+#PAGE9B Missions\Pictures\poland 8
+  I am prepared to pay you 400 in gold. It is a very large sum!
+#PAGE9C Missions\Pictures\poland 8
+  Wait, sir! Where are you going? I shall pay you! Shall we say ... 400 in gold. That's a substantial sum of money!
+#PAGE9D Missions\Pictures\poland 8
+  Guards, fire! Kill the damned robber!
+#PAGE9E Missions\Pictures\poland 8
+  Very well then, 700. But that is my last offer. Are we agreed?					
+#PAGE9F Missions\Pictures\poland 8
+  Very well then, shall we set out? I will pay you your gold as soon as I have safely delivered my goods to the village.
+#PAGE9G Missions\Pictures\poland 8
+  I am ruined! My goods have been spoilt! Curse those robbers! Curse the guards! I am a broken man ... a beggar!!!
+#PAGE9H Missions\Pictures\poland 8
+  You, sir, are a true hero! Thank you for your help, and godspeed!
+#PAGE9J Missions\Pictures\poland 8
+  My goods are safe ... I thank you for your help. Here is your gold, as we agreed.
+#PAGE9K Missions\Pictures\poland 8
+  I have lost part of my goods, but what remains is sufficient for a new beginning. Thank you for your help, and good luck!
+#PAGE9L Missions\Pictures\poland 8
+  I have lost part of my goods, therefore our agreement has not been fulfilled. Your lack of skill has cost me dearly!
+#PAGE9M Missions\Pictures\poland 8
+  All right, all right. Be calm. I will pay you ... 200 in gold. In spite of my tremendous losses!
+#PAGE9N Missions\Pictures\faces 5
+  You have sold the goods to the local merchant for 50 pieces of gold per packhorse.
+#PAGE10 Missions\Pictures\poland 9
+  You were killed in the unequal fight.
+#PAGE10A Missions\Pictures\poland 21
+  You starved to death.
+#PAGE11 Missions\Pictures\russia 29
+  The ferry has sunk! You cannot cross the river. Mission failed.
+#PAGE11A Missions\Pictures\england 5
+  All the peasants were killed. You cannot find the estate. Mission failed.
+#PAGE11B Missions\Pictures\poland 22
+  The howitzer has been destroyed! You cannot storm the pirate base. Mission failed.
+#PAGE11C Missions\Pictures\faces 10
+  The commander of the fort has been killed. You cannot repel the attack on the fortress without him. Mission failed.
+#PAGE12 Missions\Pictures\poland 11
+  The village elder addresses you. "Sir! The bandits have recently captured a gold mine in the east. Win it back and I shall reward you generously."
+#PAGE12A Missions\Pictures\mord_tut 8
+  You have recaptured the mine from the bandits.
+#PAGE12B Missions\Pictures\poland 11
+  Thank you for saving our mine, kind sir! Accept this gold as a token of our gratitude.
+#PAGE12C Missions\Pictures\mord_tut 8
+  The bandits have captured and destroyed the mine you had won back.
+#PAGE13 Missions\Pictures\poland 12
+  You meet the commander of the fort. "Welcome to my stronghold, sir! Ukrainian cossacks are behaving outrageously in the east, which is why I suggest you should not go there without an army to back you up."
+#PAGE13A Missions\Pictures\faces 10
+  The commander of the fort has been killed. You cannot accomplish your mission without him. Mission failed.
+#PAGE13B Missions\Pictures\faces 10
+  You return to the fort to find the commander absent. One of the soldiers tells you he has left for Warsaw on personal business and will be back in a year.
+#PAGE14 Missions\Pictures\poland 12
+  My barracks is at your service, sir. What can I do for you?
+#PAGE14A Missions\Pictures\poland 12
+  I shall start recruitment immediately. Wait, the squad will be ready soon.
+#PAGE14B Missions\Pictures\poland 12
+  Now your soldiers feel stronger!
+#PAGE14C Missions\Pictures\poland 12
+  Oh... You have cockroaches in your pockets. Sorry, lad, there's nothing I can do for you.
+#PAGE15 Missions\Pictures\poland 14
+  You search the cossacks' tavern and find their loot: %d in gold. Doing away with the innkeeper, you burn the dirty den to ashes.
+#PAGE15A Missions\Pictures\poland 13
+  You have found gold and food in the bandits' camp.
+#PAGE15B Missions\Pictures\poland 13
+  You have ransacked the outraged cossacks' camp and found %d in gold and %d of food.
+#PAGE15C Missions\Pictures\poland 20
+  Liberating the area from the gang of tramps, you have captured and ransacked their packhorses. The loot is %d in gold and %d of food.
+#PAGE15D Missions\Pictures\poland 13
+  In the bandits' camp, you find 500 pieces of gold and some food.
+#PAGE16 Missions\Pictures\poland 22
+  Excellent! You have captured the howitzer! Do not lose it, artillery is of great value in this savage area.
+#PAGE16A Missions\Pictures\mord_d 3
+  In the captured storehouse, you find %d in gold and enough building materials to erect your own estate.
+#PAGE16B Missions\Pictures\mord2_tut 23
+  The fortress has been captured! Return to the fort to tell the commander of your success.
+#PAGE16C Missions\Pictures\poland 12
+  Welcome, sir! Congratulations on your victory! I informed the King of your achievements and he sent this letter for you:
+#PAGE16C Missions\Pictures\faces 1
+  "My faithful subject! I thank you for your excellent service. As a reward, I give you the lands in the south for your own. The peasants there are already aware that they will be serving a new master." 
+  It is signed by the King of Poland.
+#PAGE16C Missions\Pictures\poland 12
+  You wish to get across? I doubt there is any man who would take you to the other side right now. There are too many pirates in the gulf. The only way to get across is by capturing the pirates' transport.
+#PAGE17 Missions\Pictures\russia 34
+  You have captured the pirates' ferry. Hurry to the other side before it is sunk.
+#PAGE17A Missions\Pictures\mord_d 3
+  You have captured the storehouse and found 500 pieces of gold and some ammunition.
+#PAGE18 Missions\Pictures\poland 17
+  Good day to you, sir! We were ordered to serve you! But what troubled times are these we live in ... The Turks are conducting outrageous operations on your land ...
+#PAGE18 Missions\Pictures\poland 0
+  Lay aside your fear, rabble. From now on, I am your master. And I will free my land from the foreign scum.
+#PAGE19 Missions\Pictures\mord_d 3
+  You have captured the storehouse and found 10,000 pieces of gold and some ammunition.
+#PAGE20 Missions\Pictures\poland 13
+  You have found 2,000 in gold and quite a substantial amount of food in the pirates' camp.
+#PAGE21 Missions\Pictures\poland 18
+  Congratulations! You have driven the strangers off your estate!
+#PAGE22 Missions\Pictures\poland 5
+ Look out, they have a cannon! They will break down the wall! Slash them, kill them, take the cannon from them!
+#OTST1 Missions\Pictures\faces 14
+ Your objective is to regain the fortress captured by the Ukrainians. Unfortunately, your squad is too small to cope with this. You can reinforce your troops in the Polish fort. Money to hire a squad can be earned by plundering camps of bandits rampaging in this area.
+#OTST2 Missions\Pictures\faces 14
+  Capture a transport from the pirate base. Now that you have a howitzer, you can destroy the wall that blocks the way to the pirates' port. Take into account that only your main character can capture the transport.
+#OTST3 Missions\Pictures\faces 14
+  You have captured a pirate ferry. Cross to the other bank, where you can start building up your estate.
+#OTST4 Missions\Pictures\faces 14
+  Eliminate the violent peasants and destroy mines and town halls to drive the Turks from your domain.

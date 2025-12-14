@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+{A}Danish Frontier
+ 
+You win if the Danish army is annihilated.
+You lose if the artillery depot is destroyed.
+ 
+#PAGE0 Missions\Pictures\austria 18
+ The cities are engulfed by unrest, an upheaval is to be expected any minute ... and the Danes are bound to have a scheme of their own.
+ Create a powerful garrison to maintain order in the Czech towns and guard the Danish frontier.
+ #PAGE1 Missions\Pictures\austria 20
+ The miners have mutinied!
+#PAGE2 Missions\Pictures\austria 19
+  There is a riot in the fishing village!
+#PAGE3 Missions\Pictures\austria 19
+  The rebels have incited the citizens of the central town to an uprising!
+#PAGE4 Missions\Pictures\austria 19
+  An uprising has started in another town!
+#PAGE5 Missions\Pictures\austria 20
+  There is a riot in the quarry!
+#PAGE6 Missions\Pictures\mord_tut 9
+  The Danes offer you an armistice. Do you accept?
+#PAGE7 Missions\Pictures\austria 21
+  Your troops have approached the bridge. The Danish frontier guards address you. "According to the terms of the armistice, this side of the river is Danish territory. Any intrusion into these lands will lead to immediate war."
+#PAGE8 Missions\Pictures\austria 2
+  You have attacked us! This is war!
+#PAGE9 Missions\Pictures\austria 23
+  The artillery depot has been destroyed. You lose.
+#PAGE10 Missions\Pictures\austria 6
+  The Danish army has been defeated! You are victorious!
+#PAGE11 Missions\Pictures\ukraine 16
+  The Danes have declared war on you! They may attack at any moment.
+#PAGE12 Missions\Pictures\austria 25
+  The riot in the shipyard has been suppressed. The sailors have acknowledged your power.
+#PAGE13 Missions\Pictures\austria 24
+  You have won back the church from the rebels.

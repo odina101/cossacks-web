@@ -1,0 +1,304 @@
+STONE1 4
+Sound\ResKam1.wav
+Sound\ResKam2.wav
+Sound\ResKam3.wav
+Sound\ResKam4.wav
+
+TREE1 4
+Sound\ResDer1.wav
+Sound\ResDer2.wav
+Sound\ResDer3.wav
+Sound\ResDer4.wav
+
+BULBIG 5
+Sound\VodaVzryv.wav
+Sound\VodaVzryv.wav
+Sound\VodaVzryv.wav
+Sound\VodaVzryv.wav
+Sound\VodaVzryv.wav
+
+DEASE 6
+Sound\UnSmert1.wav
+Sound\UnSmert2.wav
+Sound\UnSmert3.wav
+Sound\UnSmert1.wav
+Sound\UnSmert2.wav
+Sound\UnSmert3.wav
+
+ON_KATAPULT 1
+Sound\Vorota.wav
+
+SEA 5
+Sound\More1.wav
+Sound\More2.wav
+Sound\More3.wav
+Sound\More4.wav
+Sound\More5.wav
+
+FIELD 16
+Sound\Veter.wav
+Sound\Ptica0.wav
+Sound\Ptica1.wav
+Sound\Ptica2.wav
+Sound\Ptica3.wav
+Sound\Ptica4.wav
+Sound\Ptica5.wav
+Sound\Ptica6.wav
+Sound\Ptica7.wav
+Sound\Ptica8.wav
+Sound\Ptica9.wav
+Sound\PticaA.wav
+Sound\PticaB.wav
+Sound\PticaC.wav
+Sound\PticaD.wav
+Sound\PticaE.wav
+
+WIND 1
+Sound\Veter.wav
+
+KUZSELECT 1
+Sound\ZdKuznica.wav
+
+STRELA1 5
+Sound\LukNorm.wav
+Sound\LukNorm.wav
+Sound\LukNorm.wav
+Sound\LukNorm.wav
+Sound\LukNorm.wav
+STRELA2 5
+Sound\LukOgon.wav
+Sound\LukOgon.wav
+Sound\LukOgon.wav
+Sound\LukOgon.wav
+Sound\LukOgon.wav
+
+CERCOVA 1
+Sound\ZdCerkov1.wav
+
+CERCOV2 1
+Sound\ZdCerkov2.wav
+
+CENTER1 1
+Sound\ZdGorCentr.wav
+FIRE1 4
+DANGER
+Sound\Ogon1.wav
+Sound\Ogon2.wav
+Sound\Ogon1.wav
+Sound\Ogon2.wav
+
+RINOK1 1
+Sound\ZdRynok.wav
+
+PUSVIS1 8
+DANGER
+Sound\Pushka1.wav
+Sound\Pushka1.wav
+Sound\Pushka1.wav
+Sound\Pushka1.wav
+Sound\Pushka1.wav
+Sound\Pushka1.wav
+Sound\Pushka1.wav
+Sound\Pushka1.wav
+KORVIS1 8
+DANGER
+Sound\Pushka2.wav
+Sound\Pushka2.wav
+Sound\Pushka2.wav
+Sound\Pushka2.wav
+Sound\Pushka2.wav
+Sound\Pushka2.wav
+Sound\Pushka2.wav
+Sound\Pushka2.wav
+PUSKAR1 8
+DANGER
+Sound\Pushka3.wav
+Sound\Pushka3.wav
+Sound\Pushka3.wav
+Sound\Pushka3.wav
+Sound\Pushka3.wav
+Sound\Pushka3.wav
+Sound\Pushka3.wav
+Sound\Pushka3.wav
+MORVIS1 15
+DANGER
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+Sound\PushkaVzryv.wav
+VZRIV1 8
+DANGER
+Sound\MortiraVzryv1.wav
+Sound\MortiraVzryv2.wav
+Sound\MortiraVzryv3.wav
+Sound\MortiraVzryv1.wav
+Sound\MortiraVzryv2.wav
+Sound\MortiraVzryv3.wav
+Sound\MortiraVzryv1.wav
+Sound\MortiraVzryv2.wav
+PSMVIS1 8
+DANGER
+Sound\Mnogostvol.wav
+Sound\Mnogostvol.wav
+Sound\Mnogostvol.wav
+Sound\Mnogostvol.wav
+Sound\Mnogostvol.wav
+Sound\Mnogostvol.wav
+Sound\Mnogostvol.wav
+Sound\Mnogostvol.wav
+PUSDEZ1 1
+DANGER
+Sound\PushkaSmert.wav
+MORDEZ1 1
+DANGER
+Sound\MortiraSmert.wav
+RUGIE1 15
+DANGER
+Sound\Mushket1.wav
+Sound\Mushket1.wav
+Sound\Mushket1.wav
+Sound\Mushket2.wav
+Sound\Mushket2.wav
+Sound\Mushket2.wav
+Sound\Mushket3.wav
+Sound\Mushket3.wav
+Sound\Mushket3.wav
+Sound\Mushket4.wav
+Sound\Mushket4.wav
+Sound\Mushket4.wav
+Sound\Mushket5.wav
+Sound\Mushket5.wav
+Sound\Mushket5.wav
+SABRE1 4
+DANGER
+Sound\Sabla1.wav
+Sound\Sabla2.wav
+Sound\Sabla3.wav
+Sound\Sabla4.wav
+ALARM 1
+Sound\Trevoga1.wav
+STABLE01 1
+Sound\ZdKonushna.wav
+MILL02 1
+Sound\ZdMelnica1.wav	
+MILL02T 1
+Sound\ZdMelnica2.wav
+
+MANHOR 3
+Sound\VsadnikSmert1.wav
+Sound\VsadnikSmert2.wav
+Sound\VsadnikSmert3.wav
+
+AKA 1
+Sound\ZdAkademia.wav
+
+SHAHTA 1
+Sound\ZdShahta.wav
+
+DIPLOM 1
+Sound\ZdDiplom.wav
+
+KA2ZET 1
+Sound\ZdKazarma.wav
+
+KAZAR18 1
+Sound\ZdKazarma18.wav
+
+KRESSELECT 1
+Sound\Krestjanin1.wav
+
+KRESPRIKAZ 2
+Sound\Krestjanin2.wav
+Sound\Krestjanin3.wav
+
+PIKAATTACK 3
+Sound\Pika1.wav
+Sound\Pika2.wav
+Sound\Pika3.wav
+
+STROIT 3
+Sound\Stroit1.wav
+Sound\Stroit2.wav
+Sound\Stroit3.wav
+
+PORT 1
+Sound\Port.wav
+
+SOBOR 1
+Sound\ZdCerkovRus.wav
+
+ARTDEPO 1
+Sound\ZdArtDepo.wav
+
+LOBEG 8
+Sound\Kopyta1.wav
+Sound\Kopyta2.wav
+Sound\Kopyta3.wav
+Sound\Kopyta4.wav
+Sound\Kopyta1.wav
+Sound\Kopyta2.wav
+Sound\Kopyta3.wav
+Sound\Kopyta4.wav
+
+OFICERCOM 1
+Sound\OffComanda1.wav
+
+BARABAN 1
+Sound\Baraban.wav
+
+BARTUR 1
+Sound\BarabanArab.wav
+
+VOLYNKA 1
+Sound\Volynka.wav
+
+SCROLL 3
+Sound\MenuSvitok1.wav
+Sound\MenuSvitok2.wav
+Sound\MenuSvitok3.wav
+
+SCROLLCLICK 1
+Sound\MenuSvitKlik.wav
+
+BUTTON 1
+Sound\MenuKnopka.wav
+
+BUTTONCLICK 1
+Sound\MenuKnopKlik.wav
+
+MINARET 1
+Sound\ZdMinaret.wav
+
+MECHET 1
+Sound\ZdMechet.wav
+
+BASHNA 1
+Sound\ZdBashnia.wav
+
+STANDART 1
+Sound\standartkey.wav
+
+START 1
+Sound\start.wav
+
+NOFREEMINES 1
+Sound\Shahtapoln.wav
+
+RIS 6
+Sound\Ris1.wav
+Sound\Ris2.wav
+Sound\Ris3.wav
+Sound\Ris4.wav
+Sound\Ris5.wav
+Sound\Ris6.wav

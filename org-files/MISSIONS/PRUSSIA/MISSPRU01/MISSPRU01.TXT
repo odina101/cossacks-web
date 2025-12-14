@@ -1,0 +1,48 @@
+#BRIEFING faces 0
+{A}Trade Route Battle
+
+Dislodge the Austrian forces and destroy the military fortifications on the island.
+! You will lose if your main hero dies.
+! You will lose if you lose all your packhorses.
+! Only the main hero can talk to some characters.
+
+Current objective:
+{A}You must find the village of your allies.
+{B}~You must find the village of your allies.~
+{C}Shatter the Austrian troops and fortifications on the island.
+{D}~Shatter the Austrian troops and fortifications on the island.~
+
+
+     
+#PAGE1 Missions\Pictures\england 23
+You have received a secret letter from King Frederick. "The Austrian troops have deployed on one of the river islands and are ransacking Prussian trade ships. You must get to our village located in the south-east. There you will assume command of the village garrison and fleet. Your task will be to drive the Austrians from the island."
+#PAGE2 Missions\Pictures\austria 10
+ You have been spotted by the Austrian frontier patrol.
+#PAGE3 Missions\Pictures\austria 43
+Sir! We have killed the head of the village... heaven only knows what we must expect from the locals now!
+#PAGE4 Missions\Pictures\england 20
+Sir, hurry. Austrian musketeers are in pursuit! 
+#PAGE5 Missions\Pictures\england 15
+I am the leader of this village and I suggest you get out of here. Soon Austrian troops will come here and I doubt that will make your position exactly enviable...
+#PAGE6 Missions\Pictures\shortest austria 20
+Wait, my man! Which way must I take to reach the Prussian village... the one close to the river?
+#PAGE7 Missions\Pictures\mord_n 0
+I'm going there myself. Follow me, I'll get you there.
+#PAGE8 Missions\Pictures\mord_n 3
+Finally you are here. Unload the packhorses in the storehouse and hurry, the Austrian troops will be here soon.
+#PAGE9 Missions\Pictures\austria 45
+The Austrians are very close. Take command of the village garrison and don't let them capture the storehouses containing ammunition.
+#PAGE10 Missions\Pictures\austria 25
+Wonderful! You have defeated the enemy troops. Now there's nobody to hamper your storm of the island!!!
+#PAGE11 Missions\Pictures\austria 37
+The enemy fortifications have been destroyed and the trade routes are open! You will be commended and promoted! 
+#PAGE12 Missions\Pictures\faces 4
+You have failed to accomplish the mission and perished!
+#PAGE13 Missions\Pictures\austria 19
+Sir! The locals have betrayed us... they have closed the village gate. They must have laid an ambush for us!
+#PAGE14 Missions\Pictures\england 13
+You there, in the canyon! My cut-throat friends are calling for your blood, and the devil knows they will not hesitate to cut you down. But I can save your miserable lives for just a couple of your packhorses. Agreed? 
+#PAGE15 Missions\Pictures\austria 12
+The packhorses have been unloaded!
+#PAGE20 Missions\Pictures\faces 4
+Sir! Our guide turned out to be a traitor. We'll proceed to the village on our own.

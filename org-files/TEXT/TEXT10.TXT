@@ -1,0 +1,16 @@
+HDOGUARD Use Unit as Guard
+HNOGUARD Cancel Guard Mode
+HPATROL Patrol
+__ARTCAP0 Cannons: %d/%d
+__ARTCAP1 Mortars: %d/%d
+__ARTCAP2 Howitzers: %d/%d
+__ARTCAP3 Multibarr.: %d/%d
+ATGHINT Attack Ground
+KICK Kick Player
+PROGSTR%s Loading ...
+INHIN1 Show top 100 players.
+INHIN2 Show player's personal information.
+INHIN3 Show the list of games.
+INHIN4 Send a message to the player.
+INHIN5 Mute the player.\You will no longer see this player's messages.
+INHIN6 No longer mute the player.\You will continue seeing this player's messages. 

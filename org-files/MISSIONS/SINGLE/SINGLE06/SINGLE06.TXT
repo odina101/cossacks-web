@@ -1,0 +1,12 @@
+#BRIEFING faces 0
+{A}Ancient Abbey
+
+  Greedy neighbours are trying to plunder an ancient abbey. You have offered to help and protect the monks, but they refused. One way or another, the enemies must be stopped from grabbing the treasures. Thus, you must protect the abbey without the monks' consent ... or seize the treasures yourself.
+#PAGE1 Missions\Pictures\mord_tut 12
+  The enemies are close! They may attack at any moment! Take care to protect your fortress and peasants.
+#PAGE2 Missions\Pictures\faces 15
+  The temple is yours! You are victorious!
+#PAGE3 Missions\Pictures\mord_tut 15
+  The temple has been demolished! Mission failed!
+#PAGE4 Missions\Pictures\mord3_tut 14
+  The temple was captured and plundered by the enemy!

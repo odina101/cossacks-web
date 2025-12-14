@@ -1,0 +1,542 @@
+18
+#DENBAR history_battl\Denbar.m3d history_battl\DenbarH.txt history_battl\DenbarG.txt history_battl\DenbarH.bmp history_battl\DenbarG.bmp
+The Battle of Dunbar
+September 4th, 1650
+Dunbar
+The English
+The Scottish
+9
+127 11
+The parliamentary army
+127 21
+under the command of Cromwell
+47 131
+Lambert's cavalry
+446 215
+Leslie's Scottish army
+674 134
+Road
+674 144
+to Barvick
+519 27
+North Sea
+10 35
+Road
+10 45
+from Dunbar
+
+#GOGENFRIDBERG history_battl\Gogenfridberg.m3d history_battl\GogenfridbergH.txt history_battl\GogenfridbergG.txt history_battl\GogenfridbergH.bmp history_battl\GogenfridbergG.bmp
+The Battle of Hohenfriedberg
+July 4th, 1745
+Hohenfriedberg
+Austria
+Prussia
+4
+162 216
+Army of Charles Lotharingia
+219 277
+The Austrians
+45 165
+The Saxons
+492 57
+Frederick's Prussian army
+
+#MARSTONMUR history_battl\MarstonMur.m3d history_battl\MarstonMurH.txt history_battl\MarstonMurG.txt history_battl\MarstonMurH.bmp history_battl\MarstonMurG.bmp
+The Battle of Marston Moor
+July 2nd, 1644
+Marston Moor
+Parliament
+Royalists
+11
+439 72
+Royalist army
+439 82
+under the command of
+439 92
+Newcastle
+239 77
+Prince Rupert's horsemen
+614 144
+Goring's cavalry
+439 225
+The parliamentary army
+439 235
+under the command of
+439 245
+Manchester
+155 247
+Cromwell's cavalry
+64 157
+Leslie's cavalry
+612 266
+Fairfax's cavalry
+
+#MOOK history_battl\Mook.m3d history_battl\MookH.txt history_battl\MookG.txt history_battl\MookH.bmp history_battl\MookG.bmp
+The Battle of Mook
+April 13th, 1574
+Mook
+The Spanish
+The Dutch
+5
+341 277
+The Maas river
+86 56
+Sancho de Avilas' Spanish troops
+469 240
+Louis of Nassau's Dutch troops
+309 166
+Mook
+216 178
+Trench
+
+#NEWPORT history_battl\NewPort.m3d history_battl\NewPortH.txt history_battl\NewPortG.txt history_battl\NewPortH.bmp history_battl\NewPortG.bmp
+The Battle of Newport
+July 2nd, 1600 
+Newport
+The Spanish
+The Dutch
+7
+10 257
+North Sea
+354 180
+Maurice of Orange's Dutch troops
+392 44
+Archduke Albert's Spanish troops
+20 83
+The Dutch fleet
+579 277
+Newport
+640 42
+Light Horse
+459 292
+Rear Guard
+
+#RYMNIK history_battl\Rymnik.m3d history_battl\RymnikH.txt history_battl\RymnikG.txt history_battl\RymnikH.bmp history_battl\RymnikG.bmp
+The Battle of Rimnik
+1789
+Rimnik
+Allies
+Turks
+10
+87 178
+The Rimna River
+30 282
+Tyrgu-Kukulie 
+122 80
+Cavalry
+122 90
+under the command of General Karachay
+191 20
+Prince Coburg's troops
+286 109
+The Russian army
+286 119
+under the command of General Suvorov
+481 213
+Bogzy
+603 129
+Kryngu-Meilor forest
+654 168
+Yusuf Pasha
+
+#W_MOUNT history_battl\W_mount.m3d history_battl\W_mount.txt history_battl\W_mount1.txt history_battl\HistoricalMaps\MHM_W_Mount_B.bmp history_battl\HistoricalMaps\MHS_W_Mount_B.bmp
+The Battle of the White Mountain
+November 8th, 1620
+White Mountain
+Czechs
+Imperials
+13
+486 74
+Hunters' Castle
+559 212
+Turin regiment
+594 136
+Czech army
+594 146
+under the command of
+594 156
+Christian of Anhalt
+472 192
+White Mountain
+283 68
+Gostovits Brook
+268 187
+The Bavarian army
+268 197
+under the command of
+268 207
+Duke Max
+201 270
+The Imperial army
+201 280
+under the command of
+201 290
+Tilly
+
+#BREITENFELD history_battl\Breitenfeld.m3d history_battl\Breitenfeld.txt history_battl\Breitenfeld_1.txt history_battl\HistoricalMaps\MHM_Breitenfeld_B.bmp history_battl\HistoricalMaps\MHS_Breitenfeld_B.bmp
+The Battle of Leipzig (Breitenfeld)
+September 17th, 1631
+Breitenfeld
+Imperials
+Swedes
+14
+259 48
+The Swedish army
+259 58
+under the command of Teivel
+80 36
+Swedish forces
+80 46
+under the command
+80 56
+of Banner
+30 217
+Imperial forces
+30 227
+under the command of Pappenheim
+16 19
+Reserve artillery
+459 48
+Loberbach stream
+478 114
+Saxon forces
+296 230
+Imperial forces
+296 240
+under the command of Tilly
+500 221
+Imperial forces
+500 231
+under the command of Fuerstenberg
+
+#LUCEN history_battl\Lucen.m3d history_battl\Lucen.txt history_battl\Lucen_1.txt history_battl\HistoricalMaps\MHM_Lucen_B.bmp history_battl\HistoricalMaps\MHS_Lucen_B.bmp
+The Battle of Luetzen
+November 16th, 1632
+Luetzen
+Imperials
+Swedes
+19
+148 88
+The Imperial army
+148 98
+under the command of
+148 108
+Colloredo
+612 29
+The Imperial army
+612 39
+under the command of
+612 49
+Pappenheim
+358 38
+The Imperial army
+358 48
+under the command of
+358 58
+Wallenstein
+344 214
+The Swedish army
+344 224
+under the command of
+344 234
+Berngard
+496 198
+The Swedish army
+496 208
+under the command of
+496 218
+Kniphausen
+568 109
+The Swedish army
+568 119
+under the personal command of
+568 129
+King Gustaf Adolf
+517 8
+Croats
+
+#NERDLENGEN history_battl\Nerlingen.m3d history_battl\Nerlingen.txt history_battl\Nerlingen_1.txt history_battl\HistoricalMaps\MHM_Nerlingen_B.bmp history_battl\HistoricalMaps\MHS_Nerlingen_B.bmp
+The Battle of Noerdlingen
+August 27th, 1634
+Noerdlingen
+Imperials
+Swedes
+9
+247 233
+Swedish forces
+247 243
+under the command of
+247 253
+Horn
+108 108
+Weimar forces
+108 118
+under the command of
+108 128
+Berngard
+467 197
+Albuch Mountain
+351 101
+Imperial forces
+562 178
+Spanish infantry
+
+#VITTSTOK history_battl\Vittshtok.m3d history_battl\Vittshtok.txt history_battl\Vittshtok_1.txt history_battl\HistoricalMaps\MHM_Vittshtok_B.bmp history_battl\HistoricalMaps\MHS_Vittshtok_B.bmp
+The Battle of Wittstock
+October 4th, 1636
+Wittstock
+Imperials
+Swedes
+7
+216 33
+The Imperial army
+216 43
+under the command of
+216 53
+Garzfeld
+352 270
+The Swedish army
+352 280
+under the command of
+352 290
+Banner
+356 77
+The Saxon army
+
+#NARVA history_battl\Narva.m3d history_battl\Narva.txt history_battl\Narva_1.txt history_battl\HistoricalMaps\MHM_Narva_B.bmp history_battl\HistoricalMaps\MHS_Narva_B.bmp
+The Taking of Narva
+1704
+Narva
+Russians
+Swedes
+15
+360 68
+The Russian army
+360 78
+under the command of
+360 88
+P. Apraksin
+607 107
+The Russian army
+607 117
+under the command of
+607 127
+Tsar Peter I
+60 207
+The Russian army
+60 217
+under the command of
+60 227
+Count Sheremetyev
+496 192
+Ivangorod
+370 202
+Narva Fortress
+31 27
+Narva Bay
+373 262
+The Swedish army
+373 272
+under the command of
+373 282
+General Horn
+
+#POLTAVA history_battl\Poltava.m3d history_battl\Poltava.txt history_battl\Poltava_1.txt history_battl\HistoricalMaps\MHM_Poltava_B.bmp history_battl\HistoricalMaps\MHS_Poltava_B.bmp
+The Battle of Poltava
+June 27th, 1709
+Poltava
+Russians
+Swedes
+13
+387 156
+Russian forces
+387 166
+under the command of
+387 176
+Prince Menshikov
+447 87
+Peter I
+412 105
+Fortified Camp
+229 149
+Cossacks of
+229 159
+Hetman Skoropadsky
+399 240
+Swedish detachment
+399 250
+under the command of
+399 260
+Schlippenbach
+236 235
+The Swedish army
+236 245
+under the command of
+236 255
+Charles XII
+
+#GANGUT history_battl\Gangut.m3d history_battl\Gangut.txt history_battl\Gangut_1.txt history_battl\HistoricalMaps\MHM_Gangut_B.bmp history_battl\HistoricalMaps\MHS_Gangut_B.bmp
+The Battle of Gangut
+July 27th, 1714
+Gangut
+Russians
+Swedes
+11
+15 97
+Padwaland Peninsula
+493 114
+Lakkiser Island
+256 69
+The Swedish fleet
+256 79
+under the command of
+256 89
+Niels Erenscheld
+293 235
+The Russian fleet
+293 245
+under the command of
+293 255
+F. Apraksin
+224 169
+The Russian fleet
+224 179
+under the command of
+224 189
+Peter I
+
+#GOHSHTED history_battl\Gohshted.m3d history_battl\Gohshted.txt history_battl\Gohshted_1.txt history_battl\HistoricalMaps\MHM_Gohshted_B.bmp history_battl\HistoricalMaps\MHS_Gohshted_B.bmp
+The Battle of Hochstaedt
+August 13th, 1704  
+Hochstaedt
+Allies
+French
+16
+361 294
+River Danube
+452 217
+The French army
+452 227
+under the command of
+452 237
+Marshal Tallare
+224 200
+The French army
+224 210
+under the command of
+224 220
+Marshal Marcin
+56 140
+The Bavarian army
+56 150
+under the command of
+56 160
+Max Emmanuel
+614 104
+The English army
+614 114
+under the command of
+614 124
+the Duke of Marlborough
+298 36
+The Imperial army
+298 46
+under the command of
+298 56
+Eugene of Savoy
+
+#MALPLAKE history_battl\Malplake.m3d history_battl\Malplake.txt history_battl\Malplake_1.txt history_battl\HistoricalMaps\MHM_Malplake_B.bmp history_battl\HistoricalMaps\MHS_Malplake_B.bmp
+The Battle of Malplaquet
+September 11th, 1709
+Malplaquet
+Allies
+French
+15
+174 265
+The French army
+174 275
+under the command of
+174 285
+Marshal Bouflier
+205 141
+The French army
+205 151
+under the command of
+205 161
+Marshal Villard
+555 250
+The Dutch army
+555 260
+under the command of
+555 270
+the Prince of Orange
+504 179
+The English army
+504 189
+under the command of
+504 199
+the Duke of Marlborough
+455 80
+The Austrian army
+455 90
+under the command of
+455 100
+Eugene of Savoy
+
+#LEITEN history_battl\Leiten.m3d history_battl\Leiten.txt history_battl\Leiten_1.txt history_battl\HistoricalMaps\MHM_Leiten_B.bmp history_battl\HistoricalMaps\MHS_Leiten_B.bmp
+The Battle of Leuthen
+December 5th, 1757
+Leuthen
+Austria
+Prussia
+2
+398 159
+The Austrian army
+225 291
+The Prussian army
+
+#KUNERSDORF history_battl\Kunersdorf.m3d history_battl\Kunersdorf.txt history_battl\Kunersdorf_1.txt history_battl\HistoricalMaps\MHM_Kunersdorf_B.bmp history_battl\HistoricalMaps\MHS_Kunersdorf_B.bmp
+The Battle of Kunersdorf
+August 12th, 1759
+Kunersdorf
+Russia
+Prussia
+19
+452 12
+Prussian cavalry
+452 22
+under the command of
+452 32
+General Vink
+615 215
+Prussian cavalry
+615 225
+under the command of
+615 235
+General Seidlitz
+600 100
+The Prussian army
+600 110
+under the command of
+600 120
+Frederick II
+147 153
+The Austrian army
+278 120
+The Russian army
+278 130
+under the command of
+278 140
+General Saltykov
+376 170
+The Russian army
+376 180
+under the command of
+376 190
+General Rumiantsev
+432 118
+The Russian army
+432 128
+under the command of
+432 138
+General Golitsin

@@ -1,0 +1,76 @@
+#BRIEFING faces 0
+{A}Pavliuk Uprising
+
+{C}You will lose if you have no army left.
+{D}You will lose if you have no transport left.
+{E}You will lose if you have no cannons left.
+{F}You will lose if you fail to do considerable damage to the Polish army.
+{I}You will lose if you fail to destroy both of the transports.
+{B}
+  Current objectives:
+
+{J}Attack the Polish camp and kill the guards.
+{P}~ Attack the Polish camp and kill the guards.~
+{K}Bring the map to Hetman Pavliuk.
+{R}~ Bring the map to Hetman Pavliuk.~
+{L}Capture the cannons.
+{S}~ Capture the cannons.~
+{N}Capture the guncrew.
+{U}~ Capture the guncrew.~
+{V}Take your emplacements and inflict maximum damage to the Polish army. {W}~ Take your emplacements and inflict maximum damage to the Polish army.~
+{O}Destroy the transports.
+{Z}~ Destroy the transports.~
+#PAGE1 missions\pictures\ukraine 9
+  Damn! The Poles not only raised exorbitant taxes, but also burned the village to a cinder when we could not pay! We have been fleeced!
+#PAGE2 missions\pictures\ukraine 9
+  We won't obey anymore! We will fight! If only we had more forces, we could attack the Polish camp to the east of the village.
+#PAGE3 missions\pictures\ukraine 15
+  This convoy carried much gold.
+#PAGE4 missions\pictures\ukraine 25
+  Good day to you! Our squad was dismissed from the Polish army, and we are now ready to join you for 5,000 in gold. Do we have a deal?
+#PAGE5 missions\pictures\ukraine 30
+  Greetings, compatriots. We are all that survived of a village that was visited by a Polish brigade. They rushed into the village and demanded the surrender of the rebels that we were allegedly sheltering. But our village is peaceful! We don't accommodate mutineers! They went absolutely crazy and killed many peasants. Then they burnt our village to the ground.
+#PAGE6 missions\pictures\ukraine 30
+  As we are homeless now, we plan to cross to the opposite bank. It is said to be the new home of all who can no longer bear the Polish yoke. We will join the resistance forces and avenge our relatives!
+#PAGE7 missions\pictures\ukraine 15
+  You have found much gold that belonged to killed bandits.
+#PAGE8 missions\pictures\ukraine 7
+  I see we are lucky again! Villeins are bringing us their gold! Hey, you! Give us your gold and we will spare your lives!
+#PAGE9 missions\pictures\ukraine 25
+  Greetings! Our squad is part of the rebellious army of Ataman Pavliuk. By order of our Ataman, we attack Polish convoys and block supply lines to their camps. We have been lucky many times and managed to escape from our pursuers.
+#PAGE10 missions\pictures\ukraine 25
+  However, today we ran into an ambush, and a large squadron of Polish hussars is following close behind us. You'd better get out of here. There is a ferry to the north. You can cross the river to our base. Deliver the map of the Polish camps to our Ataman Pavliuk. Be quick and we'll try to hold the hussars back.
+#PAGE11 missions\pictures\ukraine 25
+  Greetings! I am Ataman Pavliuk, the commander of the resistance movement. Thank you for the map. Our brothers have not died in vain.
+#PAGE29 missions\pictures\ukraine 25
+  Greetings to you too, Ataman. The Poles burnt our village down when we told them that we could not pay their taxes. We would like to join you and to fight against the Polish oppression.
+#PAGE30 missions\pictures\ukraine 25
+  Well, you are welcome. Our enemy is very strong and cunning, and many of us will die. I order you to capture the cannons on the other side of the river. Proceed to the shipyard to the north-west and use a ferry to cross the river.
+#PAGE12 missions\pictures\ukraine 25
+  You have captured the cannons. Be careful, Polish ships are somewhere nearby. They will try to prevent you from taking the cannons away by attacking and sinking your transport. Use the captured guns to destroy the enemy's ships. You must not lose your transport and cannons.
+#PAGE13 missions\pictures\ukraine 25
+  Good. You have foundered the Polish ships. But I have bad news for you. According to our intelligence reports, the Poles have sent a huge army to defeat us. The Polish army is greatly outnumbers our own and we won't stand a chance in an outright battle.
+#PAGE14 missions\pictures\ukraine 25
+  However, thanks to the map our perished brothers gave us, I have been able to come up with a plan that might allow us to defeat the Poles. To begin with, bring the cannons to the highlighted spot near the shipyard. When they are deployed in that location, you will receive further orders.
+#PAGE15 missions\pictures\ukraine 25
+  Hurry up and get into position! The Poles are approaching the fortifications.
+#PAGE16 missions\pictures\ukraine 25
+  What a glorious success! The Poles have suffered great losses, but they still pose a menace. You shall now command a battery of artillery. Use it to eliminate the Polish ferries before they reach our side of the river.
+#PAGE20 missions\pictures\ukraine 25
+  You have sunk the ferries and eliminated the greater part of the Polish army. The Poles have cancelled their offensive.
+#PAGE21 missions\pictures\ukraine 25
+  You have lost the cannons! Mission failed.
+#PAGE22 missions\pictures\ukraine 25
+  You have lost the ferry! Mission failed.
+#PAGE23 missions\pictures\ukraine 25
+  You proved unable to do much damage to the Polish army. The rebels are doomed.
+#PAGE24 missions\pictures\ukraine 25
+  You have lost your forces! Mission failed.
+#PAGE25 missions\pictures\ukraine 25
+  The Poles have completely eliminated the rebels! Mission failed.
+#PAGE26 missions\pictures\ukraine 25
+ All right, you are in position. The Polish army will proceed to the shipyards to the east in order to reach our bank by ferry. You will pass a base with an artillery battery on the way to the shipyards. Capture the cannons and you will be able to cause much damage to the Polish armies.
+#PAGE27 missions\pictures\ukraine 25
+  Destroy the fortifications around the battery and capture the cannons. Hurry up, the Poles will be here soon!
+#PAGE28 missions\pictures\ukraine 25
+  Well done, the battery is yours. Now take up advantageous positions, command the eminence, and try to do maximum damage.

@@ -1,0 +1,167 @@
+#BRIEFING faces 0
+{A}Game Basics
+
+You must complete the whole tutorial to win.
+#P1 NONE
+  How do I select a unit?
+#P1_1 Missions\Pictures\mord_tut 0
+  Left-click on a unit to select it. To select multiple units, hold down the left mouse button and drag the mouse across the area where your units are located.
+#P2 NONE
+  How do I get information on the selected unit?
+#P2_1 Missions\Pictures\mord_tut 2
+  Once you have selected a unit, a text box with information will appear in the lower left-hand corner of the screen (life, strength and defence against different types of weapons). Press the "U" key to receive more detailed information.
+#P3 NONE
+ How do I use the mini-map?
+#P3_1 Missions\Pictures\mord_tut 1
+  The mini-map has two sizes: large and small. The size may be altered by pressing the "M" key or using the "Toggle Mini-Map Modes" command. (To activate the menu, left-click on the panel at the top of the screen.)
+#P4 NONE
+  How do I send a unit to a specific location?
+#P4_1 Missions\Pictures\mord_tut 3
+  Select a unit, then move the mouse cursor to the desired location and right-click.
+#P5 NONE
+  How do I order a unit to attack an enemy?
+#P5_1 Missions\Pictures\mord_tut 4
+  First select the unit you want to use, then move the cursor to point at an enemy unit and right-click on it.
+#P6 NONE
+  What territories are impassable?
+#P6_1 Missions\Pictures\mord_tut 5
+  Impassable areas are easily located in a special display mode. To activate this mode, press the "Q" key or select the "Show Inaccessible Zones" command in the menu.
+#P7 NONE
+  How do I acquire wood, stone and food with my peasants?
+#P7_1 Missions\Pictures\mord_tut 6
+  First select a group of peasants, then move the mouse cursor to one of the resources and right-click on it.
+#P8 NONE
+  How do I build structures using my peasants?
+#P8_1 Missions\Pictures\mord_tut 7
+  First select a group of peasants. Icons of structures that can be built will then appear in the lower left corner of the screen. Using your mouse, select the building you want to construct and then indicate the desired location.
+#P9 NONE
+  How do I build mines and extract resources there?
+#P9_1 Missions\Pictures\mord_tut 8
+  Coal, iron and gold are extracted from mines. A mine may be erected as a normal building at the location of a deposit. Once a mine is ready, you should send peasants there. 5 peasants can work in any new mine. After each "Enlarge mines and build extensive railroad network for them" upgrade, the possible number of workers in the mine increases, and you can send more peasants there.
+#P10 NONE
+  How do I view a list of all my units?
+#P10_1 Missions\Pictures\mord_tut 9
+  Use the key combination "CTRL"+"A".
+#P11 NONE
+  How do I select units of a specific type from among a mixed squad?
+#P11_1 Missions\Pictures\mord_tut 10
+  First select one unit of the required type and press "CTRL"+"Z". To select all units of that type within the viewed screen, double-click on one of them.
+#P12 NONE
+  How do I make my cannon fire cannonballs or grapeshot?
+#P12_1 Missions\Pictures\mord_tut 11
+  A cannon can fire cannonballs or grapeshot. Grapeshot should be used when an enemy is close to your line, because that is when grapeshot is more effective than cannonballs. To fire cannonballs, indicate a target for the cannon. Grapeshot will be fired automatically.
+#P13 NONE
+  What obstacles will prevent units from firing?
+#P13_1 Missions\Pictures\mord_tut 12
+  The following obstacles may hinder your units: uneven terrain (hills, rocks, etc), buildings or stone walls. If an obstacle blocks a unit's line of fire, it will be unable to shoot. Paling is not an obstacle for units' fire.
+#P14 NONE
+  How do I capture enemy buildings, artillery and peasants?
+#P14_1 Missions\Pictures\mord_tut 13
+  Artillery, peasants and most buildings can be captured. To do this, you need to move an infantry or cavalry unit towards the target. If there is no enemy guard in the neighbourhood, the target will be yours (take on your colour) at once. A guard is any enemy infantry or mounted unit near the object you are planning to capture.
+#P15 NONE
+  How do I protect my buildings, artillery and peasants from being captured?
+#P15_1 Missions\Pictures\mord_tut 14
+  To guard your city from raids, you need to locate military units near each building, mine, building under construction, artillery unit or peasant.
+#P16 NONE
+  How do I destroy my own buildings and buildings I have conquered?
+#P16_1 Missions\Pictures\mord_tut 15
+  Having captured a building, you may set it on fire by pressing the "DEL" key. The building will catch fire and explode, unless the enemy wins it back and repairs it in time.
+#P17 NONE
+  How do I repair burning buildings?
+#P17_1 Missions\Pictures\mord_tut 16
+  First select a group of peasants. Then right-click on the building that is on fire.
+#P18 NONE
+  Why is it advantageous to shoot from an eminence?
+#P18_1 Missions\Pictures\mord_tut 17
+  The higher a shooting or artillery unit is located, the further it can fire.
+#P19 NONE
+  How do I demolish enemy buildings?
+#P19_1 Missions\Pictures\mord_tut 18
+  Any enemy building can be demolished by artillery, grenadiers or archers. Mortars are effective at long range, howitzers cause major damage. Cannon and vessels have medium attack power. Grenadiers are rather efficient, especially if their attack power has been upgraded. Archers and mercenaries are the most effective when numerous.
+#P20 NONE
+  How do I create 1 to 5 units at once?
+#P20_1 Missions\Pictures\mord_tut 19
+  To order 1 unit, left-click on its icon in the barracks' interface. To order 5 units, hold down the "SHIFT" key while clicking.
+#P21 NONE
+  How do I specify a rally point for my units that are being created?
+#P21_1 Missions\Pictures\mord_tut 20
+  Select the building where you want to create units. A "Set Rally Point" icon will appear below. Click on it and specify the rally point with your mouse. You can also hold down the "CTRL" key and right-click anywhere on the terrain to specify a rally point. If a rally point for peasants is located in the woods, they will leave the town hall and begin chopping trees.
+#P22 NONE
+  Why do I train my units?
+#P22_1 Missions\Pictures\mord_tut 21
+  Many units have two upgrade icons in the barracks (below their creation icon). The upper icon refers to an upgrade that will increase their attack power, the lower is relevant to shield (defence) upgrades. A summary of the upgrades made will appear in the information window of the unit in the bottom left-hand corner of the screen.
+#P23 NONE
+  Why do I conduct upgrades in my academy and blacksmith?
+#P23_1 Missions\Pictures\mord_tut 22
+  An academy can conduct scientific upgrades relating to various fields of production, extraction, etc.
+  A blacksmith offers upgrades relating to metalwork.
+#P24 NONE
+  Which upgrades are the most important?
+#P24_1 NONE
+  1. Food procurement: "Cultivate new cultures of wheat (harvesting +20%)", "Cultivate new cultures of rye (harvesting +15%)", "Carry out field melioration (field capacity +200%)", "Improve grain crops treatment (harvesting +140%)", "Improve grain crops storage (harvesting +120%)", "Manufacture agricultural equipment (fields' efficiency +100%)".
+  2. Woodcutting: "Design new woodworking tools (wood extraction efficiency +100%)".
+  3. Stone quarrying: "Develop mining (stone extraction efficiency +200%)".
+  4. Fishing: "Design new tackle and fishing nets (boats' efficiency +100%)"
+  5. Mounted units' creation time: "Forge harnesses for horses (increases mounted units' building speed 4 times)".
+  6. Musketeers' rate of fire: "Design wheel lock (handguns' rate of fire +35%)", "Design paper cartridge and iron ramrod (rate of fire +35%)".
+  7. Accuracy of artillery fire: "Develop mathematics (accuracy of artillery fire +35%)", "Research new sighting devices for artillery (shooting accuracy +35%)".
+  8. Fishing boats' cost: "Build new shipyards for fishing boats (fishing boat cost -85%)".
+  9. Broadsword power for cavalry: "Forge new types of broadswords and sabres (cavalry attack +5)".
+  10. Healing wounded units: "Develop medical science (heals all live units)".
+#P25 NONE
+  What resources are needed to maintain my units?
+#P25_1 Missions\Pictures\mord_tut 24
+  Food is needed to maintain all your units, therefore you will always be spending. The bigger your army, the more food should be produced. When you run out of food, a famine will begin and your units will starve to death one by one. Always make sure that you have at least 1,000 of food. To maintain mercenaries, you need gold. If you run out of gold, the mercenaries will revolt. During a famine, mercenary units will not die. Artillery and ships also require financing. If you have no gold, these units will not fight.
+#P26 NONE
+  What resources are needed to carry out a battle?
+#P26_1 Missions\Pictures\mord_tut 25
+  Any shot requires iron and gunpowder (coal). A gunshot requires a small amount of resources (1 iron, 1 coal); a mortar shot uses up more (60 iron, 100 coal). If you run out of these resources, buy them at the market immediately, otherwise your units will not fire.
+#P27 NONE
+  How do I supervise my resources' balance?
+#P27_1 Missions\Pictures\mord_tut 26
+  Make sure that your gold and food are constantly increased. Food should be kept at 1,000 to 5,000 to avoid sudden famines. The more iron and coal you have, the better. Since you always spend stone to repair stone walls, make sure that your stocks are sufficient.
+#P28 NONE
+  What do I do if I have spent too many resources?
+#P28_1 Missions\Pictures\mord_tut 27
+  If you realize that food is being consumed too fast, immediately gather all your peasants together and send them to your fields. If that does not help, dismiss part of your army (select them and press "DEL"). Go on doing this until you your food supplies increase. If your gold is being spent too quickly, find out which military force is consuming it and dismiss (destroy) it. Much gold will be spent to maintain hundreds of mercenaries, dozens of cannons and battleships. If you have no gold, riots will begin on your battleships.
+#P29 NONE
+  How do I use a market?
+#P29_1 Missions\Pictures\mord_tut 28
+  You can use a market to exchange your excess resources (left column) for ones you require (right column) by specifying the quantity you want to barter. Prices for resources will change according to market laws when you sell or buy resources.
+#P30 NONE
+  Why do the construction costs for some structures change?
+#P30_1 Missions\Pictures\mord_tut 29
+  Many buildings become more expensive depending on the number of them you have. Thus, each new tower will cost 20% more than the previous one. Some units (e.g. cannons) also become more expensive.
+#P31 NONE
+  When can I build the 18th century barracks?
+#P31_1 Missions\Pictures\mord_tut 30
+  At the beginning of the game, you can see the semi-transparent button "Progress to the 18th Century" in your town hall interface. It will become active when a market, a church and an artillery depot have been built. After progressing to the 18th century, it will be possible to build an 18th century barracks. Additionally, the academy will allow you to study new sciences (e.g. a Montgolfier balloon that reveals the whole map to you).
+#P32 NONE
+  How do I make my units embark and disembark from a ferry?
+#P32_1 Missions\Pictures\mord_tut 31
+  To make units embark, move a ferry towards the shore (select the ferry and click on the landing point). When the ferry approaches the shore, select it. You should see a flashing X marking the point of embarkation. If there is no X, try to moor the ferry to the shore again. Send your units onto the ferry. Once they are aboard, specify the location where you want to transport the units. When the vessel has pulled up at the specified location, click on the "Disembark All" icon in the ferry interface.
+#P33 NONE
+  How do I build walls and palings?
+#P33_1 Missions\Pictures\mord_tut 32
+  Select peasants, then click on the icon of walls or paling. Choose a point on the map where you want the wall or paling to begin and click on it. Move the mouse cursor. You will see a flashing wall. Click to fix the first part of the wall. Double-click to finish planning the wall and start building it.
+#P34 NONE
+  How do I build a gate?
+#P34_1 Missions\Pictures\mord_tut 33
+  Select a part of a wall or paling where you want to insert a gate. The selected area should include at least three sections of the wall in a straight line, facing in the same direction. If your selection is valid, you will see an icon for building the gate. Click on it to begin construction.
+#P35 NONE
+  How do I open and close gates?
+#P35_1 Missions\Pictures\mord_tut 34
+  To open or close a gate, select it (drag a selection rectangle around it for quicker selection). When the gate is selected, you will see an icon with a lock. Click on it to open or close the gate.
+#P36 NONE
+  How do I activate or deactivate information windows?
+#P36_1 Missions\Pictures\mord_tut 35
+  Information windows are activated or deactivated by pressing the "I" key.
+  Unit information windows containing details on units are activated by pressing the "U" key.
+#P37 NONE
+  How do I use information windows?
+#P37_1 Missions\Pictures\mord_tut 36
+  The lower part of an information window contains a list of available data. Select the information you need by clicking on the appropriate item in the list.
+#P38 NONE
+  Congratulations on the completion of your first tutorial mission! For your studiously accomplished achievements in military science, the supreme command has decided to reward you with a personal musket and offers to continue your training.
+#P38_1 Missions\Pictures\mord_tut 38
+ The knowledge you have obtained in this mission is sufficient to start the game, but if you want to learn more about combat tactics and details of economic development, continue with the next two tutorial missions.

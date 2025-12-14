@@ -1,0 +1,26 @@
+#BRIEFING faces 0
+{A}Vienna
+ 
+You will win if you succeed in repulsing the attack of the Czech troops.
+You will lose if the greater part of the city is destroyed.
+ 
+  Current objectives:
+{B}Wait for reinforcements to arrive
+{C}~Wait for reinforcements to arrive~
+{D}Destroy the enemy supplies located in the north-east
+#PAGE0 Missions\Pictures\mord_tut 17
+  The attack could begin at any moment. Remain firm until reinforcements arrive. The enemy cannot be allowed to destroy Vienna.
+#PAGE1 Missions\Pictures\mord_tut 18
+  The enemy has destroyed the western gates! The city is in danger!
+#PAGE2 Missions\Pictures\mord2_tut 6
+  The enemy has broken into the city from the east! Defend Vienna, whatever the cost!
+#PAGE3 Missions\Pictures\austria 9
+  The city has been ruined. Mission failed!
+#PAGE4 Missions\Pictures\austria 10
+  Our brave troops have arrived from the south and are thirsting for battle! Along with their help, you have received food, gold and ammunition. It is time you struck back at the enemy. Destroy the food and ammunitions supply located in the north-east.
+#PAGE5 Missions\Pictures\austria 14
+  The enemy has been deprived of supplies and forced to retreat. A glorious victory!
+#OTST1 Missions\Pictures\mord_tut 10
+  You will be able to reinforce your positions by installing extra guns on towers, improving the durability of buildings, and by conducting military drills.
+  Don't forget to create new warriors to replace those fallen in battle. Besides, you can make use of mercenaries. Accumulate your forces in the major enemy attack sectors.
+  

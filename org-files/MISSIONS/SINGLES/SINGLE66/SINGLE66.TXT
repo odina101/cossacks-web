@@ -1,0 +1,29 @@
+#BRIEFING faces 0
+{A}	Slave Trade
+
+Current objective:
+{B}	Deliver the slaves from the captured town to the ships.
+
+#PAGE0 Missions\Pictures\poland 7
+Your troops have captured the enemy town and taken lots of slaves.
+You have been assigned to deliver the slaves to the ships unharmed.
+Take care of the officer, he is the only one who can control the captives.
+The exhausted enemy troops will attempt to win back their friends.
+Make sure you guard the slaves well. If you leave them unguarded they will try to escape.
+
+#PAGE1 Missions\Pictures\England 9
+Do you want to take all slaves at once? 
+
+#PAGE2 Missions\Pictures\England 9
+Now you have to deliver the second group.
+
+#PAGE3 Missions\Pictures\England 9
+Defeat!
+%d slaves have managed to run away.
+
+#PAGE4 Missions\Pictures\England 9
+Mission accomplished. %d slaves have been delivered!
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+.

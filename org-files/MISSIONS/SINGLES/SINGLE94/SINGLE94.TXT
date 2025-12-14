@@ -1,0 +1,33 @@
+#BRIEFING faces 0
+{A}	Capture of the Strait
+ 
+Current objectives:
+{B}	Destroy all enemy troop ships sailing the strait.
+
+You will win if none of the enemy troop ships manages to sail through the strait in the course of twenty minutes.
+
+#PAGE0 Missions\Pictures\England 29
+Your task is to destroy all enemy troop ships sailing in the strait.
+You will win if none of the enemy troop ships manages to sail through the strait in the course of twenty minutes.
+
+#PAGE1 Missions\Pictures\England 29
+Defeat!
+
+#PAGE2 Missions\Pictures\England 29
+Victory!
+
+#PAGE3 Missions\Pictures\England 29
+The corsair ship has moored. They offer their assistance in destroying the troop ships in return for a small reward.
+
+#PAGE4 Missions\Pictures\England 29
+Do you agree to pay for our service?
+
+#PAGE5 Missions\Pictures\England 29
+You don't have enough?
+
+#PAGE6 Missions\Pictures\England 29
+We want %d for the job.
+
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

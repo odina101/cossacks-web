@@ -1,0 +1,1 @@
+Field cannon. Effective against buildings, fortifications and navy. Fires cannonballs at long and medium range. Makes efficient use of grapeshot fire in close combat against infantry and cavalry. Requires gold for maintenance. If there is no gold left, your cannon will cease firing. Undefended cannon may be captured by the enemy. Requires much coal and iron to fire.

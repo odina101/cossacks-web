@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A}	The Austrian Frontier
+
+!You must conquer the Austrian city.
+!You will lose if your troops are destroyed.
+
+#PAGE1 Missions\Pictures\algeria 1
+Turkey has declared war on Austria and attacked its territories. The Ottoman Empire is strong and its troops are numerous, quite capable of conquering the Holy Roman Empire. One goal of the campaign is Vienna, the Austrian capital. 
+Your troops are on the flank of the main army. You will have to suppress the locals and strengthen your hold on the captured territory. 
+You will have to install defences and barracks for your troops. 
+Though our troops advance victoriously, you should beware of enemy counterattacks.
+
+#PAGE2 Missions\Pictures\algeria 3
+The Austrians have captured our peasants. You will have to free them or there will be no one to mine resources and build barracks.
+
+#PAGE3 Missions\Pictures\austria 16
+You have lost!
+
+#PAGE5 Missions\Pictures\england 35
+You have destroyed the Austrian city!
+Congratulations! You win. 
+
+
+#PAGE6 Missions\Pictures\ukraine 7
+Perfect! You have released the peasants. Start building up a settlement and arrange mining.
+
+

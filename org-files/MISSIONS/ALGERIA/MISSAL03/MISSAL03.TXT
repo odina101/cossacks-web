@@ -1,0 +1,22 @@
+#BRIEFING faces 0
+{A}Defenders of Algiers
+ 
+You will win if you succeed in repelling the Spanish attack (destroy the enemy's living forces).
+You will lose if your town hall is destroyed.
+ 
+! Destroy the Spanish artillery and fleet to prevent the enemy from breaking through the walls.
+
+#PAGE0 Missions\Pictures\mord_tut 17
+  The army of the Spanish king is approaching Algiers from the west. Stop the infidels at any cost!
+ #PAGE1 Missions\Pictures\algeria 2
+  The western gate has been destroyed! Don't let the Spaniards into the city!
+#PAGE2 Missions\Pictures\austria 37
+  The town hall has been destroyed! You have lost!
+#PAGE3 Missions\Pictures\austria 27
+  You have destroyed the Spanish artillery and fleet. Having lost the chance to break through the walls, the enemy is falling back.
+#PAGE4 Missions\Pictures\mord2_tut 23
+  You have destroyed the Spanish artillery and fleet. Now you must drive back the remaining attackers. Be prepared, the Spaniards will try to get into the city through the breaches in the wall.
+#PAGE5 Missions\Pictures\algeria 1
+  The main Spanish forces have been destroyed! What a glorious victory!
+#OTST1 Missions\Pictures\faces 14
+  Towers will be of immense help to you as defensive structures. Try to improve them before the enemy approaches. Don't forget to hire troops.

@@ -1,0 +1,40 @@
+#BRIEFING faces 0
+{Z} A Sudden Threat
+                                   
+Eliminate all the Turks in this area to win.
+!You will lose if the enemy captures your town and defeats your troops.
+!Guards are detaining a captive to the south-east of the settlement. He possesses information that could be of value to you.
+
+  Current objective:
+{A} Repel the Turkish attacks, assume the offensive and annihilate them! Be prepared to find the Turkish positions fortified by towers.
+#PAGE1 Missions\Pictures\mord_tut 35
+You have received news that the Turks are going to violate the border in your area. Recruit troops as soon as possible and be prepared to repel the enemy.   
+#PAGE2 Missions\Pictures\mord2_tut 19
+Multi-barrelled cannons will be of great help to you, for the enemy troops have weak armour. 
+#PAGE3 Missions\Pictures\poland 0
+You have only four multi-barrelled cannons with which to accomplish the mission.
+#PAGE4 Missions\Pictures\mord_n 0
+Hand over the prisoner, our lord wants to interrogate him personally!
+#PAGE5 Missions\Pictures\poland 1
+The King has ordered that nobody may talk to the prisoner without his personal permission!
+#PAGE6 Missions\Pictures\poland 1
+But we will make an exception in your case. Give us 10,000 in gold, and he's all yours. 
+#PAGE7 Missions\Pictures\poland 1
+What?! A small squad? Prepare to die!
+#PAGE8 Missions\Pictures\poland 1
+Come back when you have made up your mind. 
+#PAGE9 Missions\Pictures\poland 1
+What did your master decide?
+#PAGE10 Missions\Pictures\poland 18
+Attack!
+#PAGE11 Missions\Pictures\poland 1
+You don't have enough money for the deal.
+#PAGE12 Missions\Pictures\poland 1
+Come back when you have enough.
+#PAGE13 Missions\Pictures\ukraine 7 
+Thank you for saving me, strangers. As a token of my gratitude, I will share my knowledge with you. (The 18th century is available.)
+#PAGE19 Missions\Pictures\poland 9
+Your troops have been destroyed! 
+#PAGE20 Missions\Pictures\poland 23
+You have broken down the enemy's resistance. You have won!
+

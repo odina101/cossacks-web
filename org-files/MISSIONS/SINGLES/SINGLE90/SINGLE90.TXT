@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{A}	Sea Blockade
+
+You must destroy the enemy shipyards.
+
+Current objectives:
+{D}	You must not lose more than 150 ships.
+{E}	You must not lose more than 130 ships.
+{F}	You must not lose more than 110 ships.
+{G}	You must not lose more than 90 ships.
+{K}	!You can repair your vessels when they are near a shipyard.
+
+#PAGE2401 Missions\Pictures\England 2
+The Portuguese have erected five shipyards and are now building a fleet. You must break the blockade and destroy the enemy shipyards. You must not lose more than %d ships. Besides, you can repair you vessels when they are close to any of your shipyards.
+
+#PAGE2402 Missions\Pictures\Mord3_tut 5
+You have destroyed the western supply base of the Portuguese. This will slow them down a bit.
+
+#PAGE2403 Missions\Pictures\Mord3_tut 5
+You have destroyed the western supply base of the Portuguese. This will slow them down a bit.
+
+#PAGE2404 Missions\Pictures\Mord3_tut 0
+You have perfectly performed your task and broken the blockade. You shall be well rewarded!
+
+#PAGE2405 Missions\Pictures\England 5
+So far you have lost %d ships.
+Command has decided to suspend the campaign due to significant losses.
+
+#PAGE2406 Missions\Pictures\Mord3_tut 8
+You have lost %d ships.

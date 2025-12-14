@@ -1,0 +1,43 @@
+#BRIEFING faces 0
+{B}	The Battle in the Hills
+
+You must defeat the Spanish and Venetian forces.
+You will lose if your troops and buildings are destroyed.
+
+Current objectives:
+{C}	Hold your ground.
+{D}	Take the gold to safety.
+{E}	~Hold your ground.~
+{F}	~Take the gold to safety.~
+
+#PAGE2101 Missions\Pictures\Mord_tut 26
+There is %d gold left in the storehouse.
+
+#PAGE2102 Missions\Pictures\Mord_tut 39
+You have received orders to guard the storehouses until the packhorses take the gold out. By clicking on a storehouse you can find out how much gold is left. 
+Unfortunately, the English mercenaries have found out about the gold and will try to stop you. Repel their attacks and destroy their camps if possible.
+
+#PAGE2103 Missions\Pictures\Mord_tut 8
+Your troops were spotted at the Spanish camp of gold-diggers. The Spanish find your presence here insupportable. Prepare to repel their attacks.
+
+#PAGE2104 Missions\Pictures\Mord_tut 3
+The Venetians have spotted you and begun preparing troops to destroy you.
+
+#PAGE2105 Missions\Pictures\Austria 12
+The king's packhorses have taken the gold out. However, this is just the beginning for you. 
+The king demands that you build a fortification in this region and continue to mine the gold. His Majesty has allowed you to erect military buildings and has provided resources and ammunition.
+
+#PAGE2106 Missions\Pictures\Austria 14
+You have lost all your forces and lost.
+
+#PAGE2107 Missions\Pictures\Austria 9
+The storehouses have been destroyed before the gold could be saved. Mission failed.
+
+#PAGE2108 Missions\Pictures\Mord_tut 38
+You have gained full control over the hills, which are rich in gold deposits. 
+You have completed your mission and will be rewarded.
+
+#PAGE2109 Missions\Pictures\Austria 42
+
+
+A military adviser says: "We must take advantage of the hilly territory. The enemy can attack us only from the north and west. By fortifying the ravines there, we'll be able to hold the enemy back for a long time."

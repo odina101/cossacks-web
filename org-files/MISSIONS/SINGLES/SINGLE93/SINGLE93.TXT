@@ -1,0 +1,52 @@
+#BRIEFING faces 0
+{A}	The Frontier Squadron
+   
+You must defeat the army of the Bavarian baron (blue) and the camps of the mercenaries (violet).
+You will lose if your forces are eliminated.   
+
+#PAGE0 Missions\Pictures\faces 14
+You are in command of the Danish frontier squadron on the border of the kingdom of Denmark. The squad controls the frontier region. 
+The local Bavarian baron (blue) regularly attacks the region. 
+The king has authorised you to exterminate the baron if he dares to cross the border again. Be careful, though! The baron is said to have a large and well-equipped squadron at his manor.
+
+Your task is to keep the baron's troops out of the kingdom and guard the settlements and gold mines (orange). 
+The mines provide you with gold and the settlements supply food.
+
+#PAGE1 Missions\Pictures\austria 31
+Sound the alarm! The mercenaries have destroyed our settlement! Reinforce the border guards!
+
+#PAGE2 Missions\Pictures\austria 31
+Both guarded settlements have been destroyed. The food supply has been terminated.
+
+#PAGE3 Missions\Pictures\mord_tut 8
+Sound the alarm! The mercenaries have destroyed the gold mine! Keep a closer watch on the border!
+
+#PAGE4 Missions\Pictures\mord_tut 8
+The gold mines have been destroyed. The gold supply has been terminated.
+
+#PAGE6 Missions\Pictures\faces 9
+The mercenary camp has been destroyed. It is likely these mercenaries attacked our settlements.
+
+#PAGE7 Missions\Pictures\faces 9
+The mercenary camp has been destroyed. It is likely these mercenaries attacked the gold mines.
+
+#PAGE8 Missions\Pictures\mord_tut 35
+The baron has sent you a letter:
+"I have been informed that Danish troops have crossed the border. Let me tell you this: You would have fared better had you not trespassed on my land! I am the lord here! Beware! My wrath will rain down on you and I will unleash my full power upon you!"
+
+
+#PAGE9 Missions\Pictures\faces 9
+Finally, you have destroyed the main camp of the mercenaries! However, survivors may still be roaming on the border.
+
+#PAGE10 Missions\Pictures\austria 17
+You have failed to complete the mission. The king has demoted you and expelled you from the army. Mission failed.
+
+#PAGE11 Missions\Pictures\faces 9
+Perfect! The Bavarian baron's army (blue) has been exterminated. The king is happy with your success!
+
+#PAGE13 Missions\Pictures\faces 9
+Very nicely done! The vexing mercenaries (violet) have been eliminated. 
+ 
+#PAGE20 Missions\Pictures\faces 14
+The insidious enemy has been defeated. 
+You have protected the borders of your country!

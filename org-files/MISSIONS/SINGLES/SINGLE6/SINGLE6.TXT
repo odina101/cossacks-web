@@ -1,0 +1,39 @@
+#BRIEFING faces 0
+{A} Admiral of the Fleet
+    
+You will win if you and the allied Saxon armies defeat your enemies: Denmark and Prussia (in blue and green uniforms). 
+You lose if all your forces are defeated. 
+
+#PAGE1 Missions\Pictures\mord3_tut 7
+A seaport and the Saxon navy are at your command. You are to develop and enforce your fleet to carry out operations at sea. To defeat cities and enemy armies on land, the most effective would be to use ketches, as well as frigates and 18th century ships of the line.  
+A transport provides your shipyards with regular supplies (white frigate). Ensure the transport is protected, for it can be sunk by enemy ships.  
+
+#PAGE2 Missions\Pictures\mord3_tut 5
+Your objective is to oppose the enemy fleets (blue, green, black). Also help the Saxon armies (violet, orange) to fight against the enemies. 
+
+#PAGE4 Missions\Pictures\austria 6
+Mobilize your forces! The enemy threatens to crush the Saxon troops in the area.  
+
+
+
+#PAGE10 Missions\Pictures\mord3_tut 8
+You have lost your fleet, Admiral. Mission failed ... 
+
+#PAGE11 Missions\Pictures\mord3_tut 14
+The Prussian troops in the area have been defeated (blue opponent).
+
+#PAGE12 Missions\Pictures\austria 9
+The Danish forces in the area have been defeated (green opponent). 
+
+#PAGE13 Missions\Pictures\mord_d 6
+The 1st Saxon army has been defeated (violet).
+
+#PAGE14 Missions\Pictures\mord_d 6
+The 2nd Saxon army has been defeated (orange).
+
+#PAGE22 Missions\Pictures\mord3_tut 8 austria 9 austria 6
+The Danish army and fleet in the area have been defeated (green opponent). 
+
+#PAGE20 Missions\Pictures\faces 14
+All hostile armies in the area have been defeated.
+Victory!

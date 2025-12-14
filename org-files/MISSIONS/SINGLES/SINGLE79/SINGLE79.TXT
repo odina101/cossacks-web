@@ -1,0 +1,123 @@
+#BRIEFING faces 0
+{Q}	Resentment
+
+In this mission you will act under the banner of Great Britain. Your ally is on the other side of the island. To the north of your island lie trade routes of the English (orange). There are also two islands rich in resources in the north. They are controlled by pirates.
+The goal of the mission is to defeat the nation of the King of Spain's nephew (blue). The blue player is on the continent to the east of your island. Spanish merchant ships keep your enemy supplied with gold. Try to neutralise them.
+The continent is controlled by the hostile French.
+
+!You will lose if your army is eliminated. 
+
+{Z} 
+Hints:
+{A}	The king's relative is in the south-east.
+{S}	The grandee has two allies, Spain and France.
+{D}	On the opposite side of the island you can acquire ships from friends.
+{F}	Guard the English transports (white ketches) in the north; your ally (orange) will share his resources.
+{G}	To the north of your island lie enemy trade routes. Destroy the enemy transport ships (black ketches).
+
+#Entry missions\pictures\austria 10
+The betrayal costs you dearly. You have lost your lands. In addition, the King of England has taken away the gold you worked so hard to earn.
+However, taking into account your military experience, you have been made a lord and sent to defend the southern border of the kingdom.
+The Spanish grandee cannot forget the old insult. Having saved a necessary amount of gold and discovered your location, he sets off on his last campaign. 
+Beware of the pirates.
+
+
+#MarketLost missions\pictures\austria 10
+You have lost the market. You cannot trade with your ally.
+
+#MarketBuilt missions\pictures\austria 10
+You have rebuilt the market. Now you can trade with your ally once more.
+Click on the market to hire a merchant.
+
+#MerchantPrice  missions\pictures\austria 10
+Welcome to the market!
+A merchant will cost you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d 
+
+#MarketMainMenu missions\pictures\austria 10
+Would you like to hire a merchant?
+
+#MerchantMainMenu missions\pictures\austria 10
+What can I do for you, my lord?
+
+#MerchantInfoMenu missions\pictures\austria 10
+What exactly are you interested in, my lord?
+
+#Buiznes missions\pictures\austria 10
+
+
+The amount of packhorses is %d
+A new packhorse will cost you:
+Wood: %d Gold: d Stone: %d Food: %d Iron: %d Coal: %d
+The packhorses can carry: 
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+A successful deal will bring you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+
+
+#MakeOboz missions\pictures\austria 10
+Would you like to buy a packhorse?
+
+#MerchantSucsess missions\pictures\austria 10
+Good afternoon, my lord!
+My trip has ended in success.
+As a result you have received:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+
+#CancelTrading missions\pictures\austria 10
+I have loaded the packhorses and am now leaving to trade. If you cancel the trip, the cargo will be lost.
+Do you want to cancel the trip?
+
+#KaravanEmpty missions\pictures\austria 10
+I can't work without packhorses.
+
+#MerchantDie missions\pictures\austria 10
+You have lost the merchant. Click on the market to hire a new one. 
+
+#LittleMoney missions\pictures\austria 10
+You don't have enough resources!
+
+#victory missions\pictures\austria 10
+Congratulations! You have accomplished your task. Victory!
+
+#ai1_death missions\pictures\austria 10
+Spain has been defeated. Well done!
+
+
+
+#ai3_death missions\pictures\austria 10
+France is out of the game. Victory is close!
+
+#defeat missions\pictures\austria 10
+You have failed to complete the mission. Try again.
+
+#Entry missions\pictures\austria 10
+Your ally helps you to oppose the Spanish. His base is on the opposite side of the island. Making use of his shipyard, you can buy ships for a lower cost of resources.
+Send the general to your ally's shipyard.
+
+#Ali0 missions\pictures\austria 10
+Greetings, my friend! As there is no longer a menace from the central part of the island, we can now begin building on a large scale. Our shipyard is at your disposal. Click on the shipyard to buy ships.
+
+#Menu_port0 missions\pictures\austria 10
+Shipyard main menu. Place your orders, sir!
+
+#Menu_port1 missions\pictures\austria 10
+Current order information:
+Yacht: current price %d, amount purchased %d
+Frigate: current price %d, amount purchased %d
+Total sum: %d gold
+
+#Menu_port2 missions\pictures\austria 10
+The deal was successful!
+The ships will be built shortly. Please wait.
+
+#Menu_port3 missions\pictures\austria 10
+We cannot conclude a deal unless you order something!
+
+
+
+#Menu_port4 missions\pictures\austria 10
+Ships have been built!
+
+#extended missions\pictures\austria 10
+Yes!

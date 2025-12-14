@@ -1,0 +1,1 @@
+Fires grapeshot at close range. Effective against infantry. High rate of fire. Requires gold for maintenance. If you run out of gold, your multi-barrelled cannon will cease firing. Undefended multi-barrelled cannon may be captured by the enemy. Requires much coal and iron to fire.

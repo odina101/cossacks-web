@@ -1,0 +1,65 @@
+#BRIEFING faces 0
+{A} In the Blaze of Battle
+   
+You are fighting on the side of France. To secure victory, defeat all your opponents in the area. 
+You will lose if either the general or the hussar dies. 
+   
+Current objective:
+{B}Visit the general.
+{C}~Visit the general.~
+{D}Defend the camp passageway until reinforcements arrive.
+{E}~Defend the camp passageway until reinforcements arrive.~
+{F}Storm the fortress and destroy it.~
+{H}Defeat all opponents in the area.
+                                        
+  
+#PAGE0 Missions\Pictures\faces 14
+The 18th century. French troops oppose the armies of Austria, England and Spain. In a small valley is a camp of French troops headed by a general. 
+You will go to war against numerous adversaries.
+You must not allow the enemy to break into the camp. 
+
+#PAGE1 Missions\Pictures\faces 9
+You have received the general's orders: Go to the command centre.
+
+#PAGE2 Missions\Pictures\mord_tut 10
+General:
+- Captain. I order you to take command of the advance squadron and defend the approach to the camp until reinforcements arrive. Take 3 cavalry squads with you. 
+(Step up to a squad to select it.) 
+
+#PAGE3 Missions\Pictures\faces 9
+Will you take this squad? 
+
+#PAGE4 Missions\Pictures\faces 1
+A missive from the general:
+"You have fought vigorously, Captain. 
+Finally your reinforcements have arrived. I give you a squad of dragoons, cuirassiers, musketeers and artillery to command. 
+I order you to assault and destroy a fortress located in the north."
+(You must demolish all the barracks, blacksmiths and stables.) 
+
+#PAGE5 Missions\Pictures\faces 1
+A missive from the general:
+"The king is very pleased with your success. 
+Take troops, resources and peasants. You are commissioned to build a city and neutralise all the opponents in the region." 
+
+#PAGE10 Missions\Pictures\faces 9
+Mission failed. 
+
+#PAGE10G Missions\Pictures\faces 9
+The general has died. Mission failed.
+
+#PAGE10H Missions\Pictures\faces 9
+The hussar has died. Mission failed. 
+
+#PAGE11 Missions\Pictures\faces 9
+Blue opponent defeated. 
+
+#PAGE12 Missions\Pictures\faces 9
+Green opponent defeated. 
+
+#PAGE13 Missions\Pictures\faces 9
+Violet opponent defeated. 
+
+#PAGE20 Missions\Pictures\faces 14
+Congratulations! Victory! 
+Strong and formidable opponents have been defeated! 
+Congratulations! Hurray!

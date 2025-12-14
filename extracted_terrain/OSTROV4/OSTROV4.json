@@ -1,0 +1,8 @@
+{
+  "name": "OSTROV4",
+  "width": 64,
+  "height": 64,
+  "tileSize": 32,
+  "sectionCount": 100,
+  "tileCount": 600
+}

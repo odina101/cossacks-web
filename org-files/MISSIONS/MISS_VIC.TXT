@@ -1,0 +1,27 @@
+RESW*Wood
+RESF*Food
+RESS*Stone
+RESG*Gold
+RESI*Iron
+RESC*Coal
+ORSERA****Orsera
+ALKARAS***Alcaras
+BALASOTE**Balasote
+SPAIN*****Spain
+PORTUGAL**Portugal
+SITY******Capital
+GELPAZAR**Helpazar
+SARIKAYA** Sarykaya 
+NALIHAN***Nalykhan 
+MIHALCHIK*Mikhalyccik 
+NALIHANF**Nalykhan1
+NALIHANS**Nalykhan2
+MIHALF****Mikhalyccik1
+MIHALS****Mikhalyccik2
+VARSHAVA**Warsaw
+GANOVER***Hanover
+OSLO******Oslo
+OXFORD****Oxford
+NOTINHAM**Nottingham
+YORK******York
+NNNN End

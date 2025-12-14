@@ -1,0 +1,16 @@
+#BRIEFING faces 0
+{A}	A Valuable Cargo
+
+Current objective:
+{B}	Destroy the Austrian packhorses.
+
+#PAGE0 Missions\Pictures\poland 7
+You must destroy the enemy packhorses. You will lose if even a single packhorse reaches the crossing.
+You are in command of the Saxon army. It is disorganised, but the soldiers will obey you.
+Besides, the morale of the troops increases when you are around.   
+
+#PAGE Missions\Pictures\England 9
+
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+
+

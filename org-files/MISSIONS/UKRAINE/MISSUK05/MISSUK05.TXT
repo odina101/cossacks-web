@@ -1,0 +1,89 @@
+#BRIEFING faces 0
+{A}Zaporozhska Sich
+
+You must defeat the Polish army to win.
+
+{B}
+{D} You will lose if you have no army left.
+{E} You will lose if no packhorses are left.
+{F} You will lose if there is no transport left.
+{G} You will lose if the Polish win the battle.
+
+{C}
+  Current objectives:
+{I}Go to Bogdan Khmelnitsky.
+{P}~ Go to Bogdan Khmelnitsky.~
+{J}Deliver the packhorses to the Crimean Khan.
+{R}~ Deliver the packhorses to the Crimean Khan.~
+{K}Regain the shipyard captured by the Polish.
+{S}~ Regain the shipyard captured by the Polish.~
+{L}Capture the camp located in the east.
+{T}~ Capture the camp located in the east.~
+{M}Place drummers on the hills to the north-east of the shipyard and to the north-west of the merchants' camp.
+{U}~ Place drummers on the hills to the north-east of the shipyard and to the north-west of the merchants' camp.~
+{N}Destroy the Polish storehouses.
+{V}~ Destroy the Polish storehouses.~
+{O}Capture the hill located to the east of the Ukrainian base.
+{W}~ Capture the hill located to the east of the Ukrainian base.~
+{X}Secure the Ukrainian base guard.
+{Y}~ Secure the Ukrainian base guard.~
+#PAGE1 missions\pictures\ukraine 10
+  Greetings. I am Hetman Khmelnitsky, the commander of the Ukrainian army. The Poles are preparing a major assault to annihilate our army. We will be facing a well-trained and numerically superior enemy. The good news is that the Crimean Khan has agreed to fight with us.
+#PAGE2 missions\pictures\ukraine 10
+  He is ready to yield a part of his army to my command. I order you to deliver these packhorses to the Khan. Go to the shipyard located in the north-west. Then ferry the packhorses over to the other bank where the Khan's camp is situated. Be careful, the lands nearby are teeming with Polish troops who will definitely try to impede you. If you lose all the packhorses, our mission will end in disaster.
+#PAGE3 missions\pictures\ukraine 7
+  Greetings to you. Did you bring the fee we agreed upon with Hetman Khmelnitsky?
+#PAGE4 missions\pictures\ukraine 10
+  Damn! The Poles have captured the shipyard and now the Tatars cannot land here. You are now in charge of this squad. Retake the shipyard now.
+#PAGE5 missions\pictures\ukraine 10
+  Good work! We are in control of the shipyard again and the Tatars can land now.
+#PAGE6 missions\pictures\ukraine 7
+  Excellent. My forces are ready to cross the river. Allah be with you.
+#PAGE7 missions\pictures\ukraine 10
+  Perfect! The Tatars are under my command and we are preparing for the battle. The outcome depends much on how much information we manage to gather about enemy plans. Thus, reconnaissance is most important right now. I will give you a small squad of Russian soldiers with several drummers.
+#PAGE8 missions\pictures\ukraine 10
+  Drummers have wide field of view and are very useful for reconnaissance. Move the drummers to the enemy's rear. The best way is to take up positions at the heights. You will find paths at the shipyard to the north-west and near the merchant camp to the north-east.
+#PAGE9 missions\pictures\ukraine 5
+  Greetings! We are merchants. If you come in peace, we are glad to see you in our camp. A great battle will soon take place here, so we are looking forward to good profits. We are always open to any business that will profit us.
+#PAGE10 missions\pictures\ukraine 10
+   A little way to the north, there is an eminence controlled by Poles. Try to capture it. This position may play a decisive role in the future battle.
+#PAGE11 missions\pictures\ukraine 10
+  Scouts report that the merchants have delivered convoys with resources to the Polish camp. On the one hand, the merchants are strengthening the Poles by supplying them with resources, and this is not good. On the other hand, the merchants have access to the Polish camp, and we are going to use that to our advantage. Proceed to the merchants and ask them to take your squad to the camp.
+#PAGE12 missions\pictures\ukraine 10
+  Scouts have reported that there are storehouses with resources in the Polish camp. Demolish the storehouses to weaken the Polish army.
+#PAGE13 missions\pictures\ukraine 9
+  Greetings! From what we have heard, we gather that you supply the Poles with goods and have access to their camp. We are offering you a bargain: You take our squad to the camp and we will make you 5,000 units of gold richer.
+#PAGE14 missions\pictures\ukraine 5
+  Well, we see your gold and we are ready to do you a little favour. For 25,000 in gold we will gladly lead your squad to the Polish camp. Agreed?
+#PAGE15 missions\pictures\ukraine 10
+  This village has an academy, a blacksmith and an artillery depot. Having captured them you will be able to carry out a number of important upgrades allowing you to increase many fighting parameters.
+#PAGE16 missions\pictures\ukraine 5
+  We have fulfilled our agreement. The Cossacks are now under your command.
+#PAGE17 missions\pictures\ukraine 10
+  You are doing well. With the help of our scouts, we can observe the Polish camp. Now we need to secure our own camp. Pay attention to the heights around the camp. If the enemy takes them, we're in trouble. Now I'll give you another squad.
+#PAGE18 missions\pictures\ukraine 10
+  Excellent. You have captured the camp. Here you will find an academy which will allow you to conduct your most important upgrades.
+#PAGE19 missions\pictures\ukraine 10
+  You have demolished the Polish storehouse.
+#PAGE20 missions\pictures\ukraine 14
+  The Ukrainian and Tatar forces have acknowledged your command.
+#PAGE21 missions\pictures\ukraine 14
+  You have lost your transport.
+#PAGE22 missions\pictures\ukraine 14
+  You have lost the convoy and cannot pay the Tatars now.
+#PAGE23 missions\pictures\ukraine 10
+  The Poles are attacking. We have some time yet to move into position. Our scouts report that the major battle will take place near the eminence to the north of our camp.
+#PAGE24 missions\pictures\ukraine 10
+  You have destroyed storehouses with resources in the Polish camp, and now some enemy soldiers cannot be equipped and will not take part in the battle.
+#PAGE25 missions\pictures\ukraine 10
+  I will take the right flank with my forces, the Tatars will take the left one. The artillery is under your command. Move into the most advantageous positions and support my army and the Tatars with artillery fire.
+#PAGE26 missions\pictures\ukraine 14
+  The Ukrainian forces have been defeated by the Poles. Mission failed.
+#PAGE27 missions\pictures\ukraine 10
+  Congratulations! What a brilliant victory over the Poles! The remnants of their forces are retreating hastily from the battlefield.
+#PAGE28 missions\pictures\ukraine 10
+  I order you to capture the camp to the east of our base and give you two cannons.
+#PAGE29 missions\pictures\ukraine 10
+  Well done, you are in the Polish camp. Try to destroy storehouses with resources.
+#PAGE30 missions\pictures\ukraine 5
+  Now we are in charge of a small Cossack squad of Ataman Khmelnitsky's army. We will take them through the outposts. When we reach the storehouses, you will take over the command.

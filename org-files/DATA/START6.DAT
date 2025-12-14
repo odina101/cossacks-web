@@ -1,0 +1,280 @@
+#Kreposnoi_pruss(BA)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_pruss(BA) X
+Bashnia(BA)  Q
+Bashnia(BA) W
+12 4
+                               
+        XXXXXX   
+        XXXXXX   
+ Q      XXXXXX       W
+        XXXXXX        
+        XXXXXX        
+        XXXXXX         
+#Kreposnoi_pruss(DA)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_pruss(DA) X
+Bashnia(DA)  Q
+Bashnia(DA) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kreposnoi_pruss(au)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_pruss(au) X
+Bashnia(au)  Q
+Bashnia(au) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Krestian_Turki(AL)
+0 20000 0 1000 6000 9000
+3
+Krestian_Turki(AL) X
+Bashnia_3(AL)  Q
+Bashnia_3(AL) W
+12 4
+              
+        XXXXXX
+        XXXXXX
+ Q      XXXXXX     W
+        XXXXXX    
+        XXXXXX    
+        XXXXXX
+         
+#Krestian_Sved(en)
+0 20000 0 0 6000 9000
+3
+Krestian_Sved(en) X
+Bashnia(en)  Q
+Bashnia(en) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Krestian_Sved(fr)
+0 20000 0 0 6000 9000
+3
+Krestian_Sved(fr) X
+Bashnia(fr)  Q
+Bashnia(fr) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kreposnoi_pruss(GE)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_pruss(GE) X
+Bashnia(GE)  Q
+Bashnia(GE) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Krestian_Sved(HO)  
+0 20000 0 0 6000 9000
+3
+Krestian_Sved(HO) X
+Bashnia(HO)  Q
+Bashnia(HO) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kreposnoi_portugal(PI)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_portugal(PI) X
+Bashnia(PI)  Q
+Bashnia(PI) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kreposnoi_evro(PL)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_evro(PL) X
+Bashnia(PL)  Q
+Bashnia(PL) W
+12 4
+                               
+         XXXXXX 
+         XXXXXX  
+ Q       XXXXXX      W
+         XXXXXX       
+         XXXXXX       
+         XXXXXX        
+#Kreposnoi_portugal(PO)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_portugal(PO) X
+Bashnia(PO)  Q
+Bashnia(PO) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kreposnoi(RU)
+0 20000 0 0 6000 9000
+3
+Kreposnoi(RU) X
+Bashnia_2(RU)  Q
+Bashnia_2(RU) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kreposnoi_pruss(SA)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_pruss(SA) X
+Bashnia(SA)  Q
+Bashnia(SA) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kreposnoi_portugal(sp)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_portugal(sp) X
+Bashnia(sp)  Q
+Bashnia(sp) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Krestian_Sved(SV)
+0 20000 0 0 6000 9000
+3
+Krestian_Sved(SV) X
+Bashnia(SV)  Q
+Bashnia(SV) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Krestian_Turki(TU)
+0 20000 0 0 6000 9000
+3
+Krestian_Turki(TU) X
+Bashnia_3(TU)  Q
+Bashnia_3(TU) W
+12 4
+                               
+        XXXXXX  
+        XXXXXX  
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+#Kres_ukranian(UA)
+10000 20000 0 0 6000 9000
+1
+Kres_ukranian(UA) X
+12 4
+                               
+        XXXXXX 
+        XXXXXX  
+        XXXXXX      
+        XXXXXX       
+        XXXXXX       
+              
+#Kreposnoi_portugal(VE)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_portugal(VE) X
+Bashnia(VE)  Q
+Bashnia(VE) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX
+#Krestian_Sved(SW)
+0 20000 0 0 6000 9000
+3
+Krestian_Sved(SW) X
+Bashnia(SW)  Q
+Bashnia(SW) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX
+#Kreposnoi_pruss(VG)
+0 20000 0 0 6000 9000
+3
+Kreposnoi_pruss(VG) X
+Bashnia(VG)  Q
+Bashnia(VG) W
+12 4
+                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX     W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX
+#

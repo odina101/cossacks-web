@@ -1,0 +1,124 @@
+#BRIEFING faces 0
+
+{A}Sea of cannonballs
+Replenish your fool supply and escape the area to win!
+You will lose if your transport of the Red Fang is destroyed!
+
+#PAGE1 Missions\Pictures\mord3_tut 0
+You have sailed into the Carribean waters after your escape from England. Before you continue the journey, you will need to gather food supplies. There is a small British plantation to the north. Capture it and gather 60,000 in food.
+Do not destroy the dock there. You can use it to bolster your fleet with new ships.
+Guard your transport ship and the Fang. You musn't lose them. Also, do not lose your peasants until you have the needed amount of food.
+
+#PAGE0 Missions\Pictures\mord_d 0
+"Sir, I have spotted a strong enemy blockade in our way to the north-east of the island with the plantation. We will have to deal with them before we continue our journey. There are also a lot of pirates all over the area. Maybe we can grab some gold and ammo from them."
+
+#PAGE1A Missions\Pictures\england 5
+Your ship has been sunk and you have died!
+
+#PAGE1B Missions\Pictures\russia 34
+You have lost the transport with your supplies!
+
+#PAGE1C Missions\Pictures\mord_d 6
+You have lost your peasants!
+
+#PAGE2 Missions\Pictures\austria 35
+You have captured a mill. You can use it to store food here until you have accumulated enough (60,000) to continue the journey.
+While your peasants do the gathering, you should scout the area and build up your fleet. Explore the map and grab resources from the pirates to build a strong fleet.
+
+#PAGE3 Missions\Pictures\england 27
+You sunk a pirate schooner. While searching the wreckage, your men have found the captain's journal. It's mostly usless self-praise, however the following entry is interesting:
+"I've hid me loot on the middle southern isle so I have. I've marked da spot with some black tar. Don't wonna them nosey basterds grabbin' my share."
+
+#PAGE4 Missions\Pictures\faces 15
+Your men have been digging on the tar-marked place. You have found a chest with 1000 gold and a lot of ammunition.
+
+#PAGE5 Missions\Pictures\mord3_tut 8
+Pirate squad defeated. Your loot is 1000 in gold, and 4000/8000 in ammunition.
+
+#PAGE6 Missions\Pictures\mord3_tut 8
+Yet another squad of pirates feeds the sharks. You have captured 2000 in gold and iron and 4000 in coal.
+
+#PAGE7 Missions\Pictures\mord_tut 29
+You have found a chest in the jungle. Whoever the owner is, he has left 1000 in gold and 5000 in iron and coal in it.
+
+#PAGE8 Missions\Pictures\mord3_tut 2
+Pirate ship ahead! It looks like some sort of a large galley.
+
+#PAGE9 Missions\Pictures\england 5
+Enemy galley destroyed. You search the remains and gather 500 gold, 4000 iron and 5000 coal.
+
+#PAGE10 Missions\Pictures\england 7
+Somebody yells from the pirate ship:
+"On yer feet boys. Some crazy bastard's bringing us gold again! Shoot him and grab what you can!"
+
+#PAGE11 Missions\Pictures\mord3_tut 8
+You have eliminated another group of pirates. Your salvage is 500 gold, 2000 iron and 4000 coal.
+
+#PAGE12 Missions\Pictures\poland 5
+An ugly looking leader of the pirate gang shouts:
+"Oi, look at these scoundrels! I'll teach you to sneak round' me camp!
+
+#PAGE13 Missions\Pictures\poland 5
+You have killed the gang leader:
+"Arrrgh, I shall be avenged, I swear! Damn... you..."
+
+#PAGE14 Missions\Pictures\poland 13
+You have eliminated the gang and searched the camp. Your men have found 500 gold, and some ammunition.
+
+#PAGE15 Missions\Pictures\mord3_tut 1
+You have found a pair of poorly guarded schooners. There were barely a couple of men on them. Your men easily overpower them and take the ships.
+
+#PAGE16 Missions\Pictures\mord3_tut 4
+Beyond this straight is the enemy blockade to the notrh-east. You should not attempt to break the blockade until you have a strong fleet.
+
+#PAGE17 Missions\Pictures\faces 30
+Another pirate schooner has been send to the bottom of the sea. It's captain has made a run for it, but you caught him.
+Will you spare his life?
+
+#PAGE17y Missions\Pictures\england 15
+"Thank ye me good sir! I've hid me loot on the south-west island, under the dead tree! Take it please, it's all yours! But leave me be sir!
+
+#PAGE17n Missions\Pictures\england 17
+You search the captain then shoot him and throw him overboard. You have found 1000 in gold on him.
+
+#PAGE18 Missions\Pictures\faces 15
+You have found a buried chest full of pirate riches. Among the usual stuff, there are also artillery sights you can use (+35% accuracy).
+
+#PAGE19 Missions\Pictures\mord3_tut 3
+You have eliminated a group of pirates. They were guarding an exotic ship of some kind.
+
+#PAGE20 Missions\Pictures\mord3_tut 13
+Your men inspect the strange ship. It is clearly old and of arabic design. It looks like the pirates have been restoring it for some time. Some of your men have transfered to the new ship and assumed command.
+
+#PAGE21 Missions\Pictures\england 2
+Frigate ahead. It's flag is unknown.
+
+#PAGE22 Missions\Pictures\poland 12
+"Hey there! Are you the men that escaped from England? I'm sure you'll remember me since I was the one who let you into the port! Have no fear from me! I'm here to join in your quest for a new home. I was charged with treason and have nowhere else to go."
+
+#PAGE22B Missions\Pictures\poland 19
+"Of course you may join us sir! Your help has not been forgotten. But I cannot guaratee any of us are in the clear yet. Come, we have a blockade to deal with."
+
+#PAGE23 Missions\Pictures\poland 15
+You have accumulated enough food for the journey. Bring the transport to the dock to load it.
+
+#PAGE24 Missions\Pictures\austria 0
+The transport is being loaded.
+
+#PAGE25 Missions\Pictures\russia 34
+The transport has been loaded and is ready to go. When you are ready, bring both the transport and "the Red Fang" to the north-east corner of the map. Beware the enemy.
+
+#PAGE26 Missions\Pictures\mord3_tut 0
+You have done it! Both your ship and the supplies are safe and you have escaped the enemy for now. Now you can begin looking for a place to settle down and make a new home. 
+
+#PAGE27 Missions\Pictures\mord_d 0
+We better hurry. Enemy capital ship has arrived from England and is in pursuit!
+
+#PAGE28 Missions\Pictures\mord_d 7
+You have captured the dock. You can use it to strengthen your fleet while you wait for the food to be gathered by your peasants.
+
+#PAGE29 Missions\Pictures\faces 9
+Another gang of pirates has caught sight of you and moves to plunder your ships. Show them that piracy works both ways!
+
+#PAGE30 Missions\Pictures\faces 16
+You have sunk the overly confident pirate gang and plundered their ships.

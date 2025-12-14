@@ -1,0 +1,68 @@
+R1 Wood
+R2 Food
+R3 Stone
+R4 Gold
+R5 Iron
+R6 Coal
+VI1_1 Get information on the village.
+VI1_2 Change tax.
+VI1_11 Information.
+VI1_3 Trade.
+VI1_12 Leave.
+VI1_4 Leave the village.
+TPW1_0 Do not impose tax.
+TPW1_1 Impose low tax (leave gold for village development).
+TPW1_2 Impose average tax (leave gold for production only).
+TPW1_3 Impose high tax (no village development or production).
+TR1_1 Current village prices.
+TR1_3 Select caravan.
+TR1_4 Back
+NO1_1 Caravan 1
+NO1_2 Caravan 2
+NO1_3 Caravan 3
+NO1_4 Caravan 4
+NO1_5 Caravan 5
+NO1_6 Caravan 6
+NO1_7 Caravan 7
+NO1_8 Caravan 8
+NO1_9 Caravan 9
+NO1_10 Caravan 10
+OD1_0 Display information about caravan.
+OD1_1 Create caravan or change its route.
+OD1_2 Delete caravan.
+V01 York
+V02 Capital
+V10_1 Oxford
+V10_2 Nottingham
+V10_3 Capital
+V11_1 Warsaw
+V11_2 Hanover
+V11_3 Oslo
+V11_4 Capital
+P11_1 Austria
+P11_2 Sweden
+V12_0 Capital
+V12_1 Helpazar
+V12_2 Sarykaya
+V12_3 Nalykhan
+V12_4 Mikhalyccik
+V12_5 Nalykhan 1
+V12_6 Nalykhan 2
+V12_7 Mikhalyccik 1
+V12_8 Mikhalyccik 2
+P12_1 Algeria
+P12_2 Turkey
+V13_0 Capital
+V13_1 The Portuguese 
+V13_2 Spaniards
+V14_0 Orsera
+V14_1 Alcaraz
+V14_2 Balasote
+V14_3 Spaniards
+V14_4 The Portuguese 
+
+
+M20_01 Russia.
+M20_02 Turkey.
+M20_03 Denmark.
+M20_04 Prussia.

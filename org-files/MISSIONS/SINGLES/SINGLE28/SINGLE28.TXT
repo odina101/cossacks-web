@@ -1,0 +1,151 @@
+#BRIEFING faces 0
+{E}	Lake Saryjar
+
+Victory will be yours only if you are able to defeat the Algerian and Turkish forces. 
+You will lose if you lose your troops and structures. 
+
+{A}Nalykhan and Mikhalyccik procure gold if they have enough food. 
+{B}Trade posts take care of resource storage for a certain charge. 
+{C}Helpazary procure iron and exchange it for food. 
+{D}Sarykaya procure coal and exchange it for food. 
+{F}Orders in villages are given through your hussars. 
+{G}Truces are concluded by command centre hussars.
+
+#PAGE1 Missions\Pictures\England 30
+Select an action you consider necessary to carry out in the village: 
+
+#PAGE11 Missions\Pictures\England 30
+         %-15s
+Production: %-10s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+Budget income %-10d
+Treasury income - %-10d
+Required for production - %-10d
+Current budget   -   %-10d
+                (population - %5d citizens)
+
+#PAGE40 Missions\Pictures\England 30
+         %-15s
+Production: %-10s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+Current budget   -   %-10d
+                (population - %5d citizens)
+
+#PAGE41 Missions\Pictures\England 30
+         %-15s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+
+#PAGE12 Missions\Pictures\England 17
+Impose a tax:
+
+#PAGE13 Missions\Pictures\austria 44
+Trade.
+
+#PAGE131 Missions\Pictures\England 17
+Current village prices:
+We exchange 
+%-10s  - %-10d
+for
+%-10s  - %-10d
+#PAGE133 Missions\Pictures\poland 20
+Change caravan route:
+
+#PAGE1331 Missions\Pictures\poland 20
+What do you want to do about the caravan?
+
+#PAGE2 Missions\Pictures\poland 1
+Unfortunately, this is not our caravan.
+
+#PAGE3 Missions\Pictures\poland 1
+Caravan destroyed.
+
+#PAGE4 Missions\Pictures\poland 1
+Who should we trade with? 
+
+#PAGE5 Missions\Pictures\poland 1
+What shall we load onto packhorses from village storehouses for sale? 
+
+#PAGE6 Missions\Pictures\poland 1
+What should the cargo be exchanged for in the neighbouring villages?
+
+#PAGE7 Missions\Pictures\poland 20
+Trades with  %-10s
+Sells     %-10s
+Purchases    %-10s
+Loaded
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE8 Missions\Pictures\poland 1
+You don't own this caravan.
+
+#PAGE9 Missions\Pictures\poland 1
+Helpazary.
+We procure iron, provided we have a secure food supply. If you protect our village from brigands and supply us with food, we will give you iron. 
+
+#PAGE10 Missions\Pictures\poland 1
+Sarykaya.
+We procure coal, if we have a secure food supply. If you protect our village from brigands and supply us with food, we will give you coal.  
+
+#PAGE21 Missions\Pictures\austria 8
+Your mission has failed. 
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+You have succeeded! 
+
+#PAGE23 Missions\Pictures\mord_tut 39
+Neutralise the alliance of Algeria and Turkey in the area. Start trading with locals. Your foreign minister can try concluding a temporary truce with one of the sides.   
+
+#PAGE24 Missions\Pictures\mord_tut 39
+Nalykhan.
+We are free prospectors and exchange gold for food. Deliveries will be secured by your caravans, but you will have to ensure their protection. We can only trade with you through trade posts, so you must first opt to trade. 
+
+#PAGE35 Missions\Pictures\mord_tut 39
+Mikhalccik.
+We are free prospectors and exchange gold for food. Deliveries will be secured by your caravans, but you will have to ensure their protection. We can only trade with you through trade posts, so you must first opt to trade.
+
+#PAGE36 Missions\Pictures\mord_tut 39
+%-20s
+We are prepared to store your goods in our storehouses for a certain pay, depending on the storage period. As your own caravans will do the transporting, you must also secure their protection. 
+
+#PAGE25 Missions\Pictures\mord_tut 39
+Who would you like to sign a temporary truce with? 
+
+#PAGE26 Missions\Pictures\mord_tut 39
+You are at peace with Turkey. Shall we declare war on them? 
+
+#PAGE27 Missions\Pictures\mord_tut 39
+You are at peace with Algeria. Shall we declare war on them? 
+
+#PAGE28 Missions\Pictures\mord_tut 39
+We are demanded to pay %-10d gold for the truce.
+
+#PAGE29 Missions\Pictures\mord_tut 39
+Will you pay? 
+
+#PAGE30 Missions\Pictures\mord_tut 39
+You don't have enough gold.
+
+#PAGE32 Missions\Pictures\mord_tut 39
+A truce has been concluded.
+
+#PAGE34 Missions\Pictures\mord_tut 39
+The truce period has expired. 
+
+#PAGE911 Missions\Pictures\mord_tut 39
+This is 911.

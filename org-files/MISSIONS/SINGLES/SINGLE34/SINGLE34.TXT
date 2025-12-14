@@ -1,0 +1,43 @@
+#BRIEFING faces 0
+{A} The High Road
+
+Current objectives:
+{B}Protect the caravans proceeding down the road from the port to the town and back. 
+
+Only the main character can hire troops. 
+You will lose if your main character dies. 
+For each caravan that reaches its destination, a reward will be paid to you. 
+
+#PAGE0 Missions\Pictures\poland 7
+As an officer in the Austrian army, you have been ordered to protect the trade route. 
+Only the main character can hire troops from the officer near the town. 
+To win, ensure that %d caravans reach their destination within the duration of your mission. 
+
+#PAGE1 Missions\Pictures\England 9
+Who would you like to hire?
+
+#PAGE2 Missions\Pictures\England 9
+You are short of money. 
+You must improve your fighting skills!
+
+#PAGE3 Missions\Pictures\England 9
+Commendable service! 
+%d caravans delivered their cargo. 
+
+#PAGE4 Missions\Pictures\England 9
+Defeat.
+Only %d caravans delivered their cargo. 
+
+#PAGE5 Missions\Pictures\England 9
+Half of your time of service has passed. 
+During that time %d caravans reached their destination.
+In total %d caravans must be delivered. 
+
+#PAGE6 Missions\Pictures\England 9
+Three quarters of your time of service have passed. 
+During that time %d caravans reached their destination. 
+In total %d caravans must be delivered.
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

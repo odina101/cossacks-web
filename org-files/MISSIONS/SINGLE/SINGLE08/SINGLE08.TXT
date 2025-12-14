@@ -1,0 +1,10 @@
+#BRIEFING faces 0
+{A}Forced Crossing
+  You must defeat the Swedish army to win.
+{B}
+ You will lose if you have no army left.
+
+#PAGE1 missions\pictures\faces 28
+ You have been entrusted with the tasks of raising an army and defeating the Swedes. Use the three bridges across the river to your advantage. Having arranged a reasonable defence at the bridges, you will be able to deter substantial enemy forces. You must hurry. Our forces can hardly hold the enemy back on the other bank and will soon fall.
+#PAGE2 missions\pictures\faces 24
+ In this mission you are unable to build ships, walls or palings.

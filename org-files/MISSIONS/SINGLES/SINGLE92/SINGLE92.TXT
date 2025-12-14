@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+{A}	A Portuguese Domain in Brazil
+
+!You will lose if either your troops or the shipyard are destroyed.
+
+Current objective:
+{B}	You must exterminate the Dutch settlers.
+
+
+#PAGE1 Missions\Pictures\austria 25
+The Dutch are infringing on our sea domain more and more. 
+Our colonies in Brazil are facing a serious threat. The colonies are very rich and the crown can make high profits with their help. Your task is to eliminate the Dutch settlers in Brazil and repel the attacks of the Dutch fleet. 
+The king believes in you and, should your campaign be successful, he will grant you rich lands in the north of Portugal.
+
+#PAGE2 Missions\Pictures\austria 45
+You should attack the Dutch ships carrying gold to the Netherlands.
+
+#PAGE3  Missions\Pictures\austria 8
+Perfect! You have prevailed.
+The king will pleased with you.
+
+#PAGE4  Missions\Pictures\mord_d 6
+Your troops have been defeated.
+You have lost.
+
+#PAGE5  Missions\Pictures\mord3_tut 8
+You have wrecked the Dutch frigate.
+You have found 5,000 gold in the bilge.
+
+#PAGE6  Missions\Pictures\mord_d 7
+The shipyard has been destroyed.
+You have lost.
+
+#PAGE911 Missions\Pictures\mord2_tut 0
+911

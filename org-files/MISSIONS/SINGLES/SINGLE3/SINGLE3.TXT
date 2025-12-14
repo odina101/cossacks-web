@@ -1,0 +1,54 @@
+#BRIEFING faces 0
+{A} The Sultan's Island
+ 
+Your objective is to break the alliance of Turkey and Algeria. To accomplish this, it should be enough to kill the Turkish sultan (orange), who is on the island to the west. Be careful, the Turks have the Black Sea under their control and are blocking the land passageways. Besides, you must free your peasants from captivity, for they possess information valuable to you. 
+You will lose if your troops are defeated, or if you fail to release the captives.   
+
+Current objectives:
+{B}Kill the Turkish sultan (orange Turkish officer) on the island to the west. 
+{C}~Kill the Turkish sultan (orange Turkish officer) on the island to the west.~
+{D}Free the captive peasants in the south-west. 
+{E}~Free the captive peasants in the south-west.~
+{F}Destroy the Turkish post in the south.~
+
+#PAGE0A Missions\Pictures\austria 18
+You must break the alliance of Turkey and Algeria! To accomplish this, kill the commander of the allied troops: the Turkish sultan (orange Turkish officer) on the island to the west!
+
+#PAGE0B Missions\Pictures\faces 31
+Unfortunately your peasants cannot build shipyards! That is why you need to free the captive workers in one of the two forts in the south-west. They can construct shipyards! Be careful, if the captives die you won't be able to reach the sultan on the island and your mission will fail!
+
+#PAGE0C Missions\Pictures\faces 31
+The Turks have blocked the way from north to south! They are alert and have sent soldiers towards you! Destroy their post to the south! The passageway to the south-west is controlled by Turkish ships! To stop them, demolish the shipyards on the sultan's island (to the west). To accomplish this you need to build your own shipyard! 
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You have destroyed the Turkish post! You found %d gold hidden there!  
+
+#PAGE1 Missions\Pictures\faces 4
+You were killed in the unequal fight.
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death.
+
+#PAGE2 Missions\Pictures\faces 34
+Congratulations! You have demolished the Turkish shipyards on the sultan's island!
+
+#PAGE8 Missions\Pictures\austria 6
+You have neutralised the allied troops! But one target remains: the Turkish sultan (orange Turkish officer) on the island! Don't let him escape! 
+
+#PAGE8A Missions\Pictures\austria 6
+Good work! You have destroyed the major part of the Turkish army!
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! You have vanquished the Algerian forces!
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You accomplished all your objectives and are victorious!
+
+#PAGE10 Missions\Pictures\faces 4
+Accept my compliments! The Turkish sultan is no more, and the alliance between Turkey and Algeria has been broken!
+
+#PAGE11  Missions\Pictures\mord_d 6
+All the captive peasants are dead! You lose!
+
+#PAGE12 Missions\Pictures\faces 13
+You have liberated a captive peasant! Now the shipyard plans are at your disposal and you can build it!   

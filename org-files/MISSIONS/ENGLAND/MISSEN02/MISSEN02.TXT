@@ -1,0 +1,61 @@
+#BRIEFING faces 0
+{A}Bermudan Pirates
+
+In order to win, you should clean up the pirate base. Eliminate its garrison and fleet.
+
+!You can gain gold, iron and coal using commerce.
+#PAGE1 Missions\Pictures\england 4
+  The southern Bermudan island is the worst place for a military base. It is quite small and has no mineral deposits. However, you have no options - these are your orders.
+#PAGE1A Missions\Pictures\england 4
+  You should fortify your position here and start building your military fleet as soon as possible. Use your resources wisely - your Market is the only source of gold, coal and iron.
+#PAGE2 Missions\Pictures\england 13
+  A pirate schooner approaches the southern shore: "Hey you on land! Gimme all your gold or you're toast!"
+  Will you pay these extortioners?
+#PAGE2A Missions\Pictures\england 13
+  "That's good of you, Englishman. Your health is worth more than this filthy lucre!"
+#PAGE2B Missions\Pictures\england 13
+  "Ah, you skinflint! You'll pay for this! The cannon will soon speak for me!"
+#PAGE2C Missions\Pictures\england 13
+  "I see you're not too rich, eh? Very well, I'm not squeamish about other goods ..."
+#PAGE3 Missions\Pictures\england 14
+  Sir! We have received a report on pirate aggression against our northern colony. The pirates might attack us at any moment!
+#PAGE4 Missions\Pictures\england 28
+  The pirate squadron has been wiped out! Your reward is 1,000 in gold.
+#PAGE5 Missions\Pictures\england 17
+  You sank the pirates' schooners. The Governor pays you a reward of 500 in gold.
+#PAGE6 Missions\Pictures\england 31
+  An old pirate went down with his schooner and left no treasure. In his chest, you find a map with an inscription on it: "Between two rocks".
+#PAGE7 Missions\Pictures\england 28
+  Your people have been digging between two rocks and found a chest with treasure.
+#PAGE8 Missions\Pictures\england 13
+  A-a-agrh! Damn you! I'm drowning! But I shall be avenged! You are dead, do you hear me?! You're dea- gurgrh ...
+#PAGE9 Missions\Pictures\mord_tut 28
+  Building a Market is very important for your economy. You must organize intensive woodcutting, stone quarrying and harvesting in order to barter your products for needed resources.
+#PAGE10 Missions\Pictures\mord3_tut 8
+  The squadron of extortioners has gone down! However, it is too early to relax yet - pirates never send out warnings before a raid!
+#PAGE11 Missions\Pictures\england 5
+  Another pirate gang has been eliminated. Perhaps they will leave you alone from now on.
+#PAGE12 Missions\Pictures\russia 34
+  A merchant vessel is heading from the northern colony to the south. Your objective is to escort this ship and protect it from possible raids. The Governor promises to be very generous if you succeed.
+#PAGE13 Missions\Pictures\england 28
+  Good work! The Governor is very grateful. He sends you resources as a reward. You will need them to fight the pirates.
+#PAGE14 Missions\Pictures\england 5
+  The freighter has been plundered and sunk by pirates. They gained a fortune thanks to your blunder! The Governor is furious!
+#PAGE15 Missions\Pictures\england 35
+  You have been informed through rumours about pirates joining a so-called "Republic". Their goal is to devastate your military base. It's high time we had a crucial battle.
+#PAGE16 Missions\Pictures\england 1
+  Sir! We cannot shoot! We're short of cannonballs!
+#PAGE17 Missions\Pictures\england 14
+  Sir, we have no more gold! Our frigate crews refuse to fight until you have paid their wages.
+#PAGE18 Missions\Pictures\mord3_tut 0
+  What a glorious victory! The pirates have been annihilated! This should serve as a good lesson for all who challenge the English Crown.
+#PAGE19 Missions\Pictures\england 22
+  Your forces have been crushed and you are now the pirates' prisoner. Hopefully your relatives will raise a ransom for you ...
+#PAGE20 Missions\Pictures\england 33
+  One of the pirates tried to escape by swimming from the sinking ship. Your sailors caught and frisked him before hanging him from the mast. In the pocket of his camisole they found a map with an inscription: "By the large oak".
+#PAGE21 Missions\Pictures\england 17
+  A sack full of gold coins has been found in the a hollow space of this bushy oak.
+#PAGE22 Missions\Pictures\england 0
+  Sir, these pirates are becoming far too impudent! Some rascal has stolen heaps of resources from our harbour!
+#PAGE23 Missions\Pictures\england 0
+  Stop, thief!!! Guards! The shipyard has been robbed! Hey, there's the thief - he's fleeing on the yacht!!!

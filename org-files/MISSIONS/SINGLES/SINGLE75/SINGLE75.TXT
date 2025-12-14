@@ -1,0 +1,28 @@
+#BRIEFING faces 0
+{A}	1704: Narva, the Last Stronghold
+
+You must destroy the Swedish fortress.
+You will lose if your troops and buildings are destroyed.
+
+Current objectives:
+{B}	!Destroy the fort in the west.
+{C}	~Destroy the fort in the west.~
+{D}	!Build a fortified fort.
+{F}	~Destroy the fort in the east.~
+{E}	!Destroy the fort in the east.
+{G}	!Destroy the Swedish fortress.
+
+#PAGE1601 Missions\Pictures\Austria 18
+There are Swedish shipyards in the west. You must destroy the guard fort and build your own. Be careful, the fort is perfectly guarded from the sea.
+
+#PAGE1602 Missions\Pictures\Austria 6
+You have captured the shipyards. Clean up the place and build a fort. Move along the shore to the east and destroy another fort. This will allow you to build a shipyard and begin crossing the river.
+
+#PAGE1603 Missions\Pictures\Austria 27
+You have failed to complete the mission and jeopardized the assault of the Swedish fortress!
+
+#PAGE1604 Missions\Pictures\England 25
+You have successfully completed your mission.
+
+#PAGE1605 Missions\Pictures\Austria 0
+Very good! You have destroyed another fort. Now you can build a fleet and attack the Swedish fortress!

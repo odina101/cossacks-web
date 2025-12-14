@@ -1,0 +1,1 @@
+Best defensive structure. Can only be destroyed by artillery, grenadiers or archers. Conducting upgrades to increase the number of cannon in a tower will improve its rate of fire. The upgrades should be made separately for each tower. Towers require much iron and coal for shooting.

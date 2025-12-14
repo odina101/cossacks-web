@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+War Against Mercenaries
+
+You must defeat the Poles and destroy the camps of the mercenaries.
+You will lose if your troops and buildings are destroyed.
+
+{A}	Current objective:
+{B} 	Destroy the Polish settlement.
+{C} 	~Destroy the Polish settlement.~
+{D} 	Destroy the camps of the mercenaries.
+{E} 	~Destroy the camps of the mercenaries.~
+
+#PAGE2301 Missions\Pictures\Ukraine 28
+There is a rich Polish settlement in the north where the army is located. Destroy it completely and kill the guards. Don't forget the mercenaries who will regularly attack you and may prevent you from accomplishing your task.
+
+#PAGE2302 Missions\Pictures\Ukraine 20
+You have failed to complete your mission.
+
+#PAGE2303 Missions\Pictures\Ukraine 17
+Due to your brilliant tactics you have performed the task well and shall be decorated.
+
+#PAGE2304 Missions\Pictures\Ukraine 26
+You have defeated the Poles. Finish off the mercenaries!
+
+#PAGE2305 Missions\Pictures\Ukraine 26
+You have crushed the mercenaries. Eliminate the Polish forces!
+Attack, victory is not far off!

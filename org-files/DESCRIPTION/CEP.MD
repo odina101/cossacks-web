@@ -1,0 +1,1 @@
+Provides you with additional peasants. Peasants can bring their procured stone, wood and food here. Provides lodgings for 100 people. Can be captured by the enemy. Once all other buildings have been completed, return here to progress to the next technological epoch.

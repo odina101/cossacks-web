@@ -1,0 +1,64 @@
+#BRIEFING faces 0
+{A}   The General's Release
+    
+To win you must defeat all enemies in the region. 
+You will lose if all your forces are defeated or your general dies. 
+   
+Current objective: 
+{B}Release the general.
+{C}~Release the general.~
+{D}Take the general to the town.
+{E}~Take the general to the town.~
+{F}Create an army and defeat all enemies in the region.
+
+
+#PAGE01 Missions\Pictures\mord_d 7
+A small seaport. Defending it are a squad of infantrymen and a galleass fleet. 
+Its residents are civilians, fully dependent on the local powers. They cannot create an army, as there is nobody among them to train and lead soldiers into battle (and they have no means to build a barracks and stables). 
+Due to the lack of troops in the city, the fleet of ships bears the burden of defending the city against the enemy. That is why Venetian galleasses protect the narrow accesses to the city in the west and east. 
+
+
+#PAGE02 Missions\Pictures\austria 21
+The king ordered the future city commandant and army commander, a general, to sail off to his destination. But his ship was attacked by the galleys of the Turkish fleet on the way. 
+The Turks were able to capture the general. They imprisoned him in a dungeon on the island (orange town hall).  
+
+
+#PAGE03 Missions\Pictures\faces 6
+To build a barracks and stables and create an army, the citizens must free the general and take him from the island into the city. 
+To release the general, capture the orange town hall on the island. 
+
+
+#PAGE1 Missions\Pictures\faces 6
+You have gained control of the town hall! At last the general can be liberated and lead the army! 
+Take him to the city as quickly as possible. 
+ 
+
+#PAGE2 Missions\Pictures\faces 15
+In the captured fortress you find resources - %d gold, %d iron, %d coal and %d food.
+   
+#PAGE3 Missions\Pictures\mord_tut 10
+Now the city can start forming an infantry. It has gained a commander (and can now construct a barracks and stables). 
+
+      
+#PAGE4 Missions\Pictures\mord_tut 2
+Besides, the general has information on navigation (enabling you to build frigates and battleships) and on the 18th century (progress to the 18th century is possible). 
+
+
+#PAGE10 Missions\Pictures\mord3_tut 14
+You have lost all your troops. Mission failed. 
+
+#PAGE10G Missions\Pictures\faces 10
+The general has perished. Mission failed. 
+
+#PAGE10T Missions\Pictures\mord_tut 15
+The general has been killed by the falling debris of the town hall. Mission failed. 
+
+#PAGE11 Missions\Pictures\mord2_tut 14
+The Piemontese army and navy in the region have been defeated (blue opponent). 
+
+#PAGE12 Missions\Pictures\mord2_tut 6
+The Turkish army and navy in the region have been defeated (green opponent). 
+
+#PAGE20 Missions\Pictures\faces 14
+All enemy armies in the region have been defeated.
+                        Victory!

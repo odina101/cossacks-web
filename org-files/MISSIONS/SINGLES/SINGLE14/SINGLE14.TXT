@@ -1,0 +1,58 @@
+#BRIEFING faces 0
+{A} Enemy Entrapment
+
+To win you must: 
+1) defeat the Polish troops in the north-west;
+2) defeat the Russian troops in the north-east;
+3) defeat the Turkish forces in the east.  
+
+You will lose if you lose your main character, your market or your troops. 
+
+#PAGE1 Missions\Pictures\ukraine 28
+Your objective is to break the alliance of Russia, Poland and Turkey. 
+Your ally will assist you whenever you require, if he can. 
+
+#PAGE2 Missions\Pictures\ukraine 16
+Protect the trade caravans, as brigands may assault them.
+
+#PAGE3 Missions\Pictures\ukraine 14
+You have crushed the Poles and taken your first step on the way to victory! 
+
+#PAGE4 Missions\Pictures\ukraine 14
+The Turks have been defeated, there is joy on all fronts!
+
+#PAGE5 Missions\Pictures\austria 14
+Your troops have been defeated.
+
+#PAGE6 Missions\Pictures\ukraine 14
+You have crushed the Russians, not an easy thing to accomplish!
+
+#PAGE7 Missions\Pictures\ukraine 17
+Congratulations - that was no easy victory!
+
+#PAGE8 Missions\Pictures\mord3_tut 14
+Your ally has suffered a defeat.
+
+#PAGE9 Missions\Pictures\austria 4
+A caravan from your neighbours has arrived.
+It brought you 500 in gold.
+
+#PAGE10 Missions\Pictures\austria 4
+Aid from your ally has arrived - a caravan loaded with 1,000 in gold.
+
+#PAGE11 Missions\Pictures\austria 1
+Your ally's caravan was attacked on the way. It has been destroyed. 
+Ensure that the road the caravan follows is guarded. 
+
+#PAGE12 Missions\Pictures\austria 7
+A new ally's caravan has set out.
+
+#PAGE13 Missions\Pictures\austria 18
+You have destroyed the brigands' camp. The roads are safe now. 
+
+#PAGE14 Missions\Pictures\ukraine 20
+You have lost the market, but you are not defeated yet ... 
+
+#PAGE15 Missions\Pictures\england 19
+You have died in battle. What a pity.
+

@@ -1,0 +1,1 @@
+The prototype of the new 18th century ship of the line was the famous "Victory", Admiral Nelson's flagship. It was launched in 1769 and was a 100-cannon ship of the line typical of the late 18th century. This is going to be the most powerful and expensive vessel in the game. The ship will represent the next development stage for the ships of the line already existing in the game.

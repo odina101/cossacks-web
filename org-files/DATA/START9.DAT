@@ -1,0 +1,304 @@
+#Kreposnoi_pruss(BA)
+2000 65000 2000 15000 6000 9000
+4
+BGAUZ(BA)  Q
+Kreposnoi_pruss(BA) X
+Kazarma(BA) E
+BGAUZ2(BA) W
+27 4
+        X                                    X 
+        X                                    X 
+ Q      X                 E                  X     W
+        X                                    X      
+        X                                    X      
+        X                                    X       
+#Kreposnoi_pruss(DA)
+2000 65000 2000 15000 6000 9000
+4
+Kreposnoi_pruss(DA) X
+Kazarma(DA) E
+BGAUZ(DA)  Q
+BGAUZ2(DA) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X                                      
+#Kreposnoi_pruss(au)
+2000 65000 2000 15000 6000 9000
+4
+Kreposnoi_pruss(au) X
+Kazarma(au) E
+BGAUZ(au)  Q
+BGAUZ2(au) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X                                     
+#Krestian_Turki(AL)
+2000 65000 2000 1000 6000 9000
+2
+Krestian_Turki(AL) X
+Barack_Turki(AL) E
+20 4
+      X                          X
+      X                          X
+      X                          X
+E     X       E        E         X     E
+      X                          X    
+      X                          X    
+      X                          X
+      X                          X
+#Krestian_Sved(en)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma_BR(en) E
+Krestian_Sved(en) X
+BGAUZ(en)  Q
+BGAUZ2(en) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Krestian_Sved(fr)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma_FR(fr) E
+Krestian_Sved(fr) X
+BGAUZ(fr)  Q
+BGAUZ2(fr) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Kreposnoi_pruss(GE)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma(GE) E
+Kreposnoi_pruss(GE) X
+BGAUZ(GE)  Q
+BGAUZ2(GE) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Krestian_Sved(HO)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma_2_HO(HO) E
+Krestian_Sved(HO) X
+BGAUZ(HO) Q
+BGAUZ2(HO) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Kreposnoi_portugal(PI)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma(PI) E
+Kreposnoi_portugal(PI) X
+BGAUZ(PI)  Q
+BGAUZ2(PI) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Kreposnoi_evro(PL)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma(PL) E
+Kreposnoi_evro(PL) X
+BGAUZ(PL)  Q
+BGAUZ2(PL) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Kreposnoi_portugal(PO)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma_2_PO(PO) E
+Kreposnoi_portugal(PO) X
+BGAUZ(PO)  Q
+BGAUZ2(PO) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Kreposnoi(RU)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma(RU) E
+Kreposnoi(RU) X
+BGAUZ(RU)  Q
+BGAUZ2(RU) W
+20 4
+                                   
+                                   
+ Q      X           E            X     W
+                                        
+                                        
+                                   
+#Kreposnoi_pruss(SA)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma(SA) E
+Kreposnoi_pruss(SA) X
+BGAUZ(SA)  Q
+BGAUZ2(SA) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Kreposnoi_portugal(sp)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma_SP(sp) E
+Kreposnoi_portugal(sp) X
+BGAUZ(sp)  Q
+BGAUZ2(sp) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Krestian_Sved(SV)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma(SV) E
+Krestian_Sved(SV) X
+BGAUZ(SV)  Q
+BGAUZ2(SV) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Krestian_Turki(TU)
+2000 65000 2000 15000 6000 9000
+2
+Krestian_Turki(TU) X
+Barack_Turki(TU) E
+20 4
+      X                          X
+      X                          X
+      X                          X
+E     X       E        E         X     E
+      X                          X    
+      X                          X    
+      X                          X
+      X                          X
+#Kres_ukranian(UA)
+2000 65000 2000 15000 6000 9000
+4
+Kres_ukranian(UA) X
+Strelcovaia_Izba(UA) E
+BGAUZ(UA)  Q
+BGAUZ2(UA) W
+20 4
+XXXX         W            X     Q
+                          X
+                          X
+                          X
+
+
+
+
+
+
+
+
+
+
+E         E         E         E         E
+
+
+
+
+
+
+
+
+
+
+           X
+           X
+           X
+    Q      X           W         XXXX
+#Kreposnoi_portugal(VE)
+2000 65000 2000 15000 6000 9000
+4
+Kazarma(VE) E
+Kreposnoi_portugal(VE) X
+BGAUZ(VE)  Q
+BGAUZ2(VE) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Krestian_Sved(SW)
+2000 65000 2000 15000 6000 9000
+4
+SwzK18(SW) E
+Krestian_Sved(SW) X
+BGAUZ(SW)  Q
+BGAUZ2(SW) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#Kreposnoi_pruss(VG)
+2000 65000 2000 15000 6000 9000
+4
+VngK18(VG) E
+Kreposnoi_pruss(VG) X
+BGAUZ(VG)  Q
+BGAUZ2(VG) W
+20 4
+        X                        X 
+        X                        X 
+ Q      X           E            X     W
+        X                        X      
+        X                        X      
+        X                        X 
+#

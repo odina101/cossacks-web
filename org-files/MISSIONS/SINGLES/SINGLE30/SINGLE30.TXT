@@ -1,0 +1,26 @@
+#BRIEFING faces 0
+{A} Rival Cities
+
+Current objectives:
+{B}Defeat your opponent.
+
+Only your main character can speak to mission characters. 
+You will win if you demolish your opponent's city. 
+You will lose if your main character dies or your city is ruined. The city you must protect has promised to pay you a reward for each enemy unit you kill. 
+Villages also secure an additional profit. 
+
+#PAGE0 Missions\Pictures\poland 7
+As an officer in the Austrian army, you must destroy the enemy city. You can arrange to receive reinforcements from an officer standing near the city gates ... in exchange for money, of course. 
+As promised, the city pays you a reward for each enemy unit killed. 
+You should also protect the villages whose citizens procure the resources you need: coal, iron and food.  
+
+#PAGE1 Missions\Pictures\England 9
+Who would you like to hire? 
+
+#PAGE2 Missions\Pictures\England 9
+You are short of money. 
+You must improve your fighting skills!
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

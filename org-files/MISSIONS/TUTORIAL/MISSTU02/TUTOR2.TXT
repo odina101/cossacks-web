@@ -1,0 +1,28 @@
+In the second tutorial mission you will find out:
+What unit formations are available in the game.
+After you select an officer, you can assume three kinds of formations.
+How to effectively use an infantry formation of units with cold steel.
+How to effectively use an infantry formation of units with handguns.
+Why you should create an artillery formation.
+How to effectively use combinations of formations made up of different types of forces.
+The difference between light and heavy cavalry.
+How to effectively combine cavalry and different types of formations.
+What is the use of a diplomatic centre.
+When to hire roundshiers in a diplomatic centre.
+When to hire Turkish infantry.
+What is the purpose of archers hired in a diplomatic centre.
+When to hire grenadiers in a diplomatic centre.
+What is the use of mercenary Cossacks.
+When to hire dragoons.
+How infantry efficiency depends on their numbers.
+How shooting infantry units' efficiency depends on their numbers..
+How archers' efficiency depends on their numbers.
+How the formation parameters change after toggling on "Stand Ground".
+What the icon "Go and Attack" does.
+Why it is wise to use a multi-barrelled cannon.
+How to effectively use cannon in close combat.
+How to breach a defensive line of cannon.
+How to organize an effective defence using walls and towers.
+How to capture an unassailable fortress.
+What a mortar is.
+What are the drawbacks of a mortar.

@@ -1,0 +1,25 @@
+#BRIEFING faces 0
+{A} The Clearing of the Channel
+
+Current objectives:
+{B}Secure the safe passage of the transport vessels. 
+To win, ensure that the transport vessels cross the channel safely to secure peaceful trade with allied states: England and Spain.  
+(All the transport vessels must reach their destination.) 
+
+#PAGE0 Missions\Pictures\poland 7
+Your objective is to create a powerful fleet and reign at sea. 
+To send transport vessels, send a messenger to the captain on the shore.
+
+#PAGE1 Missions\Pictures\England 9
+The King of Spain has provided a squad to assist you. 
+The regiment is awaiting your command to advance on the enemy. 
+(To issue the order to advance, send a messenger to the Spanish officer.) 
+ 
+#PAGE2 Missions\Pictures\England 9
+Have you ordered the advance? 
+
+#PAGE3 Missions\Pictures\England 9
+Shall we send the transport? 
+
+#TEST
+%d - %d - %d - %d - %d - %d - %d

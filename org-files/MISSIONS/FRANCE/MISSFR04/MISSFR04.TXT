@@ -1,0 +1,23 @@
+#BRIEFING faces 0
+{A}In the Fire
+
+Your mission is to annihilate all enemy forces.
+You will suffer defeat if you lose all your peasants.
+#PAGE1 Missions\Pictures\mord_tut 8
+  Settle down in this region. Don't forget your reconnaissance. Some settlements may have escaped destruction.
+#PAGE2 Missions\Pictures\russia 18
+  You have come across a small village of farmers. The locals are now under your command.
+#PAGE3 Missions\Pictures\mord_d 3
+ You have come across a village of woodcutters. The locals have acknowledged your supremacy.
+#PAGE4 Missions\Pictures\mord_n 9
+  You have spotted an abandoned mine.
+#PAGE5 Missions\Pictures\mord_n 9
+  You have acquired an abandoned quarry.
+#PAGE6 Missions\Pictures\mord3_tut 14
+  All civilians are dead! You have failed!
+#PAGE7 Missions\Pictures\mord_tut 3
+  Well done! The Austrian forces are crushed!
+#PAGE8 Missions\Pictures\mord2_tut 23
+  You have pulverized the Spaniards!
+#PAGE9 Missions\Pictures\mord_tut 14
+  All enemies have been neutralized! You are victorious!

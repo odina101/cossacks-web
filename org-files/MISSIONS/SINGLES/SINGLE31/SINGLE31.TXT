@@ -1,0 +1,23 @@
+#BRIEFING faces 0
+{A} The Doomed Village
+
+Current objective:
+{B}Demolish the enemy's diplomatic centres.
+
+#PAGE0 Missions\Pictures\England 29
+Your village is unprotected against the mercenary hordes that plunder and kill the civilians. You must form an army and arrange the defence of the village as soon as possible.  
+
+#PAGE1 Missions\Pictures\England 29
+I order:
+
+#PAGE2 Missions\Pictures\England 29
+  
+Victory!
+The enemy army has been defeated.
+
+#PAGE4 Missions\Pictures\England 29
+Defeat! 
+The city has surrendered in face of the enemy attacks.
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

@@ -1,0 +1,49 @@
+#BRIEFING faces 0
+Liberation Campaign
+
+You are ordered to destroy the Swedish camp the captives are being held in and then bring them to the Saxon village.
+ !Only the commander can speak to some characters.
+ !You will lose if your main character dies.
+
+Current objective: 
+{A}Liberate the peasants.
+{B}~ Liberate the peasants.~
+{C}Bring the captives to the village.
+{D}~Bring the captives to the village.~
+
+#PAGE1 Missions\Pictures\austria 30
+Swedish troops have captured some of the citizens and are detaining them in a fort to the north-west. Soon Swedish ferries will embark and take them far away to be sold as slaves. You are to hire troops in the settlements nearby and try to free the peasants.  
+#PAGE2 Missions\Pictures\austria 10
+  Sir! I have knowledge of your campaign and have prepared a detachment for you. Take it and return victorious. 
+#PAGE3 Missions\Pictures\england 17
+ Sir, rumour has it that you are in need of my cavalry. But I will not leave it to you for nothing! It will cost you 3,000 in gold.
+#PAGE5 Missions\Pictures\england 8
+  Sir! I have had word of your noble campaign, but I cannot give you my people and leave the village defenceless. If you could dispel the gang camping in the west, we could reach an agreement.  
+#PAGE6 Missions\Pictures\mord_d 6
+ You have destroyed the camp of brigands!
+#PAGE7 Missions\Pictures\russia 27
+  You have freed our village from the bandits. I am grateful to you. My garrison is at your disposal. 
+#PAGE8 Missions\Pictures\england 8
+  Speak! Who is the leader among you? We want to sell him this gun for 5,000 in gold.
+#PAGE9 Missions\Pictures\austria 13
+ Finally you've arrived. I have prepared artillery for you and will accompany you on your campaign.
+#PAGE10 Missions\Pictures\faces 23
+ Halt! Who goes there? This road is controlled by my squad. It will cost you 5,000 pieces of gold to pass through our fortifications! So pass through the gateway and pay.
+#PAGE20 Missions\Pictures\faces 23
+Then I will take all your money. My ruffians will teach you a lesson!
+#PAGE11 Missions\Pictures\faces 23
+ Are these all the volunteers for the other side?
+#PAGE12 Missions\Pictures\faces 5
+ ... so for %d people you must pay me %d in gold!
+#PAGE13 Missions\Pictures\austria 35
+ Excellent! You have liberated the peasants! Now you bring them to the village in the south. 
+#PAGE14 Missions\Pictures\mord_d 0
+ Bad news, sir. A substantial Swedish force is approaching from the north to cut off our way back. The only way out is to capture enemy ferries and escape by sea. 
+#PAGE15 Missions\Pictures\Russia 34
+ The ferries have been captured!
+#PAGE16 Missions\Pictures\england 10
+  You have perished and failed to accomplish the mission!
+#PAGE17 Missions\Pictures\austria 43
+ Many captives died. Their deaths are on your conscience! Mission failed.
+#PAGE18 Missions\Pictures\austria 3
+Well done! You have returned the captives to their native village. It wasn't easy. 

@@ -1,0 +1,81 @@
+#BRIEFING faces 0
+{A}Bermuda
+
+Establish a colony and build a shipyard to win. The Governor may give you another objective.
+
+{B}You will meet with failure if you lose your fleet or peasants.
+
+{C}Current objectives:
+{D}Find an island rich in resources and build a town hall and a mill there
+{E}~Find an island rich in resources and build a town hall and a mill there~
+{F}Build a shipyard
+{G}~Build a shipyard~
+{H}Annihilate Dutch Battleships
+#PAGE1 Missions\Pictures\england 4
+  You have landed on the north-astern island. Unfortunately, it is lean in resources and too small to start a colony here. You should replenish your food and water supplies and continue your quest.
+#PAGE1A Missions\Pictures\england 4
+  You need an island with deposits of ore mineral resources and stone. The best is probably a large isle in the south-west of Bermuda.
+#PAGE2 Missions\Pictures\england 14
+  Bad news, Captain! Major Dutch forces are located to the south of here and pirates are scouring about the sea to the north. It seems we'll have to fight our way through.
+#PAGE3 Missions\Pictures\england 14
+  There's a Dutch yacht ahead! Hey, they're fleeing! It's no good, they'll be going to fetch help! We should sink them or get out of here!
+#PAGE4 Missions\Pictures\england 13
+  You hear a yell from the pirate ship:
+  "May I drop dead if these are not Englishmen!
+  Hey, you out there! 'Tis your turn to feed the sharks! Jump overboard or we will fill your guts with lead!!"
+#PAGE5 Missions\Pictures\england 14
+  It seems safe now. But it's better to keep away from southern waters - they're swarming with Dutch.
+#PAGE6 Missions\Pictures\england 13
+  The pirates have spotted you:
+  "I'll sink those English pigs!
+  On your feet, scroungers! Let their blood flow!"
+#PAGE7 Missions\Pictures\england 14
+  Captain! Dutch battleships control the western waters. Let's outflank them from the north, around the islands.
+#PAGE8 Missions\Pictures\england 2
+  Frigate ahead! It's a British vessel, sir!
+#PAGE9 missions\pictures\england 8
+  You come across a pirate hunter: "Pleased to meet you, sir! I am hunting for Niels the Earless. But this scoundrel has gathered up a powerful naval force. I would much appreciate your assistance. If you help me, I'll agree to participate in your undertaking. So, do we have a deal?"
+#PAGE9A Missions\Pictures\england 8
+  Excellent! Together we'll pulverize Niels's gang! They're to the south of here. Charge!!
+#PAGE9B Missions\Pictures\england 8
+  Yes, I understand. You have your orders ... Very well then, I'll try to cope with Niels alone ...
+#PAGE10 Missions\Pictures\england 28
+  Before you sent the pirates' schooners to the bottom of the sea, you searched their holds and found their loot - 1,000 units of gold.
+#PAGE11 Missions\Pictures\england 28
+  Congratulations, the pirates have been sunk! Your trophy is 2,000 units of gold.
+#PAGE12 Missions\Pictures\england 8
+  Thank you for your assistance, sir! My ship is at your disposal! As we have fought side by side, you can justifiably enjoy your part of the money awarded for Niels's head.
+#PAGE12A missions\pictures\england 8
+ You come across a pirate hunter: "Pleased to meet you, sir! I've been hunting Niels the Earless, but you seem to have done my work for me. Thank you for your help! My ship is at your disposal! Besides, part of the reward for Niels's head is fairly yours."
+#PAGE13 Missions\Pictures\england 14
+  Oh hell! The Dutch have spotted us! Can't escape a fight now!
+#PAGE14 Missions\Pictures\england 5
+  Your transport ship went down before you reached the target island. Mission failed!
+#PAGE15 Missions\Pictures\england 5
+  You went down with your ship. What a pitiful finale for such a promising career...
+#PAGE16 Missions\Pictures\england 1
+  Sir! We cannot shoot - we have no ammunition!
+#PAGE17 Missions\Pictures\england 14
+  Sir, we have no more gold! Frigate crews refuse to fight till you pay out their wages.
+#PAGE18 Missions\Pictures\england 27
+  Among the papers of Earless Niels you have found an ancient scroll with strange writing on it: "Southern isle, 5 steps to the east of the old tree".
+#PAGE18A missions\pictures\england 27
+  Among the papers of the pirate's captain you have found an ancient scroll with a strange writing: "Southern isle, 5 steps to the east of the old tree".
+#PAGE19 Missions\Pictures\england 28
+  In this brushwood near the glade, your people have found a large brass chest full of pirate treasures!
+#PAGE20 Missions\Pictures\mord_d 7
+  The shipyard is ready! You did really well. Now England has gained a foothold in Caribbean waters.
+#PAGE20A missions\pictures\england 17
+  In reward for your services the Governor sends you 5,000 units of gold. Your next mission is to sink Dutch battleships, which prevent us from trading with the new colony. You will find them patrolling the waters to the east of our isle.
+#PAGE21 Missions\Pictures\england 30
+  Excellent! You have colonized this island. Do your best to build a Market as soon as possible, then construct a shipyard. But guarding your settlement is most important of all!
+#PAGE22 Missions\Pictures\mord_d 6
+  You have lost all your workers and it is now impossible for you to build a colony. You have failed the Governor and are demoted!
+#PAGE23 Missions\Pictures\england 14
+  Captain! Pirate ships have been spotted to the west from here! We'd better move away and round this island from the south.
+#PAGE24 Missions\Pictures\mord3_tut 7
+  Outstanding! The Dutch battleships are down, and now nothing can prevent your colony from being built. You have worked hard in the name of England and now you deserve a good rest.
+#PAGE25 Missions\Pictures\england 15
+  A Dutch squadron has spotted your ships. "Hey, you English! Get ready for a fight! Or rather - get ready to die!!"
+#PAGE26 missions\pictures\mord_n 9
+  Peasants have found stones suitable for construction. Now you may start building up your base.

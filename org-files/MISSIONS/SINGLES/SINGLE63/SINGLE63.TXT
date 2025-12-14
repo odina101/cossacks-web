@@ -1,0 +1,34 @@
+#BRIEFING faces 0
+{A}	The Crossing
+
+You must destroy the French fortress.
+You will lose if your troops are defeated.
+
+Current objectives:
+{B}	Defeat the garrison of the fortress.
+{I}	~Defeat the garrison of the fortress.~
+{C}	Cross the strait and destroy the French fortress.
+{K}	~Cross the strait and destroy the French fortress.~
+{E}	!Your hussar can command the allied cavalry.
+{F}	!Destroy a part of the paling for the cavalry to burst into the fort.
+{G}	!By eliminating the garrison of the fort you will be able to control it.
+{M}	!There may be brigand raids from the west.
+{N}	!You may encounter pirates at sea.
+
+#PAGE1501 Missions\Pictures\England 30
+You have destroyed the garrison of the fort. All its buildings are under your command now. You have found food and ammunition in the storehouses.
+
+#PAGE1502 Missions\Pictures\England 30
+You need to build troop transports and cross the strait. You must destroy the French fortress on the opposite side to control the region. The fortress is well guarded and located on a hill. It won't be easy to even approach it.
+
+#PAGE1503 Missions\Pictures\England 30
+Destroy part of the paling so the cavalry can burst into the fort!
+
+#PAGE1504 Missions\Pictures\England 30
+Do you want to order the attack?
+
+#PAGE1505 Missions\Pictures\England 30
+Destroy the garrison of the French fort in the west. Your hussar can command the allied cavalry (simply send him close to it). Protect him, as there will be no replacement if he is killed.
+
+#PAGE1506 Missions\Pictures\Mord_tut 38
+You have successfully completed the mission and been awarded the former commander's sword. 

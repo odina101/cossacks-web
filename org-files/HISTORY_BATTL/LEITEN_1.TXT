@@ -1,0 +1,3 @@
+In this battle, the Prussian army (blue) should attack and destroy the Austrian military forces (red).
+The party that completely eliminates the enemy wins the battle.
+If the Prussian army does not attack and destroy the Austrians within a certain amount of time, the Prussians will lose.

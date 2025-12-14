@@ -1,0 +1,42 @@
+#BRIEFING faces 0
+{A}A War of Alliance
+ 
+You will win if you defeat the forces of coalition.
+! You will lose if your main character dies.
+! You will lose if your troops are defeated.
+
+  Current objective:
+{B} Reach the fort.
+{C}~ Reach the fort.~
+{D} Hire troops and assault the enemy.
+
+#PAGE1 Missions\Pictures\faces 1
+Serious danger threatens Prussia. Its enemies Austria, Russia and France have formed a powerful coalition. Now the task of our army is to withstand the offence of the coalition. The King has a very important mission for you: You and your squad must reach the fort located in the south-east, build a fortified base and not allow the alliance to strengthen its hold on that territory. 
+#PAGE5 Missions\Pictures\england 10
+ The brigand leader approaches you. "Hey, you! Crossing the bridge costs 4,000 in gold! Pay, or you will regret it!".   
+#PAGE6 Missions\Pictures\mord_tut 29
+ You have crushed the gang of the bandits and searched their camp. In a chest you have found a loot of 2,000 in gold.
+#PAG10 Missions\Pictures\faces 10
+  You have died a horrible death. 
+#PAGE7 Missions\Pictures\austria 33
+  In the centre of the destroyed camp you found a kettle full of hot skilly. Your soldiers have satisfied their appetites.
+#PAGE2 Missions\Pictures\austria 10
+ The enemy is near and may attack at any moment. Make sure the village and the peasants are guarded.
+#PAGE13 Missions\Pictures\mord_d 6
+  Wonderful! The Austrian forces have been shattered!
+#PAGE12 Missions\Pictures\mord_d 6
+  You have defeated the Russian troops!
+#PAGE11 Missions\Pictures\mord_d 6
+  Perfect! The French troops have been defeated!
+#PAGE8 Missions\Pictures\mord_tut 29
+  You have eliminated the gang of robbers and returned the stolen resources.
+#PAGE3 Missions\Pictures\austria 47
+  Your troops have been vanquished! You have lost.
+#PAGE15 Missions\Pictures\austria 35
+  The enemy command has found out your location! Be ready for an attack at any moment!
+#PAGE14 Missions\Pictures\mord_tut 37
+  Excellent! You have defeated the forces of the alliance. You deserve a promotion.
+#PAGE4 Missions\Pictures\austria 41
+ You have arrived at the fort. Take command of the garrison. You must build a barracks and begin mining coal and iron.  
+#PAGE9 Missions\Pictures\england 20
+ Sir! There is a French patrol straight ahead!

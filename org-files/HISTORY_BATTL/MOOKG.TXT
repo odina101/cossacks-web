@@ -1,0 +1,13 @@
+The objective of the Dutch army (blue) is to go round the Spanish forces and bring Louis of Nassau (the general) to zone 1.    
+If Louis is killed, the Dutch army suffers defeat. 
+
+Each of the players has unique units with unique abilities. These are the Spanish general on one side, and the Dutch general (Louis) and standard bearer on the other.  
+
+All units within a close radius around the general acquire a defensive bonus. Units in close proximity to the standard bearer acquire an attack bonus. 
+
+The army headquarters are located in zones 2 and 5. If the general leaves the zone of his headquarters, the existing formations will break up and the player will find it impossible to create new formations until the general is back at the command post.   
+
+In zone 5 there is a building called "Command Centre". If this building is destroyed, the Dutch troops will enjoy higher morale and stronger attack and defence parameters. Spanish morale will improve if the "Command Centre" in zone 3 is destroyed.  
+
+If, after a certain length of time, zone 4 is still under Spanish control, then reinforcements will appear in that zone to help the Spanish troops.  
+

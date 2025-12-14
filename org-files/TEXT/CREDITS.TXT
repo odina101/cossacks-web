@@ -1,0 +1,80 @@
+ABLINE0 GSC CREDITS: (Modding by Pisces & MOD1)
+ABLINE1    
+ABLINE2 Producer/Director - Sergiy Grygorovych
+ABLINE3 Project Manager - Anton Bolshakov
+ABLINE4     
+ABLINE5 Lead Programmer - Andrey Shpagin
+ABLINE6 AI Programmer - Vitaly Lysenko
+ABLINE7 Editor Programmer - Ruslan Shestopalyuk
+ABLINE8 Tool Programmer - Sergey Ivantsov
+ABLINE9     
+ABLINE10 Lead Artist - Dmitry Zenin
+ABLINE11 Artist - Andrey Zenin
+ABLINE12 Artist/Scenario - Andrey Zavolokin
+ABLINE13 Artist - Roma Nesin
+ABLINE14     
+ABLINE15 Sound Engineer - Ilya Ivashchenko
+ABLINE16 Sound Engineer - Andrey Prishchenko
+ABLINE17 Composer - Thomas Herrmann
+ABLINE18 Composer - Stefan Hertrich
+ABLINE19 Music - Wolfcat7
+ABLINE20           
+ABLINE21 Mission Designer - Alexander Lazar
+ABLINE22 Mission Designer - Dmitry "DEMON" Drokin
+ABLINE23 Mission Designer - Serguei Chernyavsky
+ABLINE24 Mission Designer - Sergey "Arey" Salnikov
+ABLINE25 Mission Designer - Serg "Grey" Deshko 
+ABLINE26 Mission Designer - Viktor Levchenko
+ABLINE27 Mission Designer - Vitaly Lysenko
+ABLINE28        
+ABLINE29 Localisation Manager/PR - Oleg Yavorsky
+ABLINE30 PR/Customer Support - Mykola Demchenko
+ABLINE31      
+ABLINE32 Lead QA - Sergey Salnikov
+ABLINE33 Tester - Oleg Nartsev
+ABLINE34 Tester - Alexander Chuchkevich
+ABLINE35          
+ABLINE36 CDV Software Entertainment AG:
+ABLINE37          
+ABLINE38 Development Director - Dirk Weber
+ABLINE39 Producer - Mario "Mayo" Gerhold
+ABLINE40 Licensing Director - Johannes Friederich
+ABLINE41 Product Coordinator - Jochen von Nida
+ABLINE42 PR Director - Eric Standop
+ABLINE43 PR Manager - Anita Rodic
+ABLINE44 PR Manager - Milene Rijcken
+ABLINE45 UK PR Manager - Kat Osman
+ABLINE46 Marketing Director - Anita Gallitzendoerfer
+ABLINE47 UK Marketing Manager - Leo Zullo
+ABLINE48 Box Design & Layout - Adrian Alonso
+ABLINE49 Senior Web Manager - Harald Gruenberger
+ABLINE50 Web & Multimedia Development UK - Edward Willey
+ABLINE51 Localization Manager - Thomas "Tom" Kroell
+ABLINE52 Localization Manager - Oliver Silsky
+ABLINE53 Senior QA Manager - Peter Oehler
+ABLINE54 QA Manager - Thomas Heil
+ABLINE55 Lead Tester - Stefan Hertrich
+ABLINE56 Lead Tester - Dietmar Hess
+ABLINE57 Lead Tester - Andre Dordel
+ABLINE58    
+ABLINE59   Testing:
+ABLINE60 Gregor Bellmann
+ABLINE61 Daniel Grunder
+ABLINE62 Daniel Jaensch
+ABLINE63 Thomas Heilbronner
+ABLINE64 Karin Daiss 
+ABLINE65 Frank Heim 
+ABLINE66 Aleksandar Opatic
+ABLINE67 Pascal Renschler
+ABLINE68 Daniel Schoemperlen
+ABLINE69 Stefan Schreiber
+ABLINE70 Christian Treiling
+ABLINE71 Torsten Weinstein
+ABLINE72 Sebastian Merkel
+ABLINE73 Rudolph Kronenbitter
+ABLINE74    
+ABLINE75 Localisation Effective Media
+ABLINE76   
+ABLINE77 Community Manager - Luc Martin
+ABLINE78             
+ABLINE79 Copyright 2002. All rights reserved.

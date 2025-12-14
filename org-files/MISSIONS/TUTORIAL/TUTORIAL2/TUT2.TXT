@@ -1,0 +1,12 @@
+Questions handled:
+What is the purpose of the blacksmith?
+What is the purpose of the barracks?
+How to build soldiers.
+What are the simplified unit-building functions?
+How to despatch a selected group of units in attack mode.  
+How to order military units to guard peasants and buildings.
+Which units become available after the academy is built?
+How to create a formation.
+What is the difference between a group and a formation?
+Which unit can heal wounded soldiers and in which building can it be built?
+Why is preference given to mounted units?

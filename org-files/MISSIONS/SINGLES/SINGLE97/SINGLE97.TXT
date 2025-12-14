@@ -1,0 +1,29 @@
+#BRIEFING faces 0
+{A}	The Artillery Regiment
+
+Current objective:
+{B}	Destroy all the 18th century barracks.
+
+Enemy frigates guard the packhorses that deliver food. Destroy the frigates and the packhorses will deliver the food and workers to you. 
+
+#PAGE0 Missions\Pictures\England 29
+You are in command of an elite division of the Prussian army located at the enemy's rear. Your task is to destroy all the 18th century barracks.
+
+Enemy frigates guard the packhorses that deliver food. Destroy the frigates and the packhorses will deliver the food and workers to you. 
+
+#PAGE1 Missions\Pictures\England 29
+Defeat!
+
+#PAGE2 Missions\Pictures\England 29
+You have won! 
+
+#PAGE3 Missions\Pictures\England 29
+
+#PAGE4 Missions\Pictures\England 29
+
+#PAGE5 Missions\Pictures\England 29
+
+#PAGE6 Missions\Pictures\England 29
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

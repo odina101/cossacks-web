@@ -1,0 +1,40 @@
+#BRIEFING faces 0
+{A}The Royal Expeditionary Corps
+
+Defeat all the opponents in the area to win. 
+You will lose if your forces are defeated. 
+   
+ Current objective:
+{B}Free the corps from the encirclement.
+{C}~Free the corps from the encirclement.~
+{D}Regain peasants from your opponent.
+{E}~Regain peasants from your opponent.~
+{H}Neutralise all opponents in the area.
+                                        
+#PAGE0 Missions\Pictures\faces 14
+The 18th century. The king has sent out an expeditionary corps to capture new territories. To build a city, the troops need to storm one of the enemy fortresses and free peasants from captivity. 
+On the way, during one of its stops, the corps was surrounded by enemy forces. 
+The corps's objective is to break out of the encirclement, storm one of the fortresses, rescue peasants from the enemy and capture the whole region. 
+
+#PAGE1 Missions\Pictures\faces 9
+The corps has broken out of the encirclement. Now assault one of the enemy fortresses and rescue the peasants.  
+
+#PAGE2 Missions\Pictures\faces 9
+You have rescued the peasants and captured part of the city. There you find stocks of gold, stone and wood. 
+Now you must fortify your position and defeat all the opponents in the area. 
+
+#PAGE10 Missions\Pictures\faces 14
+Unfortunately, you failed to accomplish your task. Your corps has been defeated. 
+
+#PAGE11 Missions\Pictures\faces 9
+Blue opponent defeated. 
+
+#PAGE12 Missions\Pictures\faces 9
+Green opponent defeated.
+
+#PAGE13 Missions\Pictures\faces 9
+Violet opponent defeated.
+
+#PAGE20 Missions\Pictures\faces 14
+All your opponents have been defeated.
+Victory!

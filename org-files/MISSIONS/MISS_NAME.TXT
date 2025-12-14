@@ -1,0 +1,60 @@
+PIRATES Pirates
+BANDITS Bandits
+ROBBERS Robbers
+SPAIN Spaniards
+FRANCE The French
+AUSTRIANS Austrians
+SVEDES Swedes
+TURKEY Turks
+REBELS Rebels
+DWELLERS Locals 
+ALLIES Allies
+M_ALLIES Possible allies
+HOLLAND The Dutch
+OSMAN The Ottomans
+SUXX Saxons
+RUS_ARMY Russian army
+ALLY_SVED Swedes and their allies 
+EMPIRE Army of Bavaria and Austria
+PRUSSIA The Prussians
+UKRAINE Ukrainians
+PIEMOUNT Piemonte
+RUSSIA Russians
+ALJERIANS Algerians
+MONKS Monks
+ENEMY Enemies
+NEUTRALS Neutral 
+COSSACKS Cossacks
+RUSSIANS Russians
+CHEHS Czechs 
+DUTCH Danes
+NOMADS Nomads
+NEIRBORG Neighbours
+TRAITOR Traitors
+POLANDS	Poles
+ENGLAND The English
+BAVARIA Bavarians
+VENECIA Venetians
+POLAND Poles
+
+PORTUGALIA The Portuguese 
+VILLAGE Peasants
+ALGERIA Algerians
+PRUSSIA Prussians
+MECENARY Mercenaries
+PORTUGAL The Portuguese
+SPAIN Spaniards
+NIDERLAND The Dutch
+SVEDEN Swedes
+DENMARK Danes
+TURKEY Turkey
+AUSTRIA Austrians
+SUPPLIER Suppliers
+ALLY Ally
+SWEDEN Swedes
+FRIEND Friend
+FORTRESS Fortress defenders
+GUILD Suppliers
+POALND Poles
+AUSTRIAN Austrians
+VINECIA Venetians

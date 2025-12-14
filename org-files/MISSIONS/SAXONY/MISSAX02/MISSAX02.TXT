@@ -1,0 +1,33 @@
+#BRIEFING faces 0
+{A}Saxon Gold
+Bring the gold into the allied fortress.
+!You will win if you succeed in gathering 15,000 in gold and bringing it to the fortress.
+!You will lose if your main character dies. 
+!You will lose if you lose all your packhorses.
+     
+Current objective:
+ {A}  Send workers into mines and guard them against Turkish raids.
+ {B}~ Send workers into mines and guard them against Turkish raids.~
+ {C}  Use a ferry to cross to the other bank and deliver the packhorses to the general of the fortress.
+ {D}~ Use a ferry to cross to the other bank and deliver the packhorses to the general of the fortress.~
+
+#PAGE1 Missions\Pictures\austria 7
+You are to defend gold mines from Turkish raids. Hire troops and annihilate everyone who seeks the King's gold. When you have 15,000 in gold, load it on packhorses and transport it to the fortress to the north-east. 
+#PAGE2 Missions\Pictures\austria 12
+Sir! Much gold has been accumulated. As soon as the gold is loaded on the packhorses, you should gather all your troops and take the packhorses to the river. There will be a ferry waiting for you. 
+#PAGE10 Missions\Pictures\england 15
+This road is controlled by local bandits. They demand 1,000 in gold. 
+#PAGE9  Missions\Pictures\austria 19
+We shall soon see which of us shall live!
+#PAGE8  Missions\Pictures\austria 8
+You have perished! The King had high hopes for you, but you failed to fulfil them!
+#PAGE7  Missions\Pictures\mord_tut 14                                                                                                        
+Excellent! You have accomplished the mission. The King will not forget your deeds!
+#PAGE6  Missions\Pictures\england 25
+Sir, you have no money! You are a fraud! I will have your head for this! 
+#PAGE5  Missions\Pictures\austria 45
+Sir! The road before you is divided in two. The northern path is controlled by brigands, but you can make a deal with them. Follow the eastern fork, and you will be heading into a Turkish ambush. Beware!  
+#PAGE4  Missions\Pictures\austria 43
+You have lost the packhorses!
+ #PAGE3  Missions\Pictures\england 25
+Sir! The packhorses are ready... Oh, we have bad news. Extensive Turkish troops are approaching from the south-east. You had better leave the camp through the northern gates!

@@ -1,0 +1,10 @@
+The objective of the allied forces (red), having destroyed the feeble Turkish camp (blue) in zone 1 and captured their banner, is to crush the rest of the enemy forces. The Turks lose if their "Command Centre" in zone 3 is lost. 
+The blue player must destroy as many allies as possible at the first camp and not let the headquarters be destroyed in the second.     
+The banner can be captured if the "Command Centre" in zone 1 is destroyed and the area surrounding its location is captured.  
+
+Turkish observation posts are located in zones 1, 2, 3 and 4. If an enemy is spotted, the alarm is sounded and the camp's troops pass under the command of the blue player. In camp 1 there are scouts who, on seeing an enemy, can also raise the alarm, provided the enemy is within the observation post's line of sight. 
+
+The red player has unique units - standard bearers. Units have their attack values increased within a close radius around a standard bearer. After capturing the Turkish banner, all the standard bearers have their attack bonus increased.   
+
+Crossings are located in X zones. 
+

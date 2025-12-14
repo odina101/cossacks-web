@@ -1,0 +1,18 @@
+#BRIEFING faces 0
+{A}War in Spain
+
+! Try to capture the enemy's mills and peasants to replenish the stock of food.
+Your mission is to eliminate the garrison of the enemy fortress.
+You will lose if your hero (officer) dies.
+#PAGE1 Missions\Pictures\mord_tut 0
+  You have a small squad and a camp. Hire mercenaries and train soldiers to create an army capable of capturing the enemy fortress (the fortress is to the north, on the other bank of the river).
+#PAGE1A Missions\Pictures\faces 7
+  Milord! While you were out, robbers attacked your camp and took nearly all your gold and some of your ammunition. Their gang disappeared in the woods to the south-east.
+#PAGE2 Missions\Pictures\faces 4
+  You have died in battle!
+#PAGE2A Missions\Pictures\russia 24
+ You have starved to death!
+#PAGE3 Missions\Pictures\mord2_tut 23
+  The fortress is yours! Mission accomplished!
+#PAGE8 Missions\Pictures\faces 15
+  You have eliminated the gang and recovered the stolen resources.

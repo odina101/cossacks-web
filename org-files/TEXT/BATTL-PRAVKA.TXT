@@ -1,0 +1,8 @@
+TEXT1 The Austrian army has lost all supply transports and has no ammunition left!
+TEXT2 The Swedish army has lost all supply transports and has no ammunition left!
+TEXT3 The allied army suffers heavy losses.
+TEXT4 The French army suffers heavy losses.
+TEXT7 Less than a minute to go until the end of the battle!
+TEXT8 The enemy army is nearing extermination!
+TEXT9 Attack more vigorously!
+

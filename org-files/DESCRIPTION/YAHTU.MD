@@ -1,0 +1,1 @@
+Turkish flotillas included a large number of various exotic single or two-masted Mediterranean vessels. They were used both by the military fleet as patrol and messenger ships, and by pirates for their vigorous raids on Christian sea communications. 

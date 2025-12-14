@@ -1,0 +1,1 @@
+Siege gun. Provides plunging fire. Effective against fortifications and large infantry formations. Low rate and accuracy of fire. Requires gold. If you run out of gold, your howitzers will cease firing. Undefended howitzers may be captured by the enemy. Requires much coal and iron to fire.

@@ -1,0 +1,179 @@
+#BRIEFING faces 0
+{Z} Preparing for assault 
+                   
+!You will lose if you don't have peasants and can't create them, and if the quantity of military units is less than 8 (default defeat conditions).
+              
+  Current objectives:
+{A}Build a wall.
+{a}~Build a wall.~
+{B}Build gates in the wall, then select the academy.
+{C}Conduct the upgrade "Research new fortification grades".
+{c}~Conduct the upgrade "Research new fortification grades".~
+{D}Build two towers.
+{d}~ Build two towers.~
+{E}Select a tower.
+{F}Select the shipyard.
+{H}Select the academy.
+{I}Conduct the upgrades "Build new shipyards for fishing boats" and "Train carpenters".
+{i}~Conduct the upgrades "Build new shipyards for fishing boats" and "Train carpenters".~
+{G}Conduct the upgrade "Develop new woodworking methods".
+{g}~Conduct the upgrade "Develop new woodworking methods".~
+{J}Build two boats.
+{j}~Build two boats.~
+{K}Build a 17th century frigate.
+{k}~Build a 17th century frigate.~
+{L}Progress to the 18th century.
+{l}~Progress to the 18th century.~
+{M}Select the stable.
+{N}Build all new units in the stable.
+{n}~Build all new units in the stable.~
+{O}Build an 18th century barracks.
+{o}~Build an 18th century barracks.~
+{P}Select the mill.
+{Q}Conduct the upgrade "Improve grain crops storage".
+{q}~Conduct the upgrade "Improve grain crops storage".~
+{R}Conduct the upgrade "Design Montgolfier".
+{r}~Conduct the upgrade "Design Montgolfier".~
+{S}Select the 18th century barracks.
+{T}Create several pikemen of the 18th century, musketeers of the 18th century and grenadiers.
+{t}~Create several pikemen of the 18th century, musketeers of the 18th century and grenadiers.~
+{V}Select the blacksmith.
+{U}Conduct the upgrade "Forge bayonets and broadswords for infantry".
+{u}~Conduct the upgrade "Forge bayonets and broadswords for infantry".~
+{b}Conduct the upgrades "Design bayonet: barrel-inserted, bayonet with a tube" and "Research new steel grades". After that, upgrade the grenadiers to maximum in the 18th century barracks.
+{m}~Conduct the upgrades "Design bayonet: barrel-inserted, bayonet with a tube" and "Research new steel grades". After that, upgrade the grenadiers to maximum in the 18th century barracks.~
+{e}Conduct all grenadier attack upgrades in the 18th century barracks.
+{p}~Conduct all grenadier attack upgrades in the 18th century barracks.~
+{X}Completely destroy the enemy town located in the north-east.
+{x}~Completely destroy the enemy town located in the north-east.~
+{W}Conduct the upgrades "Use new construction materials" and "Forge metal armature and gratings".
+{w}~Conduct the upgrades "Use new construction materials" and "Forge metal armature and gratings".~
+{f}Conduct the upgrade "Design more durable gun carriage: Gribovalle system".
+{h}~Conduct the upgrade "Design more durable gun carriage: Gribovalle system".~
+{Y}Build the frigate of the 18th century.
+
+{z}!Struggle to develop!
+#PAGE1 Missions\Pictures\mord3_tut 10
+ Your town has expanded significantly. Now it's time to think about its security. Towers and walls serve this purpose.
+#PAGE2 Missions\Pictures\mord3_tut 11
+Build a stone wall.
+#PAGE35 Missions\Pictures\mord2_tut 22
+Select peasants and build a stone wall enclosing the north-eastern part of the town. You will see the contour of the wall in places where you can build it. Click on the wall icon, then left-click on the map and drag the cursor to see the outline of the wall follow it. Left-click again to fix another point of the wall. In this way you may outline a wall of whatever shape you like. Left-click twice to finish building the wall. After that, peasants will begin building it.
+#PAGE36 Missions\Pictures\mord_tut 34
+Good. Build the gates now by selecting a part of the wall and clicking on the corresponding icon in the menu. Then select the academy.
+#PAGE37 Missions\Pictures\mord_tut 23
+The upgrade "Research new fortification grades" in the academy allows you to improve the durability of towers and walls. Conduct this upgrade now.
+#PAGE38 Missions\Pictures\russia 8
+!Be cautious while building walls, for the maintenance of stone walls requires stone, and wooden walls need wood. You will notice that your stone supply goes down.
+#PAGE39 Missions\Pictures\mord_tut 14 
+Very good! The durability of your walls has improved! Construct two towers now. Build them outside the town to avoid having obstacles in their way.
+#PAGE40 Missions\Pictures\mord_tut 12
+Good, select the tower now.
+#PAGE41 Missions\Pictures\mord3_tut 9
+Increase the tower's rate of fire by conducting upgrades to "Increase number of defensive cannon". The upgrade icon is located in the lower left part of the interface. There are six such upgrades altogether. You must upgrade each tower separately.
+#PAGE3 Missions\Pictures\england 4
+Let's deal with the fleet now. Select the shipyard.
+#PAGE42 Missions\Pictures\mord3_tut 3
+There are two types of military vessels available: yachts and galleys. To make new types of vessels available, conduct corresponding upgrades in the academy. Select the academy.
+#PAGE4 Missions\Pictures\mord3_tut 7
+There are new upgrade icons for the shipyard and fleet in the academy. Conduct the upgrade "Build new shipyards for fishing boats" and "Train carpenters". The first one decreases the cost of fishing boats, while the second allows you to build ships ten times faster. Carry out both upgrades.
+#PAGE5 Missions\Pictures\mord3_tut 0
+Very good. The upgrade "Develop new woodworking methods" allows you to build frigates of the 17th century, and the upgrade "Design new rib system and new hulls" allows you to build ships of the line. Conduct the upgrade "Develop new woodworking methods" to build frigates.
+#PAGE43 Missions\Pictures\mord3_tut 6 
+Very good! Build a couple of ships.
+#PAGE44 Missions\Pictures\mord3_tut 4
+As you see, the ship cost has decreased and they take less time to build. Build the frigate of the 17th century now.
+#PAGE45 Missions\Pictures\mord_tut 29
+Wonderful! Having been informed about your success, the tsar has sent a reward! These resources should be enough to "Progress to the 18th century"!
+
+#PAGE6 Missions\Pictures\russia 8
+To progress to the 18th century you need:
+1 A town hall, a 17th century barracks, an academy, a stable, an artillery depot, a church, a storehouse, a mill and a market.
+2 Enough resources.
+#PAGE7 Missions\Pictures\russia 8
+You meet all the requirements. Therefore, select the town hall and "Progress to the 18th century".
+#PAGE8 Missions\Pictures\russia 15
+Congratulations! You are in the 18th century! You will now find out what innovations the new century has added to your Cossacks life. Select the stable.
+#PAGE9 Missions\Pictures\mord2_tut 6
+As you can see, there are three new units available: hussar (fast cavalry), cuirassier (heavy armoured cavalry), dragoon of the 18th century (shooting unit). Create each of these units.
+#PAGE46 Missions\Pictures\mord2_tut 5
+A hussar is a light cavalryman of the 18th century. He moves fast, and is used for quick attacks and raids on the enemy's rear. Takes little time to create.
+#PAGE47 Missions\Pictures\mord_tut 3
+A cuirassier is a heavy armoured cavalryman of the 18th century. He moves more slowly than the hussar but does more damage. Average creation time.
+#PAGE48 Missions\Pictures\mord2_tut 13
+The dragoon of the 18th century is a shooting unit. He has the best attack parameters among mounted units. Takes a long time to build. His maintenance requires gold.
+#PAGE10 Missions\Pictures\mord_tut 28
+Build an 18th century barracks. You don't have enough resources yet. Either gather more or barter for them in the market.
+#PAGE11 Missions\Pictures\mord_tut 32
+You have enough resources to build an 18th century barracks. Do so now. It takes lots of time to build, therefore assign as many peasants to its construction as you can spare.
+
+#PAGE12 Missions\Pictures\austria 35
+While the barracks is being built, select the mill.
+#PAGE13 Missions\Pictures\russia 8
+After progressing to the 18th century, the upgrade "Improve grain crops storage" becomes available. It noticeably increases food procurement. Conduct this upgrade now.
+#PAGE49 Missions\Pictures\russia 9
+Very good! You can now see that the peasants working in the field are gathering much more food. Select the academy.
+#PAGE14 Missions\Pictures\russia 22
+After progressing to the 18th century, the new upgrade "Design Montgolfier" becomes available. It allows you to see the whole map. The upgrade "Raise builders' salary" (available in the 17th century) diminishes the time required to construct buildings by 75%. Conduct the upgrade "Design Montgolfier".
+#PAGE50 Missions\Pictures\mord_tut 1
+Upgrade complete. In a little while the whole map will be revealed.
+#PAGE15 Missions\Pictures\mord_tut 30
+Barracks complete. Select it.
+#PAGE16 Missions\Pictures\mord_n 1
+Like in the 17th century barracks, you can create officers and drummers (but of the 18th century) here. They are necessary to create 18th century infantry formations. Also, the 18th century pikeman, the musketeer of the 18th century and the grenadier are available. Create two pikemen, two musketeers and several grenadiers.
+#PAGE17 Missions\Pictures\mord2_tut 2
+Pikemen of the 18th century are fast to build and have better attack parameters than pikemen of the 17th century.
+#PAGE51 Missions\Pictures\mord2_tut 0
+Musketeers of the 18th century have a greater range of fire and can fight in hand-to-hand combat with their bayonets. You can conduct the upgrade "Design flintlock" in the academy to decrease the cost of musketeers by half.
+#PAGE52 Missions\Pictures\mord2_tut 11
+A grenadier can shoot, fight in hand-to-hand combat and launch grenades to destroy buildings.
+#PAGE53 Missions\Pictures\mord2_tut 15
+Musketeers of the 18th century and grenadiers are affected by academy upgrades which increase the rate of fire and attack parameters for cold steel weapons. Select the blacksmith.
+#PAGE18 Missions\Pictures\mord2_tut 2
+Here you can find the upgrade "Forge bayonets and broadswords for infantry", which improves the attack parameters of 18th century musketeers and grenadiers in close combat by 5. Conduct this upgrade now.
+#PAGE54 Missions\Pictures\mord_tut 10
+As soon as you have completed the upgrades, you will see that the musketeer's and grenadier's parameters have improved. Select the academy.
+#PAGE19 Missions\Pictures\russia 8
+Two more new upgrades - "Design bayonet: barrel-inserted, bayonet with a tube" and "Research new steel grades" - increase the attack parameters of 18th century musketeers and grenadiers in close combat by 7% and 25% respectively. Conduct these upgrades now.
+#PAGE55 Missions\Pictures\russia 8
+Wonderful! This way you can significantly improve the attack parameters of 18th century musketeers and grenadiers without conducting upgrades in the 18th century barracks. Now upgrade the attack parameters of grenadiers in the 18th century barracks.
+#PAGE56 Missions\Pictures\mord2_tut 11
+Create a group of grenadiers and destroy the enemy settlement in the north-east.
+#PAGE57 Missions\Pictures\mord_tut 15
+Not bad. As you must have noticed, well-trained grenadiers are very effective against buildings.
+#PAGE20 Missions\Pictures\mord_tut 14
+How can you protect buildings from enemy attacks? You can increase the number of guards, build towers and walls.
+#PAGE21 Missions\Pictures\mord_tut 2
+The upgrades "Use new construction materials" and "Forge metal armature and gratings" also improve the durability of buildings. The first upgrade is conducted in the academy, the second in the blacksmith. Carry out both upgrades.
+#PAGE22 Missions\Pictures\mord_tut 16
+Damaged buildings can be repaired with the help of your peasants.
+#PAGE23 Missions\Pictures\mord_tut 18
+What units can destroy enemy buildings? - All types of artillery, military vessels, mercenary archers and grenadiers. You can also capture a building and press "Del". (You can always destroy any selected unit of yours by pressing "Del".)
+#PAGE24 Missions\Pictures\mord_tut 17
+By the way, artillery and many other units can be grouped into formations. Conducting corresponding upgrades allows you to increase your artillery's range of fire and accuracy. Select the academy.
+#PAGE25 Missions\Pictures\mord_tut 11
+The upgrades "Research new sighting devices for artillery" and "Develop mathematics" allow you to improve the accuracy of your artillery and fleet by 35% each. The upgrades "Research improved additions to gunpowder formula" and "Design new barrel types: unicorn, carronade" improve the range of fire of artillery, the fleet and towers by 5% and 10% respectively.
+#PAGE58 Missions\Pictures\mord2_tut 3 
+Here you can also find the upgrade "Design more durable gun carriage: Gribovalle system", which improves the durability of cannons and howitzers. Conduct this upgrade now.
+#PAGE26 Missions\Pictures\mord_tut 15
+Good. Select the cannons now.
+#PAGE27 Missions\Pictures\mord_tut 13
+There are three possible firing modes for cannons: grapeshot mode, artillery preparation mode (activated by clicking on the icon and selecting the target; the range of fire is twice as large, but it takes more time to reload) and the default mode.
+#PAGE28 Missions\Pictures\russia 8
+There are some interesting points to note when commanding troops. Mounted and infantry troops in formations can assume the position "Stand Ground" (activated in a certain time period). It gives them attack and defence bonuses.
+#PAGE29 Missions\Pictures\mord_tut 0
+Additionally, selecting several formations allows you to assign them positions, combining them into one big formation. (To dismiss formations, click on the special icon in the menu.)
+#PAGE30 Missions\Pictures\england 2
+Now let's return to the ships. If, for example, you want to build a frigate of the 18th century, then you have to upgrade the 17th century frigate in the academy first. After that, conduct the shipyard upgrade "Improve frigate design" to build the frigate of the 18th century.
+#PAGE31 Missions\Pictures\england 6
+To build ships of the line of the 18th century, carry out the academy's upgrades "Design new rib system and new hulls" and "Design new rigging types", together with the shipyard upgrade "Improve ship of the line design". As soon as you complete these upgrades, you can build 18th century ships of the line!
+#PAGE32 Missions\Pictures\england 4
+There is a special icon in the shipyard for repairing the ship of the line. (It allows you to restore a part of the ship's defence parameters.) Live units and cannons also have upgrades which restore a part of their defence/life. You will find them in the academy.
+#PAGE59 Missions\Pictures\mord_n 9
+Build an 18th century frigate.
+#PAGE33 Missions\Pictures\poland 4
+Finally, here's a piece of advice: Upgrade gold mines and gather more gold. You'll need it to maintain your army and carry out technological upgrades.
+#PAGE34 Missions\Pictures\mord3_tut 7
+In view of your outstanding achievements, the tsar has decided to pay you a visit and give you your first military mission.
+#PAGE100 Missions\Pictures\ukraine 7
+How did you do that?

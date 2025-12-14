@@ -1,0 +1,339 @@
+#Kreposnoi_pruss(BA)
+0 1000 0 0 0 0
+6
+Pikiner_evro(BA) P
+Kreposnoi_pruss(BA) X
+Officer_evro(BA) O
+Barabanshik_ev1(BA) B
+BGAUZ(BA)  Q
+BGAUZ2(BA) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_pruss(DA)
+0 1000 0 0 0 0
+6
+Pikiner_evro(DA) P
+Kreposnoi_pruss(DA) X
+Officer_evro(DA) O
+Barabanshik_ev1(DA) B
+BGAUZ(DA)  Q
+BGAUZ2(DA) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_pruss(au)
+0 1000 0 0 0 0
+6
+Pikiner_evro(au) P
+Kreposnoi_pruss(au) X
+Officer_evro(au) O
+Barabanshik_ev1(au) B
+BGAUZ(au)  Q
+BGAUZ2(au) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Krestian_Turki(AL)
+0 1000 0 0 0 0
+6
+Pehota_turki(AL) P
+Krestian_Turki(AL) X
+Oficer_turki(AL) O
+Barabanshik_Turki(AL) B
+BGAUZ(AL)  Q
+BGAUZ2(AL) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Krestian_Sved(en)
+0 1000 0 0 0 0
+6
+Pikiner_evro(en) P
+Krestian_Sved(en) X
+Officer_evro(en) O
+Barabanshik_ev1(en) B
+BGAUZ(en)  Q
+BGAUZ2(en) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Krestian_Sved(fr)
+0 1000 0 0 0 0
+6
+Pikiner_evro(fr) P
+Krestian_Sved(fr) X
+Officer_evro(fr) O
+Barabanshik_ev1(fr) B
+BGAUZ(fr)  Q
+BGAUZ2(fr) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_pruss(GE)
+0 1000 0 0 0 0
+6
+Pikiner_evro(GE) P
+Kreposnoi_pruss(GE) X
+Officer_evro(GE) O
+Barabanshik_ev1(GE) B
+BGAUZ(GE)  Q
+BGAUZ2(GE) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Krestian_Sved(HO)
+0 1000 0 0 0 0
+6
+Pikiner_evro(HO) P
+Krestian_Sved(HO) X
+Officer_evro(HO) O
+Barabanshik_ev1(HO) B
+BGAUZ(HO)  Q
+BGAUZ2(HO) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_portugal(PI)
+0 1000 0 0 0 0
+6
+Pikiner_evro(PI) P
+Kreposnoi_portugal(PI) X
+Officer_evro(PI) O
+Barabanshik_ev1(PI) B
+BGAUZ(PI)  Q
+BGAUZ2(PI) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_evro(PL)
+0 1000 0 0 0 0
+6
+Pikiner_polan(PL) P
+Kreposnoi_evro(PL) X
+Officer_evro(PL) O
+Barabanshik_ev1(PL) B
+BGAUZ(PL)  Q
+BGAUZ2(PL) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_portugal(PO)
+0 1000 0 0 0 0
+6
+Pikiner_evro(PO) P
+Kreposnoi_portugal(PO) X
+Officer_evro(PO) O
+Barabanshik_ev1(PO) B
+BGAUZ(PO)  Q
+BGAUZ2(PO) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi(RU)
+0 1000 0 0 0 0
+6
+Pik_rus(RU) P
+Kreposnoi(RU) X
+Russki_Komandir(RU) O
+Barabanshik_1(RU) B
+BGAUZ(RU)  Q
+BGAUZ2(RU) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_pruss(SA)
+0 1000 0 0 0 0
+6
+Pikiner_evro(SA) P
+Kreposnoi_pruss(SA) X
+Officer_evro(SA) O
+Barabanshik_ev1(SA) B
+BGAUZ(SA)  Q
+BGAUZ2(SA) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_portugal(sp)
+0 1000 0 0 0 0
+6
+Pikiner_evro(sp) P
+Kreposnoi_portugal(sp) X
+Officer_evro(sp) O
+Barabanshik_ev1(sp) B
+BGAUZ(sp)  Q
+BGAUZ2(sp) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Krestian_Sved(SV)
+0 1000 0 0 0 0
+6
+Pikiner_evro(SV) P
+Krestian_Sved(SV) X
+Officer_evro(SV) O
+Barabanshik_ev1(SV) B
+BGAUZ(SV)  Q
+BGAUZ2(SV) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Krestian_Turki(TU)
+0 1000 0 0 0 0
+6
+Pikiner_turki(TU) P
+Krestian_Turki(TU) X
+Oficer_turki(TU) O
+Barabanshik_Turki(TU) B
+BGAUZ(TU)  Q
+BGAUZ2(TU) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kres_ukranian(UA)
+0 1000 0 0 0 0
+4
+Kozak_pikiner(UA) P
+Kres_ukranian(UA) X
+BGAUZ(UA)  Q
+BGAUZ2(UA) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_portugal(VE)
+0 1000 0 0 0 0
+6
+Pikiner_evro(VE) P
+Kreposnoi_portugal(VE) X
+Officer_evro(VE) O
+Barabanshik_ev1(VE) B
+BGAUZ(VE)  Q
+BGAUZ2(VE) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Krestian_Sved(SW)
+0 1000 0 0 0 0
+6
+SwzAlb(SW) P
+Krestian_Sved(SW) X
+Officer_evro(SW) O
+Barabanshik_ev1(SW) B
+BGAUZ(SW)  Q
+BGAUZ2(SW) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#Kreposnoi_pruss(VG)
+0 1000 0 0 0 0
+6
+Pikiner_evro(VG) P
+Kreposnoi_pruss(VG) X
+Officer_evro(VG) O
+Barabanshik_ev1(VG) B
+BGAUZ(VG)  Q
+BGAUZ2(VG) W
+20 4
+              B            B   
+          PPPPPP  XXXXXX  PPPPPP  
+          PPPPPP  XXXXXX  PPPPPP   
+ Q        PPPPPP  XXXXXX  PPPPPP       W
+          PPPPPP  XXXXXX  PPPPPP        
+          PPPPPP  XXXXXX  PPPPPP        
+O         PPPPPP          PPPPPP        O
+#

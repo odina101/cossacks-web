@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{A}Cuba
+
+Capture the enemy town hall, academy, blacksmith and storehouse to win.
+
+!Be careful not to demolish the required buildings before you capture them.
+#PAGE1 Missions\Pictures\england 35
+  A small fleet and a gang of bandits are all you've managed to gather. Obviously you cannot assault Cuba with such weak forces, so you should stick to raiding tactics. Cuba is to the north of here.
+#PAGE1A Missions\Pictures\england 2
+  Your main goal is to receive a ransom from the inhabitants of Cuba, so do not burn civil buildings in vain. Capture the enemy town hall, academy, blacksmith and storehouse - then turn back.
+#PAGE2 Missions\Pictures\england 17
+  The blacksmith is captured! The smith pays you a ransom of 5,000 coins.
+#PAGE3 Missions\Pictures\england 22
+  The town hall is yours! You have captured the local mayor and spared his life - in return for 30,000 in gold.
+#PAGE4 Missions\Pictures\england 28
+  You have captured the academy! In one of the chambers you find a chest with 10,000 in gold that the locals were trying to conceal from you.
+#PAGE5 Missions\Pictures\mord_d 3
+  You have occupied the storehouse and found a good stock of ammunition.
+#PAGE6 Missions\Pictures\mord_tut 15
+  The blacksmith was demolished before you could capture it! Mission failed.
+#PAGE7 Missions\Pictures\mord_tut 15
+  The town hall was demolished before you could capture it! Mission failed.
+#PAGE8 Missions\Pictures\mord_tut 15
+  The academy was demolished before you could capture it! Mission failed.
+#PAGE9 Missions\Pictures\mord_tut 15
+  The storehouse was demolished before you could capture it! Mission failed.
+#PAGE10 Missions\Pictures\england 5
+  You have lost all your forces! You have been defeated.
+#PAGE11 Missions\Pictures\mord3_tut 8
+  Excellent! You have captured good loot and may return now.

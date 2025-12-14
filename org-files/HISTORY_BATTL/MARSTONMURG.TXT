@@ -1,0 +1,7 @@
+In order to win this battle, the advancing parliamentary army (red) must either capture and hold any three of the five specified positions or entirely destroy the Royalist forces (blue). "Capture" means all enemy military forces must be cleared from the area and your soldiers must take up positions there instead.
+The Royalist troops will win if they destroy the enemy entirely or manage to hold their positions for a certain amount of time.
+
+The following positions will be fought for:
+1 - Bridge
+2, 3, 4, 5 - Bridgehead held by the Royalist army
+Press CTRL key to see locations you have to fight for.

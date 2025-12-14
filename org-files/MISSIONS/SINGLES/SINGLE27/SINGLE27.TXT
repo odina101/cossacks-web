@@ -1,0 +1,28 @@
+#BRIEFING faces 0
+{A} Rich Sands
+
+Current objectives:
+{B}Defeat your opponents.
+Only your main character can speak to mission characters. 
+	
+#PAGE0 Missions\Pictures\poland 7
+As governor of a French colony, you must break the alliance of Algeria and Turkey and defeat your opponents. If you fail to do this, the peace of your colony will be constantly threatened by its enemies. 
+Use the king's musketeers under your command to protect any packhorses you send to the city.  
+Having paid the nomads (their camp is located in the west), you can arrange incursions into the rich sands. 
+
+#PAGE1 Missions\Pictures\England 9
+Would you like to load a packhorse and deliver it to the city? 
+(20,000 food)
+
+#PAGE2 Missions\Pictures\England 9
+We are short of provisions to load a packhorse.
+
+#PAGE3 Missions\Pictures\England 9
+Ensure that the packhorse is guarded, as nomad may attack it on the way. 
+
+#PAGE4 Missions\Pictures\Faces 0
+Hey, Frenchman! Would you like us to work for you? 
+For 1,000 in gold we will help you with the incursions into the rich sands. 
+Agreed? 
+... 
+???

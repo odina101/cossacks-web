@@ -1,0 +1,6 @@
+The objective of the Spanish army (red) is to raise the blockade of Newport by capturing three out of five zones controlled by the Dutch (blue).  
+The Dutch win if they capture the fort. Newport is considered captured if there are no enemy units left inside it. 
+
+The Spanish Croats have been much strengthened. 
+The troops of Newport pass under the command of a player if at least one red unit is in zone X. 
+

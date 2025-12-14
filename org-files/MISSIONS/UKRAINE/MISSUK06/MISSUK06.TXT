@@ -1,0 +1,11 @@
+#BRIEFING faces 0
+{A}Jarema Wisznewecky Campain
+You are to defeat the armies of Jarema Wisznewecky and Janush Radziwill.
+
+{B} You will lose if you have no army left.
+#PAGE1 missions\pictures\ukraine 10
+  Two strong enemies are opposing you: The Polish army under Jarema Wisznewecky and the Lithuanian army under the command of Janush Radziwill. The people of the Ukraine is relying on you and believes in your victory.
+#PAGE2 missions\pictures\ukraine 10
+  The Polish have captured several villages nearby. If you manage to recapture them, you will gain good camps, mines and resources.
+#PAGE3 missions\pictures\ukraine 10
+  Well done! You have retaken the village and it is now under your control. You gain gold, coal and iron.

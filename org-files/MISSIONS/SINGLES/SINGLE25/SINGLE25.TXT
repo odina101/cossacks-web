@@ -1,0 +1,33 @@
+#BRIEFING faces 0
+{A} A Fight for New Lands
+    
+Capture all the islands in the region and destroy all the pirate ships to win.  
+You will lose if your forces are defeated.
+ 
+#PAGE0 Missions\Pictures\mord3_tut 0
+By order of King Louis XIII, you are sent to seek out new lands. 
+New settlers headed by a squad of brave musketeers of the king have just landed on the picturesque shore of the ocean island abundant in resources. 
+Your objective is to defend this beautiful island from enemy assaults and regain control over other islands in the area.    
+You will also have to oppose the pirates. 
+Pirates possess formidable high-speed frigates with fairly good guns. In the ocean there are some areas totally controlled by pirates.  
+There is no time to spare! Reports state that the enemy has been amassing armaments and is preparing a fleet to fight with you over possession of the island. 
+
+#PAGE1 Missions\Pictures\faces 14
+The English forces in the area have been defeated (blue opponent). 
+
+#PAGE2 Missions\Pictures\faces 14
+The Portuguese forces in the area have been defeated (green opponent). 
+
+#PAGE3 Missions\Pictures\faces 14
+The Spanish forces in the area have been defeated (violet opponent). 
+
+#PAGE5 Missions\Pictures\mord_d 2
+The Pirates have been defeated (black opponent). They will no longer disturb anyone. 
+
+#PAGE8 Missions\Pictures\faces 14
+Congratulations! Victory! 
+   
+You have established control in this area and defeated your formidable opponents: the English, the Spanish and the Portuguese settlers, as well as the pirates. 
+
+#PAGE9 Missions\Pictures\mord_tut 15
+Unfortunately, you proved unable to cope with your task. The king is disappointed that he does not have the islands under control.

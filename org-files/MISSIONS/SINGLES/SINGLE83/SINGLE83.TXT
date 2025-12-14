@@ -1,0 +1,34 @@
+#BRIEFING faces 0
+{A}	Naval Intrusion
+
+You must eliminate the Prussian and Bavarian forces.
+You will lose if you troops and buildings are destroyed.
+
+Current objectives:
+{B}	Eliminate the Prussian forces.
+{C}	~Eliminate the Prussian forces.~
+{D}	Eliminate the Bavarian forces.
+{F}	~Eliminate the Bavarian forces.~
+
+#PAGE2201 Missions\Pictures\Austria 0
+Build fortifications on this island and prepare the troops for landing on the continent. You have plenty of time, for the French fleet controls the sea and will prevent the enemy from landing on your island. 
+Remember you oppose the united forces of Bavaria and Prussia. 
+Accomplish this task and the king will reward you generously.
+
+
+
+#PAGE2202 Missions\Pictures\Austria 10
+Our scouts will keep you informed of the enemy's location. You can take advantage of this information to launch sudden attacks on the enemy.
+
+#PAGE2203 Missions\Pictures\Mord2_tut 23
+You have destroyed the Prussian fort on the continent. All you have to do now is defeat the Bavarian forces.
+
+#PAGE2204 Missions\Pictures\Mord2_tut 23
+You have destroyed the Bavarian fort on the continent. All you have to do now is defeat the Prussian forces.
+
+#PAGE2205 Missions\Pictures\Mord_tut 37
+You have accomplished your task very well. Nothing can prevent our troops from landing on the continent now. You are awarded a medal.
+
+#PAGE2206 Missions\Pictures\Austria 8
+You have failed to prepare the bridgehead for landing. The well-planned campaign has been cancelled.
+You have been reduced to the ranks.

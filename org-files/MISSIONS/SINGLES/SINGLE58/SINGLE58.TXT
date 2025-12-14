@@ -1,0 +1,15 @@
+#BRIEFING faces 0
+{A}	Fortress of a Hundred Cannons
+
+Current objective:
+{B} 	Destroy the Austrian fortress.
+
+#PAGE0 Missions\Pictures\poland 7
+Your task is to destroy the Austrian fortress.
+This is practically impossible because the fortress is considered impregnable. 
+However, the fortress consumes a lot of resources.
+Cut off its supply lines. When its resources are low the fortress will be defenseless.
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

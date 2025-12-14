@@ -1,0 +1,1 @@
+Fortification. May be destroyed only by artillery, navy, grenadiers or archers. The rate of fire can be increased by conducting upgrades for the number of cannon in the tower. Upgrades should be carried out for each tower separately. Requires much coal and iron for cannon.

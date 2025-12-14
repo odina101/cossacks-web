@@ -1,0 +1,243 @@
+#BRIEFING faces 0
+{Q}	No Way Out
+  
+The glare of the gold has dazzled you so much, you now consider yourself a king.
+Insulting the Spanish monarch is to invite trouble. 
+Apart from the king, his nephew, the French marquis, also opposes you. The king has suborned the local feudal lords so that they will attack from time to time.
+It seems there's no way out ...
+!You will lose if your army is eliminated.
+ 
+Current objectives:
+{W}	Establish trade with your northern neighbour.
+{I}	~Establish trade with your northern neighbour.~
+{Z}	France is our only hope. The merchant should arrange a deal. Keep the trade going.
+{X}	~France is our only hope. The merchant should arrange a deal. Keep the trade going.~
+{E}	Build a shipyard in the north-east and send a messenger to the island to begin negotiations with England. 
+{R}	~Build a shipyard in the north-east and send a messenger to the island to begin negotiations with England.~
+{T}	Deliver packhorses laden with gold to the English on the island.
+{Y}	~Deliver packhorses laden with gold to the English on the island.~
+{L}
+  
+Hints: 
+{A}	Save your gold, you will need it.
+{S}	Apart from offering cheap food, the French merchant also has useful information.
+{D}	If you pay the French merchant, the brigands will take your side.
+{F}	You can hire the merchant only if you have a market and a town hall.
+
+#Allert0 missions\pictures\austria 10
+  
+#Allert1 missions\pictures\austria 10
+I salute you, brave warrior. Thank God you have arrived. I am under orders to speed you on your way. A gang of brigands has attacked our fort. We won't make it without your help.
+Hurry!
+
+#Allert1.0 missions\pictures\austria 10
+Officer, I'll be your bodyguard until we reach the fort.
+
+#MarketLost missions\pictures\austria 10
+You have lost the market. You cannot trade with your ally.
+
+#MarketBuilt missions\pictures\austria 10
+You have rebuilt the market. Now you can trade with your ally. 
+Select the market to hire a merchant.
+You can't hire a merchant without a town hall.
+
+#MerchantPrice  missions\pictures\austria 10
+Welcome to the market!
+A merchant will cost you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d
+
+#MarketMainMenu missions\pictures\austria 10
+Do you want to hire a merchant?
+
+
+
+
+#MerchantMainMenu missions\pictures\austria 10
+What can I do for you, my lord?
+
+#MerchantInfoMenu missions\pictures\austria 10
+What exactly are you interested in, my lord?
+
+#Buiznes missions\pictures\austria 10
+The amount of packhorses is: %d
+A new packhorse will cost you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+The packhorses can carry: 
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+The bargain will bring you:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+
+#MakeOboz missions\pictures\austria 10
+Do you want to create a packhorse?
+
+#MerchantSucsess missions\pictures\austria 10
+I salute you, my lord!
+My trip has ended in success.
+As a result of my work you have received:
+Wood: %d Gold: %d Stone: %d Food: %d Iron: %d Coal: %d 
+
+
+#CancelTrading missions\pictures\austria 10
+I have loaded the packhorses and am now leaving to trade. If you cancel the trip, the cargo will be lost.
+Do you want to cancel the trip?
+
+
+#KaravanEmpty missions\pictures\austria 10
+I can't work without packhorses.
+
+#MerchantDie missions\pictures\austria 10
+You have lost the merchant. Select the market to hire a new one.
+
+#Entry missions\pictures\austria 10
+The glare of the gold has dazzled you so much, you now consider yourself a king.
+Insulting the Spanish monarch is to invite trouble.
+Apart from the king, his nephew, the French marquis, also opposes you. The king has suborned the local feudal lords so that they will attack from time to time.
+It seems there's no way out ...
+
+#Trans missions\pictures\austria 10
+At last you are here. The fort is under your command.
+Allow me to put you in the picture:
+On close inspection we have discovered that these lands hold few gold deposits. This has considerably hampered our development.
+However, we have not lost heart, but have arranged trade with our northern neighbours. It has been our salvation: Their gold is cheaper than grass. Trade is possible only if you have a market available.
+But there is distressing news too. These uninhabited lands are teeming with all kinds of brigands. Most of them are French convicts on the run.
+On top of that, the Danes have been preparing a campaign and are about to drive us from these lands.
+
+#Target0 missions\pictures\austria 10
+You will win if you totally eliminate the Danish troops. Good luck!
+
+
+
+#NeedHall missions\pictures\austria 10
+You can't hire a merchant without a town hall.
+Build a town hall.
+
+#LittleMoney missions\pictures\austria 10
+You don't have enough resources!
+
+#Defeat missions\pictures\austria 10
+Your troops have been eliminated.
+
+#Victory missions\pictures\austria 10
+Congratulations! You have eliminated the Danish troops.
+Victory!
+
+#entry missions\pictures\austria 10
+
+Your resources are insufficient.
+
+#ai0_entry missions\pictures\austria 10
+There's an English base not far from your location.
+They have recently suffered heavy losses. This is your chance to capture their worker and even destroy them with a single blow.
+
+#ai0_surrender missions\pictures\austria 10
+You are a dangerous opponent. We don't want to die. Our commander has decided to surrender.
+
+
+
+#eng_capture missions\pictures\austria 10
+Congratulations.
+! You have captured the English. Try to develop their nation. English peasants mine resources much better than yours.
+
+#eng_lost missions\pictures\austria 10
+You have lost the opportunity to develop the English nation. Try to capture another peasant or town hall.
+
+#victory missions\pictures\austria 10
+Congratulations! You have accomplished your task. Victory!
+
+#ai2_death missions\pictures\austria 10
+Well done! Spain has been defeated!
+
+
+#ai3_death missions\pictures\austria 10
+England has been defeated. Victory is close!
+
+#defeat missions\pictures\austria 10
+It is too difficult for you. Try again.
+
+
+#bandnews missions\pictures\austria 10
+
+I am pleased to be able to inform you that the Frenchman says he can arrange a deal with the brigands for a certain amount of gold. They will attack your enemy for some time.
+I'll remind you about this offer before the next campaign.
+
+
+#bayband0 missions\pictures\austria 10
+
+I have agreed to let the Frenchman know your decision the next time I see him.
+He wants %d gold for his services.
+
+#bayband1 missions\pictures\austria 10
+Do you want to pay the Frenchman?
+
+#bayband2 missions\pictures\austria 10
+Now the king will be busy with the brigands for a while.
+
+#bayband3 missions\pictures\austria 10
+The time you bought from the brigands has run out. They will attack you again.
+
+#no_bayband missions\pictures\austria 10
+You don't have enough resources to strike a deal. I suggest we cancel the campaign and accumulate the necessary amount of gold.
+Do you want to cancel the campaign?
+
+#eng_news0 missions\pictures\austria 10
+The Frenchman says his English cousin can help us. Build a shipyard in the north-west to negotiate with the English.
+
+#NeedContact missions\pictures\austria 10
+You have built a shipyard. Build a yacht and head for the northern coast of the island occupied by the English.
+
+#king_ata_port missions\pictures\austria 10
+The king has found out about our plans. Part of his armada is on its way to destroy our shipyard.
+
+
+#FirstContact0 missions\pictures\austria 10
+Good afternoon, Captain. How can I help you?
+
+#FirstContact1 missions\pictures\austria 10
+I am at odds with the king. I need your support.
+
+#FirstContact2 missions\pictures\austria 10
+We fully understand your problems and want to help you. Our king will grant you an island but you must be patient. The king is unwell. 
+For now, you may transport your gold here.
+
+
+
+#FirstContact2 missions\pictures\austria 10
+
+Transport the gold to the English island.
+
+#Uhodim missions\pictures\austria 10
+Do you want to load all your gold onto packhorses?
+
+#negold missions\pictures\austria 10
+Not enough gold. The treasury must contain no less than 5,000 in gold.
+
+
+
+#gold_unload0 missions\pictures\austria 10
+Bravo! Keep on loading. However, you must remember all gold must be loaded before sunset. Hurry!
+
+#gold_unload1 missions\pictures\austria 10
+You have one minute left!
+
+#gold_victory missions\pictures\austria 10
+You have completed your mission. Victory!
+
+#gold_defeat1 missions\pictures\austria 10
+Congratulations! Your gold (%d) is safe now!
+
+#gold_defeat missions\pictures\austria 10
+Your time is up, you miserable snob! You are playing games with us! You call this trifling sum a treasure? 
+The gold will stay with us and you had better get out of here.
+
+#kupec_defeat missions\pictures\austria 10
+You have failed to protect your merchant. Mission failed.
+
+#nation_defeat missions\pictures\austria 10
+Upsetting your command will get you nowhere.
+
+Your troops have been defeated.
+
+
+#nation_victory missions\pictures\austria 10
+You have defeated the king and his allies. 
+Congratulations, Your Majesty!

@@ -1,0 +1,8 @@
+In order to win this battle, the advancing Imperial army (blue) must either capture and hold any three of the five specified positions or entirely destroy the Czech army (red). "Capture" means all enemy military forces must be cleared from the area and your soldiers must take up positions there instead.
+The Czechs will win if they destroy the enemy entirely or manage to hold their positions for a certain amount of time.
+
+The following positions will be fought for:
+1 - Castle on the right flank of the Czech army
+2, 3, 4 - Field fortifications
+5 - Bridge
+Press the CTRL key to see the locations that must be fought for.

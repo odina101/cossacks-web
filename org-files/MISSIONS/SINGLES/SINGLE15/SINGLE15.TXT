@@ -1,0 +1,87 @@
+#BRIEFING faces 0
+{A}	The Golden Island
+ 
+Your objective is to defeat your enemies, the allies Piemonte and England.   
+Also, protect your own important structures, as well as crucial structures of France, your ally, from bandits and the enemy alliance. 
+You will lose if your main character dies or if you lose a vital structure (mine, market, church). Only the main character can speak to the ally!  
+ 
+Current objectives:
+{B}	Neutralise the alliance of Piemonte and England.
+{C}	~Neutralise the alliance of Piemonte and England.~
+{D}	Destroy the camp of bandits assaulting your market from the north. 
+{E}	~Destroy the camp of bandits assaulting your market from the north.~
+{F}	Destroy the camp of bandits attacking your gold mine from the east. 
+{G}	~Destroy the camp of bandits attacking your gold mine from the east.~
+{S}     Enter the allied fort in the east. 
+{T}     ~Enter the allied fort in the east.~
+{K}	Destroy the camp of bandits harassing France, your eastern ally. 
+{L}	~Destroy the camp of bandits harassing France, your eastern ally.~
+{O}	Reach the island abundant in resources. 
+{P}	~Reach the island abundant in resources.~
+{M}	Blow up the English shipyard in the north-west of your island on the territory of Piemonte, whose ships keep attacking the island. 
+{N}	~Blow up the English shipyard in the north-west of your island on the territory of Piemonte, whose ships keep attacking the island.~
+
+#PAGE0AA Missions\Pictures\ukraine 14
+Neutralise the alliance of Piemonte and England! 
+The area you have arrived at holds one gold mine. This gold mine and a market - the crucial resource objects - are at your disposal. 
+Protect these structures from brigands! 
+ 
+#PAGE0A Missions\Pictures\faces 31
+In the middle of the map there is an island rich in resources! It is controlled by France, your ally. The French have built mines on the island and are prepared to give them to you to control. As soon as possible, reach their fort in the east and the French will help you get to the island.  
+If the English destroy the mine on the island you will be deprived of resources and your mission will fail! 
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You destroyed the camp of brigands which assaulted your market. In the camp you find %d gold. 
+
+#PAGE1 Missions\Pictures\faces 4
+You were killed in the unequal fight.
+
+#PAGE1A Missions\Pictures\poland 21
+You starved to death.
+
+#PAGE2 Missions\Pictures\poland 4
+Congratulations! You destroyed the camp of brigands that attacked your gold mine. In their camp you find %d gold. 
+
+#PAGE3 Missions\Pictures\faces 34
+Good day, Commander! Permission to speak? We have run into big resource problems! Please help us!
+
+#PAGE4 Missions\Pictures\faces 6
+Greetings, Commander! 
+Immediately break through to the island in the centre of the map with your Bavarian troops. Our people there will assist you! 
+I will give you the fastest ship I have, but I need your help in exchange. I beg you, help us to defend the northern fort borders from brigands. Our crucial structures are in your hands. 
+The brigands long to desecrate our sanctuary - the church. Stop them!  
+To stop the brigand attacks, destroy their base to the north-east. 
+
+#PAGE6 Missions\Pictures\austria 10
+You have made your way to the island rich in resources and now it is at your disposal! Protect all the mines on the island from English sea attacks! To that end, demolish the English shipyard to the north-west of your island (on Piemontese territory). One more thing: Don't let the English develop on the island located to the north-east of your one.  
+
+#PAGE7 Missions\Pictures\austria 36
+Congratulations! You have destroyed the English shipyard! Now the English ships will not assault your mines on the island from the western side. 
+
+#PAGE8 Missions\Pictures\austria 6
+Congratulations! You have defeated the Piemonte troops!
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! You have neutralised the alliance of Piemonte and England!
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have accomplished all the tasks and won! You are an excellent strategist!
+
+#PAGE10  Missions\Pictures\mord_d 6
+You failed to protect your market and have been defeated! I wish it were otherwise!
+
+#PAGE10A  Missions\Pictures\mord_d 6
+You failed to protect the church of the allies and have been defeated!
+
+#PAGE10B Missions\Pictures\poland 13
+Congratulations! You have destroyed the camp of brigands that troubled your ally. In the chest of the brigands you find %d gold. 
+
+#PAGE11  Missions\Pictures\mord_d 6
+You failed to protect your gold mine and have been defeated! 
+
+#PAGE11A  Missions\Pictures\mord_d 6
+You failed to protect the island mine and have been defeated!
+
+#PAGE11B  Missions\Pictures\England 5
+You have lost the fast-moving ship! Well, now you will have to reach the island with your own forces. 
+Build any vessel as soon as possible and make your way to the island!

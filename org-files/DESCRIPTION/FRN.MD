@@ -1,0 +1,1 @@
+The prototype of the 18th century frigate was the well-known French frigate 'Flora'. This vessel was used for cruising and was a typical representative of its class of ships. It matches the power of the 17th century battleship in the game, but exceeds it in speed. These ships ousted 17th century frigates and considerably reinforced the naval power of their owners.

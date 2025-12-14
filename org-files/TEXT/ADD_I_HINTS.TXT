@@ -1,0 +1,7 @@
+CHAT_VERSION View messages only from players of this game-version 
+CHAT_COMMON View messages from players of all versions of the game
+CHAT_PERSONAL View personal messages
+CHAT_ALL View all messages (personal and general)
+VIEW_HOMEPAGE Go to startpage
+VIEW_RESIZE Resize window
+DOWNLOADING Downloading...

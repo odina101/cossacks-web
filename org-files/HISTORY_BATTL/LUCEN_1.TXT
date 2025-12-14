@@ -1,0 +1,8 @@
+In order to win this battle, the advancing Swedish army (blue) must either capture and hold any three of the five specified positions or entirely destroy the Imperial army (red). "Capture" means all enemy military forces must be cleared from the area and your soldiers must take up positions there instead.
+The Austrians will win if they destroy the enemy entirely or manage to hold their positions for a certain amount of time.
+If you capture or destroy the enemy convoy, your enemy will run out of ammunition and all enemy musketeers and artillery will cease firing.
+
+The following positions will be fought for:
+1, 5 - Bridges
+2, 3, 4 - Field fortifications of the Imperial army
+Press the CTRL key to see the locations that must be fought for.

@@ -1,0 +1,49 @@
+QIr_1 Transport - 2000 iron.
+QIr_2 Xebek - 6000 iron.
+QIr_3 Nothing.  
+FM4_1 Send packhorses for stone. 
+FM4_2 Send packhorses to the ally's town .
+FM4_3 Cannon - 500 gold
+FM4_4 Mortar - 200 gold
+FM7_0 10 Pikemen - 500 gold
+FM7_1 10 Musketeers - 700 gold
+FM7_2 10 Cavalrymen - 2000 gold
+FM7_3 10 Dragoons - 3000 gold
+FM7_4 10 Archers - 300 gold
+FM7_5 10 Grenadiers - 500 gold
+FM_non Nothing.
+FM8_0 10 Pikemen - 200 gold
+FM8_1 10 Musketeers - 300 gold
+FM8_2 10 Cavalrymen - 500 gold
+FM8_3 10 Dragoons - 600 gold
+FM10_A Send part of the crew onto the ship.
+FM10_B Wreck.
+FM10_0 Wood
+FM10_1 Stone
+FM10_2 Food
+FM10_3 Iron
+FM10_4 Coal
+FM10_5 Ship repair.
+FM10_6 Sell loot.
+FM10_7 Buy food and ammunition.
+FM10_11 Upgrade ship.
+FM10_8 Improve fishing nets and sails - 20,000.
+FM10_9 Buy new cannons - 10,000.
+FM10_10 Train gunners - 15000.
+FM18_1 To the left flank.
+FM18_2 To the centre.
+FM18_3 To the right flank.
+FM18_4 To the infantry.
+FM18_5 To the marksmen.
+FM18_6 To the mounted marksmen.
+FM18_7 To the heavy cavalry.
+FM18_8 To the light cavalry.
+FM18_9 Attack
+FM18_10 Retreat
+FM18_11 Move to the left flank
+FM18_12 Move to the centre
+FM18_13 Move to the right flank 
+FM18_14 Left flank of the enemy
+FM18_15 Centre of the enemy
+FM18_16 Right flank of the enemy
+FM18_break Leave

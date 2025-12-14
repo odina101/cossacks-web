@@ -1,0 +1,45 @@
+#BRIEFING faces 0
+{A} Helping the Weak
+ 
+You will win if you defeat the violet Bavarians.
+!You lose if your army is defeated. 
+ 
+Current objectives:
+{B}Defeat the brigands at the base.
+{C}~Defeat the brigands at the base.~
+
+#PAGE0 missions\pictures\austria 10
+Your arch enemy is in the opposite corner of the map. He is assisted by two other allies. 
+Form a squad and assault the enemy. The best defence is offence. 
+Defend your market. You don't stand a chance to build another one. 
+
+#Enemy3StartAI missions\pictures\austria 21
+The violet player is warring actively. Things are about to become hot for you. 
+
+#Transfer0 missions\pictures\mord_tut 0
+The first help: One of the opponents has received reinforcements.
+
+#Transfer1 missions\pictures\mord_tut 0
+The second help: One of the opponents has received reinforcements. 
+
+#Transfer2 missions\pictures\mord_tut 0
+The third help: One of the opponents has received reinforcements. 
+
+#Enemy1IsErased missions\pictures\mord_tut 10
+Blue opponent defeated. Congratulations! 
+
+#Enemy2IsErased missions\pictures\mord_tut 37
+Turquoise opponent defeated. Congratulations! 
+
+#Enemy3IsErased missions\pictures\austria 8
+You have accomplished your task. Victory! 
+
+#PlayerIsErased missions\pictures\austria 9
+You failed to complete the mission. Try again. 
+
+#BandAttack missions\pictures\austria 21
+Scouts have discovered a brigand base near your location. 
+It is doubtful they will make good neighbours. Eradicate the brigands! 
+
+#BandIsDead missions\pictures\mord3_tut 14
+The gang has been wiped out. Congratulations! In the brigands' camp you find a loot of %d gold.  

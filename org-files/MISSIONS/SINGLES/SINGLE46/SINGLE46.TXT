@@ -1,0 +1,52 @@
+#BRIEFING faces 0
+{A} World War
+ 
+Your objective is to neutralise the alliance of Denmark, Bavaria, Saxony and Portugal. To accomplish this, defeat Portugal on the island to the north-east. 
+Unfortunately, your workers cannot build an artillery depot until you steal its plans from your opponents on the continent. 
+You will lose if you lose the town hall with its state treasures, or if you fail to acquire the plans for the artillery depot.  
+
+Current objectives:
+{B}Defeat the Portuguese on the island to the north-east.
+{C}~Defeat the Portuguese on the island to the north-east.~
+{D}Find the plans of an artillery depot in one of the Danish, Bavarian or Saxon town halls (on the continent). 
+{E}~Find the plans of an artillery depot in one of the Danish, Bavarian or Saxon town halls (on the continent).~
+
+#PAGE0A Missions\Pictures\mord_tut 29
+Your town hall stores state treasures! Do not let the enemy take possession of them! 
+
+#PAGE0B Missions\Pictures\faces 31
+Neutralise the alliance of Denmark, Bavaria, Saxony and Portugal! To accomplish this, defeat the Portuguese on the island (to the north-east), as that is the location of the allied command! 
+
+#PAGE0C Missions\Pictures\faces 31
+Unfortunately, your workers cannot build an artillery depot, and you are unable to construct vessels! Therefore you must the plans of an artillery depot in one of the Danish, Bavarian or Saxon town halls (on the continent)! 
+If you destroy a town hall that contains the required plans, you won't be able to reach the island and will lose!   
+
+#PAGE2 Missions\Pictures\faces 14
+The allied command has discovered your location and sent troops to meet you!
+
+#PAGE7 Missions\Pictures\austria 37
+An enemy town hall containing plans of an artillery depot has been demolished! Mission failed!  
+
+#PAGE8 Missions\Pictures\austria 6
+You have neutralised Denmark, Bavaria and Saxony! But you still have to face Portugal, the location of the allied command! 
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! The Danish troops have been destroyed! 
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! The Bavarian troops have been defeated! 
+
+#PAGE8C Missions\Pictures\austria 6
+Congratulations! The Saxon troops have been defeated! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have accomplished all the tasks and won! 
+
+#PAGE10 Missions\Pictures\austria 30
+Congratulations! You have defeated Portugal and neutralised the enemy alliance!
+
+#PAGE11  Missions\Pictures\mord_d 6
+You have lost a town hall with state treasures. Mission failed. 
+
+#PAGE12 Missions\Pictures\austria 42
+You have captured an enemy town hall which holds the plans of an artillery depot! Now your workers can build their own artillery depot!

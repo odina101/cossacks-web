@@ -1,0 +1,28 @@
+#BRIEFING faces 0
+{A} 	Capturing New Lands
+
+Current objective:
+{B}	Defeat the enemy.
+
+You must defeat England both on land and at sea!
+
+#PAGE0 Missions\Pictures\England 29
+Your task is to escort the settlers to the new land, build up a strong colony and defeat the enemy. 
+
+#PAGE1 Missions\Pictures\England 29
+Defeat!
+
+#PAGE2 Missions\Pictures\England 29
+Victory!
+
+#PAGE3 Missions\Pictures\England 29
+
+#PAGE4 Missions\Pictures\England 29
+
+#PAGE5 Missions\Pictures\England 29
+
+#PAGE6 Missions\Pictures\England 29
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

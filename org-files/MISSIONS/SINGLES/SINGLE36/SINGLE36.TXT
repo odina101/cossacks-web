@@ -1,0 +1,51 @@
+#BRIEFING faces 0
+{A}   	The Return
+    
+You will win if you defeat the Turkish and Polish forces in the area. 
+You lose of your main character, the hussar, dies. 
+   
+Current objectives:
+{B}Reach the north-eastern village. 
+{C}~Reach the village.~
+{D}Wipe out all the enemies on the map. 
+                                        
+#PAGE0 Missions\Pictures\faces 14
+The 18th century. Russian troops are conducting operations against the armies of Poland and Turkey. A combatant squad of battle-hardened Russian cavalrymen under your command (hussar) is on its way back from the campaign. 
+You are near the south-western borders of the Russian Empire.
+You must reach a village in the north-east. Scouts have reported unrest and possible enemy regular subdivisions in the area.   
+The hussar must survive the mission. 
+
+#PAGE1 Missions\Pictures\faces 9
+Until you reach the village, don't stray too far from your squad. You can control the squad only if you are within the vision range of your cavalrymen, and the squad fights better if there is a commander nearby. 
+
+#PAGE2C Missions\Pictures\ukraine 14
+The combat experience of the cossacks has improved their attack (+%d) and defence (+%d). 
+
+#PAGE2V Missions\Pictures\ukraine 14
+The combat experience of the Vityazes has improved their attack (+%d) and defence (+%d). 
+
+#PAGE4 Missions\Pictures\ukraine 26
+Reinforcements from the village are heading towards you.
+
+#PAGE5 Missions\Pictures\mord_tut 35
+In the village you received a missive from the tsar: 
+"We are very pleased with your successes in the south of our domain. You are commissioned to set up a town here and defeat all the opponents in the area."
+
+#PAGE10 Missions\Pictures\russia 24
+Mission failed. The hussar has died. 
+
+#PAGE11 Missions\Pictures\ukraine 14
+Blue opponent defeated. 
+
+#PAGE12 Missions\Pictures\ukraine 14
+Green opponent defeated.
+
+#PAGE20A Missions\Pictures\faces 14
+The combat experience has improved your mastery (hussar attack +1, hussar defence +2). 
+
+#PAGE20B Missions\Pictures\mord_tut 38
+His Majesty the Emperor of Russia sends his felicitations and a special blade as a gift (hussar attack +1, hussar defence +2).   
+
+#PAGE20 Missions\Pictures\faces 14
+All your opponents have been defeated.
+                    Victory!

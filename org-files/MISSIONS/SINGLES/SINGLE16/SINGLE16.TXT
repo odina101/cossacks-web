@@ -1,0 +1,59 @@
+#BRIEFING faces 0
+{A}   	Town Among the Hills
+   
+Defeat the Dutch and French troops in the area to win. 
+You will lose if your forces are vanquished. 
+   
+Current objectives:
+{B}Crush the bandits on the hill.
+{C}~Crush the bandits on the hill.~
+{D}Take the peasant to the settlement and secure the safety of the packhorse. 
+{E}~Take the peasant to the settlement and secure the safety of the packhorse.~
+{F}Send soldiers to the village and join the militia.
+{G}~Send soldiers to the village and join the militia.~
+
+
+#PAGE0 Missions\Pictures\poland 2
+My lord! I am a simple peasant, who lives in the village nearby. The road to the village has been blocked by bandits. 
+My lord, I beg you: Clear the road of bandits. 
+In the village I will help you recruit mounted militia from among the peasants. 
+
+#PAGE1 Missions\Pictures\poland 2
+My lord, you have fought bravely and our militia will gladly join your troops. Our peasants are barefoot and badly armoured. They need to be equipped and armed first. This will cost 1,000 in gold. Agreed?  
+
+#PAGE2 Missions\Pictures\poland 2
+I am glad to see you again, my lord. Our militia will readily join you. 
+Are you ready now to equip and arm the squad? As before, it will cost you 1,000 in gold. 
+
+#PAGE3 Missions\Pictures\poland 23
+The peasant has died. The militia won't join you. Everyone has lost faith in you. 
+
+#PAGE4 Missions\Pictures\poland 2
+My packhorse has been destroyed. The militia won't join you. 
+
+#PAGE5 Missions\Pictures\poland 2
+Thank you for your assistance! Now the road to the village is clear of bandits. Let's go to the village, my lord. The militiamen await.  
+
+#PAGE6 Missions\Pictures\poland 2
+It's a pity you are short of money. When you have 1,000 in gold, come back to see me again. 
+
+#PAGE7 Missions\Pictures\poland 2
+The peasant has reached the village. Now send soldiers to the village with a packhorse to visit the peasant. He will offer to reinforce your troops with militiamen. 
+
+#PAGE8 Missions\Pictures\faces 14
+Congratulations! Victory!!!
+You have established control in this region and defeated your opponents: the powerful troops of the Netherlands and France. 
+
+#PAGE9 Missions\Pictures\mord_d 3
+The bandits have been vanquished. Their camp was full of plundered resources: 
+ %d gold, %d iron and %d coal.
+
+#PAGE10 Missions\Pictures\faces 14
+Blue enemy defeated!
+
+#PAGE11 Missions\Pictures\faces 14
+Green enemy defeated!
+
+#PAGE12 Missions\Pictures\faces 14
+Bandits are camped on the hill to the north-east of your settlement. They are harassing the locals, robbing mines and attacking merchants and packhorses. 
+Until you wipe out all the bandits in the camp, they will keep raiding the mines and town. 

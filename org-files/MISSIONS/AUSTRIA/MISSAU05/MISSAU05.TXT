@@ -1,0 +1,18 @@
+#BRIEFING faces 0
+{A}{A}The Island of Usedom
+ 
+You will win if you defeat the Swedish forces.
+You will lose if your town is destroyed.
+ 
+#PAGE0 Missions\Pictures\austria 26
+  Recruit powerful troops as soon as possible. Your task for the first stage is to trap the Swedes on the northern island by blocking both bridges. Then create a strong army and defeat the enemy.
+#PAGE1 Missions\Pictures\austria 6
+  The enemy has been defeated! This was a glorious victory!
+#PAGE2 Missions\Pictures\mord_d 6
+  Your forces have been defeated! You have lost.
+#PAGE3 Missions\Pictures\faces 15
+  You have found a chest containing %d in gold.
+#PAGE4 Missions\Pictures\ukraine 15
+  You have found a loot of %d in the bandits' camp.
+#PAGE5 Missions\Pictures\mord_tut 29
+  You have found a chest containing %d in gold.

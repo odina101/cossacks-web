@@ -1,0 +1,26 @@
+#BRIEFING faces 0
+{A}	The Battle of the Riverbed
+
+Current objective:
+{B}	Defeat the enemy troops.
+	Orders are passed along through messengers.
+
+#PAGE0 Missions\Pictures\England 29
+You are the commander of the Spanish army. Your task is to defeat the enemy troops.
+Orders are passed along through messengers.
+
+#PAGE1 Missions\Pictures\England 29
+Wait for my orders!
+
+#PAGE2 Missions\Pictures\England 29
+  
+#PAGE3 Missions\Pictures\England 29
+Victory!
+The enemy troops have been eliminated.
+
+#PAGE4 Missions\Pictures\England 29
+Defeat.
+The enemy commanders have proved to be wiser. 
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

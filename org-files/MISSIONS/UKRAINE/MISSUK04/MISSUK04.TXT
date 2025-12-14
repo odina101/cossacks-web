@@ -1,0 +1,32 @@
+#BRIEFING faces 0
+{A}Kodak Fortress
+You are to capture the fortress of Kodak in the north.
+
+{B}
+  You will lose if your main hero (hetman) dies.
+#PAGE1 missions\pictures\ukraine 15
+  You have captured a convoy with resources.
+#PAGE2 missions\pictures\ukraine 16
+  You have taken over a Polish camp where the Poles created many detachments. Be on your guard - they are bound to to recapture it.
+#PAGE3 missions\pictures\ukraine 16
+  You have captured the Polish base and cut the defenders of the fortress off from their supply of resources. Be on the lookout for Poles trying to retake the fortress.
+#PAGE4 missions\pictures\ukraine 21
+  You cannot build anymore cannons.
+#PAGE5 missions\pictures\ukraine 21
+  You cannot build anymore mortars.
+#PAGE6 missions\pictures\ukraine 9
+  Greetings! For several months now, the Poles have been queening around here. Unlike many other villages, the Poles haven't touched this one, but we are forced to work our fingers to the bone and to act as guides. Our squad is ready to join you for 5,000 in gold. Agreed?
+#PAGE7 missions\pictures\ukraine 9
+  We have learned much about the Polish defence lines. To the west, there is a Polish camp used to train most Polish forces. To the north, there is a base that provides the fortress with resources. If you capture the camp and the base, the defences of the fortress will be greatly weakened.
+#PAGE9 missions\pictures\ukraine 29
+  You have captured the fortress!
+#PAGE10 missions\pictures\ukraine 14
+  You have lost your hero.
+#PAGE11 missions\pictures\ukraine 14
+  Your camp has been captured and your forces are lost.
+#PAGE12 missions\pictures\ukraine 14
+  The Poles have captured the camp and will soon begin to train forces there again.
+#PAGE13 missions\pictures\ukraine 14
+  The Poles have retaken their base and resources are reaching the fortress again.
+#PAGE14 missions\pictures\ukraine 16
+ A troop of serdiuks and a small village are now under your command. You should assemble an army and capture the fortress of Kodak. Be careful, the Polish possess huge forces and will surely try to defeat you.

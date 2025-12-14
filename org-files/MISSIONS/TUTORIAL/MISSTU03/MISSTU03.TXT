@@ -1,0 +1,74 @@
+#BRIEFING faces 0
+{A}Ruse of War
+
+You must complete the whole tutorial to win.
+#P1 NONE
+  What is the mission of my fleet?
+#P1_1 missions\Pictures\mord3_tut 0
+  Your fleet conquers the sea, enables you to fish and can control the coast or riverside. The navy provides you with fire cover during a beachhead landing.
+#P2 NONE
+  Yachts
+#P2_1 missions\Pictures\mord3_tut 1
+  During the initial stages of the game, cheap and numerous yachts will help you to conquer waters.
+#P3 NONE
+  Galleys
+#P3_1 missions\Pictures\england 34
+  There are two kinds of artillery units on a galley: light fore cannons and mortars.
+#P4 NONE
+  Frigates and Xebecs
+#P4_1 missions\Pictures\england 2
+  Frigates and xebecs constitute the main combat force of your navy. They are moderately dear and possess a good rate of fire. These vessels are best used in combination with galleys. Galleys will take the main blow from the enemy, while frigates and xebecs shell the enemy at long range.
+#P5 NONE
+  Battleships
+#P5_1 missions\Pictures\mord3_tut 4
+  A battleship is the most powerful vessel in the game. Its cannon have the best rate and range of fire. However, it requires much gold to maintain.
+#P6 NONE
+  What upgrades are needed for artillery and the fleet?
+#P6_1 missions\Pictures\mord3_tut 5
+  Two fire accuracy upgrades and two fire range upgrades are required.
+#P7 NONE
+  What is fishing for?
+#P7_1 missions\Pictures\mord3_tut 6
+  Fishing is several times more efficient than procuring food from your fields. Having extracted much food from the sea, you can barter it for gold at the market.
+#P8 NONE
+  How do I effectively combine different vessels?
+#P8_1 missions\Pictures\mord3_tut 7
+  Your first line should be composed of galleys, the second of frigates or xebecs, and battleships should follow in the third line.
+#P9 NONE
+  What is required to drive an enemy from shipping routes?
+#P9_1 missions\Pictures\mord3_tut 8
+  Cannons upgraded for accuracy and range of fire can fight an enemy back from your shore for a while. After that, using your artillery cover, you will be able to start building shipyards and vessels.
+#P10 NONE
+  How do I defend my coast using towers?
+#P10_1 missions\Pictures\mord3_tut 9
+  Towers can be used to protect the coast against yachts only. Other vessels have a larger range of fire than towers.
+#P11 NONE
+  How do I upgrade towers?
+#P11_1 missions\Pictures\mord_tut 12
+  Once you have built an artillery depot, each tower interface will show you a fire rate upgrade icon. When being upgraded, the tower may be captured like any other civilian building.
+#P12 NONE
+  What is the upgrade of walls' and towers' durability for?
+#P12_1 missions\Pictures\mord3_tut 11
+  Durability upgrades for walls and towers make grenadier assaults upon your fortifications inexpedient and considerably reduce the damage suffered from enemy artillery.
+#P13 NONE
+  What is the upgrade of buildings' durability for?
+#P13_1 missions\Pictures\mord3_tut 12
+  Two durability upgrades for buildings make structures with a high life parameter virtually invulnerable.
+#P14 NONE
+  How do I carry out sallies effectively?
+#P14_1 missions\Pictures\mord3_tut 14
+  Undefended enemy peasants, mines, civil and uncompleted military buildings may be captured even by a single military unit. The best option is to use two or three mounted units in a sally.
+#P15 NONE
+  What do I do first of all when trying to destroy enemy buildings?
+#P15_1 missions\Pictures\mord_tut 18
+  Look for the buildings of primary importance with the lowest life parameters.
+#P16 NONE
+  Why is it impossible to create artillery in a captured enemy artillery depot?
+#P16_1 missions\Pictures\mord3_tut 15
+  You need to have a blacksmith and a stable of the same nation as the captured artillery depot to create artillery there.
+#P17 NONE
+  How do I use captured enemy peasants?
+#P17_1 missions\Pictures\mord3_tut 16
+  Since there may be 100 people in a town hall and 170 to 150 in a barracks, build a town hall and a barracks of the enemy nation as lodgings for your people.
+#PAGE0 missions\Pictures\mord_tut 39
+  Congratulations! Now you are fully trained and ready for real combat. Good luck!

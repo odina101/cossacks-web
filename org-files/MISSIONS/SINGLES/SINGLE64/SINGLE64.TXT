@@ -1,0 +1,40 @@
+#BRIEFING faces 0
+{A}	On Land and Sea
+   
+You must successfully oppose the alliance of Spain, France and Portugal and defeat all enemies in the region.   
+
+You will lose if your troops are eliminated.
+   
+#PAGE0 Missions\Pictures\faces 14
+Dutch pioneers have decided to settle in this region. However, there are enemy fortresses and towns located in the vicinity. Naturally, they are not happy to see new settlers here.
+Be careful, the enemy is on the alert! Make sure you fortify your position as soon as possible!
+
+#PAGE1 Missions\Pictures\mord2_tut 21
+The Spanish fortress has been captured.
+
+#PAGE2 Missions\Pictures\mord2_tut 23 mord2_tut 0 2
+The French fortress has been captured.
+
+#PAGE3 Missions\Pictures\mord2_tut 0
+The French have launched a campaign against you.
+
+#PAGE4 Missions\Pictures\mord2_tut 2
+The Portuguese have launched a campaign against you.
+
+#PAGE10 Missions\Pictures\austria 31
+Mission failed. All settlers have been killed.
+
+#PAGE11 Missions\Pictures\faces 9
+Regular French troops in the region have been eliminated (blue).
+
+#PAGE12 Missions\Pictures\faces 9
+Regular Spanish troops in the region have been eliminated (green).  
+
+#PAGE13 Missions\Pictures\faces 9
+
+
+Regular Portuguese troops in the region have been eliminated (violet).  
+
+#PAGE20 Missions\Pictures\faces 14
+All enemies have been defeated.
+You have captured the whole region. Victory!

@@ -1,0 +1,53 @@
+#BRIEFING faces 0
+{A}	Into the 18th Century
+ 
+You must progress to the 18th century as soon as possible and neutralise the alliance of England, Sweden, Russia and Poland. 
+Your ally Bavaria will help you to hold back the enemy. 
+You will lose if your troops are defeated.
+ 
+Current objectives:
+{B}	Progress to the 18th century.
+{C}	~Progress to the 18th century.~
+{D}	Neutralise the alliance of England, Sweden, Russia and Poland.
+{E}	~Neutralise the alliance of England, Sweden, Russia and Poland.~
+
+#PAGE0A Missions\Pictures\mord3_tut 10
+You must progress to the 18th century as soon as possible and eliminate the alliance of England, Sweden, Russia and Poland! You have 10 minutes to progress to the 18th century and the Bavarian forces will be covering you. The King of France believes in you and promises a reward for victory!
+
+#PAGE0B Missions\Pictures\faces 31
+%d minutes have elapsed!
+
+#PAGE0C Missions\Pictures\poland 19
+
+Congratulations! You have progressed to the 18th century in %d minutes and %d seconds! As a reward, the King of France has granted you %d gold! Bavaria is amazed with your actions. The Bavarian troops have been passed under your command!
+
+#PAGE0 Missions\Pictures\faces 7
+Congratulations! You have progressed to the 18th century! 
+
+#PAGE1 Missions\Pictures\faces 4
+You have been killed in action!
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death.
+
+#PAGE1B Missions\Pictures\austria 27
+Your time is up! The King of France is extremely disappointed and refuses to help you! Your ally's troops are fleeing in panic! It will be very difficult to overcome the enemy!
+
+#PAGE8 Missions\Pictures\austria 6
+Congratulations! You have neutralised the alliance of England, Sweden, Russia and Poland!
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! England has been eliminated!
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! Sweden has been eliminated!
+
+#PAGE8C Missions\Pictures\austria 6
+Congratulations! Russia has been eliminated!
+
+#PAGE8D Missions\Pictures\austria 6
+Congratulations! Poland has been eliminated!
+
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have accomplished the mission and won!

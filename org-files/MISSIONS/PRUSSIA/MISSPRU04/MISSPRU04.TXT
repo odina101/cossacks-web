@@ -1,0 +1,19 @@
+#BRIEFING faces 0
+{D}The Siege of Berlin 
+ Hold the city and await reinforcements.
+ You will lose if the Russian troops capture the centre of the city.
+
+Current objective:
+ Arrange for resource procurement. Start upgrading towers and producing military units.
+
+#PAGE1 Missions\Pictures\mord3_tut 10
+The Russian troops have encircled Berlin and are preparing the assault. You must organise the defence of the city and not let the Austrians into Berlin.
+#PAGE2 Missions\Pictures\mord2_tut 21
+ Russian troops have captured the city! You have failed to accomplish your mission. 
+#PAGE3 Missions\Pictures\mord2_tut 23
+ Victory! You have saved Berlin!
+#PAGE4 Missions\Pictures\mord2_tut 2
+ Reinforcements are approaching the city!
+
+
+                                      

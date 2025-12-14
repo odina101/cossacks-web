@@ -1,0 +1,60 @@
+#BRIEFING faces 0
+{Z} Insurrection
+         
+Eliminate the Polish dominance to win.
+!You will lose if the hetman is killed.
+!You can ask neighbouring villages for help.
+Only your main hero can speak to some of the characters.
+
+   Current objective:
+{A}Lead the insurrection against the Polish lords!
+Build up a settlement as soon as possible, recruit an army and drive the Poles from these lands!
+!You will lose if the leader of the rebellion is killed.
+#PAGE1 Missions\Pictures\ukraine 29
+Your task is to lead the rebellion and take control of this land! 
+#PAGE21 Missions\Pictures\ukraine 10
+Build up a settlement and form an army to fight against the enemy (black, orange, violet) as soon as possible.
+#PAGE2 Missions\Pictures\ukraine 12
+You can try asking your western (turquoise) and eastern (blue) neighbours for help, but they are likely to talk only to the hetman.
+#PAGE3 Missions\Pictures\ukraine 9
+Good day! Our village head wants to talk to you, hurry up!
+#PAGE4 Missions\Pictures\ukraine 8
+Hetman, there is a village serdiuk who wants to speak with you. He says it is important! He's waiting for you in the centre of our village, just beyond the market.
+#PAGE5 Missions\Pictures\ukraine 23
+Greetings to your settlement!  
+#PAGE6 Missions\Pictures\ukraine 25
+We have no time for polite words and greetings! I have heard much of your attempts to rid the land of the Polish lords. My brothers are on their way to your settlement. They will help you fight the Poles! May you defeat them! We are counting on you. 
+#PAGE7 Missions\Pictures\ukraine 25
+Greetings, brother! We are glad to see you in good health! May we offer you a glass of vodka?
+#PAGE8 Missions\Pictures\ukraine 23
+I am in a hurry. Maybe next time.
+#PAGE9 Missions\Pictures\ukraine 10
+Our head wants to see you! Follow me!
+#PAGE10 Missions\Pictures\ukraine 8
+Hetman, the cossack from the neighbouring village has arrived and wants to speak with you.
+#PAGE11 Missions\Pictures\ukraine 5
+So, here you are! You have ruined our quiet life with your rebellion!
+#PAGE12 Missions\Pictures\ukraine 23
+We have had enough of playing hide-and-seek. It's time we showed the Poles who is the true master of Ukraine! Or would you miserable coward prefer to wait at home until it's all over?
+#PAGE13 Missions\Pictures\ukraine 5
+Very well, save your breath. My people and I will help you, but let me give you some advice: Don't lay a hand on any Polish town yet. Demolish two Polish estates to the north-west and north-east of your settlement. Then you will be able to get your hands on the town, too.
+#PAGE14 Missions\Pictures\ukraine 5
+Greetings! How are things with you?
+#PAGE15 Missions\Pictures\ukraine 23
+I am in a hurry. I'll talk to you next time.
+#PAGE16 Missions\Pictures\poland 18
+The guards have sounded the alarm, be careful!
+#PAGE17 Missions\Pictures\poland 14
+-It seems one of the Poles has changed his mind about the independence of Ukraine! (One enemy has been vanquished.)
+#PAGE18 Missions\Pictures\ukraine 29
+There's only one town left! Let us take it by force!
+#PAGE19 Missions\Pictures\poland 7
+We've almost made it! Kill the guards of the town hall. They don't stand a chance!
+#PAGE20 Missions\Pictures\poland 14
+-Burn the Polish town to a cinder!    
+#PAGE50 Missions\Pictures\ukraine 30
+We cannot continue this war ... 
+#PAGE49 Missions\Pictures\mord_d 2
+Unfortunately, the leader of the rebellion has been killed and we can offer no further resistance ...  
+#PAGE48 Missions\Pictures\poland 9
+Well, Poland has suffered badly and the King will now have to consider the free spirit of the Ukrainian people! 

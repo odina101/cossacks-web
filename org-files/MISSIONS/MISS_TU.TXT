@@ -1,0 +1,5 @@
+Q1 Try It
+Q2 Skip
+Q3 Next Question
+Q4 Back to Menu
+Q5 Look Through

@@ -1,0 +1,339 @@
+#Krestian_Sved(HO)
+0 20000 0 0 6000 9000
+5
+Krestian_Sved(HO) X
+Mortira(HO) M
+Pushka(HO) P
+Bashnia(HO) Q
+Bashnia(HO) W
+12 4
+ P P P P P P P P P P P         
+        XXXXXX   
+        XXXXXX   
+ Q      XXXXXX       W
+        XXXXXX        
+        XXXXXX        
+        XXXXXX         
+ M M M M M M M M M M M
+#Kreposnoi_pruss(BA)
+0 20000 0 0 6000 9000
+5
+Mortira(BA) M
+Pushka(BA) P
+Kreposnoi_pruss(BA) X
+Bashnia(BA)  Q
+Bashnia(BA) W
+12 4
+ P P P P P P P P P P P         
+        XXXXXX   
+        XXXXXX   
+ Q      XXXXXX       W
+        XXXXXX        
+        XXXXXX        
+        XXXXXX         
+ M M M M M M M M M M M
+#Kreposnoi_pruss(DA)
+0 20000 0 0 6000 9000
+5
+Mortira(DA) M
+Pushka(DA) P
+Kreposnoi_pruss(DA) X
+Bashnia(DA)  Q
+Bashnia(DA) W
+12 4
+ P P P P P P P P P P P         
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M 
+#Kreposnoi_pruss(au)
+0 20000 0 0 6000 9000
+5
+Mortira(au) M
+Pushka(au) P
+Kreposnoi_pruss(au) X
+Bashnia(au) Q
+Bashnia(au) W
+12 4
+ P P P P P P P P P P P
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Krestian_Turki(AL)
+0 20000 0 1000 6000 9000
+5
+Mortira(AL) M
+Pushka(AL)  P
+Krestian_Turki(AL) X
+Bashnia_3(AL)  Q
+Bashnia_3(AL) W
+12 4
+ P P P P P P P P P P P              
+        XXXXXX
+        XXXXXX
+ Q      XXXXXX       W
+        XXXXXX    
+        XXXXXX    
+        XXXXXX
+ M M M M M M M M M M M         
+#Krestian_Sved(en)
+0 20000 0 0 6000 9000
+5
+Mortira(en) M
+Pushka(en)   P
+Krestian_Sved(en) X
+Bashnia(en)  Q
+Bashnia(en) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Krestian_Sved(fr)
+0 20000 0 0 6000 9000
+5
+Mortira(fr) M
+Pushka(fr)    P
+Krestian_Sved(fr) X
+Bashnia(fr)  Q
+Bashnia(fr) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Kreposnoi_pruss(GE)
+0 20000 0 0 6000 9000
+5
+Mortira(GE) M
+Pushka(GE) P
+Kreposnoi_pruss(GE) X
+Bashnia(GE)  Q
+Bashnia(GE) W
+12 4
+ P P P P P P P P P P P
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Kreposnoi_portugal(PI)
+0 20000 0 0 6000 9000
+5
+Mortira(PI) M
+Pushka(PI) P
+Kreposnoi_portugal(PI) X
+Bashnia(PI)  Q
+Bashnia(PI) W
+12 4
+ P P P P P P P P P P P                                
+        XXXXXX
+        XXXXXX     
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M 
+#Kreposnoi_evro(PL)
+0 20000 0 0 6000 9000
+5
+Mortira(PL) M
+Pushka(PL) P
+Kreposnoi_evro(PL) X
+Bashnia(PL)  Q
+Bashnia(PL) W
+12 4
+ P P P P P P P P P P P                               
+         XXXXXX 
+         XXXXXX  
+ Q       XXXXXX        W
+         XXXXXX       
+         XXXXXX       
+         XXXXXX        
+ M M M M M M M M M M M
+#Kreposnoi_portugal(PO)
+0 20000 0 0 6000 9000
+5
+Mortira(PO) M
+Pushka(PO) P
+Kreposnoi_portugal(PO) X
+Bashnia(PO)  Q
+Bashnia(PO) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Kreposnoi(RU)
+0 20000 0 0 6000 9000
+5
+Mortira(RU) M
+Pushka(RU) P
+Kreposnoi(RU) X
+Bashnia_2(RU) Q
+Bashnia_2(RU) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Kreposnoi_pruss(SA)
+0 20000 0 0 6000 9000
+5
+Mortira(SA) M
+Pushka(SA) P
+Kreposnoi_pruss(SA) X
+Bashnia(SA)  Q
+Bashnia(SA) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Kreposnoi_portugal(sp)
+0 20000 0 0 6000 9000
+5
+Mortira(sp) M
+Pushka(sp) P
+Kreposnoi_portugal(sp) X
+Bashnia(sp)  Q
+Bashnia(sp) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Krestian_Sved(SV)
+0 20000 0 0 6000 9000
+5
+Mortira(SV) M
+Pushka(SV) P
+Krestian_Sved(SV) X
+Bashnia(SV)  Q
+Bashnia(SV) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Krestian_Turki(TU)
+0 20000 0 0 6000 9000
+5
+Mortira(TU) M
+Pushka(TU) P
+Krestian_Turki(TU) X
+Bashnia_3(TU)  Q
+Bashnia_3(TU) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX  
+        XXXXXX  
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX       
+ M M M M M M M M M M M
+#Kres_ukranian(UA)
+10000 20000 0 0 6000 9000
+3
+Mortira(UA) M
+Pushka(UA) P
+Kres_ukranian(UA) X
+12 4
+ P P P P P P P P P P P                               
+               
+        XXXXXX  
+        XXXXXX        
+        XXXXXX       
+        XXXXXX       
+              
+ M M M M M M M M M M M
+#Kreposnoi_portugal(VE)
+0 20000 0 0 6000 9000
+5
+Mortira(VE) M
+Pushka(VE) P
+Kreposnoi_portugal(VE) X
+Bashnia(VE)  Q
+Bashnia(VE) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX
+ M M M M M M M M M M M
+#Krestian_Sved(SW)
+0 20000 0 0 6000 9000
+5
+Mortira(SW) M
+Pushka(SW) P
+Krestian_Sved(SW) X
+Bashnia(SW)  Q
+Bashnia(SW) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX
+ M M M M M M M M M M M
+#Kreposnoi_pruss(VG)
+0 20000 0 0 6000 9000
+5
+Mortira(VG) M
+Pushka(VG) P
+Kreposnoi_pruss(VG) X
+Bashnia(VG)  Q
+Bashnia(VG) W
+12 4
+ P P P P P P P P P P P                               
+        XXXXXX
+        XXXXXX 
+ Q      XXXXXX       W
+        XXXXXX      
+        XXXXXX      
+        XXXXXX
+ M M M M M M M M M M M
+#

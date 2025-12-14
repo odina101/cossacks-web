@@ -1,0 +1,45 @@
+#BRIEFING faces 0
+{A}Mutiny in Bohemia
+ 
+You will win if you succeed in liberating this region from the rebels.
+You will lose if your main character dies.
+! Only your main hero can talk to some other characters.
+ 
+  Current objectives:
+{B}Get to the town where loyal people are waiting for you
+{C}~Get to the town where loyal people are waiting for you~
+{D}Vanquish the mutineers (annihilate all the blue and black players' peasants, town halls and mines).
+#PAGE0 Missions\Pictures\austria 0
+ Loyal men are awaiting you in a small frontier town. Their assistance will allow you to organize an army and quell the mutiny.  
+  You have gone ashore on the bank of the river. You will have to get to the town on foot. First, go westwards. Then follow the road north.
+#PAGE1 Missions\Pictures\austria 1
+  "Hey, you! Trespassing into our region will cost you 2,000 in gold! Pay or you will regret it!"
+  Do you want to pay the bandits?
+#PAGE2 Missions\Pictures\austria 1
+  Seize these misers! Don't spare them!
+#PAGE2A Missions\Pictures\austria 1 
+  Come on, move along, before we change our minds!
+#PAGE3 Missions\Pictures\poland 1
+  You have encountered a group of runaway mercenaries. Their leader addresses you. "Do you want to hire brave warriors? We'll make it cheap, only 200 pieces of gold! You should think about it, for if you refuse, we will take your gold anyway!" Do you want to hire them?
+#PAGE3A Missions\Pictures\poland 1
+  Ready to serve you!
+#PAGE3B Missions\Pictures\poland 1
+  Ha! Rob him, brothers!
+#PAGE4 Missions\Pictures\faces 1
+  You have reached a small village. The head of the village has received you generously and fed your soldiers. He asks you to do him a small favour: take a message to his brother who lives on the outskirts of the town. Will you do this for him?
+#PAGE5 Missions\Pictures\faces 5
+  You have delivered the letter to the brother of the village head. He has rewarded you with 100 in gold.
+#PAGE6 Missions\Pictures\austria 3
+  Finally you have reached the town! The burgomaster places all the workers and buildings under your control. Now it's high time you built a military camp, formed an army and vanquished the mutineers.
+#PAGE7 Missions\Pictures\austria 4
+  A caravan with resources sent to help you has reached the town!
+#PAGE8 Missions\Pictures\faces 15
+  You have crushed the gang of bandits and searched their camp. In a chest, you have found their loot of %d in gold.
+#PAGE9 Missions\Pictures\ukraine 15
+  You have found a chest full of gold in the bandits' camp. It contains %d in gold.
+#PAGE10 Missions\Pictures\faces 4
+  You have perished in an unequal combat!
+#PAGE10A Missions\Pictures\austria 5
+  You starved to death.
+#PAGE11 Missions\Pictures\austria 6
+  All the rebels have been killed! You have accomplished your mission!

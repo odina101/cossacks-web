@@ -1,0 +1,80 @@
+#BRIEFING faces 0
+{Z} First Difficulties
+                                
+!You will lose if you don't have peasants and can't create them, and if the quantity of military units is less than 8 (default defeat conditions).
+!Protect your settlement!
+                                  
+  Current objectives:
+{J}Build a blacksmith.
+{P}~Build a blacksmith.~
+{A}Build a barracks.
+{Q}~Build a barracks.~
+{K}Create 10 pikemen.
+{B}Repel the attack.
+{C}Build an academy.
+{R}~Build an academy.~
+{D}Create a drummer and a commander.
+{E}Build a church.
+{S}~Build a church.~
+{F}Create a priest.
+{H}Build a stable.
+{T}~Build a stable.~
+{G}Create several Vityazes.
+{I}Form troops.
+{L}Set up guards.
+{M}Rebuff the raid.
+{N}Destroy the enemy troops.
+{O}Protect the estate!
+
+#PAGE1 Missions\Pictures\russia 8
+Now construct other buildings. Build a blacksmith so that you will be able to build a barracks and a stable. Build it as soon as you can. Select peasants now and build a blacksmith.
+#PAGE2 Missions\Pictures\mord_d 3
+The blacksmith has been built. Now you can construct military buildings.
+#PAGE3 Missions\Pictures\russia 8
+Next, build a barracks. In the barracks you can create infantrymen of the 17th century. Select peasants and build a 17th century barracks.
+#PAGE4 Missions\Pictures\russia 17
+Good! Your barracks has been finished. Select it and create a pikeman. If you want to order 5 units at once, hold down the Shift key and left-click on the "Pikeman" icon, or set the non-stop construction of units. This can be done by pressing CTRL and left-clicking on the icon.
+#PAGE5 Missions\Pictures\russia 20
+Having units created non-stop is quite useful if you have enough resources and constantly need troops.
+#PAGE6 Missions\Pictures\mord_tut 10
+Now create 10 pikemen.
+#PAGE7 Missions\Pictures\mord_tut 3
+Good. Judging from the rumours, the bandits are going to attack you from the north-east. Watch out.
+#PAGE8 Missions\Pictures\mord_tut 4
+Good, you have rebuffed the attack! Now take care of the security of your settlement. In the game, many unguarded buildings, mines and peasants may be captured by the enemy. Therefore, it is recommended that you place 2 or 3 guards near each building, mine and places where peasants work.
+#PAGE9 Missions\Pictures\russia 8
+You can order your troops to guard any object of your settlement as follows: Select 2 or 3 soldiers, e.g. pikemen. In the lower left part of the interface you will see the "Guard" icon. Click on it so that the cursor turns into a shield. Moving the cursor on the map you'll notice that the shield cursor is grey in places where there is nothing to guard. But as soon as you point the cursor at an object that can be guarded, the cursor will be coloured. In this case, left-click for the soldiers to guard the object until you order them to do otherwise.
+#PAGE23 Missions\Pictures\russia 20
+Now place guards throughout your village so that the enemy can't capture your units.
+#PAGE10 Missions\Pictures\ukraine 25
+The rebellious cossacks in the south-west are going to attack you! Move your major troops in this direction. Be careful, the enemy may capture unguarded buildings, mines and peasants.
+#PAGE11 Missions\Pictures\russia 19
+You have done well!
+#PAGE12 Missions\Pictures\russia 8
+Now build an academy. Select peasants to do so.
+#PAGE13 Missions\Pictures\mord_tut 23
+Great, the academy has been finished. Now you can create commanders and drummers, i.e. the units required to build up formations, in your barracks. Create a commander and a drummer. Select the barracks and order one commander and one drummer.
+#PAGE14 Missions\Pictures\russia 20
+Let's build up a squad. For this we need 36 pikemen, one commander and one drummer. Gather all these units and select the commander. In the lower left part of the interface you will see formation icons. There are three of them, each corresponding to a certain type of formation, i.e. rank, column and square. Choose the type you need. Apart from a formation of 36 units, you can also create formations of 15, 72, 120 and 196 units.
+#PAGE15 Missions\Pictures\russia 16
+When you see the enemy attacking you with superior forces and you feel you may lose the battle, you can attack with your peasants. Of course, peasants are less effective than regular troops. However, their presence may change the course of battle. When attacking with peasants, make sure your troops are near them. Otherwise, they will be captured.
+#PAGE24 Missions\Pictures\mord2_tut 2
+Select the group, press "A" and set the point by left-clicking. This method for despatching units in attack mode is frequently used. A selected group despatched in attack mode will attack any enemy unit(s) they come across on their way.
+#PAGE16 Missions\Pictures\mord_tut 3
+Your neighbour is going to attack you. The enemy is reported to have sent troops to your village. Use your newly-formed squad to defeat the enemy.
+#PAGE17 Missions\Pictures\mord_d 6
+This will keep your neighbour from you for a while! As you have seen, the squad is more effective and can handle larger enemy troops. This is due to the fact that units in formations receive a bonus for both attack and defence.
+#PAGE18 Missions\Pictures\mord_tut 32
+Now your land is relatively quiet, build a stable and a church. If you don't have enough resources to do so, gather more.
+#PAGE19 Missions\Pictures\russia 12
+Great! The church has been erected. Create several priests. These can heal wounded units. Bring a priest to the squad and you'll see him heal the units. The presence of priests in battle formations can strengthen your troops in action.
+#PAGE20 Missions\Pictures\russia 0
+Excellent, the stable has been finished. Cavalry units have many advantages over infantrymen. They are faster and stronger. The presence of the cavalry is very important in action. Create several Vityazes.
+#PAGE21 Missions\Pictures\mord_tut 3
+Your neighbours plan to attack you again. Be prepared to repel them. Expect them to attack from any direction.
+#PAGE22 Missions\Pictures\austria 6
+Wonderful! The enemy has been defeated!
+#PAGE99 Missions\Pictures\mord_tut 36
+You have accomplished the mission. Next time it will be harder!
+#PAGE100 Missions\Pictures\mord_tut 39  
+Unfortunately, you have lost! Try again!

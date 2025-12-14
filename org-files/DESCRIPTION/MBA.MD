@@ -1,0 +1,1 @@
+Infantryman armed with a musket and a bayonet. Hits targets both at long range and in close combat. Inexpensive to create once the appropriate upgrade has been conducted in the academy. Effective in hand-to-hand combat.

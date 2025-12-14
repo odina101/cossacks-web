@@ -1,0 +1,22 @@
+#BRIEFING faces 0
+{A}Moravia
+ 
+You will win if the enemy headquarters are destroyed.
+You will lose if your town hall is destroyed or if your troops are defeated.
+ 
+#PAGE0 Missions\Pictures\austria 3
+  The enemy will try to get across to this side. Stop the hostile troops at any cost. Your main task is to protect the town hall.
+#PAGE1 Missions\Pictures\austria 30
+  The enemy headquarters have been destroyed! You have won!
+#PAGE2 Missions\Pictures\austria 31
+  The town hall has been destroyed! You failed to defend the town.
+#PAGE3 Missions\Pictures\russia 34
+  Intelligence reports state that the enemy is trying to get across the river on ferries.
+#PAGE4 Missions\Pictures\austria 32
+  You have defeated the main forces of the attackers. Now is the time to counterattack the Prussians. Your task is to destroy their field headquarters.
+#PAGE5 Missions\Pictures\mord_d 6
+  All your troops have been defeated!
+#OTST1 Missions\Pictures\austria 21
+  Bridges can help you to most effectively withstand enemy pressure. Use artillery to deliver maximum damage. Take into account that the enemy may use ferries to cross to your bank.
+#OTST2 Missions\Pictures\mord_tut 11
+  A battery of artillery has arrived to assist you. 

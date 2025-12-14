@@ -1,0 +1,51 @@
+8
+DUTCH WAR OF INDEPENDENCE
+1567 - 1609
+history_battl\holland.txt
+2
+#MOOK
+#NEWPORT
+THE THIRTY YEARS' WAR
+1618 - 1648
+history_battl\30.txt
+5
+#W_MOUNT
+#BREITENFELD
+#LUCEN
+#NERDLENGEN
+#VITTSTOK
+THE ENGLISH CIVIL WAR
+1642 - 1651
+history_battl\england.txt
+2
+#MARSTONMUR
+#DENBAR
+THE NORTHERN WAR
+1700 - 1721
+history_battl\Sev.txt
+3
+#NARVA
+#POLTAVA
+#GANGUT
+THE WAR OF THE SPANISH SUCCESSION
+1701 - 1714
+history_battl\Spain.txt
+2
+#GOHSHTED
+#MALPLAKE
+THE WAR FOR AUSTRIAN SUCCESSION
+1740 - 1748
+history_battl\prussia.txt
+1
+#GOGENFRIDBERG
+THE SEVEN YEARS' WAR
+1756 - 1763
+history_battl\7.txt
+2
+#LEITEN
+#KUNERSDORF
+THE WARS WITH TURKEY
+The 18th century
+history_battl\turkish.txt
+1
+#RYMNIK

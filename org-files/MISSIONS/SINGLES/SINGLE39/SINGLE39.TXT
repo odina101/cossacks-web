@@ -1,0 +1,49 @@
+#BRIEFING faces 0
+{A} A Pirate's Dream
+
+Current objectives: 
+{B}Earn 100,000 in gold (for the island of your dreams)!
+
+#PAGE0 Missions\Pictures\poland 7
+Make a living out of piracy, rob trade vessels (ships under the green flag) and hide from military ships to collect the necessary amount of money. 
+At the pirate base you can sell captured cargoes, repair and improve your ship (in the pirates' harbour).  
+
+#PAGE1_0 Missions\Pictures\England 9
+The ship's hold contained %d wood.
+
+#PAGE1_1 Missions\Pictures\England 9
+You found %d gold in the ship's hold.
+
+#PAGE1_2 Missions\Pictures\England 9
+The ship's hold contained %d stone.
+
+#PAGE1_3 Missions\Pictures\England 9
+You found %d food in the ship's hold. 
+
+#PAGE1_4 Missions\Pictures\England 9
+There was %d iron in the ship's hold.
+
+#PAGE1_5 Missions\Pictures\England 9
+You found %d coal in the ship's hold. 
+
+#PAGE2 Missions\Pictures\England 9
+You don't have enough money. 
+
+#PAGE3 Missions\Pictures\England 9
+What shall be done about the captured ship? 
+
+#PAGE4 Missions\Pictures\England 9
+What would you like to sell?
+
+#PAGE5 Missions\Pictures\England 9
+What would you like to buy? 
+
+#PAGE6 Missions\Pictures\England 9
+Our offer:
+
+#PAGE7 Missions\Pictures\England 9
+What would you like to improve:
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

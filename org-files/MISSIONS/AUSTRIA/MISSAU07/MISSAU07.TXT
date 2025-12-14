@@ -1,0 +1,19 @@
+#BRIEFING faces 0
+{A}Silesia
+ 
+You will win if you destroy the Prussian artillery.
+You will lose if the Prussian howitzers reach the southern edge of the map.
+ 
+#PAGE0 Missions\Pictures\austria 28
+  Our cavalry units report that the enemy is approaching. Most probably the Prussians are trying to approach the fortress from two sides. You must block their way and destroy their howitzers.
+#PAGE1 Missions\Pictures\austria 27
+  The Prussian howitzers have been destroyed! Mission accomplished.
+#PAGE2 Missions\Pictures\austria 28
+  The enemy howitzers have reached the southern edge of the map! You have been defeated!
+#PAGE3 Missions\Pictures\mord2_tut 5
+  The hussar squad has arrived to help you.
+#OTST1 Missions\Pictures\austria 42
+  It would be most efficient to take the troops outside the fortress and arrange an ambush in the south-western and south-eastern parts of the map. Remember your primary objective is to capture the enemy howitzers. Don't forget to improve the characteristics of your warriors by conducting upgrades in your barracks.
+#OTST2 Missions\Pictures\austria 7
+  Hurry! The enemy is close to the southern border!
+  

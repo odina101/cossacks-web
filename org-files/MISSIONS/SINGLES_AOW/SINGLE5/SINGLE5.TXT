@@ -1,0 +1,79 @@
+#BRIEFING faces 0
+{Z} The Long Way to Victory
+                                                           
+Build up your village and destroy the south-eastern settlement of the Turks.
+!You will lose if the packhorses are destroyed before the trade is complete.
+!You will lose if your troops are annihilated. 
+
+  Current objectives:
+{A} Exchange resources at the Turkish market
+{B}~Exchange resources at the Turkish market.~
+{C} Free the peasants
+{D}~Free the peasants.~
+{E} Build up a settlement and destroy the Turks
+{F}~Build up a settlement and destroy the Turks!~
+!You will lose if your troops are annihilated. 
+#PAGE1 Missions\Pictures\ukraine 23
+Take packhorses to the Turkish market. In the market you can exchange food for wood and stone to start building up a settlement.
+#PAGE2 Missions\Pictures\ukraine 12 
+Beware of the bandits on your way!
+#PAGE3 Missions\Pictures\ukraine 1
+Do you want to attack the caravan?
+#PAGE4 Missions\Pictures\poland 5
+Out of the depth of the forest a gang of bandits attacks you!
+#PAGE5 Missions\Pictures\Russia 32
+We are happy to see you at our market!
+#PAGE6 Missions\Pictures\ukraine 0
+Hurry now, exchange resources! The time you have on the resource market is running out... 
+#PAGE7 Missions\Pictures\poland 5
+The ataman has been killed and the gang has joined you. In the gang's camp you have found 1,000 units each of coal and iron! 
+#PAGE8 Missions\Pictures\poland 20 
+The packhorses have been lost. Mission failed!
+#PAGE9 Missions\Pictures\russia 32
+The time you have for the exchange is over.
+#PAGE10 Missions\Pictures\poland 5
+Move along, you are getting on our nerves!
+#PAGE11 Missions\Pictures\poland 5
+It's a pity, but we shall have to teach you a lesson!
+#PAGE12 Missions\Pictures\ukraine 30
+While you were trading, the villagers were abducted!
+#PAGE13 Missions\Pictures\austria 4 
+The caravan has been ransacked! The loot is 1,000 in gold!
+#PAGE14 Missions\Pictures\austria 4
+Having opened the chests carried by the caravan, you find 2,000 in gold!
+#PAGE15 Missions\Pictures\ukraine 7
+3,000!
+#PAGE16 Missions\Pictures\ukraine 1
+Do you want to attack the market guards?
+#PAGE17 Missions\Pictures\ukraine 9
+The prison guards have been killed! Get the peasants out and return to your village!
+#PAGE18 Missions\Pictures\ukraine 12
+Thank goodness you have reached the village! You can start building!
+#PAGE19 Missions\Pictures\russia 31
+The town is under attack!
+#PAGE21 Missions\Pictures\ukraine 32
+We will give you 100 pieces of gold per packhorse. You don't need them anyway!
+#PAGE22 Missions\Pictures\ukraine 2
+Release the peasants held by the Turks in the north-east!
+#PAGE23 Missions\Pictures\ukraine 5
+The Turkish settlement has been destroyed!
+#PAGE24 Missions\Pictures\ukraine 4
+Now they know what happens to those who kidnap peasants!
+#PAGE25 Missions\Pictures\ukraine 20
+You have lost!
+#PAGE26 Missions\Pictures\mord2_tut 18
+The last defender of the market has been killed. All the goods are now yours!
+#PAGE27 Missions\Pictures\mord2_tut 16
+We trusted you and you betrayed us! You will pay for this with your life!
+#PAGE20 Missions\Pictures\mord3_tut 14
+The enemy has been crushed. You have won!
+#PAGE28 Missions\Pictures\mord_n 9
+Using the market, try to barter wood!
+#PAGE29 Missions\Pictures\ukraine 3
+You should not have trusted those bandits!
+#PAGE30 Missions\Pictures\ukraine 3
+Be careful. The peasants are well-guarded.
+#PAGE31 Missions\Pictures\ukraine 3
+Now develop a powerful economy and wipe out the Turks to the south-east.
+
+

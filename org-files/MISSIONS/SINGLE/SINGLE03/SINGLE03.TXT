@@ -1,0 +1,4 @@
+#BRIEFING faces 0
+{A}Badlands
+
+  Your state is located in a wasteland. It would not be easy to develop your economy here, and much easier to capture your neighbour's territory, which has resources galore. The nobility and the army are confident that it's high time justice was restored and the sword drawn. Never disappoint your subjects.

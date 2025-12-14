@@ -1,0 +1,74 @@
+#BRIEFING faces 0
+{A} The Ally's Shield
+ 
+As a commander of the Polish army, you are given the task to destroy the alliance of Bavaria, Prussia and Saxony. The Prussians have occupied the central island (see map) and built up a strong navy. 
+Your ally, Russia, possesses a powerful navy too. You require the help of the Russians, who must shield you from the sea. 
+You will lose if your own or your ally's troops are defeated. 
+ 
+Current objectives:
+{B}Neutralise the alliance of Bavaria, Prussia and Saxony. 
+{C}~Neutralise the alliance of Bavaria, Prussia and Saxony.~
+{D}Blow up or capture the Prussian town hall. 
+{E}~Blow up or capture the Prussian town hall.~
+{F}Blow up 4 Prussian shipyards on the island in the centre of the map. 
+{G}~Blow up 4 Prussian shipyards on the island in the centre of the map.~
+{K}Destroy the bandit camp on your island. 
+{L}~Destroy the bandit camp on your island.~
+
+#PAGE0AA Missions\Pictures\austria 18
+Victory will be yours only if you are able to break the alliance of Bavaria, Prussia and Saxony! The Prussians have discovered your location and sent military vessels to meet you! Demolish the shipyards on the Prussian island (4 in total) to stop their attacks.  
+Blow up or capture the Prussian town hall, where their headquarters are located, to deprive the Prussian forces of their command. Otherwise Prussia will launch a full-scale attack against you.
+
+#PAGE0A Missions\Pictures\faces 31
+It will be next to impossible for you to handle the Prussian fleet on your own! The assistance of the strong Russian navy is vital. To gain the Russian support you must make your way to the Russian island in a fast cutter. If you lose the cutter, build a new one and move on to your ally.  
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You have destroyed the camp of brigands and found %d gold! 
+
+#PAGE1 Missions\Pictures\faces 4
+You were killed in the unequal fight. 
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death. 
+
+#PAGE2 Missions\Pictures\poland 4
+There are brigands on your island! Demolish their camp! 
+
+#PAGE3 Missions\Pictures\faces 34
+Greetings, allies! We require your assistance to fend off the constant Prussian naval attacks! Help us!    
+
+#PAGE4 Missions\Pictures\faces 6
+Dear Slav brothers! We will send 18th century frigates to your lands to repel the Prussian attacks! They will serve as a sea shield for you. If these ships are sunk, we will send more until you have demolished the Prussian shipyards!   
+
+#PAGE6 Missions\Pictures\austria 37
+Congratulations! You have demolished 4 Prussian shipyards! 
+
+#PAGE7 Missions\Pictures\austria 37
+Congratulations! The Prussian town hall has been destroyed! 
+
+#PAGE7A Missions\Pictures\austria 30
+Congratulations! You have captured the Prussian town hall! 
+
+#PAGE8 Missions\Pictures\austria 6
+Congratulations! You have neutralised the alliance of Bavaria, Prussia and Saxony! 
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! The Bavarians have been defeated! 
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! The Prussians have been defeated! 
+
+#PAGE8C Missions\Pictures\austria 6
+Congratulations! The Saxons have been defeated! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have accomplished all the tasks and won! 
+
+#PAGE10 Missions\Pictures\austria 4
+Prussia has launched a large-scale war against you! 
+
+#PAGE10A Missions\Pictures\austria 4
+Russia has launched large-scale combat operations to help you beat your adversaries! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+Your ally's troops have been defeated! Mission failed. 

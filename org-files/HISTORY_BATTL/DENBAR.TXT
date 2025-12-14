@@ -1,0 +1,8 @@
+#DNB_ZoneVictory Missions\Pictures\austria 6
+  You have gained the initiative and spread panic among enemy troops. You are victorious!!!
+#DNB_ZoneDefeat Missions\Pictures\faces 10
+  Your army has left its positions and fled in panic. You have lost...
+#DNB_DeathVictory Missions\Pictures\faces 10
+  You have lost the bigger part of your troops, the remains are fleeing in panic. You have lost...
+#DNB_DeathDefeat Missions\Pictures\austria 6
+  The main enemy forces have been annihilated, the enemy is fleeing in panic. You are victorious!!!

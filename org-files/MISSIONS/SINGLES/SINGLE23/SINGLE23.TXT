@@ -1,0 +1,94 @@
+#BRIEFING faces 0
+{A}The Sea Patrol
+ 
+Your objective is to defeat the alliance of Sweden and Spain. To accomplish this you must help your ally - the Netherlands - to develop a fleet until there are 18th century ships of the line, which will be able to neutralise the Swedish navy and enable you to create your own fleet. Then clear the northern island of Spanish forces.   
+You will lose if the main character dies or if you are unable to protect your allies. 
+Only your main character can speak to your allies! 
+ 
+Current objectives:
+{B}Defeat the alliance of Sweden and Spain.
+{C}~Defeat the alliance of Sweden and Spain.~
+{D}Blow up the Swedish shipyards in the west and east of the central region (4 in total), whose ships are attacking your structures and those of your allies. 
+{E}~Blow up the Swedish shipyards in the west and east of the central region (4 in total), whose ships are attacking your structures and those of your allies.~
+{F}Destroy the camp of bandits on your island.
+{G}~Destroy the camp of bandits on your island.~
+{M} Additional objective:
+{K}Deliver 20,000 gold, 50,000 stone and 50,000 wood to the ally in the eastern fort. 
+{L}~Deliver 20,000 gold, 50,000 stone and 50,000 wood to the ally in the eastern fort.~
+
+#PAGE0AA Missions\Pictures\faces 9
+Neutralise the alliance of Sweden and Spain! The Swedes have found out about your arrival on the southern island and are sending ships! 
+Join your allies at the western fort, they will help you repel the Swedish attacks! 
+To stop the Swedish attacks for good, destroy the shipyards in the west and east of the central area (4 in total).  
+  
+#PAGE0A Missions\Pictures\faces 31
+It will be almost impossible to demolish the Swedish shipyards with only your own forces! Therefore, turn to your allies for help! Join them at the eastern fort!
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You have destroyed the camp of brigands and found %d gold! 
+
+#PAGE1 Missions\Pictures\faces 4
+You were killed in the unequal fight. 
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death.
+
+#PAGE2 Missions\Pictures\poland 4
+There are brigands on your island! Destroy their camp! 
+
+#PAGE3 Missions\Pictures\faces 34
+Greetings, Commander! Permission to speak? We are under attack by Swedish ships! Please help us! 
+
+#PAGE4 Missions\Pictures\faces 6
+Greetings, Commander of the English troops! I will give you three frigates to repel the Swedish attacks! If you lose these ships, I will provide more! 
+
+#PAGE5 Missions\Pictures\faces 34
+Good day, Commander! Permission to speak? We cannot demolish the Swedish shipyards whose vessels are assaulting us on our own! Help us!  
+
+#PAGE6 Missions\Pictures\faces 6
+Greetings, Commander! We will destroy the Swedish shipyards and their entire fleet if you help us build 18th century ships of the line.
+To enable their construction, bring us 20,000 gold, 50,000 stone, 50,000 wood. Also, protect our academy from Swedish naval attacks. 
+We intend to win, so I will allow you to control our crucial structures, as well as three frigates to repel the Swedish attacks! If you lose ships, I will provide more!  
+
+#PAGE6A Missions\Pictures\faces 9
+To deliver resources to your ally, load them onto packhorses and bring those packhorses to the commander on the eastern fort! 
+
+#PAGE7 Missions\Pictures\England 5
+Congratulations! You have demolished all the Swedish shipyards! 
+
+#PAGE7A Missions\Pictures\England 5
+Congratulations! You have destroyed two of the Swedish shipyards in the west whose ships were attacking you! 
+
+#PAGE7B Missions\Pictures\England 5
+Congratulations! You have destroyed two of the Swedish shipyards in the east whose ships were attacking you!
+
+#PAGE8 Missions\Pictures\austria 6
+Congratulations! The alliance of Sweden and Spain has been neutralised! 
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! You have neutralised Sweden! 
+
+#PAGE8B Missions\Pictures\austria 6
+Congratulations! Spain has been vanquished! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have accomplished the basic tasks and won! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+You failed to protect the academy of your allies and have lost! 
+
+#PAGE10 Missions\Pictures\faces 9
+You already possess the required amount of resources to send to your ally! Bring packhorses to the market for loading. 
+
+#PAGE10A Missions\Pictures\faces 9
+Packhorses loaded! Bring them to the commander of the eastern allied fort.  
+
+#PAGE12  Missions\Pictures\mord_d 6
+You have lost the packhorse and will not be able to deliver resources to your allies! Well, now you have no other option but to demolish the shipyards and the Swedish fleet with your own forces! 
+
+#PAGE13 Missions\Pictures\faces 6
+Ah! You have delivered the resources we need! We will start building 18th century ships of the line immediately! 
+
+#PAGE14 Missions\Pictures\faces 6
+We have constructed 18th century ships of the line! The Swedes had better look out! 
+	

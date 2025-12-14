@@ -1,0 +1,1 @@
+Favorite ship of privateers, this upgraded yacht has increased firepower and is manned by loyal crewmen, and therefore does not need gold.

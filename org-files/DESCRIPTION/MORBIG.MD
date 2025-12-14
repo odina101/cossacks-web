@@ -1,0 +1,1 @@
+Long range gun. Provides plunging fire at long distances. Effective against towers and buildings. Ineffective against infantry and cavalry. High rate and accuracy of fire. Requires gold. If you run out of gold, your mortars will cease firing. Undefended mortars may be captured by the enemy. Requires much coal and iron to fire.

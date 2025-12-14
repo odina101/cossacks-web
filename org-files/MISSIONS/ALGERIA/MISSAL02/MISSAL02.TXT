@@ -1,0 +1,23 @@
+#BRIEFING faces 0
+{A}New Lands
+ 
+You will win if you defeat the Spanish troops.
+You will lose if your troops are defeated.
+ 
+  Current objectives:
+{B}Capture the settlement in the east
+{C}~Capture the settlement in the east~
+{D}Defeat the Spaniards (wipe out all the blue player's peasants, mines and town halls)
+
+#PAGE0 Missions\Pictures\algeria 0
+  There is a small settlement to the east. Kill the guards and capture it.
+ #PAGE1 Missions\Pictures\poland 4
+  You have found the pirates' chest containing %d in gold.
+#PAGE2 Missions\Pictures\algeria 1
+  Wonderful! All the Spanish troops in this region have been defeated. You have won!
+#PAGE3 Missions\Pictures\mord_d 6
+  Your troops have been defeated. Mission failed.
+#PAGE4 Missions\Pictures\algeria 0
+  You have seized total power in the village. Build up a military base and prepare a strong fleet for the war with Spain.
+#OTST1 Missions\Pictures\faces 14
+  The Spanish town is to the north, on the other side of the channel.

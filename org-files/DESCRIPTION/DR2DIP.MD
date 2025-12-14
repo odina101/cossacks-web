@@ -1,0 +1,1 @@
+Cavalryman armed with a musket. Suitable for long-range fire. Will not shoot if the enemy is too close. High rate of fire. Requires gold. Requires much coal and iron to fire. Effective against any other mercenaries.

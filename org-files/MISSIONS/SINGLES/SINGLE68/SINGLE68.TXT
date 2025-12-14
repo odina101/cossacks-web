@@ -1,0 +1,46 @@
+#BRIEFING faces 0
+{A}	Three Opportunities
+
+You must accomplish one of the current objectives.
+You will lose if part of your base is destroyed.
+
+{L}	!You can sell packhorses and peasants in your zone behind the paling.
+{M}	!Select the storehouse to find out the amount of captured packhorses.
+
+Current objectives:
+{B}	Capture 500 packhorses.
+{C}	Destroy the enemy bases which supply resources to the fortress.
+{D}	Eliminate the garrison of the fortress.
+
+#PAGE1801 Missions\Pictures\Austria 26
+
+
+You have always strived to possess so far uninhabited lands. Now you have such an opportunity. Landing with a mass of people in this region, you have built a fort that few people know of. The owner of the land lives in the fortress on the island.
+By capturing the fortress you will become the owner of the land.
+
+#PAGE1811 Missions\Pictures\Austria 1
+A message from your adjutant:
+"The fortress on the island heavily depends on its supply bases. By destroying the packhorses we will be able to starve the occupants."
+
+
+#PAGE1821 Missions\Pictures\Austria 44
+Commercial counsellor: 
+"The fortress receives a constant supply of food and ammunition by packhorse. I shall buy up the packhorses and Polish peasants and take them to the zone behind the paling near the storehouse. As soon as I have 500 packhorses I will buy this land from the king for you." (Select the market to find out how many packhorses have been captured.)
+
+#PAGE1802 Missions\Pictures\Mord_d 2
+Your fort has been captured! It seems your dreams were not meant to come true.
+
+#PAGE1803 Missions\Pictures\Algeria 3
+You have been a brilliant commander and managed to capture the fortress. Now this land belongs to you.
+
+#PAGE1804 Missions\Pictures\Austria 17
+You have conducted a brilliant guerrilla operation and left the defenders of the fortress without food and ammunition. The garrison has surrendered. 
+This land belongs to you now.
+
+#PAGE1805 Missions\Pictures\England 17
+Your commercial counsellor has reported that he has purchased this land from the king for you. Avoiding the wrath of the monarch, the former owner has moved his troops out and passed the fortress on to you. This land is now yours. 
+
+
+
+#PAGE1806 Missions\Pictures\Austria 44
+You have captured %d packhorses.

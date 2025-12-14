@@ -1,0 +1,23 @@
+FASTMOD Fast Mode
+SLOWMOD Slow Mode
+VICOND0 Total Destruction
+VICOND1 Territory Capture
+VICOND2 Score
+TIME0 30 minutes
+-TIME0 30
+TIME1 45 minutes
+-TIME1 45
+TIME2 1 hour
+-TIME2 60
+TIME3 1,5 hours
+-TIME3 90
+TIME4 2 hours
+-TIME4 120
+TIME5 4 hours
+-TIME5 240
+TIME6 8 hours
+-TIME6 480
+PLEXIT Player %s has left the game.
+BESTPL Best: %s
+GOLDFIN WARNING! YOU HAVE NO GOLD! MUTINY IS INEVITABLE!
+PAUSETEXT PAUSE

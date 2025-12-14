@@ -1,0 +1,82 @@
+#BRIEFING faces 0
+{A} On Two Fronts
+ 
+Your objective is to neutralise the alliance of Austria, England and Denmark. 
+To accomplish this you are to wipe out the Austrians who have captured one of the two eastern islands (there are 4 islands on the map in total). 
+You will be assisted by the troops of the northern front, where your colleague, also a Spanish officer, is conducting his combat operations. You will have to deliver resources to him. 
+You will also be able to fall back on the assistance of your Saxon allies. 
+You will lose if your main character dies, or if the troops of the northern front suffer a defeat. 
+Only your main character can speak to your ally! 
+
+ 
+Current objectives:
+{B}Defeat Austria on one of the two eastern isles. 
+{C}~Defeat Austria on one of the two eastern isles.~
+{D}Blow up the English shipyards on the eastern islands (two on the northern isle and two on the southern isle), whose ships are attacking your structures. 
+{E}~Blow up the English shipyards on the eastern islands (two on the northern isle and two on the southern isle), whose ships are attacking your structures.~
+{F}Destroy the bandits' camp to the north. 
+{G}~Destroy the bandits' camp to the north.~
+{K}Destroy the camp of bandits located on the isle to the north. 
+{L}~Destroy the camp of bandits located on the isle to the north.~
+{M} Additional objective:
+{N}Deliver 5,000 units of all resource types to the commander on the northern front (the island north of yours).
+{O}~Deliver 5,000 units of all resource types to the commander on the northern front (the island north of yours).~
+
+#PAGE0AA Missions\Pictures\faces 9
+As an officer of the Spanish army, you have been ordered to neutralise the alliance of Austria, England and Denmark! To fulfil your orders, you are to defeat the Austrians who have captured one of the two eastern isles. 
+The English have found out about your arrival on the island and will launch naval attacks against you. 
+Enter your Saxon allies' fort to the north and they will assist you in repelling the English attacks! 
+To stop the English attacks for good, demolish their ports on the eastern islands (two shipyards on the northern isle, and two on the southern isle). 
+  
+#PAGE0A Missions\Pictures\faces 31
+Your colleague - the commander of the northern front - has arrived on an island to the north. He requires initial resources for development. Therefore you need to collect 5,000 of all resource types and deliver them on packhorses to the commander of the northern front.  
+Use a Saxon transport ship to send packhorses to the northern island. 
+
+#PAGE0 Missions\Pictures\poland 13
+Congratulations! You have destroyed the camp of brigands and discovered %d gold! 
+
+#PAGE1 Missions\Pictures\faces 4
+You were killed in the unequal fight.
+
+#PAGE1A Missions\Pictures\poland 21
+You have starved to death.
+
+#PAGE2 Missions\Pictures\poland 4
+There are brigands on your isle and on the one to the north! Destroy their camps! 
+
+#PAGE3 Missions\Pictures\faces 34
+Good day, Commander! Permission to speak? We need your help! We are under attack by English ships! Help us! 
+
+#PAGE4 Missions\Pictures\faces 6
+Greetings, Commander of the Spanish troops! To repel the English attacks I will help you with frigates! If you lose the ships, I will provide you with more! Also, I'd like to give you a transport ship and cavalry to make good use of! 
+
+#PAGE7 Missions\Pictures\England 5
+Congratulations! You have destroyed all the English shipyards! 
+
+
+#PAGE7A Missions\Pictures\England 5
+Congratulations! You have demolished two of the English shipyards in the north whose ships were attacking you!
+
+#PAGE7B Missions\Pictures\England 5
+Congratulations! You have destroyed two of the English shipyards in the south whose ships were attacking you!
+
+#PAGE8A Missions\Pictures\austria 6
+Congratulations! Austria has been defeated! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+You have fulfilled your orders! Victory! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+The troops on the northern front have suffered a defeat! You lose! 
+
+#PAGE10 Missions\Pictures\faces 9
+You already have enough resources to send to the commander on the northern front! Take packhorses to the storehouses for loading. 
+
+#PAGE10A Missions\Pictures\faces 9
+Packhorses loaded! Deliver them to the commander on the northern front. 
+
+#PAGE12  Missions\Pictures\mord_d 6
+You have lost the packhorses and have no chance to deliver resources to the north-western island! Well, now you have to defeat the Austrians with your own forces! 
+
+#PAGE13 Missions\Pictures\faces 6
+Oh! You have provided us with the required initial resources! Now we will begin preparations for a joint attack, so that we can handle the enemy alliance together! 

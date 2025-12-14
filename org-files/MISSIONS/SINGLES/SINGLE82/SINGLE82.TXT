@@ -1,0 +1,43 @@
+#BRIEFING faces 0
+The Border of Piemonte
+
+{A}	Capture the town in the north.
+{B}	~Capture the town in the north.~
+{C}	Escort the Venetian pilgrims to the monastery in the north.
+{D}	~Escort the Venetian pilgrims to the monastery in the north.~
+{E}	Defeat the French.
+
+!You must defeat the French.
+!You will lose if your troops are defeated.
+
+#PAGE1 Missions\Pictures\faces 34
+War has broken out with France. The French troops are advancing to Austria through Piemonte. Your Austrian allies are conducting military operations to stop the enemy.
+
+
+
+#PAGE2 Missions\Pictures\mord2_tut 13
+You have arrived in the frontier region. The town you were supposed to enter has been captured. You'll have to liberate it. Venetian pilgrims have joined you on the way, and you have agreed to guard and escort them to the gates of the monastery they are heading for. 
+
+#PAGE3  Missions\Pictures\mord2_tut 21
+Your troops have been destroyed.
+You have lost.
+
+#PAGE4  Missions\Pictures\austria 45
+You have defeated the French forces.
+Congratulations! That was not easy. 
+
+#PAGE5  Missions\Pictures\mord2_tut 23
+Very good! You have liberated the town.
+Start forming a strong garrison. The French will probably send out forces soon.
+Now is the time to concentrate on the main objective of your mission. 
+
+Defeat the French!
+
+#PAGE6  Missions\Pictures\faces 28
+You have escorted the pilgrims to the monastery. They will be safe here.
+As a sign of their gratitude they have given you 4,000 in gold.
+
+#PAGE7  Missions\Pictures\algeria 1
+
+
+#PAGE8  Missions\Pictures\algeria 1
